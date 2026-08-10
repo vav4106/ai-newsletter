@@ -394,41 +394,37 @@ function parseFlexibleDate(raw) {
   if (!isNaN(d.getTime())) return d;
   return null;
 }
-
 function setupCalendar() {
-  const dateInput = document.getElementById("cal-date");
+  const monthInput = document.getElementById("cal-date");
   const textInput = document.getElementById("cal-text");
   const go = document.getElementById("cal-go");
 
-  // default to a recent article date if available
+  // Default to the month of the most recent article if available
   const first = (DATA.articles || [])[0];
   if (first && first.published_at) {
-    dateInput.value = first.published_at.slice(0, 10);
+    monthInput.value = first.published_at.slice(0, 7);
   }
 
   function run() {
-    let key = dateInput.value;
-    const raw = textInput.value.trim();
-    if (raw) {
-      const d = parseFlexibleDate(raw);
-      if (d) {
-        // Use local Y-M-D so timezone never shifts the calendar day
-        key = toLocalDateKey(d);
-        dateInput.value = key;
-      }
-    }
-    if (!key) return;
+     const monthKey = monthInput.value;
 
-    const matches = (DATA.articles || []).filter(
-      (a) => dateKey(a.published_at) === key
-    );
-    // also match milestones
-    const miles = timelineMilestones().filter((m) => m.date === key);
+    if (!monthKey) return;
+
+    // Match ALL articles from the selected month and year
+    const matches = (DATA.articles || []).filter((a) => {
+      return dateKey(a.published_at).slice(0, 7) === monthKey;
+    });
+
+    // Match ALL milestones from the selected month and year
+    const miles = timelineMilestones().filter((m) => {
+      return m.date.slice(0, 7) === monthKey;
+    });
 
     const results = document.getElementById("cal-results");
     const empty = document.getElementById("cal-empty");
 
     let html = "";
+
     if (miles.length) {
       html += miles
         .map(
@@ -449,6 +445,7 @@ function setupCalendar() {
         )
         .join("");
     }
+
     html += matches.map(cardHTML).join("");
 
     results.innerHTML = html;
@@ -456,11 +453,10 @@ function setupCalendar() {
   }
 
   go.addEventListener("click", run);
-  dateInput.addEventListener("change", run);
-  textInput.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") run();
-  });
+  monthInput.addEventListener("change", run);
+
 }
+
 
 /* ---------- Search ---------- */
 function setupSearch() {
