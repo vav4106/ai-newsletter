@@ -1,0 +1,80 @@
+# AI Newsletter - RSS Feed Configuration
+# Add or disable feeds here. All feeds are polled on every run.
+
+feeds:
+  - name: OpenAI News
+    url: https://openai.com/news/rss.xml
+    category: company
+    importance: high
+    enabled: true
+
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    category: research
+    importance: high
+    enabled: true
+
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    category: company
+    importance: high
+    enabled: true
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: tools
+    importance: medium
+    enabled: true
+
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: industry
+    importance: medium
+    enabled: true
+
+  - name: MIT Technology Review AI
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed/
+    category: analysis
+    importance: high
+    enabled: true
+
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: consumer
+    importance: medium
+    enabled: true
+
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+    category: industry
+    importance: medium
+    enabled: true
+
+  - name: MarkTechPost
+    url: https://www.marktechpost.com/feed/
+    category: research
+    importance: medium
+    enabled: true
+
+  - name: arXiv cs.AI
+    url: https://rss.arxiv.org/rss/cs.AI
+    category: research
+    importance: low          # high volume – filter later
+    enabled: true
+    max_items: 30            # limit per run to avoid flooding
+
+  # Community / unofficial (may break)
+  # - name: Anthropic News (RSSHub)
+  #   url: https://rsshub.app/anthropic/news
+  #   category: company
+  #   importance: high
+  #   enabled: false
+
+settings:
+  user_agent: "AI-Newsletter-Bot/1.0 (+https://your-newsletter-site.example)"
+  request_timeout: 25
+  max_retries: 2
+  dedupe_window_days: 90
+  output_dir: ./data
+  db_path: ./data/ai_news.db
+  json_archive: true

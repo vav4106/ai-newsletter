@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+ingestion/data/*.db
+ingestion/data/ingest_*.json
+ingestion/data/anthropic_*.json
+.DS_Store
+Thumbs.db
