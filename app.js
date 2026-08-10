@@ -5,6 +5,89 @@ const TZ_IST = "Asia/Kolkata";
 
 let DATA = { articles: [], milestones: [] };
 
+// The front page is deliberately narrower than the archive. It shows
+// publisher-owned announcements and established editorial outlets, rather than
+// treating every arXiv preprint as news. Research remains searchable below.
+const FRONT_PAGE_SOURCES = new Set([
+  "OpenAI News",
+  "Anthropic News",
+  "Google DeepMind",
+  "Google AI Blog",
+  "Hugging Face Blog",
+  "TechCrunch AI",
+  "MIT Technology Review AI",
+  "The Verge AI",
+]);
+
+function frontPageArticles() {
+  return (DATA.articles || []).filter((a) => FRONT_PAGE_SOURCES.has(a.source));
+}
+
+// Entries dated 2026 in the original import have not been independently
+// verified against an official publisher or established newsroom. They are not
+// rendered. These additions use the original company announcement directly.
+const CONFIRMED_2025_MILESTONES = [
+  {
+    date: "2025-01-20",
+    title: "DeepSeek releases DeepSeek-R1",
+    desc: "Company announcement for an open reasoning-model release. Capability claims are attributed to DeepSeek.",
+    importance: "high",
+    category: "company",
+    source: "DeepSeek",
+    link: "https://github.com/deepseek-ai/DeepSeek-R1",
+  },
+  {
+    date: "2025-01-29",
+    title: "Alibaba announces Qwen2.5-Max",
+    desc: "Official Qwen release announcement. The timeline does not substitute unverified model names or price comparisons.",
+    importance: "high",
+    category: "company",
+    source: "Qwen",
+    link: "https://qwenlm.github.io/blog/qwen2.5-max/",
+  },
+  {
+    date: "2025-02-14",
+    title: "Perplexity introduces Deep Research",
+    desc: "Official product announcement for Perplexity's research workflow; product claims are attributed to the company.",
+    importance: "high",
+    category: "company",
+    source: "Perplexity",
+    link: "https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research",
+  },
+  {
+    date: "2025-02-24",
+    title: "Anthropic launches Claude 3.7 Sonnet",
+    desc: "Anthropic announces its hybrid reasoning model and Claude Code research preview.",
+    importance: "high",
+    category: "company",
+    source: "Anthropic",
+    link: "https://www.anthropic.com/news/claude-3-7-sonnet",
+  },
+  {
+    date: "2025-04-05",
+    title: "Meta announces the Llama 4 family",
+    desc: "Official release announcement for Meta's multimodal Llama 4 models.",
+    importance: "high",
+    category: "company",
+    source: "Meta AI",
+    link: "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+  },
+  {
+    date: "2025-04-16",
+    title: "OpenAI launches o3 and o4-mini",
+    desc: "OpenAI's official announcement for its reasoning-model releases; performance claims remain attributed to OpenAI.",
+    importance: "high",
+    category: "company",
+    source: "OpenAI",
+    link: "https://openai.com/index/introducing-o3-and-o4-mini/",
+  },
+];
+
+function timelineMilestones() {
+  const vetted = (DATA.milestones || []).filter((m) => String(m.date || "") < "2026-01-01");
+  return [...vetted, ...CONFIRMED_2025_MILESTONES].sort((a, b) => String(a.date).localeCompare(String(b.date)));
+}
+
 async function loadData() {
   try {
     const res = await fetch("data.json");
@@ -125,6 +208,14 @@ function badge(importance, category) {
   return html;
 }
 
+function sourceType(a) {
+  if (["OpenAI News", "Anthropic News", "Google DeepMind", "Google AI Blog", "Hugging Face Blog"].includes(a.source)) {
+    return "Company announcement";
+  }
+  if (a.source === "arXiv cs.AI") return "Research preprint";
+  return "Reported news";
+}
+
 function cardHTML(a) {
   const snippet = a.summary || a.body_preview || "";
   return `
@@ -133,6 +224,7 @@ function cardHTML(a) {
         <span>${fmtDate(a.published_at)}</span>
         <span>·</span>
         <span>${escapeHtml(a.source || "")}</span>
+        <span>(${sourceType(a)})</span>
         ${badge(a.importance, a.category)}
       </div>
       <h3><a href="${escapeAttr(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h3>
@@ -162,7 +254,7 @@ function milestoneTitleHTML(m) {
 
 function renderMilestones() {
   const ul = document.getElementById("milestone-list");
-  ul.innerHTML = (DATA.milestones || [])
+  ul.innerHTML = timelineMilestones()
     .slice()
     .reverse()
     .map(
@@ -182,7 +274,7 @@ function renderMilestones() {
 
 /* ---------- Home ---------- */
 function renderHome() {
-  const arts = DATA.articles || [];
+  const arts = frontPageArticles();
   // Week track: last 7–10 items
   const week = arts.slice(0, 10);
   document.getElementById("week-track").innerHTML = week
@@ -216,7 +308,7 @@ function renderToday() {
   document.getElementById("today-date-label").textContent =
     "Showing items for " + fmtDate(today) + " IST (or latest if none).";
 
-  const arts = DATA.articles || [];
+  const arts = frontPageArticles();
   let list = arts.filter((a) => dateKey(a.published_at) === today);
   const empty = document.getElementById("today-empty");
   if (list.length === 0) {
@@ -231,7 +323,7 @@ function renderToday() {
 /* ---------- Timeline ---------- */
 function renderTimeline() {
   const el = document.getElementById("timeline");
-  el.innerHTML = (DATA.milestones || [])
+  el.innerHTML = timelineMilestones()
     .map(
       (m) => `
     <div class="tl-item">
@@ -324,7 +416,7 @@ function setupCalendar() {
       (a) => dateKey(a.published_at) === key
     );
     // also match milestones
-    const miles = (DATA.milestones || []).filter((m) => m.date === key);
+    const miles = timelineMilestones().filter((m) => m.date === key);
 
     const results = document.getElementById("cal-results");
     const empty = document.getElementById("cal-empty");

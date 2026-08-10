@@ -478,6 +478,24 @@ dialog::backdrop { background: rgba(0,0,0,0.65); }
   color: var(--text-dim);
 }
 
+.editorial-note {
+  margin-top: 3rem;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent-2);
+  border-radius: 10px;
+  background: var(--bg-elevated);
+}
+.editorial-note h2 {
+  font-size: 0.95rem;
+  margin-bottom: 0.45rem;
+}
+.editorial-note p {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  line-height: 1.55;
+}
+
 /* ----- Responsive ----- */
 @media (max-width: 960px) {
   .layout {
