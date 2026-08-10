@@ -49,12 +49,31 @@ feeds:
     category: industry
     importance: medium
     enabled: true
+    tier: secondary
 
   - name: MarkTechPost
     url: https://www.marktechpost.com/feed/
     category: research
     importance: medium
     enabled: true
+    tier: secondary
+
+  # Smaller AI-focused outlets are discovery sources. Their stories should be
+  # labelled as secondary reporting and verified against a primary source before
+  # becoming a pinned timeline milestone.
+  - name: The Decoder
+    url: https://the-decoder.com/feed/
+    category: industry
+    importance: medium
+    enabled: true
+    tier: secondary
+
+  - name: AI News
+    url: https://www.artificialintelligence-news.com/feed/
+    category: industry
+    importance: medium
+    enabled: true
+    tier: secondary
 
   - name: arXiv cs.AI
     url: https://rss.arxiv.org/rss/cs.AI

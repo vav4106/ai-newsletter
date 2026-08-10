@@ -17,6 +17,10 @@ const FRONT_PAGE_SOURCES = new Set([
   "TechCrunch AI",
   "MIT Technology Review AI",
   "The Verge AI",
+  "VentureBeat AI",
+  "MarkTechPost",
+  "The Decoder",
+  "AI News",
 ]);
 
 function frontPageArticles() {
@@ -213,6 +217,9 @@ function sourceType(a) {
     return "Company announcement";
   }
   if (a.source === "arXiv cs.AI") return "Research preprint";
+  if (["VentureBeat AI", "MarkTechPost", "The Decoder", "AI News"].includes(a.source)) {
+    return "Secondary AI reporting";
+  }
   return "Reported news";
 }
 
