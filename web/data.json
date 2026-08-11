@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-11T09:38:23.157017+00:00",
+  "generated_at": "2026-08-11T10:29:17.815626+00:00",
   "articles": [
+    {
+      "id": "79ae8daa951860bd84d54fa7f6c167d0",
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI partner. The companies have also created a co-innovation hub at Novo Nordisk’s existing London [&#8230;] The post Novo Nordisk and AWS bring agentic AI into drug discovery appeared first on AI News .",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d3551f2d5063f7fd2c1425fbb3260539",
+      "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing",
+      "link": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/",
+      "summary": "",
+      "published_at": "2026-08-11T09:41:03+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "79fa962f1783c677367baaf368205096",
       "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
@@ -860,17 +882,6 @@
       "body_preview": ""
     },
     {
-      "id": "3525d8bdfb05f0692a6517dc600d60f4",
-      "title": "AI is flooding Britain's employment courts with lawsuits",
-      "link": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/",
-      "summary": "",
-      "published_at": "2026-08-09T10:26:43+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b9d649bf602eb1f5a954a03890255996",
       "title": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning",
       "link": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/",
@@ -1352,17 +1363,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "2f60065ae496b5101272feaa89d19d5d",
-      "title": "Why biological data matters more in AI drug discovery",
-      "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
-      "summary": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery. Under the agreement, Relation will generate large-scale datasets measuring how human cells respond to genetic changes and drug interventions. The data will be used to train AI models [&#8230;] The post Why biological data matters more in AI drug discovery appeared first on AI News .",
-      "published_at": "2026-08-03T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
