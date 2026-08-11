@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-11T18:07:54.371734+00:00",
+  "generated_at": "2026-08-11T19:16:33.236979+00:00",
   "articles": [
+    {
+      "id": "13092dec7feb3a05ec936b5c4ca37cb1",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "summary": "",
+      "published_at": "2026-08-11T19:15:35+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dee84e908f0f27bf46955b13d167eed7",
+      "title": "Google’s Gemini app surges to one billion users",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "summary": "",
+      "published_at": "2026-08-11T18:49:12+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "cb4e980c1249f3cc321f5b49664683f6",
       "title": "OpenAI lets employees cash out another $7 billion in stock",
@@ -1102,17 +1124,6 @@
       "body_preview": ""
     },
     {
-      "id": "f1922f16a9048780945875f21409ada2",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "summary": "",
-      "published_at": "2026-08-07T21:30:11+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1cc86edca75ab3248903e7f09892c853",
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
       "link": "https://huggingface.co/blog/allenai/tutormoments",
@@ -1120,17 +1131,6 @@
       "published_at": "2026-08-07T17:53:32+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c406ff46b152d1633346ce522d5a98d5",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "summary": "",
-      "published_at": "2026-08-07T16:16:09+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
