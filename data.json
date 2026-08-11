@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-11T20:58:32.076827+00:00",
+  "generated_at": "2026-08-11T21:40:25.077643+00:00",
   "articles": [
+    {
+      "id": "6759d4c3f2f393a6caeea7b0afe17bd2",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "summary": "",
+      "published_at": "2026-08-11T21:39:11+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "63ef2ff041e875a8fab3782085d40cbd",
+      "title": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model",
+      "link": "https://www.marktechpost.com/2026/08/11/the-video-production-stack-now-fits-on-one-desk-ltx-2-5-launches-as-nvidia-accelerated-open-weights-world-model/",
+      "summary": "LTX-2.5 brings frontier video generation to local NVIDIA hardware: 6.8-second clips, native multishot, day-one ComfyUI, open weights. The post The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model appeared first on MarkTechPost .",
+      "published_at": "2026-08-11T20:02:03+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9544f4c04561a2a0650b054298ba6b20",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
+      "published_at": "2026-08-11T19:41:42+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "13092dec7feb3a05ec936b5c4ca37cb1",
       "title": "OpenAI launches ChatGPT desktop app for Linux",
@@ -13,8 +46,8 @@
       "body_preview": ""
     },
     {
-      "id": "dee84e908f0f27bf46955b13d167eed7",
-      "title": "Google’s Gemini app surges to one billion users",
+      "id": "d77c7a644f50c9b145dbe51b970ee84c",
+      "title": "Google’s Gemini app surges to 1 billion users",
       "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "summary": "",
       "published_at": "2026-08-11T18:49:12+00:00",
@@ -31,6 +64,17 @@
       "published_at": "2026-08-11T18:01:22+00:00",
       "source": "The Decoder",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "24fc1312db9c58ad5d54850f3a15e190",
+      "title": "Another OpenAI executive takes off",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what would stand [&#8230;]",
+      "published_at": "2026-08-11T17:50:01+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -79,6 +123,17 @@
       "body_preview": ""
     },
     {
+      "id": "07d9de4a549709040df3850b2f4d6bd3",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it [&#8230;]",
+      "published_at": "2026-08-11T17:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "9f3e36cc4983c3411e927364e0ad27c7",
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
       "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
@@ -86,6 +141,28 @@
       "published_at": "2026-08-11T16:25:20+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e9683ae9beef6df945f891aa9eb3338b",
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [&#8230;]",
+      "published_at": "2026-08-11T16:19:15+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3b7c2cf2b7342282ecc5820bb63ad00a",
+      "title": "Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis",
+      "link": "https://www.marktechpost.com/2026/08/11/building-and-validating-a-quantitative-trading-strategy-with-octobot-walk-forward-backtesting-parameter-optimization-and-interactive-analysis/",
+      "summary": "In this tutorial, we build a complete quantitative backtesting workflow with OctoBot and OctoBot-Script while keeping the environment isolated from Colab’s preinstalled dependencies. We configure a rule-based trading strategy that combines RSI-based oversold signals, EMA trend confirmation, and ATR-driven adaptive stop-loss and take-profit levels, and we execute it through OctoBot’s native market-order and backtesting APIs. [&#8230;] The post Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis appeared first on MarkTechPost .",
+      "published_at": "2026-08-11T15:17:29+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -101,6 +178,17 @@
       "body_preview": ""
     },
     {
+      "id": "f82a6ba2e71d1c54444a3f231be8ac4d",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
+      "published_at": "2026-08-11T14:45:44+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "71ea6da08084ea88a5e960f401b63c3c",
       "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
@@ -108,6 +196,17 @@
       "published_at": "2026-08-11T13:37:10+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ff6a72c4560a7d8576324db7b7868c31",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [&#8230;]",
+      "published_at": "2026-08-11T13:27:20+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -123,6 +222,17 @@
       "body_preview": ""
     },
     {
+      "id": "651e642b4f29f8e0319ee361dad612db",
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [&#8230;]",
+      "published_at": "2026-08-11T13:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "5b775dd98180c0da806cc02fad4aa1ed",
       "title": "Anthropic's planned mega-IPO faces investor skepticism over Chinese rivals and political headwinds",
       "link": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/",
@@ -130,6 +240,17 @@
       "published_at": "2026-08-11T12:49:15+00:00",
       "source": "The Decoder",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f87f090260bd03cedc8f26f713b8e565",
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page. The changes are invisible to human [&#8230;]",
+      "published_at": "2026-08-11T12:22:20+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -189,6 +310,17 @@
       "body_preview": ""
     },
     {
+      "id": "79ae8daa951860bd84d54fa7f6c167d0",
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI partner. The companies have also created a co-innovation hub at Novo Nordisk’s existing London [&#8230;] The post Novo Nordisk and AWS bring agentic AI into drug discovery appeared first on AI News .",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "d3551f2d5063f7fd2c1425fbb3260539",
       "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing",
       "link": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/",
@@ -207,6 +339,39 @@
       "published_at": "2026-08-11T08:45:06+00:00",
       "source": "The Decoder",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f8bba194808a371d54c5eb41f94bdeec",
+      "title": "How AI is changing the vulnerability response timeline",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, dependency records and rebuild speed affect the response after an unknown flaw is exposed. Faster analysis helps only [&#8230;] The post How AI is changing the vulnerability response timeline appeared first on AI News .",
+      "published_at": "2026-08-11T07:05:55+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4453079d6da8492a20a28ee1d5163e1b",
+      "title": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware",
+      "link": "https://www.marktechpost.com/2026/08/10/webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-family-for-autoformalization-on-local-hardware/",
+      "summary": "webAI has released TwIL-LM, a family of formal-logic models at 1.7B and 3B parameters that translate English into first-order logic and check whether conclusions follow from premises. The 3B runs on CPU or 4GB of VRAM; the 1.7B downloads at 1.06GB. Both ship under a non-commercial license. The model card also shows that the headline benchmark scores belong to an unreleased checkpoint, not the weights on the Hub. The post webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware appeared first on MarkTechPost .",
+      "published_at": "2026-08-11T06:20:09+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "68c4eafb1359899196be17dfa6d2ab97",
+      "title": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "link": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis/",
+      "summary": "In this comprehensive guide, we demonstrate how to implement a complete, programmable MiniMax-H3 multimodal generation pipeline. By leveraging ComfyUI as a headless backend, we walk through setting up an automated inference environment that handles hardware profiling, model weight downloading, dynamic graph construction, and joint video-audio decoding. The post Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs appeared first on MarkTechPost .",
+      "published_at": "2026-08-11T05:44:38+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -662,13 +827,13 @@
       "body_preview": ""
     },
     {
-      "id": "74a17a24beb96cedcedba82ab37db442",
-      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [&#8230;]",
-      "published_at": "2026-08-10T15:19:05+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
+      "id": "4a4555cb3a07ecf2c9f696adae29bb01",
+      "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
+      "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+      "summary": "Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation. The post Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU appeared first on MarkTechPost .",
+      "published_at": "2026-08-10T15:11:51+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -695,17 +860,6 @@
       "body_preview": ""
     },
     {
-      "id": "009b61216dead2e213234c3de6ab3a4c",
-      "title": "What happens to Bose when headphones become AI?",
-      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
-      "published_at": "2026-08-10T14:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "72bdec2ea0e61fed64e3125a023b99e6",
       "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "link": "https://openai.com/index/model-ml",
@@ -728,13 +882,13 @@
       "body_preview": ""
     },
     {
-      "id": "dbcaa17484f817f7a132e5d25ef9afb4",
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it [&#8230;]",
-      "published_at": "2026-08-10T11:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
+      "id": "c8960096ba9defa3c73e685a9b321f5d",
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s&#160; Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, local agents, and LLM-as-a-judge evaluation. The release targets an operational [&#8230;] The post Meta Muse Glimmer brings local AI agents to consumer GPUs appeared first on AI News .",
+      "published_at": "2026-08-10T11:02:38+00:00",
+      "source": "AI News",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -772,6 +926,17 @@
       "body_preview": ""
     },
     {
+      "id": "4c7ebf3505e9afc68788f47167aa5a5a",
+      "title": "The limits of physics AI: where Siemens says the human stays in charge",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit, and Sam Mahalingam, [&#8230;] The post The limits of physics AI: where Siemens says the human stays in charge appeared first on AI News .",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "916f53999412cbaf065e900b2925d952",
       "title": "AI for science needs reasoning, not just data",
       "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
@@ -791,6 +956,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "118f621f91d0402954e35292a83a8385",
+      "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
+      "link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
+      "summary": "ByteDance&#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified architecture. It interacts in real time over continuous multimodal streams, rather than one turn at a time. Seed positions it as a step toward omni-modal interaction, and claims three breakthroughs: joint audio-visual understanding, [&#8230;] The post ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model appeared first on MarkTechPost .",
+      "published_at": "2026-08-10T05:48:17+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -838,6 +1014,17 @@
       "body_preview": ""
     },
     {
+      "id": "0aa343bbed3598b57615050524078c2a",
+      "title": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "link": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/",
+      "summary": "NVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms latency and live tool calling. The post NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling appeared first on MarkTechPost .",
+      "published_at": "2026-08-09T23:58:34+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "7546cda53b1c83b88b30c2a2cf3f0e55",
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -856,6 +1043,17 @@
       "published_at": "2026-08-09T19:20:32+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fc91e9fc8e8a437f4d537d6d45621d38",
+      "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+      "link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+      "summary": "A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing. The post Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared appeared first on MarkTechPost .",
+      "published_at": "2026-08-09T18:15:30+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -882,13 +1080,13 @@
       "body_preview": ""
     },
     {
-      "id": "18f11e757dcd9848ede2821bc7956be3",
-      "title": "AI detectors are creating a new era of distrust",
-      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]",
-      "published_at": "2026-08-09T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
+      "id": "b9d649bf602eb1f5a954a03890255996",
+      "title": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning",
+      "link": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/",
+      "summary": "This tutorial provides a comprehensive guide to building a robust sentiment analysis workflow. By combining classical TF-IDF baselines with modern parameter-efficient fine-tuning (DistilBERT + LoRA), we explore deep model interpretability, calibration, and semi-supervised techniques to achieve scalable sentiment inference The post IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning appeared first on MarkTechPost .",
+      "published_at": "2026-08-09T07:17:35+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -904,6 +1102,17 @@
       "body_preview": ""
     },
     {
+      "id": "40801b67e393472876873a212f1373b8",
+      "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run",
+      "link": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/",
+      "summary": "Long agent runs accumulate state that no transcript records — edited files, a live dev server, installed packages, a warm prompt cache. When an agent misreads a traceback at step 10 and rewrites a correct file, patching forward burns tokens and restarting re-pays every call. Researchers at Northeastern University and Stanford University released Shepherd, an MIT-licensed Python runtime substrate that records every agent-environment interaction as a typed event in a Git-like execution trace. Each commit covers the agent process and filesystem together, copy-on-write, so a rewind restores live state instead of just files. The paper reports 5× faster forks than Docker, over 95% prompt-cache reuse on replay, and a live supervisor raising CooperBench pair-coding pass rates from 28.8% to 54.7%. ",
+      "published_at": "2026-08-08T20:54:49+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "d76705711c7a5ef05fe85af80c35b5a9",
       "title": "OpenAI acquires presentation startup NextSlide",
       "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
@@ -911,61 +1120,6 @@
       "published_at": "2026-08-08T19:41:13+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "efda7d69a909b7b1bfbcec983043f4ff",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, [&#8230;]",
-      "published_at": "2026-08-08T17:53:34+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "cf80ab5d160bc7967234d19dea1d535c",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "summary": "",
-      "published_at": "2026-08-07T22:48:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b768013918a903944df8f4ca30a835d6",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]",
-      "published_at": "2026-08-07T20:01:51+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b7076f5644548ab0b3dda54e5b0841a8",
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [&#8230;]",
-      "published_at": "2026-08-07T18:59:46+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "021fb5d2ec23a2b7fb5c6040ed193052",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
-      "published_at": "2026-08-07T18:40:34+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -992,6 +1146,39 @@
       "body_preview": ""
     },
     {
+      "id": "a1496a9ef453863ad73ce39e5c84165b",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Brian Hie, an assistant professor of chemical engineering and Dieter Schwarz Foundation Stanford Data [&#8230;] The post Stanford Evo 2 AI model generates phages against E. coli appeared first on AI News .",
+      "published_at": "2026-08-07T15:05:03+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "27aeefffdc7cd625c6394c0b0f602111",
+      "title": "How AI Is changing Instagram engagement without replacing the human touch",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s the point: the more AI controls over how you see the content, the more it [&#8230;] The post How AI Is changing Instagram engagement without replacing the human touch appeared first on AI News .",
+      "published_at": "2026-08-07T14:33:59+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "83a538883096fca399d3e3332b3f7cf7",
+      "title": "Alibaba tests new business model for Qwen open-source AI",
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that generate revenue from offering the model as a service to reach a commercial agreement with Alibaba. The exact revenue-sharing rate has [&#8230;] The post Alibaba tests new business model for Qwen open-source AI appeared first on AI News .",
+      "published_at": "2026-08-07T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "0b4e075ec2525a2a54eead081e4a17b0",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "link": "https://openai.com/index/hsp-gruppe",
@@ -1012,6 +1199,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
+    },
+    {
+      "id": "12bce91f74a2473bd0fdad56805cd123",
+      "title": "Why health AI interfaces must adapt to user expertise",
+      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from deferring to the model. Primary care providers showed a different pattern: they performed [&#8230;] The post Why health AI interfaces must adapt to user expertise appeared first on AI News .",
+      "published_at": "2026-08-06T15:55:37+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
     },
     {
       "id": "f2df7f0bc9a7122ecd7b4e241f3983db",
@@ -1069,6 +1267,28 @@
       "body_preview": ""
     },
     {
+      "id": "f6f6f71ed58cc06ee6ce2a05bee6e16d",
+      "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+      "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+      "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide into one representation, then generates text that answers diagnostic questions rather than simply classifying pixels.&#160; Training data spans 2.3 million whole-slide [&#8230;] The post PRISM2 model uses clinical dialogue to interpret pathology slides appeared first on AI News .",
+      "published_at": "2026-08-05T15:26:20+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1ec279e21bed80233f2a3b14fd000c46",
+      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "summary": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixture-of-experts architecture, which activates only part of the model for each request. Alibaba said around 95 billion parameters are active [&#8230;] The post Alibaba, DeepSeek push China’s AI model race towards lower costs appeared first on AI News .",
+      "published_at": "2026-08-05T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "81b4525d19645d60fbcbd730a3c0d4b7",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
@@ -1077,6 +1297,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "f2879e19c58a05498897e12be5aa44f8",
+      "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
+      "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
+      "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the &#8220;fragmented steps, tools, and requirements&#8221; of engineering and compliance teams. With regulation such as the EU AI Act now taking effect, Red Hat [&#8230;] The post Red Hat, NVIDIA, IBM back project turning AI policy into code appeared first on AI News .",
+      "published_at": "2026-08-04T16:07:15+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1143,6 +1374,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "e566b6b80a6c54b337c10b643918b601",
+      "title": "EU AI Act Article 50 transparency rules enter force",
+      "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+      "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires providers and deployers of certain AI systems to tell people when they&#8217;re interacting with a machine, and to [&#8230;] The post EU AI Act Article 50 transparency rules enter force appeared first on AI News .",
+      "published_at": "2026-08-03T16:09:25+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1408,83 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re sharing the research agenda for the Anthropic Economic Futures Research Fund. We’re committing $200 million to the fund to support ambitious external research on interventions to prepare society for the economic impacts of AI. With the research the Fund supports, we want to study what programs could make the economy more flexible and resilient, ensure the benefits of AI are shared, and minimize the harm that AI-driven disruption could cause. In the fund, we’ll prioritize five research areas: Shaping AI’s impact on workers at the firm and workplace level Equipping people to navigate AI-dr"
-    },
-    {
-      "id": "c3e77a4479f5b59a709cc75e3e908beb",
-      "title": "Ask Claude about the Anthropic Economic Index",
-      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "summary": "People have hard questions about AI and work: which jobs will change, which tasks are being automated, and what it means for their own field. The Anthropic Economic Index exists to help answer them with real data. Today we're launching the Anthropic Economic Index connector for Claude, which lets anyone explore that data directly. The Anthropic Economic Index measures how AI is actually being…",
-      "published_at": "2026-07-22T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "People have hard questions about AI and work: which jobs will change, which tasks are being automated, and what it means for their own field. The Anthropic Economic Index exists to help answer them with real data. Today we're launching the Anthropic Economic Index connector for Claude, which lets anyone explore that data directly. The Anthropic Economic Index measures how AI is actually being used in the economy. The Index’s data has been useful to researchers, journalists, and policymakers, but we want it to be just as accessible to anyone curious about how AI fits into their field or day-to-"
-    },
-    {
-      "id": "cf284992709f4fc665fe49ec83f242e3",
-      "title": "Anthropic is donating another $20 million to Public First Action",
-      "link": "https://www.anthropic.com/news/donation-public-first-action",
-      "summary": "We're contributing an additional $20 million to Public First Action , bringing our total support to $40 million. Public First Action is a nonpartisan organization that educates the public about AI and works with Republicans, Democrats, and Independents who are serious about putting sensible AI safeguards in place. Both of our donations were made exclusively to support Public First Action’s public…",
-      "published_at": "2026-07-21T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We're contributing an additional $20 million to Public First Action , bringing our total support to $40 million. Public First Action is a nonpartisan organization that educates the public about AI and works with Republicans, Democrats, and Independents who are serious about putting sensible AI safeguards in place. Both of our donations were made exclusively to support Public First Action’s public education and policy mission, and cannot be used to influence the election of any candidate for federal, state, or local office. Our first donation in February 2026 was made to help promote policies t"
-    },
-    {
-      "id": "68e5abab62075b8e33f60bbe70e701b4",
-      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
-      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
-      "summary": "Last spring, we announced Anthropic’s AI for Science program , an initiative designed to accelerate scientific research and discovery through access to our API. Since launching, we have supported researchers working on a variety of high-impact projects, ranging from drug repurposing to quantum simulation. Throughout this initiative, we have found that projects are more generative when multiple AI…",
-      "published_at": "2026-07-20T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Last spring, we announced Anthropic’s AI for Science program , an initiative designed to accelerate scientific research and discovery through access to our API. Since launching, we have supported researchers working on a variety of high-impact projects, ranging from drug repurposing to quantum simulation. Throughout this initiative, we have found that projects are more generative when multiple AI for Science grantees are working on related questions and exchanging tips. So we now plan to launch thematic calls for projects within the broader AI for Science program. Today, we are sharing a focus"
-    },
-    {
-      "id": "f8e3243f6a3e71302460b82f1d744439",
-      "title": "Inviting hard questions We’re asking the public for their hardest questions about",
-      "link": "https://www.anthropic.com/news/hard-questions",
-      "summary": "AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailb",
-      "published_at": "2026-07-09T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "364ed0711e1843f76d72cf2ebbf1a0ff",
-      "title": "Redeploying Fable 5 Fable 5 returns globally",
-      "link": "https://www.anthropic.com/news/redeploying-fable-5",
-      "summary": "July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners. Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0b590d649020eb58ff94660b1f70d97f",
-      "title": "Introducing Claude Sonnet 5",
-      "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "summary": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower price"
-    },
-    {
-      "id": "6c472be9947730dd861b28c5195a4d78",
-      "title": "Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
