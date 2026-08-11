@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-11T10:29:17.815626+00:00",
+  "generated_at": "2026-08-11T11:14:00.034071+00:00",
   "articles": [
+    {
+      "id": "657db72e123d90004f684f1c002df774",
+      "title": "The AI takeover of mathematics has begun",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, [&#8230;]",
+      "published_at": "2026-08-11T11:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "79ae8daa951860bd84d54fa7f6c167d0",
       "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
@@ -1021,17 +1032,6 @@
       "published_at": "2026-08-07T17:53:32+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a05f1c53f7df723a1e7771851125a396",
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
-      "published_at": "2026-08-07T16:45:14+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
