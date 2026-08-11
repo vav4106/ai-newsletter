@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-11T14:07:46.686205+00:00",
+  "generated_at": "2026-08-11T15:13:39.791631+00:00",
   "articles": [
+    {
+      "id": "39c32d755b3652f879accc515620edf6",
+      "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence",
+      "link": "https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/",
+      "summary": "",
+      "published_at": "2026-08-11T15:07:44+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f82a6ba2e71d1c54444a3f231be8ac4d",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
+      "published_at": "2026-08-11T14:45:44+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "71ea6da08084ea88a5e960f401b63c3c",
       "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
@@ -684,17 +706,6 @@
       "body_preview": ""
     },
     {
-      "id": "79eb4ed1e1204b3051bdaaf329459868",
-      "title": "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT",
-      "link": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/",
-      "summary": "",
-      "published_at": "2026-08-10T10:08:14+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f62854de365d44671c11b24b3c1f5621",
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
@@ -867,17 +878,6 @@
       "published_at": "2026-08-08T19:41:13+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "efda7d69a909b7b1bfbcec983043f4ff",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, [&#8230;]",
-      "published_at": "2026-08-08T17:53:34+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
