@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:40:25.077643+00:00",
+  "generated_at": "2026-08-11T22:23:45.559645+00:00",
   "articles": [
     {
       "id": "6759d4c3f2f393a6caeea7b0afe17bd2",
@@ -302,6 +302,17 @@
       "id": "26f9e771e78d49558c7c3e45636d20ca",
       "title": "Testing ads in ChatGPT",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "9e4e4bf60748f4271a5b82398b233b96",
+      "title": "Daybreak models are now available on AWS",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
       "summary": "",
       "published_at": "2026-08-11T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1639,17 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as"
-    },
-    {
-      "id": "c108ebbf798ec19c6e48db34c2fce61d",
-      "title": "A research agenda for the Economic Futures Research Fund",
-      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "summary": "We’re sharing the research agenda for the Anthropic Economic Futures Research Fund. We’re committing $200 million to the fund to support ambitious external research on interventions to prepare society for the economic impacts of AI. With the research the Fund supports, we want to study what programs could make the economy more flexible and resilient, ensure the benefits of AI are shared, and…",
-      "published_at": "2026-07-22T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re sharing the research agenda for the Anthropic Economic Futures Research Fund. We’re committing $200 million to the fund to support ambitious external research on interventions to prepare society for the economic impacts of AI. With the research the Fund supports, we want to study what programs could make the economy more flexible and resilient, ensure the benefits of AI are shared, and minimize the harm that AI-driven disruption could cause. In the fund, we’ll prioritize five research areas: Shaping AI’s impact on workers at the firm and workplace level Equipping people to navigate AI-dr"
     }
   ],
   "milestones": []
