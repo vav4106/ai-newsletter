@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-08-11T20:05:55.255569+00:00",
+  "generated_at": "2026-08-11T20:58:32.076827+00:00",
   "articles": [
-    {
-      "id": "9544f4c04561a2a0650b054298ba6b20",
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
-      "published_at": "2026-08-11T19:41:42+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
     {
       "id": "13092dec7feb3a05ec936b5c4ca37cb1",
       "title": "OpenAI launches ChatGPT desktop app for Linux",
@@ -42,17 +31,6 @@
       "published_at": "2026-08-11T18:01:22+00:00",
       "source": "The Decoder",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "24fc1312db9c58ad5d54850f3a15e190",
-      "title": "Another OpenAI executive takes off",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what would stand [&#8230;]",
-      "published_at": "2026-08-11T17:50:01+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -101,17 +79,6 @@
       "body_preview": ""
     },
     {
-      "id": "07d9de4a549709040df3850b2f4d6bd3",
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it [&#8230;]",
-      "published_at": "2026-08-11T17:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "9f3e36cc4983c3411e927364e0ad27c7",
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
       "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
@@ -119,17 +86,6 @@
       "published_at": "2026-08-11T16:25:20+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e9683ae9beef6df945f891aa9eb3338b",
-      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
-      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [&#8230;]",
-      "published_at": "2026-08-11T16:19:15+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -145,17 +101,6 @@
       "body_preview": ""
     },
     {
-      "id": "f82a6ba2e71d1c54444a3f231be8ac4d",
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
-      "published_at": "2026-08-11T14:45:44+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "71ea6da08084ea88a5e960f401b63c3c",
       "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
@@ -163,17 +108,6 @@
       "published_at": "2026-08-11T13:37:10+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ff6a72c4560a7d8576324db7b7868c31",
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [&#8230;]",
-      "published_at": "2026-08-11T13:27:20+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -189,17 +123,6 @@
       "body_preview": ""
     },
     {
-      "id": "651e642b4f29f8e0319ee361dad612db",
-      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [&#8230;]",
-      "published_at": "2026-08-11T13:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5b775dd98180c0da806cc02fad4aa1ed",
       "title": "Anthropic's planned mega-IPO faces investor skepticism over Chinese rivals and political headwinds",
       "link": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/",
@@ -207,17 +130,6 @@
       "published_at": "2026-08-11T12:49:15+00:00",
       "source": "The Decoder",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f87f090260bd03cedc8f26f713b8e565",
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page. The changes are invisible to human [&#8230;]",
-      "published_at": "2026-08-11T12:22:20+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -750,6 +662,17 @@
       "body_preview": ""
     },
     {
+      "id": "74a17a24beb96cedcedba82ab37db442",
+      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [&#8230;]",
+      "published_at": "2026-08-10T15:19:05+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "2e6db272558e59ff53f70f8c7002bf3c",
       "title": "Evolve your marketing with new AI tools",
       "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -772,6 +695,17 @@
       "body_preview": ""
     },
     {
+      "id": "009b61216dead2e213234c3de6ab3a4c",
+      "title": "What happens to Bose when headphones become AI?",
+      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
+      "published_at": "2026-08-10T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "72bdec2ea0e61fed64e3125a023b99e6",
       "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "link": "https://openai.com/index/model-ml",
@@ -790,6 +724,17 @@
       "published_at": "2026-08-10T12:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dbcaa17484f817f7a132e5d25ef9afb4",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it [&#8230;]",
+      "published_at": "2026-08-10T11:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -937,6 +882,17 @@
       "body_preview": ""
     },
     {
+      "id": "18f11e757dcd9848ede2821bc7956be3",
+      "title": "AI detectors are creating a new era of distrust",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]",
+      "published_at": "2026-08-09T12:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "eddb444e43bbb08075e9c2797ba055ff",
       "title": "Planned Amazon data center could become the biggest climate polluter in the US",
       "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
@@ -959,6 +915,17 @@
       "body_preview": ""
     },
     {
+      "id": "efda7d69a909b7b1bfbcec983043f4ff",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, [&#8230;]",
+      "published_at": "2026-08-08T17:53:34+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "cf80ab5d160bc7967234d19dea1d535c",
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -966,6 +933,39 @@
       "published_at": "2026-08-07T22:48:24+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b768013918a903944df8f4ca30a835d6",
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]",
+      "published_at": "2026-08-07T20:01:51+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b7076f5644548ab0b3dda54e5b0841a8",
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [&#8230;]",
+      "published_at": "2026-08-07T18:59:46+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "021fb5d2ec23a2b7fb5c6040ed193052",
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
+      "published_at": "2026-08-07T18:40:34+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
