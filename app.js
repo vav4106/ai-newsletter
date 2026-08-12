@@ -108,7 +108,7 @@ function timelineMilestones() {
 
 async function loadData() {
   try {
-    const res = await fetch("data.json");
+    const res = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
     DATA = await res.json();
   } catch (e) {
     console.error("Failed to load data.json", e);
@@ -630,7 +630,10 @@ function setupSubscribe() {
 }
 
 loadData().then(() => {
-  const params = new URLSearchParams(location.search);
-  const v = params.get("view");
-  if (v) showView(v);
+  // Always land on Home after refresh / first load.
+  // Clear sticky ?view=timeline (etc.) so refresh does not reopen Timeline.
+  if (location.search) {
+    history.replaceState(null, "", location.pathname);
+  }
+  showView("home");
 });
