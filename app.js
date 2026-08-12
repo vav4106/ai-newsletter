@@ -88,18 +88,20 @@ const CONFIRMED_2025_MILESTONES = [
 ];
 
 function timelineMilestones() {
-  // Full timeline: milestones from data.json (1950 → present → future)
-  // plus any extra confirmed entries; de-dupe by date+title.
+  // Big events only (importance === "high"), from 1950 → present → future.
+  // Merges data.json milestones + confirmed extras; de-dupes by date+title.
   const fromData = DATA.milestones || [];
   const extra = typeof CONFIRMED_2025_MILESTONES !== "undefined" ? CONFIRMED_2025_MILESTONES : [];
   const merged = [...fromData, ...extra];
   const seen = new Set();
   return merged
     .filter((m) => {
+      const imp = String(m.importance || "high").toLowerCase();
+      if (imp && imp !== "high") return false; // skip non-major events
       const key = String(m.date || "") + "|" + String(m.title || "");
       if (seen.has(key)) return false;
       seen.add(key);
-      return true;
+      return Boolean(m.date && m.title);
     })
     .sort((a, b) => String(a.date).localeCompare(String(b.date)));
 }
@@ -247,9 +249,17 @@ function cardHTML(a) {
         <span>(${sourceType(a)})</span>
         ${badge(a.importance, a.category)}
       </div>
-      <h3><a href="${escapeAttr(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h3>
+      <h3><a href="${escapeAttr(a.link)}" target="_blank" rel="noopener">${escapeHtml(decodeEntities(a.title))}</a></h3>
       ${snippet ? `<p class="snippet">${escapeHtml(snippet)}</p>` : ""}
     </article>`;
+}
+
+
+function decodeEntities(str) {
+  if (!str) return "";
+  const txt = document.createElement("textarea");
+  txt.innerHTML = str;
+  return txt.value;
 }
 
 function escapeHtml(s) {
@@ -274,19 +284,16 @@ function milestoneTitleHTML(m) {
 
 function renderMilestones() {
   const ul = document.getElementById("milestone-list");
-  ul.innerHTML = timelineMilestones()
-    .slice()
-    .reverse()
+  if (!ul) return;
+  // Newest major events first so the rail always updates with the latest big dates
+  const list = timelineMilestones().slice().reverse();
+  ul.innerHTML = list
     .map(
       (m) => `
     <li>
       <div class="m-date">${fmtDate(m.date)}</div>
-      <div class="m-title">${milestoneTitleHTML(m)}</div>
-      <div class="m-desc">${escapeHtml(m.desc || "")}${
-        m.source && m.link
-          ? ` · <a href="${escapeAttr(m.link)}" target="_blank" rel="noopener">${escapeHtml(m.source)}</a>`
-          : ""
-      }</div>
+      <div class="m-title">${typeof milestoneTitleHTML === "function" ? milestoneTitleHTML(m) : escapeHtml(m.title)}</div>
+      <div class="m-desc">${escapeHtml(m.desc || "")}</div>
     </li>`
     )
     .join("");
@@ -305,8 +312,8 @@ function renderHome() {
         <span>${fmtDate(a.published_at)}</span>
         <span>${escapeHtml(a.source || "")}</span>
       </div>
-      <h3><a href="${escapeAttr(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h3>
-      <p class="snippet">${escapeHtml(a.summary || a.body_preview || "")}</p>
+      <h3><a href="${escapeAttr(a.link)}" target="_blank" rel="noopener">${escapeHtml(decodeEntities(a.title))}</a></h3>
+      <p class="snippet">${escapeHtml(decodeEntities(a.summary || a.body_preview || ""))}</p>
     </div>`
     )
     .join("");
