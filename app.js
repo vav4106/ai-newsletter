@@ -140,6 +140,7 @@ function init() {
   setupCalendar();
   setupSearch();
   setupNav();
+  setupSubscribe();
 }
 
 /* ---------- Nav ---------- */
@@ -527,6 +528,100 @@ function setupSearch() {
 }
 
 /* boot */
+
+/* ---------- Subscribe ---------- */
+function isValidEmail(email) {
+  return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(String(email || "").trim());
+}
+
+function showSubscribeToast() {
+  const toast = document.getElementById("subscribe-toast");
+  if (!toast) return;
+  toast.hidden = false;
+  // force reflow so transition plays
+  void toast.offsetWidth;
+  toast.classList.add("show");
+  setTimeout(() => {
+    toast.classList.remove("show");
+    setTimeout(() => {
+      toast.hidden = true;
+    }, 300);
+  }, 4000);
+}
+
+function setupSubscribe() {
+  const modal = document.getElementById("subscribe-modal");
+  const form = document.getElementById("subscribe-form");
+  const emailInput = document.getElementById("subscribe-email");
+  const err = document.getElementById("subscribe-error");
+  const cancelBtn = document.getElementById("subscribe-cancel");
+  const openBtn = document.querySelector(".subscribe-btn");
+
+  if (!modal || !form || !emailInput) return;
+
+  if (openBtn) {
+    openBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      err.hidden = true;
+      emailInput.value = "";
+      modal.showModal();
+      setTimeout(() => emailInput.focus(), 50);
+    });
+  }
+
+  if (cancelBtn) {
+    cancelBtn.addEventListener("click", () => modal.close());
+  }
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const email = emailInput.value.trim();
+    if (!isValidEmail(email)) {
+      err.hidden = false;
+      emailInput.focus();
+      return;
+    }
+    err.hidden = true;
+
+    const submitBtn = document.getElementById("subscribe-submit");
+    if (submitBtn) {
+      submitBtn.disabled = true;
+      submitBtn.textContent = "Subscribing…";
+    }
+
+    // Persist locally (always works on static hosting)
+    try {
+      const key = "ai_chronicle_subscribers";
+      const list = JSON.parse(localStorage.getItem(key) || "[]");
+      if (!list.includes(email)) list.push(email);
+      localStorage.setItem(key, JSON.stringify(list));
+      localStorage.setItem("ai_chronicle_subscribed_email", email);
+    } catch (_) {}
+
+    // Optional: send to a free form endpoint if configured.
+    // Create a form at https://formspree.io and paste your endpoint below.
+    const FORMSPREE_ENDPOINT = ""; // e.g. "https://formspree.io/f/xxxxxx"
+    if (FORMSPREE_ENDPOINT) {
+      try {
+        await fetch(FORMSPREE_ENDPOINT, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", Accept: "application/json" },
+          body: JSON.stringify({ email, source: "AI Chronicle subscribe", _subject: "New AI Chronicle subscriber" }),
+        });
+      } catch (_) {
+        // still show success — email is saved locally
+      }
+    }
+
+    modal.close();
+    if (submitBtn) {
+      submitBtn.disabled = false;
+      submitBtn.textContent = "Subscribe";
+    }
+    showSubscribeToast();
+  });
+}
+
 loadData().then(() => {
   const params = new URLSearchParams(location.search);
   const v = params.get("view");
