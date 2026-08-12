@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T21:39:31.628918+00:00",
+  "generated_at": "2026-08-12T22:23:13.530520+00:00",
   "articles": [
     {
       "id": "42bdea244ff697ea5dda3800381d7283",
@@ -717,6 +717,17 @@
       "body_preview": ""
     },
     {
+      "id": "96a823efe7461d9f32d6d2f6caf38d7e",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "link": "https://openai.com/index/ringcentral",
+      "summary": "",
+      "published_at": "2026-08-12T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "6759d4c3f2f393a6caeea7b0afe17bd2",
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
       "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
@@ -1146,9 +1157,9 @@
       "body_preview": ""
     },
     {
-      "id": "458de6ef05a27adb6dadfaed4787e200",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "link": "https://openai.com/index/premium-seats-chatgpt-business",
+      "id": "4ad5d72e6342c25a4f031d64f70e0f61",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "link": "https://openai.com/index/zapier",
       "summary": "",
       "published_at": "2026-08-10T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1157,9 +1168,9 @@
       "body_preview": ""
     },
     {
-      "id": "4ad5d72e6342c25a4f031d64f70e0f61",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "link": "https://openai.com/index/zapier",
+      "id": "458de6ef05a27adb6dadfaed4787e200",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "link": "https://openai.com/index/premium-seats-chatgpt-business",
       "summary": "",
       "published_at": "2026-08-10T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1639,17 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re sharing the research agenda for the Anthropic Economic Futures Research Fund. We’re committing $200 million to the fund to support ambitious external research on interventions to prepare society for the economic impacts of AI. With the research the Fund supports, we want to study what programs could make the economy more flexible and resilient, ensure the benefits of AI are shared, and minimize the harm that AI-driven disruption could cause. In the fund, we’ll prioritize five research areas: Shaping AI’s impact on workers at the firm and workplace level Equipping people to navigate AI-dr"
-    },
-    {
-      "id": "c3e77a4479f5b59a709cc75e3e908beb",
-      "title": "Ask Claude about the Anthropic Economic Index",
-      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "summary": "People have hard questions about AI and work: which jobs will change, which tasks are being automated, and what it means for their own field. The Anthropic Economic Index exists to help answer them with real data. Today we're launching the Anthropic Economic Index connector for Claude, which lets anyone explore that data directly. The Anthropic Economic Index measures how AI is actually being…",
-      "published_at": "2026-07-22T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "People have hard questions about AI and work: which jobs will change, which tasks are being automated, and what it means for their own field. The Anthropic Economic Index exists to help answer them with real data. Today we're launching the Anthropic Economic Index connector for Claude, which lets anyone explore that data directly. The Anthropic Economic Index measures how AI is actually being used in the economy. The Index’s data has been useful to researchers, journalists, and policymakers, but we want it to be just as accessible to anyone curious about how AI fits into their field or day-to-"
     }
   ],
   "milestones": []
