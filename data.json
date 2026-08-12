@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-12T10:17:47.259381+00:00",
+  "generated_at": "2026-08-12T11:12:34.947611+00:00",
   "articles": [
+    {
+      "id": "f4287866c9b7f151c47da1f1ed402dae",
+      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance",
+      "link": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/",
+      "summary": "",
+      "published_at": "2026-08-12T10:18:46+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a14905ab59b6db86b020b723709772d9",
       "title": "Mistral now offers EU data processing and priority access, but both come with important limits",
@@ -725,17 +736,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "3d1f76694bbbb85c8f54d8b443503e80",
-      "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
-      "link": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
-      "summary": "",
-      "published_at": "2026-08-10T18:20:39+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
