@@ -469,6 +469,61 @@ dialog::backdrop { background: rgba(0,0,0,0.65); }
   gap: 0.5rem;
 }
 
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+.form-error {
+  color: #f87171;
+  font-size: 0.85rem;
+  margin: -0.5rem 0 1rem;
+}
+.toast {
+  position: fixed;
+  bottom: 1.75rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  background: #1a3d2e;
+  border: 1px solid #2f6b4f;
+  color: #d1fae5;
+  padding: 0.85rem 1.35rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.45);
+  font-size: 0.95rem;
+  font-weight: 500;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+.toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+  pointer-events: auto;
+}
+.toast-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 50%;
+  background: #34d399;
+  color: #064e3b;
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
 /* ----- Footer ----- */
 .site-footer {
   border-top: 1px solid var(--border-subtle);
