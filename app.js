@@ -119,6 +119,19 @@ async function loadData() {
   init();
 }
 
+
+/** Pick a random major milestone date for the hero example — changes every page load/refresh. */
+function updateHeroExampleDate() {
+  const el = document.getElementById("hero-example-date");
+  if (!el) return;
+  const miles = typeof timelineMilestones === "function" ? timelineMilestones() : (DATA.milestones || []);
+  // Prefer high-importance historical + modern events (not only today)
+  const pool = (miles || []).filter((m) => m && m.date);
+  if (!pool.length) return;
+  const pick = pool[Math.floor(Math.random() * pool.length)];
+  el.textContent = fmtDate(pick.date);
+}
+
 function init() {
   const gen = DATA.generated_at
     ? new Date(DATA.generated_at).toLocaleString("en-GB", {
