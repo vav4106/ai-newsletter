@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-12T20:06:04.917778+00:00",
+  "generated_at": "2026-08-12T20:58:08.535961+00:00",
   "articles": [
+    {
+      "id": "42bdea244ff697ea5dda3800381d7283",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "summary": "",
+      "published_at": "2026-08-12T20:10:40+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "8272334022b9905d4da877891e60fdc3",
       "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
@@ -970,17 +981,6 @@
       "body_preview": ""
     },
     {
-      "id": "ec70c853fc40aefd16ec2697e3ab8533",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "summary": "",
-      "published_at": "2026-08-10T23:56:15+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b3beea770cd3c6169b67321243d64864",
       "title": "AI professors are negotiating the new realities of academic research",
       "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
@@ -1146,6 +1146,17 @@
       "body_preview": ""
     },
     {
+      "id": "41cd459b5ee7f2161c86684c3440d3be",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "summary": "",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "458de6ef05a27adb6dadfaed4787e200",
       "title": "Premium seats are coming to ChatGPT Business",
       "link": "https://openai.com/index/premium-seats-chatgpt-business",
@@ -1160,17 +1171,6 @@
       "id": "4ad5d72e6342c25a4f031d64f70e0f61",
       "title": "How Zapier transformed core marketing processes with ChatGPT Work",
       "link": "https://openai.com/index/zapier",
-      "summary": "",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "41cd459b5ee7f2161c86684c3440d3be",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "summary": "",
       "published_at": "2026-08-10T00:00:00+00:00",
       "source": "OpenAI News",
