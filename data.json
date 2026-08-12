@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:58:08.535961+00:00",
+  "generated_at": "2026-08-12T21:39:31.628918+00:00",
   "articles": [
     {
       "id": "42bdea244ff697ea5dda3800381d7283",
@@ -1080,9 +1080,9 @@
       "body_preview": ""
     },
     {
-      "id": "ab5abc8575d45e38f075448b8503b418",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "id": "0b19d2bf8bed69d88eb15a247347fc05",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
       "summary": "",
       "published_at": "2026-08-10T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1091,9 +1091,9 @@
       "body_preview": ""
     },
     {
-      "id": "0b19d2bf8bed69d88eb15a247347fc05",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "id": "ab5abc8575d45e38f075448b8503b418",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
       "summary": "",
       "published_at": "2026-08-10T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1146,17 +1146,6 @@
       "body_preview": ""
     },
     {
-      "id": "41cd459b5ee7f2161c86684c3440d3be",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "summary": "",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "458de6ef05a27adb6dadfaed4787e200",
       "title": "Premium seats are coming to ChatGPT Business",
       "link": "https://openai.com/index/premium-seats-chatgpt-business",
@@ -1171,6 +1160,17 @@
       "id": "4ad5d72e6342c25a4f031d64f70e0f61",
       "title": "How Zapier transformed core marketing processes with ChatGPT Work",
       "link": "https://openai.com/index/zapier",
+      "summary": "",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "41cd459b5ee7f2161c86684c3440d3be",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "summary": "",
       "published_at": "2026-08-10T00:00:00+00:00",
       "source": "OpenAI News",
