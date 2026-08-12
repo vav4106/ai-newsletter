@@ -88,8 +88,20 @@ const CONFIRMED_2025_MILESTONES = [
 ];
 
 function timelineMilestones() {
-  const vetted = (DATA.milestones || []).filter((m) => String(m.date || "") < "2026-01-01");
-  return [...vetted, ...CONFIRMED_2025_MILESTONES].sort((a, b) => String(a.date).localeCompare(String(b.date)));
+  // Full timeline: milestones from data.json (1950 → present → future)
+  // plus any extra confirmed entries; de-dupe by date+title.
+  const fromData = DATA.milestones || [];
+  const extra = typeof CONFIRMED_2025_MILESTONES !== "undefined" ? CONFIRMED_2025_MILESTONES : [];
+  const merged = [...fromData, ...extra];
+  const seen = new Set();
+  return merged
+    .filter((m) => {
+      const key = String(m.date || "") + "|" + String(m.title || "");
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
+    .sort((a, b) => String(a.date).localeCompare(String(b.date)));
 }
 
 async function loadData() {
