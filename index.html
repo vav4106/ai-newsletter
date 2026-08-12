@@ -125,16 +125,24 @@
 
   <!-- Subscribe modal -->
   <dialog id="subscribe-modal">
-    <form method="dialog" class="modal-form">
-      <h2>Get the weekly AI Chronicle</h2>
-      <p>One email a week with the most important AI updates. No spam.</p>
-      <input type="email" placeholder="you@example.com" required />
+    <form id="subscribe-form" class="modal-form" novalidate>
+      <h2>Get daily AI Chronicle</h2>
+      <p>Enter your email for daily AI news updates. No spam — unsubscribe anytime.</p>
+      <label class="sr-only" for="subscribe-email">Email</label>
+      <input id="subscribe-email" type="email" name="email" placeholder="you@example.com" required autocomplete="email" />
+      <p id="subscribe-error" class="form-error" hidden>Please enter a valid email address.</p>
       <div class="modal-actions">
-        <button value="cancel" class="btn-ghost">Cancel</button>
-        <button value="ok" class="btn-primary">Subscribe</button>
+        <button type="button" class="btn-ghost" id="subscribe-cancel">Cancel</button>
+        <button type="submit" class="btn-primary" id="subscribe-submit">Subscribe</button>
       </div>
     </form>
   </dialog>
+
+  <!-- Toast: shown 4 seconds after successful subscribe -->
+  <div id="subscribe-toast" class="toast" role="status" aria-live="polite" hidden>
+    <span class="toast-icon">✓</span>
+    <span class="toast-text">Subscribed! You'll get daily AI updates.</span>
+  </div>
 
   <footer class="site-footer">
     <p>AI Chronicle · Prototype preview · Data from OpenAI, Anthropic, DeepMind, TechCrunch, MIT TR, The Verge, Hugging Face, arXiv & more · <span id="data-stamp"></span></p>
