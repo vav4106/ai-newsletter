@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-08-12T15:26:29.148666+00:00",
+  "generated_at": "2026-08-12T16:16:15.449221+00:00",
   "articles": [
+    {
+      "id": "bf75b8ed97e090bac48d7687ba27e017",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "summary": "",
+      "published_at": "2026-08-12T16:14:36+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b474348ee4cafff65dd415ab99c4c9ae",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "summary": "",
+      "published_at": "2026-08-12T16:04:27+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a4701ade136265a1b1394840cde0555a",
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plugins like Autotune introducing [&#8230;]",
+      "published_at": "2026-08-12T15:52:07+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "90e2596df20f850c7b3abe8dc0aec193",
+      "title": "Google's Gemini is losing market share to ChatGPT and Claude according to new market data",
+      "link": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/",
+      "summary": "",
+      "published_at": "2026-08-12T15:50:04+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2a2ede73073dc9c0c6271f2e5af8e164",
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "summary": "",
+      "published_at": "2026-08-12T15:44:56+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "5d978ba654ca804f4e04b61554f27377",
       "title": "Google tests AMIE for clinical video consultations",
@@ -82,7 +137,7 @@
       "id": "eb0562fde493e690755e47124b69a5dd",
       "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [&#8230;]",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [&#8230;]",
       "published_at": "2026-08-12T12:09:34+00:00",
       "source": "The Verge AI",
       "category": "consumer",
@@ -717,17 +772,6 @@
       "body_preview": ""
     },
     {
-      "id": "ff6a72c4560a7d8576324db7b7868c31",
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [&#8230;]",
-      "published_at": "2026-08-11T13:27:20+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "7967a66dad0293c9b47f0da8c1a7c7d8",
       "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
       "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
@@ -756,17 +800,6 @@
       "summary": "",
       "published_at": "2026-08-11T12:13:47+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "dfc832b1bfed9719078446b8d397c463",
-      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
-      "link": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
-      "summary": "",
-      "published_at": "2026-08-11T11:51:01+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -1153,39 +1186,6 @@
       "published_at": "2026-08-09T18:15:30+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "986e214b455b76fbe05d17a6bba366f4",
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "summary": "",
-      "published_at": "2026-08-09T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4cfe8d70fc1f77353e1ee1acb77c407a",
-      "title": "The AI safety test is becoming a safety risk",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "summary": "",
-      "published_at": "2026-08-09T14:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1cc86edca75ab3248903e7f09892c853",
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "link": "https://huggingface.co/blog/allenai/tutormoments",
-      "summary": "",
-      "published_at": "2026-08-07T17:53:32+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1586,17 +1586,6 @@
       "body_preview": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews. This post reflects our current understanding; we'll update it if any details change. On July 21, OpenAI disclosed that several of their models had broken out of an isolated test"
     },
     {
-      "id": "6be4ecbbc4644aadd6d806e4d73c9121",
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "summary": "",
-      "published_at": "2026-07-29T16:02:10+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "e6b4ec1b7b0fe936c462d4a9b9589e9f",
       "title": "Our position on open-weights models",
       "link": "https://www.anthropic.com/news/position-open-weights-models",
@@ -1650,6 +1639,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": "People have hard questions about AI and work: which jobs will change, which tasks are being automated, and what it means for their own field. The Anthropic Economic Index exists to help answer them with real data. Today we're launching the Anthropic Economic Index connector for Claude, which lets anyone explore that data directly. The Anthropic Economic Index measures how AI is actually being used in the economy. The Index’s data has been useful to researchers, journalists, and policymakers, but we want it to be just as accessible to anyone curious about how AI fits into their field or day-to-"
+    },
+    {
+      "id": "cf284992709f4fc665fe49ec83f242e3",
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "link": "https://www.anthropic.com/news/donation-public-first-action",
+      "summary": "We're contributing an additional $20 million to Public First Action , bringing our total support to $40 million. Public First Action is a nonpartisan organization that educates the public about AI and works with Republicans, Democrats, and Independents who are serious about putting sensible AI safeguards in place. Both of our donations were made exclusively to support Public First Action’s public…",
+      "published_at": "2026-07-21T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "We're contributing an additional $20 million to Public First Action , bringing our total support to $40 million. Public First Action is a nonpartisan organization that educates the public about AI and works with Republicans, Democrats, and Independents who are serious about putting sensible AI safeguards in place. Both of our donations were made exclusively to support Public First Action’s public education and policy mission, and cannot be used to influence the election of any candidate for federal, state, or local office. Our first donation in February 2026 was made to help promote policies t"
     }
   ],
   "milestones": []
