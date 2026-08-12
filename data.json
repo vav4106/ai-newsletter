@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-12T22:23:13.530520+00:00",
+  "generated_at": "2026-08-12T23:08:12.740432+00:00",
   "articles": [
+    {
+      "id": "b0cacd2b2513df74862d19618f169f5b",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "summary": "",
+      "published_at": "2026-08-12T22:26:37+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "42bdea244ff697ea5dda3800381d7283",
       "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
@@ -977,17 +988,6 @@
       "published_at": "2026-08-11T05:44:38+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "528eda6ec635abda8badbf38265bcf58",
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "summary": "",
-      "published_at": "2026-08-11T00:03:18+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
