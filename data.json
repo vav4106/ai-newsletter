@@ -1487,5 +1487,213 @@
       "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
-  "milestones": []
+  "milestones": [
+    {
+      "date": "1950-10-01",
+      "title": "Alan Turing publishes \"Computing Machinery and Intelligence\"",
+      "desc": "Proposes the Imitation Game (Turing Test) — the philosophical foundation of AI.",
+      "importance": "high",
+      "category": "research",
+      "source": "Mind journal",
+      "link": "https://academic.oup.com/mind/article/LIX/236/433/986238"
+    },
+    {
+      "date": "1956-08-01",
+      "title": "Dartmouth Conference — term \"Artificial Intelligence\" coined",
+      "desc": "John McCarthy, Marvin Minsky, Claude Shannon and others found AI as a research field.",
+      "importance": "high",
+      "category": "research",
+      "source": "Dartmouth",
+      "link": "https://www.dartmouth.edu/ai50/"
+    },
+    {
+      "date": "1957-01-01",
+      "title": "Frank Rosenblatt invents the Perceptron",
+      "desc": "First trainable neural network hardware.",
+      "importance": "high",
+      "category": "research",
+      "source": "Cornell",
+      "link": "https://en.wikipedia.org/wiki/Perceptron"
+    },
+    {
+      "date": "1966-01-01",
+      "title": "ELIZA — first chatbot",
+      "desc": "Joseph Weizenbaum creates the first conversational program at MIT.",
+      "importance": "high",
+      "category": "research",
+      "source": "MIT",
+      "link": "https://en.wikipedia.org/wiki/ELIZA"
+    },
+    {
+      "date": "1974-01-01",
+      "title": "First AI Winter begins",
+      "desc": "Funding collapse after the Lighthill Report and overpromised results.",
+      "importance": "medium",
+      "category": "history",
+      "source": "Historical",
+      "link": "https://en.wikipedia.org/wiki/AI_winter"
+    },
+    {
+      "date": "1986-01-01",
+      "title": "Backpropagation popularized",
+      "desc": "Rumelhart, Hinton & Williams revive practical training of neural networks.",
+      "importance": "high",
+      "category": "research",
+      "source": "Nature",
+      "link": "https://www.nature.com/articles/323533a0"
+    },
+    {
+      "date": "1997-05-11",
+      "title": "IBM Deep Blue beats Garry Kasparov",
+      "desc": "First computer to defeat the world chess champion under tournament conditions.",
+      "importance": "high",
+      "category": "company",
+      "source": "IBM",
+      "link": "https://www.ibm.com/history/deep-blue"
+    },
+    {
+      "date": "2012-09-30",
+      "title": "AlexNet wins ImageNet",
+      "desc": "Deep learning era begins — convolutional nets smash previous records.",
+      "importance": "high",
+      "category": "research",
+      "source": "NeurIPS",
+      "link": "https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html"
+    },
+    {
+      "date": "2016-03-15",
+      "title": "AlphaGo defeats Lee Sedol",
+      "desc": "DeepMind's AI masters Go, long considered AI-resistant.",
+      "importance": "high",
+      "category": "research",
+      "source": "DeepMind",
+      "link": "https://deepmind.google/research/alphago/"
+    },
+    {
+      "date": "2017-06-12",
+      "title": "Transformers — \"Attention Is All You Need\"",
+      "desc": "Google paper introduces the architecture behind GPT, BERT, Claude, Gemini.",
+      "importance": "high",
+      "category": "research",
+      "source": "Google",
+      "link": "https://arxiv.org/abs/1706.03762"
+    },
+    {
+      "date": "2018-06-11",
+      "title": "GPT-1 / early generative pre-training",
+      "desc": "OpenAI shows transfer learning with generative pre-trained transformers.",
+      "importance": "high",
+      "category": "company",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/language-unsupervised/"
+    },
+    {
+      "date": "2020-05-28",
+      "title": "GPT-3 released",
+      "desc": "175B-parameter model demonstrates few-shot learning at scale.",
+      "importance": "high",
+      "category": "company",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/gpt-3-apps/"
+    },
+    {
+      "date": "2020-11-30",
+      "title": "AlphaFold 2 solves protein folding",
+      "desc": "DeepMind addresses a 50-year grand challenge in biology.",
+      "importance": "high",
+      "category": "research",
+      "source": "DeepMind",
+      "link": "https://deepmind.google/science/alphafold/"
+    },
+    {
+      "date": "2022-11-30",
+      "title": "ChatGPT launches",
+      "desc": "Reaches 100M users in about 2 months — fastest-growing consumer app in history.",
+      "importance": "high",
+      "category": "company",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/chatgpt/"
+    },
+    {
+      "date": "2023-03-14",
+      "title": "GPT-4 released",
+      "desc": "Multimodal frontier model; AI enters the enterprise mainstream.",
+      "importance": "high",
+      "category": "company",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/gpt-4-research/"
+    },
+    {
+      "date": "2024-02-15",
+      "title": "Sora, open models, and first major AI regulation wave",
+      "desc": "Video generation, open-source explosion (Llama era), EU AI Act momentum.",
+      "importance": "high",
+      "category": "industry",
+      "source": "Multiple",
+      "link": "https://openai.com/index/sora/"
+    },
+    {
+      "date": "2025-01-20",
+      "title": "DeepSeek releases DeepSeek-R1",
+      "desc": "Company announcement for an open reasoning-model release. Capability claims are attributed to DeepSeek.",
+      "importance": "high",
+      "category": "company",
+      "source": "DeepSeek",
+      "link": "https://github.com/deepseek-ai/DeepSeek-R1"
+    },
+    {
+      "date": "2025-01-29",
+      "title": "Alibaba announces Qwen2.5-Max",
+      "desc": "Official Qwen release announcement.",
+      "importance": "high",
+      "category": "company",
+      "source": "Qwen",
+      "link": "https://qwenlm.github.io/blog/qwen2.5-max/"
+    },
+    {
+      "date": "2025-02-14",
+      "title": "Perplexity introduces Deep Research",
+      "desc": "Official product announcement for Perplexity's research workflow.",
+      "importance": "high",
+      "category": "company",
+      "source": "Perplexity",
+      "link": "https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research"
+    },
+    {
+      "date": "2025-02-24",
+      "title": "Anthropic launches Claude 3.7 Sonnet",
+      "desc": "Anthropic announces its hybrid reasoning model and Claude Code research preview.",
+      "importance": "high",
+      "category": "company",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-3-7-sonnet"
+    },
+    {
+      "date": "2025-04-05",
+      "title": "Meta announces the Llama 4 family",
+      "desc": "Official release announcement for Meta's multimodal Llama 4 models.",
+      "importance": "high",
+      "category": "company",
+      "source": "Meta AI",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/"
+    },
+    {
+      "date": "2025-04-16",
+      "title": "OpenAI launches o3 and o4-mini",
+      "desc": "OpenAI's official announcement for its reasoning-model releases.",
+      "importance": "high",
+      "category": "company",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/introducing-o3-and-o4-mini/"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Anthropic introduces Claude Opus 5",
+      "desc": "Major step for long-running agents and coding (per Anthropic newsroom).",
+      "importance": "high",
+      "category": "company",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-opus-5"
+    }
+  ]
 }
