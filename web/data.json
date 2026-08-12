@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:58:23.973316+00:00",
+  "generated_at": "2026-08-12T09:07:40.298677+00:00",
   "articles": [
     {
       "id": "3c609c3887d711cb23904fab3b27370e",
@@ -1597,17 +1597,6 @@
       "body_preview": ""
     },
     {
-      "id": "a9aae1c1da6058e1bd854beb2432cd37",
-      "title": "The AI Hype Index: Unsexy AI",
-      "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
-      "published_at": "2026-07-29T08:42:57+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "e6b4ec1b7b0fe936c462d4a9b9589e9f",
       "title": "Our position on open-weights models",
       "link": "https://www.anthropic.com/news/position-open-weights-models",
@@ -1650,6 +1639,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re sharing the research agenda for the Anthropic Economic Futures Research Fund. We’re committing $200 million to the fund to support ambitious external research on interventions to prepare society for the economic impacts of AI. With the research the Fund supports, we want to study what programs could make the economy more flexible and resilient, ensure the benefits of AI are shared, and minimize the harm that AI-driven disruption could cause. In the fund, we’ll prioritize five research areas: Shaping AI’s impact on workers at the firm and workplace level Equipping people to navigate AI-dr"
+    },
+    {
+      "id": "c3e77a4479f5b59a709cc75e3e908beb",
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "summary": "People have hard questions about AI and work: which jobs will change, which tasks are being automated, and what it means for their own field. The Anthropic Economic Index exists to help answer them with real data. Today we're launching the Anthropic Economic Index connector for Claude, which lets anyone explore that data directly. The Anthropic Economic Index measures how AI is actually being…",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "People have hard questions about AI and work: which jobs will change, which tasks are being automated, and what it means for their own field. The Anthropic Economic Index exists to help answer them with real data. Today we're launching the Anthropic Economic Index connector for Claude, which lets anyone explore that data directly. The Anthropic Economic Index measures how AI is actually being used in the economy. The Index’s data has been useful to researchers, journalists, and policymakers, but we want it to be just as accessible to anyone curious about how AI fits into their field or day-to-"
     }
   ],
   "milestones": []
