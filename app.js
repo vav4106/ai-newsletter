@@ -120,16 +120,33 @@ async function loadData() {
 }
 
 
-/** Pick a random major milestone date for the hero example — changes every page load/refresh. */
+/** Hero example date — changes on every page load/refresh (no HTML span required). */
 function updateHeroExampleDate() {
   const el = document.getElementById("hero-example-date");
-  if (!el) return;
   const miles = typeof timelineMilestones === "function" ? timelineMilestones() : (DATA.milestones || []);
-  // Prefer high-importance historical + modern events (not only today)
   const pool = (miles || []).filter((m) => m && m.date);
   if (!pool.length) return;
   const pick = pool[Math.floor(Math.random() * pool.length)];
-  el.textContent = fmtDate(pick.date);
+  const label = typeof fmtDate === "function" ? fmtDate(pick.date) : String(pick.date);
+
+  if (el) {
+    el.textContent = label;
+    return;
+  }
+  // Fallback: rewrite the hero subtitle text if the span was not deployed
+  const sub = document.querySelector(".hero-sub");
+  if (!sub) return;
+  const next = sub.innerHTML.replace(
+    /what happened on [^?”"]+[?”"]?/i,
+    "what happened on " + label + "?"
+  );
+  if (next !== sub.innerHTML) sub.innerHTML = next;
+  else {
+    sub.innerHTML = sub.innerHTML.replace(
+      /24 March 2019/g,
+      label
+    );
+  }
 }
 
 function init() {
@@ -149,6 +166,7 @@ function init() {
     : "";
 
   renderMilestones();
+  updateHeroExampleDate();
   renderHome();
   renderToday();
   renderTimeline();
