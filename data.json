@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:55:53.485046+00:00",
+  "generated_at": "2026-08-13T03:21:45.256088+00:00",
   "articles": [
     {
       "id": "b0cacd2b2513df74862d19618f169f5b",
@@ -387,9 +387,9 @@
       "body_preview": ""
     },
     {
-      "id": "55ff69e2cd2f0e11bbb2bd5ce7cb977c",
-      "title": "Towards an Argumentative Foundation for Evaluative AI",
-      "link": "https://arxiv.org/abs/2608.07473",
+      "id": "d7360535f6a0009454fc9c5d85e5a502",
+      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "link": "https://arxiv.org/abs/2608.09949",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -398,9 +398,9 @@
       "body_preview": ""
     },
     {
-      "id": "bcc43d7053d89c5704db8519cf9722b7",
-      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
-      "link": "https://arxiv.org/abs/2608.07474",
+      "id": "2c77bf7a7403ac2fef3e6ed2808b8607",
+      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2608.09967",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -409,9 +409,9 @@
       "body_preview": ""
     },
     {
-      "id": "a7a564a7baaaebde62b18441d08c05fd",
-      "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
-      "link": "https://arxiv.org/abs/2608.07476",
+      "id": "7d6501ef41cba4a9d0628900f656e843",
+      "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+      "link": "https://arxiv.org/abs/2608.09986",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -420,9 +420,9 @@
       "body_preview": ""
     },
     {
-      "id": "d09c0cf0dadad09d14a25b200c003a50",
-      "title": "Emotion in an active inference model of human driving",
-      "link": "https://arxiv.org/abs/2608.07480",
+      "id": "e5668c0f9b71ad74ed2dbfc6e149fbca",
+      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+      "link": "https://arxiv.org/abs/2608.09998",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -431,9 +431,9 @@
       "body_preview": ""
     },
     {
-      "id": "e04e2b46528d3e24024b843e6f4d2077",
-      "title": "Training Variable Long Sequences with Data-Centric Parallel",
-      "link": "https://arxiv.org/abs/2608.07524",
+      "id": "bd6ffcd537fed8710a0013e4eee29771",
+      "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+      "link": "https://arxiv.org/abs/2608.10004",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -442,9 +442,9 @@
       "body_preview": ""
     },
     {
-      "id": "0ff4d8cb01cc0d54d33e9568cb925a99",
-      "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
-      "link": "https://arxiv.org/abs/2608.07528",
+      "id": "e458a3179c52126353425a421911ae33",
+      "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+      "link": "https://arxiv.org/abs/2608.10030",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -453,9 +453,9 @@
       "body_preview": ""
     },
     {
-      "id": "8471cd55507c03f5072efd4d7a2e2936",
-      "title": "NL2SHACL-Bench: A Benchmark Suite for Natural Language to SHACL Translation",
-      "link": "https://arxiv.org/abs/2608.07530",
+      "id": "daefe69cce0edb6aebb6377f61af4812",
+      "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
+      "link": "https://arxiv.org/abs/2608.10090",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -464,9 +464,9 @@
       "body_preview": ""
     },
     {
-      "id": "a466ae8472d95f5cefb37c02f8783eb3",
-      "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
-      "link": "https://arxiv.org/abs/2608.07532",
+      "id": "c3a3c89fb2e8361a6a04fe8ffc4d780f",
+      "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
+      "link": "https://arxiv.org/abs/2608.10108",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -475,9 +475,9 @@
       "body_preview": ""
     },
     {
-      "id": "f4aec644c4c8417c43e9544f7009bfed",
-      "title": "MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents",
-      "link": "https://arxiv.org/abs/2608.07533",
+      "id": "47d042dddb45815f1b2142400bc36ad2",
+      "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
+      "link": "https://arxiv.org/abs/2608.10153",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -486,9 +486,9 @@
       "body_preview": ""
     },
     {
-      "id": "d2b80ac8774c004b28e12175410a1a39",
-      "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
-      "link": "https://arxiv.org/abs/2608.07538",
+      "id": "1a278ddf0f81fccfe3e0076323b78fc2",
+      "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
+      "link": "https://arxiv.org/abs/2608.10157",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -497,9 +497,9 @@
       "body_preview": ""
     },
     {
-      "id": "8583300cf335de89952d480cf3ee20ab",
-      "title": "TREAT: Evaluating Access to Formal Knowledge across Equivalent Mathematical Representations",
-      "link": "https://arxiv.org/abs/2608.07540",
+      "id": "37f37f39f1bc155293b5e58fbd498586",
+      "title": "Generating Attacks for LLMs with GFlowNets",
+      "link": "https://arxiv.org/abs/2608.10171",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -508,9 +508,9 @@
       "body_preview": ""
     },
     {
-      "id": "c657177944037e1f1e0a04c0e8b46ba8",
-      "title": "An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop",
-      "link": "https://arxiv.org/abs/2608.07542",
+      "id": "de8917c4066cfaaa0ffeb0517500041c",
+      "title": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine",
+      "link": "https://arxiv.org/abs/2608.10176",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -519,9 +519,9 @@
       "body_preview": ""
     },
     {
-      "id": "2dd70757036936df5efb9253b51e32b6",
-      "title": "The Field Knows: Cross-Dimensional Geometry from Navigation to Black Holes",
-      "link": "https://arxiv.org/abs/2608.07566",
+      "id": "faad69dd5d33eb088ac0aa12ad3b0f3b",
+      "title": "Post-Hoc Sparse Coding of Latent Communication Between Vision-Language Model Agents",
+      "link": "https://arxiv.org/abs/2608.10198",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -530,9 +530,9 @@
       "body_preview": ""
     },
     {
-      "id": "33327a3d410708c622efa21d83537c46",
-      "title": "TeXFix-Bench: An Empirically Grounded Multi-Format Benchmark for LLM-Based Document Source Repair",
-      "link": "https://arxiv.org/abs/2608.07617",
+      "id": "53f51b1c7d28c0d1b9d4c65f59084880",
+      "title": "Edge Phoneme Recognition for Children's Speech through Age-Aware Training",
+      "link": "https://arxiv.org/abs/2608.10206",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -541,9 +541,9 @@
       "body_preview": ""
     },
     {
-      "id": "80625b60510aadaceb882a30d7ad7440",
-      "title": "CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models",
-      "link": "https://arxiv.org/abs/2608.07621",
+      "id": "f9ee8f034e8c0350338adce5854efe16",
+      "title": "Mitigating Bus Bunching with Reinforcement Learning Enhanced by Semantic Stop Embedding",
+      "link": "https://arxiv.org/abs/2608.10207",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -552,9 +552,9 @@
       "body_preview": ""
     },
     {
-      "id": "aceee2fb15e2588246eb76ec36444b3b",
-      "title": "Controlled Memory Interference in Continual LLM Agents",
-      "link": "https://arxiv.org/abs/2608.07622",
+      "id": "be1c4b2992917b45124f2328726c5e9e",
+      "title": "Evaluation-Conditioned Training: Teaching Models to Generalize to Stronger Oversight Regimes",
+      "link": "https://arxiv.org/abs/2608.10209",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -563,9 +563,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d533a6476e3f27e0472c1f629686c4c",
-      "title": "From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems",
-      "link": "https://arxiv.org/abs/2608.07627",
+      "id": "5b3792711ebeae5b4e360e719a70dfd9",
+      "title": "Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models",
+      "link": "https://arxiv.org/abs/2608.10214",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -574,9 +574,9 @@
       "body_preview": ""
     },
     {
-      "id": "7d0c868fea57b35c577dd8fdc606ce74",
-      "title": "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns",
-      "link": "https://arxiv.org/abs/2608.07637",
+      "id": "3b0a33dfb946ae1801c78dc5e22884ef",
+      "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+      "link": "https://arxiv.org/abs/2608.10218",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -585,9 +585,9 @@
       "body_preview": ""
     },
     {
-      "id": "4524f361791bcf5b60df0b09596bc57c",
-      "title": "Contextual Value Alignment via Multilayer Combinatorial Fusion",
-      "link": "https://arxiv.org/abs/2608.07642",
+      "id": "78ee48ea76af1531fca2ff14f4dd3296",
+      "title": "Self-evolving Agentic Customer Support System at LinkedIn",
+      "link": "https://arxiv.org/abs/2608.10224",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -596,9 +596,9 @@
       "body_preview": ""
     },
     {
-      "id": "c0cd86680f51d2dd2f3c3ea2be77beef",
-      "title": "Mendel G\\\"odel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution",
-      "link": "https://arxiv.org/abs/2608.07645",
+      "id": "60a7f99ef95f4f23c47efca9457ef631",
+      "title": "Beyond Decision Boundaries: Relational Geometry Attacks on Contrastive Embedding Manifolds",
+      "link": "https://arxiv.org/abs/2608.10237",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -607,9 +607,9 @@
       "body_preview": ""
     },
     {
-      "id": "09cc7640d712b4323840dc9eeb1a2ae6",
-      "title": "An Agentic AI Framework Overcomes Fundamental Limitations of Large Language Models for Glaucoma Detection from Fundus Photography",
-      "link": "https://arxiv.org/abs/2608.07651",
+      "id": "834729efff3cda84a11609510742696d",
+      "title": "Beyond Detection: Evaluating Defensive LLMs Against AI-Generated Social Engineering in Live Turn-by-Turn Interaction",
+      "link": "https://arxiv.org/abs/2608.10239",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -618,9 +618,9 @@
       "body_preview": ""
     },
     {
-      "id": "dd5b2f1ba3c786a5535995f687694aa1",
-      "title": "IntelliAudit: Using Large Language Models to Evaluate Audit Controls",
-      "link": "https://arxiv.org/abs/2608.07688",
+      "id": "30cf3361f6f578954f07a07558c21823",
+      "title": "Interpreting Language Model Hidden States at Scale",
+      "link": "https://arxiv.org/abs/2608.10260",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -629,9 +629,9 @@
       "body_preview": ""
     },
     {
-      "id": "7b6824f4d7dcee75061195af044e41f4",
-      "title": "Towards Researcher Agents for Knowledge-Graph Question Answering",
-      "link": "https://arxiv.org/abs/2608.07700",
+      "id": "3a56539b0a7eae3c2fe615ebf0d85d16",
+      "title": "Logit-Boundary Geometric Belief Interfaces and Sparse Sheaf-Enclave Protocols: A Self-Contained Substrate for Secure Network Electronic Health Record (EHR) Interoperability",
+      "link": "https://arxiv.org/abs/2608.10300",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -640,9 +640,9 @@
       "body_preview": ""
     },
     {
-      "id": "99dc195f277567448a6283b28339f151",
-      "title": "Protecting patient privacy in clinical foundation models: Technical and legal perspectives",
-      "link": "https://arxiv.org/abs/2608.07705",
+      "id": "52db00a60af6ec190948aa607dc38d04",
+      "title": "Neuroevolution Arena: Nested Ecological Evaluation of Update-and-Inheritance Regimes across Neural Architectures",
+      "link": "https://arxiv.org/abs/2608.10323",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -651,9 +651,9 @@
       "body_preview": ""
     },
     {
-      "id": "fb99b41c7a4f92b55f56e8f6639d7532",
-      "title": "QuantumMind: Constraint-Grounded Agentic Reasoning for Speedup Analysis in Quantum Computing",
-      "link": "https://arxiv.org/abs/2608.07743",
+      "id": "77b97d2aaae6766a6294ac9e1a0450dd",
+      "title": "Toward a Theory of Value in AI Alignment",
+      "link": "https://arxiv.org/abs/2608.10327",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -662,9 +662,9 @@
       "body_preview": ""
     },
     {
-      "id": "4eb3cb97184dd057cae211d01cde0aae",
-      "title": "Adaptive Two-Level Allocation of a Conserved Capacity Budget Across Locations and Service Classes",
-      "link": "https://arxiv.org/abs/2608.07747",
+      "id": "a7004b261d3ea85b2691f72ebfd2f6c1",
+      "title": "Hierarchical Compositionality for An Assistive AI Agent",
+      "link": "https://arxiv.org/abs/2608.10330",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -673,9 +673,9 @@
       "body_preview": ""
     },
     {
-      "id": "9a20bae99fad2550505e74bc258f17cc",
-      "title": "Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation",
-      "link": "https://arxiv.org/abs/2608.07762",
+      "id": "555c7f9f7b7ab8de7c7cf9f9287de986",
+      "title": "Nutrition Data Infrastructure for the AI Era: Operationalizing FAIR for Agent-Mediated Research",
+      "link": "https://arxiv.org/abs/2608.10363",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -684,9 +684,9 @@
       "body_preview": ""
     },
     {
-      "id": "c1c3eb3b15e6f47b596be6eb4d5b33bc",
-      "title": "AndroidReality: How Far Are Mobile Agents from the Real World?",
-      "link": "https://arxiv.org/abs/2608.07775",
+      "id": "e458a582871bd3e61fb2c56db0bb3688",
+      "title": "DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?",
+      "link": "https://arxiv.org/abs/2608.10366",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -695,9 +695,9 @@
       "body_preview": ""
     },
     {
-      "id": "751be4dc2ba0af1b0d2c45bb837b28a5",
-      "title": "The Capability Ladder: A Curriculum-Modernization Framework for Workforce Readiness in the AI Era",
-      "link": "https://arxiv.org/abs/2608.07779",
+      "id": "6b65191e7b23fdc77481201097b5891f",
+      "title": "Hidden in Plain Sight: Diffusion-Based Unrestricted Robotic Attacks on Vision-Language-Action Models",
+      "link": "https://arxiv.org/abs/2608.10393",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -706,9 +706,9 @@
       "body_preview": ""
     },
     {
-      "id": "08bc1e0b66d2c5fad6f1d2feac1212d1",
-      "title": "Who Built This Model? Tracing LLM Lineage via Spectral Fingerprints in Weight Space",
-      "link": "https://arxiv.org/abs/2608.07786",
+      "id": "cc1aee8b9a11f20ad09ef3f7bb673b95",
+      "title": "Threat-guided Policy-aware Scene Perturbation for Safe Autonomous Driving with Online Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2608.10403",
       "summary": "",
       "published_at": "2026-08-12T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -1157,6 +1157,17 @@
       "body_preview": ""
     },
     {
+      "id": "41cd459b5ee7f2161c86684c3440d3be",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "summary": "",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "4ad5d72e6342c25a4f031d64f70e0f61",
       "title": "How Zapier transformed core marketing processes with ChatGPT Work",
       "link": "https://openai.com/index/zapier",
@@ -1171,17 +1182,6 @@
       "id": "458de6ef05a27adb6dadfaed4787e200",
       "title": "Premium seats are coming to ChatGPT Business",
       "link": "https://openai.com/index/premium-seats-chatgpt-business",
-      "summary": "",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "41cd459b5ee7f2161c86684c3440d3be",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "summary": "",
       "published_at": "2026-08-10T00:00:00+00:00",
       "source": "OpenAI News",
