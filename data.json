@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-13T20:09:55.237830+00:00",
+  "generated_at": "2026-08-13T21:00:02.730025+00:00",
   "articles": [
+    {
+      "id": "d9524a840a1481b47c71370179d40ed3",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "summary": "",
+      "published_at": "2026-08-13T20:14:39+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "890c03cda2b5a0966f65e771b59810a5",
       "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
@@ -9,17 +20,6 @@
       "published_at": "2026-08-13T19:39:54+00:00",
       "source": "The Decoder",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9202f057c6cd45567751e4aa43fd8798",
-      "title": "OpenAI is losing its second executive this week",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
-      "published_at": "2026-08-13T19:28:39+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -992,6 +992,17 @@
       "body_preview": ""
     },
     {
+      "id": "e97bb0e57c23cf5ead3c175a5323a698",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
+      "published_at": "2026-08-12T00:39:26+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "96a823efe7461d9f32d6d2f6caf38d7e",
       "title": "How RingCentral builds AI-native work from engineering to ops",
       "link": "https://openai.com/index/ringcentral",
@@ -1000,17 +1011,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "6759d4c3f2f393a6caeea7b0afe17bd2",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "summary": "",
-      "published_at": "2026-08-11T21:39:11+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
