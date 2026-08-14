@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T19:15:18.495131+00:00",
+  "generated_at": "2026-08-14T19:56:52.522447+00:00",
   "articles": [
     {
       "id": "1b9d024d12488dea65b19cb6b3c4856f",
@@ -552,6 +552,17 @@
       "body_preview": ""
     },
     {
+      "id": "ff0d3111b8b01ad536f3a23d5956f676",
+      "title": "How Claude’s text watermark works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether…",
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
+    },
+    {
       "id": "c14b34941c47b57c85b2333749bc2d66",
       "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
       "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
@@ -1100,17 +1111,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": ""
-    },
-    {
-      "id": "ff0d3111b8b01ad536f3a23d5956f676",
-      "title": "How Claude’s text watermark works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether…",
-      "published_at": "2026-08-12T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
     },
     {
       "id": "a2846d4644da434b55d855aa46c130c7",
