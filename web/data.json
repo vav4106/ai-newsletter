@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T23:55:06.126269+00:00",
+  "generated_at": "2026-08-14T00:55:18.091657+00:00",
   "articles": [
     {
       "id": "c14b34941c47b57c85b2333749bc2d66",
@@ -1630,17 +1630,6 @@
       "body_preview": ""
     },
     {
-      "id": "3ff064046d1758345917d424d05c5cfe",
-      "title": "Disrupting a Criminal Scam Operation",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "summary": "",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "0701aa53a09f6a6bbdf2732756ab3b5a",
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
       "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
@@ -1650,6 +1639,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews. This post reflects our current understanding; we'll update it if any details change. On July 21, OpenAI disclosed that several of their models had broken out of an isolated test"
+    },
+    {
+      "id": "e6b4ec1b7b0fe936c462d4a9b9589e9f",
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "A post by Dario Amodei, Anthropic CEO Over the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights models, and some people have even accused…",
+      "published_at": "2026-07-27T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "A post by Dario Amodei, Anthropic CEO Over the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights models, and some people have even accused Anthropic of wanting to ban open-weights models as a means of protecting our business. Anyone who has read my past writing should know that I don’t regard such bans as a useful measure, but let me state it cle"
     }
   ],
   "milestones": []
