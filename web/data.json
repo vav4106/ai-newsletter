@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-15T20:39:56.958042+00:00",
+  "generated_at": "2026-08-15T20:56:36.009418+00:00",
   "articles": [
+    {
+      "id": "b9a4f390d9f6733d6a1996da042ec991",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+      "published_at": "2026-08-15T20:45:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "ac268c7f65ab30787b2c4a1c927400f2",
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -1010,17 +1021,6 @@
       "published_at": "2026-08-12T17:37:37+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5e3c8158109b6152f1bab677ac53faa6",
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
-      "published_at": "2026-08-12T17:29:10+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
