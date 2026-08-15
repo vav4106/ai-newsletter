@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:54:51.780196+00:00",
+  "generated_at": "2026-08-15T00:32:49.067612+00:00",
   "articles": [
     {
       "id": "09d24a32dceeb14ba008eabb0f8285e9",
@@ -1360,17 +1360,6 @@
       "link": "https://openai.com/index/circles",
       "summary": "",
       "published_at": "2026-08-03T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "52fd113c9c5cbaa95c175bbf342bb0d4",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "link": "https://openai.com/index/ten-advances-in-mathematics",
-      "summary": "",
-      "published_at": "2026-08-01T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
