@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-15T07:38:04.518186+00:00",
+  "generated_at": "2026-08-15T07:57:14.247099+00:00",
   "articles": [
+    {
+      "id": "5050a35280ce7c02c9b75aca79e4b44f",
+      "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
+      "link": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
+      "summary": "",
+      "published_at": "2026-08-15T07:30:48+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "7eb6cabbd14b855d2266231cfd448221",
       "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise",
@@ -624,17 +635,6 @@
       "summary": "",
       "published_at": "2026-08-13T20:14:39+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "890c03cda2b5a0966f65e771b59810a5",
-      "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
-      "link": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
-      "summary": "",
-      "published_at": "2026-08-13T19:39:54+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
