@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-15T16:56:02.731531+00:00",
+  "generated_at": "2026-08-15T17:11:31.250873+00:00",
   "articles": [
+    {
+      "id": "89e3bfcac563fb643a72eabf5c8c8ae8",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "summary": "",
+      "published_at": "2026-08-15T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "d85045b37ecf7c1588757d1e7feb9466",
       "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
@@ -878,17 +889,6 @@
       "published_at": "2026-08-12T17:29:10+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "10d98b7cad0011f29dc46fcd00cb7b63",
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "summary": "",
-      "published_at": "2026-08-12T16:57:58+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
