@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-15T21:12:41.021361+00:00",
+  "generated_at": "2026-08-15T21:35:32.284520+00:00",
   "articles": [
+    {
+      "id": "d73096fa5d18e08b1cd5958c2ed0e213",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "summary": "",
+      "published_at": "2026-08-15T21:29:19+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "b9a4f390d9f6733d6a1996da042ec991",
       "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
@@ -997,17 +1008,6 @@
       "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
       "summary": "",
       "published_at": "2026-08-12T18:19:12+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e5fb12b2ca18906542549d07671db5ee",
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "summary": "",
-      "published_at": "2026-08-12T17:51:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
