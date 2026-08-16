@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:35:30.951289+00:00",
+  "generated_at": "2026-08-16T23:50:54.656487+00:00",
   "articles": [
     {
       "id": "0c3377fd4ec13b2b9e7a789a9a81ecc8",
@@ -310,6 +310,28 @@
       "body_preview": ""
     },
     {
+      "id": "14d0a8bddd2c86437603a2d5e817a8a2",
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Health Forum during Galaxy Unpacked in July 2026. Samsung described a future of [&#8230;] The post Samsung health AI models analyse wearable biosignal data appeared first on AI News .",
+      "published_at": "2026-08-14T13:30:10+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3ee1a5ba8c9eb3e12096c67ab90c19af",
+      "title": "Google AI health coach to use Abbott glucose data",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be integrated into the Google Health app. Users will be able to view glucose trends alongside [&#8230;] The post Google AI health coach to use Abbott glucose data appeared first on AI News .",
+      "published_at": "2026-08-14T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "0c006c7b16464c5d1ded5014bf126801",
       "title": "Apple trained its own AI model for China with help from Alibaba",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
@@ -596,6 +618,17 @@
       "body_preview": ""
     },
     {
+      "id": "82b5995e9b42e981f5c76782fac73a09",
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens consumed as a model considers tools, including [&#8230;] The post Okta targets AI agent token costs with MCP scoping appeared first on AI News .",
+      "published_at": "2026-08-13T09:22:06+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "ce1d5ed8db375519e09b9c1934dbeb7a",
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
@@ -680,6 +713,17 @@
       "published_at": "2026-08-12T16:14:36+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5d978ba654ca804f4e04b61554f27377",
+      "title": "Google tests AMIE for clinical video consultations",
+      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonary, abdominal, HEENT, neurological or psychiatric, and musculoskeletal presentations. Google says studies involving real patients and their own health [&#8230;] The post Google tests AMIE for clinical video consultations appeared first on AI News .",
+      "published_at": "2026-08-12T14:56:18+00:00",
+      "source": "AI News",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -783,6 +827,28 @@
       "body_preview": ""
     },
     {
+      "id": "79ae8daa951860bd84d54fa7f6c167d0",
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI partner. The companies have also created a co-innovation hub at Novo Nordisk’s existing London [&#8230;] The post Novo Nordisk and AWS bring agentic AI into drug discovery appeared first on AI News .",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f8bba194808a371d54c5eb41f94bdeec",
+      "title": "How AI is changing the vulnerability response timeline",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, dependency records and rebuild speed affect the response after an unknown flaw is exposed. Faster analysis helps only [&#8230;] The post How AI is changing the vulnerability response timeline appeared first on AI News .",
+      "published_at": "2026-08-11T07:05:55+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "b3beea770cd3c6169b67321243d64864",
       "title": "AI professors are negotiating the new realities of academic research",
       "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
@@ -849,6 +915,17 @@
       "body_preview": ""
     },
     {
+      "id": "c8960096ba9defa3c73e685a9b321f5d",
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s&#160; Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, local agents, and LLM-as-a-judge evaluation. The release targets an operational [&#8230;] The post Meta Muse Glimmer brings local AI agents to consumer GPUs appeared first on AI News .",
+      "published_at": "2026-08-10T11:02:38+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "f62854de365d44671c11b24b3c1f5621",
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
@@ -879,6 +956,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "4c7ebf3505e9afc68788f47167aa5a5a",
+      "title": "The limits of physics AI: where Siemens says the human stays in charge",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit, and Sam Mahalingam, [&#8230;] The post The limits of physics AI: where Siemens says the human stays in charge appeared first on AI News .",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -959,6 +1047,39 @@
       "body_preview": ""
     },
     {
+      "id": "a1496a9ef453863ad73ce39e5c84165b",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Brian Hie, an assistant professor of chemical engineering and Dieter Schwarz Foundation Stanford Data [&#8230;] The post Stanford Evo 2 AI model generates phages against E. coli appeared first on AI News .",
+      "published_at": "2026-08-07T15:05:03+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "27aeefffdc7cd625c6394c0b0f602111",
+      "title": "How AI Is changing Instagram engagement without replacing the human touch",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s the point: the more AI controls over how you see the content, the more it [&#8230;] The post How AI Is changing Instagram engagement without replacing the human touch appeared first on AI News .",
+      "published_at": "2026-08-07T14:33:59+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "83a538883096fca399d3e3332b3f7cf7",
+      "title": "Alibaba tests new business model for Qwen open-source AI",
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that generate revenue from offering the model as a service to reach a commercial agreement with Alibaba. The exact revenue-sharing rate has [&#8230;] The post Alibaba tests new business model for Qwen open-source AI appeared first on AI News .",
+      "published_at": "2026-08-07T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "0b4e075ec2525a2a54eead081e4a17b0",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "link": "https://openai.com/index/hsp-gruppe",
@@ -979,6 +1100,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
+    },
+    {
+      "id": "12bce91f74a2473bd0fdad56805cd123",
+      "title": "Why health AI interfaces must adapt to user expertise",
+      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from deferring to the model. Primary care providers showed a different pattern: they performed [&#8230;] The post Why health AI interfaces must adapt to user expertise appeared first on AI News .",
+      "published_at": "2026-08-06T15:55:37+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
     },
     {
       "id": "f2df7f0bc9a7122ecd7b4e241f3983db",
