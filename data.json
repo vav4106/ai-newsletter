@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-16T05:44:51.990864+00:00",
+  "generated_at": "2026-08-16T06:02:23.685219+00:00",
   "articles": [
+    {
+      "id": "241f0dcf78a0a7103937a593ce93d458",
+      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+      "link": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
+      "summary": "",
+      "published_at": "2026-08-16T05:50:50+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "ddc4269423d55a7c0266371fb518f221",
       "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
@@ -163,17 +174,6 @@
       "published_at": "2026-08-14T16:54:16+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "cf90d0861e5b8e5ed0136d274f13fec1",
-      "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
-      "link": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
-      "summary": "",
-      "published_at": "2026-08-14T16:43:43+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
