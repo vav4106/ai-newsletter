@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-16T07:51:51.501118+00:00",
+  "generated_at": "2026-08-16T08:14:46.036621+00:00",
   "articles": [
+    {
+      "id": "e2983aa30cb811dd5f0a37bb1f45db61",
+      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
+      "link": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+      "summary": "",
+      "published_at": "2026-08-16T08:12:52+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "18247519fcf93cd52b20733a4d2f7ed5",
       "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
@@ -150,17 +161,6 @@
       "link": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
       "summary": "",
       "published_at": "2026-08-15T05:30:18+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "09d24a32dceeb14ba008eabb0f8285e9",
-      "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
-      "link": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
-      "summary": "",
-      "published_at": "2026-08-14T21:29:17+00:00",
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
