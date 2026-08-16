@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:41:28.536577+00:00",
+  "generated_at": "2026-08-16T11:58:36.854370+00:00",
   "articles": [
     {
       "id": "a6f2e01a2949ed2cfd6054602f6afbe7",
@@ -108,17 +108,6 @@
       "published_at": "2026-08-15T15:41:02+00:00",
       "source": "The Decoder",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2bc9b0ad149d9a911922fe058fde8ff5",
-      "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
-      "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
-      "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3 appeared first on MarkTechPost .",
-      "published_at": "2026-08-15T11:28:29+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -244,28 +233,6 @@
       "body_preview": ""
     },
     {
-      "id": "14d0a8bddd2c86437603a2d5e817a8a2",
-      "title": "Samsung health AI models analyse wearable biosignal data",
-      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
-      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Health Forum during Galaxy Unpacked in July 2026. Samsung described a future of [&#8230;] The post Samsung health AI models analyse wearable biosignal data appeared first on AI News .",
-      "published_at": "2026-08-14T13:30:10+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3ee1a5ba8c9eb3e12096c67ab90c19af",
-      "title": "Google AI health coach to use Abbott glucose data",
-      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
-      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be integrated into the Google Health app. Users will be able to view glucose trends alongside [&#8230;] The post Google AI health coach to use Abbott glucose data appeared first on AI News .",
-      "published_at": "2026-08-14T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0c006c7b16464c5d1ded5014bf126801",
       "title": "Apple trained its own AI model for China with help from Alibaba",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
@@ -273,39 +240,6 @@
       "published_at": "2026-08-14T09:21:17+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "bf251c5b011d47b336b0d1f43fbec9a4",
-      "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
-      "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
-      "summary": "Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9. Cybersecurity moved further than Z.ai says it planned, with CyberGym at 84.5% and ExploitBench more than doubling to 54.4%. Weights arrive in about two weeks. The post Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks appeared first on MarkTechPost .",
-      "published_at": "2026-08-14T08:03:22+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a79244dc1d2ab449661f179a5972ce75",
-      "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
-      "link": "https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/",
-      "summary": "Cactus Compute released Needle 2, an open 45M-parameter model for tool calling, device use, and structured extraction. The full model is a single 14MB binary that runs a session in about 28MB of RAM. It leads both Seal-Tools splits while targeting hardware with no GPU and no NPU. The post Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM appeared first on MarkTechPost .",
-      "published_at": "2026-08-14T05:45:47+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "86a15056d8df11f101646fd1f330ee92",
-      "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
-      "link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
-      "summary": "This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline—from dataset analysis and heuristic cleaning to efficient training and inference—enabling the development of specialized small models without excessive resource requirements The post Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus appeared first on MarkTechPost .",
-      "published_at": "2026-08-14T03:09:45+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -409,17 +343,6 @@
       "body_preview": ""
     },
     {
-      "id": "1da7a5865759b5346fd8b1f876e87163",
-      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-      "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
-      "summary": "Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-token context window with 64K-token output, and supports customizable thinking configurations. Coding results move notably: 43.6% on FrontierCode 1.1 Main versus 34.4%, 65.3% on DeepSWE v1.1, and 1588 Elo on WebDev Arena. Document and workflow evals gain more — GDP.pdf goes from 22.0% to 34.0%, AutomationBench from 17.0% to 30.4%. GPT-5.6 Terra still leads on terminal and computer-use agents. The model is API and enterprise only, with no open weights, at an introductory $0.75/$3.75 per 1M tokens through December 31, 2026. The post Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input ",
-      "published_at": "2026-08-13T17:47:41+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "04128c29218e4c5ea36827d702d5b6b0",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
@@ -471,17 +394,6 @@
       "published_at": "2026-08-13T16:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f708dfd581c58a90afed8b844bc7cb20",
-      "title": "Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device",
-      "link": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
-      "summary": "Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts RefCOCO grounding from 57.1 to 87.9. Function calling is new to the VL line, with ToolSandbox moving from 26.4 to 59.5. The model fits in roughly 3 GB and decodes 228 tokens/s on an Apple M5 Max. The post Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device appeared first on MarkTechPost .",
-      "published_at": "2026-08-13T15:56:03+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -585,17 +497,6 @@
       "body_preview": ""
     },
     {
-      "id": "82b5995e9b42e981f5c76782fac73a09",
-      "title": "Okta targets AI agent token costs with MCP scoping",
-      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
-      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens consumed as a model considers tools, including [&#8230;] The post Okta targets AI agent token costs with MCP scoping appeared first on AI News .",
-      "published_at": "2026-08-13T09:22:06+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ce1d5ed8db375519e09b9c1934dbeb7a",
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
@@ -615,28 +516,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "3e2596f8166649b39483e7c35df4c898",
-      "title": "Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video",
-      "link": "https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/",
-      "summary": "Dyna Robotics has released Dyna-2, a world-action model pre-trained on more than one million hours of egocentric human video. The technical report establishes three results: a scaling law on human data to 1M hours, the first transfer of that law to unseen robot data, and evidence that video co-training drives cross-embodiment generalization. The post Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video appeared first on MarkTechPost .",
-      "published_at": "2026-08-13T07:42:02+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "dfd83febad792f01b8e71880d6a25dff",
-      "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
-      "link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
-      "summary": "SpaceXAI released Grok 4.6 on August 12, 2026 — a post-training upgrade over Grok 4.5, not a larger base model. It ties GPT-5.6 Sol Max at 61 on the Artificial Analysis Intelligence Index, ships 500K context and a new xhigh reasoning level, and holds pricing at $2/$6 per million tokens. The coding benchmarks are where it still loses. The post SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work appeared first on MarkTechPost .",
-      "published_at": "2026-08-13T06:18:14+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -684,17 +563,6 @@
       "body_preview": ""
     },
     {
-      "id": "6d7a9f01c3e47ca2bda1a073dd4db453",
-      "title": "AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation",
-      "link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
-      "summary": "Build a custom LLM post-training pipeline using AllenAI’s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware without needing heavy distributed computing infrastructure. The post AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation appeared first on MarkTechPost .",
-      "published_at": "2026-08-12T17:37:37+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ee10ba0ee1a9646b9a4bf2dcc01fcba9",
       "title": "Scaling AI agents with trustworthy data",
       "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
@@ -717,17 +585,6 @@
       "body_preview": ""
     },
     {
-      "id": "5d978ba654ca804f4e04b61554f27377",
-      "title": "Google tests AMIE for clinical video consultations",
-      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
-      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonary, abdominal, HEENT, neurological or psychiatric, and musculoskeletal presentations. Google says studies involving real patients and their own health [&#8230;] The post Google tests AMIE for clinical video consultations appeared first on AI News .",
-      "published_at": "2026-08-12T14:56:18+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ce638190d1192f1f0918b9c2947be605",
       "title": "Putting sign language AI into users’ hands",
       "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
@@ -746,17 +603,6 @@
       "published_at": "2026-08-12T14:00:51+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3c609c3887d711cb23904fab3b27370e",
-      "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
-      "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
-      "summary": "NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model. The post NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router appeared first on MarkTechPost .",
-      "published_at": "2026-08-12T06:59:40+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -827,28 +673,6 @@
       "body_preview": ""
     },
     {
-      "id": "79ae8daa951860bd84d54fa7f6c167d0",
-      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
-      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
-      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI partner. The companies have also created a co-innovation hub at Novo Nordisk’s existing London [&#8230;] The post Novo Nordisk and AWS bring agentic AI into drug discovery appeared first on AI News .",
-      "published_at": "2026-08-11T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f8bba194808a371d54c5eb41f94bdeec",
-      "title": "How AI is changing the vulnerability response timeline",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
-      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, dependency records and rebuild speed affect the response after an unknown flaw is exposed. Faster analysis helps only [&#8230;] The post How AI is changing the vulnerability response timeline appeared first on AI News .",
-      "published_at": "2026-08-11T07:05:55+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b3beea770cd3c6169b67321243d64864",
       "title": "AI professors are negotiating the new realities of academic research",
       "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
@@ -915,17 +739,6 @@
       "body_preview": ""
     },
     {
-      "id": "c8960096ba9defa3c73e685a9b321f5d",
-      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s&#160; Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, local agents, and LLM-as-a-judge evaluation. The release targets an operational [&#8230;] The post Meta Muse Glimmer brings local AI agents to consumer GPUs appeared first on AI News .",
-      "published_at": "2026-08-10T11:02:38+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f62854de365d44671c11b24b3c1f5621",
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
@@ -956,17 +769,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "4c7ebf3505e9afc68788f47167aa5a5a",
-      "title": "The limits of physics AI: where Siemens says the human stays in charge",
-      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
-      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit, and Sam Mahalingam, [&#8230;] The post The limits of physics AI: where Siemens says the human stays in charge appeared first on AI News .",
-      "published_at": "2026-08-10T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1047,39 +849,6 @@
       "body_preview": ""
     },
     {
-      "id": "a1496a9ef453863ad73ce39e5c84165b",
-      "title": "Stanford Evo 2 AI model generates phages against E. coli",
-      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Brian Hie, an assistant professor of chemical engineering and Dieter Schwarz Foundation Stanford Data [&#8230;] The post Stanford Evo 2 AI model generates phages against E. coli appeared first on AI News .",
-      "published_at": "2026-08-07T15:05:03+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "27aeefffdc7cd625c6394c0b0f602111",
-      "title": "How AI Is changing Instagram engagement without replacing the human touch",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
-      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s the point: the more AI controls over how you see the content, the more it [&#8230;] The post How AI Is changing Instagram engagement without replacing the human touch appeared first on AI News .",
-      "published_at": "2026-08-07T14:33:59+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "83a538883096fca399d3e3332b3f7cf7",
-      "title": "Alibaba tests new business model for Qwen open-source AI",
-      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that generate revenue from offering the model as a service to reach a commercial agreement with Alibaba. The exact revenue-sharing rate has [&#8230;] The post Alibaba tests new business model for Qwen open-source AI appeared first on AI News .",
-      "published_at": "2026-08-07T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0b4e075ec2525a2a54eead081e4a17b0",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "link": "https://openai.com/index/hsp-gruppe",
@@ -1100,17 +869,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
-    },
-    {
-      "id": "12bce91f74a2473bd0fdad56805cd123",
-      "title": "Why health AI interfaces must adapt to user expertise",
-      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from deferring to the model. Primary care providers showed a different pattern: they performed [&#8230;] The post Why health AI interfaces must adapt to user expertise appeared first on AI News .",
-      "published_at": "2026-08-06T15:55:37+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
     },
     {
       "id": "f2df7f0bc9a7122ecd7b4e241f3983db",
