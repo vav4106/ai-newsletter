@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-17T21:03:59.127044+00:00",
+  "generated_at": "2026-08-17T21:35:04.910876+00:00",
   "articles": [
+    {
+      "id": "217a4fdfe51c556a43561c85badb8193",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "summary": "",
+      "published_at": "2026-08-17T21:27:05+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "67943b1bdd654b2c9d98bb7c75a3582b",
       "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
@@ -854,17 +865,6 @@
       "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
       "summary": "",
       "published_at": "2026-08-13T19:22:40+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f613c3afdcc94ea27deb730eacf6b0e1",
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "summary": "",
-      "published_at": "2026-08-13T19:19:49+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
