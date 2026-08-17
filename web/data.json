@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-17T14:13:24.758061+00:00",
+  "generated_at": "2026-08-17T14:45:43.301419+00:00",
   "articles": [
+    {
+      "id": "2328bfcf39c4e8ec4c5a369af8a21326",
+      "title": "AirTag reveals how Amazon destroys rare books for AI training",
+      "link": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+      "summary": "",
+      "published_at": "2026-08-17T14:43:04+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c4e268abe9b10620b91847a217765929",
+      "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
+      "link": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
+      "summary": "",
+      "published_at": "2026-08-17T14:13:26+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "c3cc6206ad1095e87e3c60a0f15098fb",
       "title": "AI video market has bounced back from Sora's false start",
@@ -557,28 +579,6 @@
       "link": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
       "summary": "",
       "published_at": "2026-08-16T07:20:06+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "241f0dcf78a0a7103937a593ce93d458",
-      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
-      "link": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
-      "summary": "",
-      "published_at": "2026-08-16T05:50:50+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ddc4269423d55a7c0266371fb518f221",
-      "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
-      "link": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
-      "summary": "",
-      "published_at": "2026-08-16T05:00:00+00:00",
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
