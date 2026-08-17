@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:50:54.656487+00:00",
+  "generated_at": "2026-08-17T00:31:59.968394+00:00",
   "articles": [
     {
       "id": "0c3377fd4ec13b2b9e7a789a9a81ecc8",
@@ -1261,17 +1261,6 @@
       "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "summary": "",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "c070f47d0a8b46d31e6778a13be2736e",
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "link": "https://openai.com/index/circles",
-      "summary": "",
-      "published_at": "2026-08-03T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
