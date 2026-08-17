@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-17T16:13:14.493075+00:00",
+  "generated_at": "2026-08-17T16:46:33.662996+00:00",
   "articles": [
+    {
+      "id": "9e25b592be04d5e6b8c5c364f5a11dd4",
+      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "summary": "",
+      "published_at": "2026-08-17T16:38:44+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "52d38762cb976c2fd964defa5fea38e5",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "summary": "",
+      "published_at": "2026-08-17T16:15:12+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "c6f079b2d7aa16e7dba98540b9bcae32",
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
@@ -926,17 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "6d30a16b5eeb48660220279125ab2f3b",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "summary": "",
-      "published_at": "2026-08-13T17:07:13+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e8f4ce64f13a061027461066d88c2c78",
       "title": "Introducing Gemini 3.7 Flash",
       "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -966,17 +977,6 @@
       "published_at": "2026-08-13T15:56:03+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "336379fd6a68d5fb694e9b102213bbfa",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "summary": "",
-      "published_at": "2026-08-13T15:30:52+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
