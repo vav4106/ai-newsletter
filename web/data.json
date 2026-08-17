@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-17T15:02:55.534033+00:00",
+  "generated_at": "2026-08-17T15:34:12.086719+00:00",
   "articles": [
+    {
+      "id": "c6f079b2d7aa16e7dba98540b9bcae32",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "summary": "",
+      "published_at": "2026-08-17T15:16:24+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2328bfcf39c4e8ec4c5a369af8a21326",
       "title": "AirTag reveals how Amazon destroys rare books for AI training",
@@ -964,17 +975,6 @@
       "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
       "summary": "",
       "published_at": "2026-08-13T15:30:52+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f1acd0db49652627c11a1b41d9aa8de6",
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "summary": "",
-      "published_at": "2026-08-13T15:08:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
