@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T17:06:02.606154+00:00",
+  "generated_at": "2026-08-17T17:37:57.519650+00:00",
   "articles": [
     {
-      "id": "9e25b592be04d5e6b8c5c364f5a11dd4",
-      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "id": "08e05114f583364151bec5d4ff519c1e",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "summary": "",
       "published_at": "2026-08-17T16:38:44+00:00",
@@ -673,6 +673,17 @@
       "body_preview": ""
     },
     {
+      "id": "5f7146daf5d3bbedff9d331c94e56117",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "summary": "",
+      "published_at": "2026-08-15T16:10:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "2bc9b0ad149d9a911922fe058fde8ff5",
       "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
       "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
@@ -909,17 +920,6 @@
       "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "summary": "",
       "published_at": "2026-08-13T19:19:49+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b5a05f67c3f3f43d68ea08a0b5af1a18",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "summary": "",
-      "published_at": "2026-08-13T18:28:14+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
