@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-17T13:09:43.199464+00:00",
+  "generated_at": "2026-08-17T13:50:39.771181+00:00",
   "articles": [
+    {
+      "id": "c3cc6206ad1095e87e3c60a0f15098fb",
+      "title": "AI video market has bounced back from Sora's false start",
+      "link": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/",
+      "summary": "",
+      "published_at": "2026-08-17T13:29:01+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5745f9a29f76f18651e7492b002783c8",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "summary": "",
+      "published_at": "2026-08-17T13:10:05+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "60b398d51dc6d2be63060cb19963adfa",
       "title": "Anthropic watermarks Claude's output, but critics question the tradeoffs",
@@ -618,17 +640,6 @@
       "body_preview": ""
     },
     {
-      "id": "d85045b37ecf7c1588757d1e7feb9466",
-      "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
-      "link": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
-      "summary": "",
-      "published_at": "2026-08-15T15:41:02+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2bc9b0ad149d9a911922fe058fde8ff5",
       "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
       "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
@@ -964,17 +975,6 @@
       "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
       "summary": "",
       "published_at": "2026-08-13T15:08:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "33d42b12aa19d5916b472bb34b050795",
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "summary": "",
-      "published_at": "2026-08-13T14:34:43+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
