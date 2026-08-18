@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-18T17:16:58.888210+00:00",
+  "generated_at": "2026-08-18T17:46:04.094873+00:00",
   "articles": [
+    {
+      "id": "55472ba2135efbec0eae2eb15edd44d8",
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "summary": "",
+      "published_at": "2026-08-18T17:21:58+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "1bb479823632bf4cda21ff2a336f011d",
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
@@ -1019,17 +1030,6 @@
       "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
       "summary": "",
       "published_at": "2026-08-14T15:43:28+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "88ce12f090649217f9819ca1247aafd3",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "summary": "",
-      "published_at": "2026-08-14T14:50:11+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
