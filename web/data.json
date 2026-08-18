@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-18T11:48:10.117399+00:00",
+  "generated_at": "2026-08-18T12:03:44.856629+00:00",
   "articles": [
+    {
+      "id": "c0f2bd80e18173abb73951de4162f7b7",
+      "title": "Google&#8217;s Pet Memory forgot who my cats are",
+      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+      "published_at": "2026-08-18T12:01:29+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0a0fecdb557926db096e93cc08d53672",
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work with freight data and workflows already held within the TMS. Foundry includes more than 20 pre-built [&#8230;] The post Alvys launches AI agents for freight TMS workflows appeared first on AI News .",
+      "published_at": "2026-08-18T12:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "4e2bbb73a4599047e076a0286856ed6a",
       "title": "As AI beats doctors, regulators shouldn't force a human into the loop, JAMA piece says",
@@ -893,17 +915,6 @@
       "body_preview": ""
     },
     {
-      "id": "748f26c93c822e036c6c2961b7164893",
-      "title": "Mark Zuckerberg has an Instagzam",
-      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
-      "published_at": "2026-08-14T16:54:16+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "22543f00c1fc24c230b5a5f6481f6a4b",
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
@@ -1525,17 +1536,6 @@
       "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
       "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s the point: the more AI controls over how you see the content, the more it [&#8230;] The post How AI Is changing Instagram engagement without replacing the human touch appeared first on AI News .",
       "published_at": "2026-08-07T14:33:59+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "83a538883096fca399d3e3332b3f7cf7",
-      "title": "Alibaba tests new business model for Qwen open-source AI",
-      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that generate revenue from offering the model as a service to reach a commercial agreement with Alibaba. The exact revenue-sharing rate has [&#8230;] The post Alibaba tests new business model for Qwen open-source AI appeared first on AI News .",
-      "published_at": "2026-08-07T10:00:00+00:00",
       "source": "AI News",
       "category": "industry",
       "importance": "medium",
