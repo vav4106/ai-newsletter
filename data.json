@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-18T09:00:31.239932+00:00",
+  "generated_at": "2026-08-18T09:34:12.978572+00:00",
   "articles": [
+    {
+      "id": "2409189dab66d9a3c693200474f6e3ac",
+      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
+      "published_at": "2026-08-18T09:00:01+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "50601da57e2e24460c30522c4e6c6192",
       "title": "AI systems quietly drop user instructions when they compress context",
@@ -957,17 +968,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
-    },
-    {
-      "id": "c14b34941c47b57c85b2333749bc2d66",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
-      "published_at": "2026-08-13T21:42:38+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
     },
     {
       "id": "22e8bd05ce779afe7b94a017fc275b81",
