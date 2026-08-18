@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-18T18:03:17.141260+00:00",
+  "generated_at": "2026-08-18T18:52:09.382513+00:00",
   "articles": [
+    {
+      "id": "ddf29a59f1121f8e51659793ec7f7322",
+      "title": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
+      "link": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+      "summary": "",
+      "published_at": "2026-08-18T18:43:06+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "639d1434a4ac7540a60e9deda7495c9c",
+      "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
+      "link": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+      "summary": "",
+      "published_at": "2026-08-18T18:10:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f226c228574d729907f2a7e8d74cd170",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "summary": "",
+      "published_at": "2026-08-18T18:09:38+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "58ddf881e9e532994c718489622783d8",
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
@@ -170,6 +203,17 @@
       "id": "600be17e3c0fd9a7713b84eeec0cf4a2",
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "link": "https://openai.com/index/partnering-with-codeai",
+      "summary": "",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "8d4cc664cdf9d3ab9f6c7ea7786f719d",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "summary": "",
       "published_at": "2026-08-18T11:00:00+00:00",
       "source": "OpenAI News",
@@ -783,28 +827,6 @@
       "body_preview": ""
     },
     {
-      "id": "2328bfcf39c4e8ec4c5a369af8a21326",
-      "title": "AirTag reveals how Amazon destroys rare books for AI training",
-      "link": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
-      "summary": "",
-      "published_at": "2026-08-17T14:43:04+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c4e268abe9b10620b91847a217765929",
-      "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
-      "link": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
-      "summary": "",
-      "published_at": "2026-08-17T14:13:26+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5745f9a29f76f18651e7492b002783c8",
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
       "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
@@ -1300,17 +1322,6 @@
       "body_preview": ""
     },
     {
-      "id": "71ea6da08084ea88a5e960f401b63c3c",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "summary": "",
-      "published_at": "2026-08-11T13:37:10+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "26f9e771e78d49558c7c3e45636d20ca",
       "title": "Testing ads in ChatGPT",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
@@ -1638,17 +1649,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "81b4525d19645d60fbcbd730a3c0d4b7",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "summary": "",
-      "published_at": "2026-08-04T19:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     }
   ],
