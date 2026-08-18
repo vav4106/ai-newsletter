@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-18T17:46:04.094873+00:00",
+  "generated_at": "2026-08-18T18:03:17.141260+00:00",
   "articles": [
+    {
+      "id": "58ddf881e9e532994c718489622783d8",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "",
+      "published_at": "2026-08-18T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "55472ba2135efbec0eae2eb15edd44d8",
       "title": "Etched’s valuation doubles to $21B in a month",
@@ -1019,17 +1030,6 @@
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "summary": "",
       "published_at": "2026-08-14T16:13:40+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "916c6b7aff3ec8fc389c1251d0d47ee7",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "summary": "",
-      "published_at": "2026-08-14T15:43:28+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
