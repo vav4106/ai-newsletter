@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-18T08:21:51.320010+00:00",
+  "generated_at": "2026-08-18T09:00:31.239932+00:00",
   "articles": [
+    {
+      "id": "50601da57e2e24460c30522c4e6c6192",
+      "title": "AI systems quietly drop user instructions when they compress context",
+      "link": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/",
+      "summary": "",
+      "published_at": "2026-08-18T08:22:24+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "33fd357287c4cd9d0cd35ffc3cb804a9",
       "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion",
@@ -711,17 +722,6 @@
       "link": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
       "summary": "",
       "published_at": "2026-08-16T11:23:30+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e2983aa30cb811dd5f0a37bb1f45db61",
-      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
-      "link": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
-      "summary": "",
-      "published_at": "2026-08-16T08:12:52+00:00",
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
