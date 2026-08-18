@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-18T19:44:54.044739+00:00",
+  "generated_at": "2026-08-18T19:58:30.047830+00:00",
   "articles": [
+    {
+      "id": "59798fb313738dff1ee2d00fc279a11d",
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
+      "published_at": "2026-08-18T19:48:26+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "0b6d5acf3a0e7a2cfd2083cb04c8421c",
       "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
@@ -977,17 +988,6 @@
       "published_at": "2026-08-16T16:53:51+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "dcf261b244f76f3d3d1f111d02197d38",
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
-      "published_at": "2026-08-16T14:56:40+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
