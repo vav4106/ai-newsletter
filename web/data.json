@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:35:25.210791+00:00",
+  "generated_at": "2026-08-19T19:05:09.732154+00:00",
   "articles": [
     {
       "id": "92a1ca7848f09ef65d1f5184a448e4b1",
@@ -10,6 +10,50 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "ecbdfc24cca7b5eb90b47e50b4053cae",
+      "title": "Google launches new study tools for students across Search and Gemini",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "summary": "",
+      "published_at": "2026-08-19T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "69ca7ea9776c6884eb6e305d5a55c384",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+      "published_at": "2026-08-19T19:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4e38dc9deba418c0547d60bbfebd176f",
+      "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn",
+      "link": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/",
+      "summary": "",
+      "published_at": "2026-08-19T18:55:53+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "29b6352de3d89754075e3772437218bd",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "summary": "",
+      "published_at": "2026-08-19T18:46:14+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -772,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "4e2bbb73a4599047e076a0286856ed6a",
-      "title": "As AI beats doctors, regulators shouldn't force a human into the loop, JAMA piece says",
-      "link": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/",
-      "summary": "",
-      "published_at": "2026-08-18T11:43:02+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "600be17e3c0fd9a7713b84eeec0cf4a2",
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "link": "https://openai.com/index/partnering-with-codeai",
@@ -867,17 +900,6 @@
       "published_at": "2026-08-18T10:00:00+00:00",
       "source": "AI News",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2409189dab66d9a3c693200474f6e3ac",
-      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
-      "published_at": "2026-08-18T09:00:01+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1047,17 +1069,6 @@
       "body_preview": ""
     },
     {
-      "id": "5745f9a29f76f18651e7492b002783c8",
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "summary": "",
-      "published_at": "2026-08-17T13:10:05+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "bd98c08aa67104b44913d36c80059379",
       "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
       "link": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
@@ -1121,17 +1132,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "93b4771a00a68d5b4a4fd9a86b09ca7b",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "summary": "",
-      "published_at": "2026-08-16T20:57:04+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
