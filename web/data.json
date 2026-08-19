@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:00:19.049782+00:00",
+  "generated_at": "2026-08-19T18:35:25.210791+00:00",
   "articles": [
     {
       "id": "92a1ca7848f09ef65d1f5184a448e4b1",
@@ -10,6 +10,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "f07f49ee2c3f2f9c4aea0ab1d148744d",
+      "title": "OpenAI fixes Codex bug that deleted real user files without permission",
+      "link": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
+      "summary": "",
+      "published_at": "2026-08-19T18:18:34+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -766,17 +777,6 @@
       "link": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/",
       "summary": "",
       "published_at": "2026-08-18T11:43:02+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5af5fef419263ee918080fc46c5b5323",
-      "title": "DOJ probes Andreessen Horowitz over partners sitting on competing AI boards",
-      "link": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/",
-      "summary": "",
-      "published_at": "2026-08-18T11:35:17+00:00",
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
