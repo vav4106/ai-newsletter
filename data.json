@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-19T19:05:09.732154+00:00",
+  "generated_at": "2026-08-19T19:34:21.215687+00:00",
   "articles": [
+    {
+      "id": "e1e64fe7d5740e9937ed05393568e0cb",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "summary": "",
+      "published_at": "2026-08-19T19:11:40+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "92a1ca7848f09ef65d1f5184a448e4b1",
       "title": "Offering Zero Data Retention for frontier models",
@@ -13,8 +24,19 @@
       "body_preview": ""
     },
     {
-      "id": "ecbdfc24cca7b5eb90b47e50b4053cae",
-      "title": "Google launches new study tools for students across Search and Gemini",
+      "id": "34b2344401731941334a1445c2cf2a35",
+      "title": "5 new ways to level up your learning with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "published_at": "2026-08-19T19:00:00+00:00",
+      "source": "Google AI Blog",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "7cb1ba37f0da0604237708ee9f303860",
+      "title": "Google packs Search and Gemini with new AI study tools",
       "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
       "summary": "",
       "published_at": "2026-08-19T19:00:00+00:00",
@@ -1058,17 +1080,6 @@
       "body_preview": ""
     },
     {
-      "id": "c6f079b2d7aa16e7dba98540b9bcae32",
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "summary": "",
-      "published_at": "2026-08-17T15:16:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "bd98c08aa67104b44913d36c80059379",
       "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
       "link": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
@@ -1638,17 +1649,6 @@
       "source": "AI News",
       "category": "industry",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0b4e075ec2525a2a54eead081e4a17b0",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "link": "https://openai.com/index/hsp-gruppe",
-      "summary": "",
-      "published_at": "2026-08-07T09:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     }
   ],
