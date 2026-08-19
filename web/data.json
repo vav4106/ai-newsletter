@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-19T19:54:34.746937+00:00",
+  "generated_at": "2026-08-19T20:13:48.910453+00:00",
   "articles": [
+    {
+      "id": "9d669af82bb9ac32a654becf70a3eea9",
+      "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
+      "link": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
+      "summary": "",
+      "published_at": "2026-08-19T20:03:20+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "e1e64fe7d5740e9937ed05393568e0cb",
       "title": "AI was supposed to win people over by now — it hasn’t",
@@ -42,6 +53,17 @@
       "published_at": "2026-08-19T19:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "69ca7ea9776c6884eb6e305d5a55c384",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+      "published_at": "2026-08-19T19:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -728,6 +750,17 @@
       "body_preview": ""
     },
     {
+      "id": "6433c265f6d43b712f9951c5f0438758",
+      "title": "OpenAI president urges enterprises to hasten AI security defences",
+      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to argue that organisations need to uplevel their security practices with what he terms unprecedented speed. He writes that he [&#8230;] The post OpenAI president urges enterprises to hasten AI security defences appeared first on AI News .",
+      "published_at": "2026-08-18T14:58:27+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "e02ccdfa4e86694975138a1e20dfe6cd",
       "title": "Warp’s new system is an out-of-the-box software factory for AI development",
       "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
@@ -772,17 +805,6 @@
       "body_preview": ""
     },
     {
-      "id": "9aab5d39224af50c23f9b9138ebbbeb3",
-      "title": "Anthropic CEO says AI centralizes by nature and open models just shift power to whoever owns the chips",
-      "link": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/",
-      "summary": "",
-      "published_at": "2026-08-18T13:07:57+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "97f88ffcdb1805efa1e7d3af56e7bd34",
       "title": "Firefox&#8217;s Smart Window promises a better AI browser",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
@@ -801,6 +823,17 @@
       "published_at": "2026-08-18T12:01:29+00:00",
       "source": "The Verge AI",
       "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0a0fecdb557926db096e93cc08d53672",
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work with freight data and workflows already held within the TMS. Foundry includes more than 20 pre-built [&#8230;] The post Alvys launches AI agents for freight TMS workflows appeared first on AI News .",
+      "published_at": "2026-08-18T12:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -882,13 +915,13 @@
       "body_preview": ""
     },
     {
-      "id": "2409189dab66d9a3c693200474f6e3ac",
-      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
-      "published_at": "2026-08-18T09:00:01+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
+      "id": "e09b413c7a415ae54718192b4525a9ee",
+      "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
+      "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+      "summary": "Zhipu&#8217;s&#160;release note&#160;for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability &#8220;is growing fastest exactly where we are furthest behind.&#8221; Zhipu, which also trades as Z.ai, is one of a handful of Chinese labs releasing models that compete with [&#8230;] The post Reading Zhipu&#8217;s GLM-5.3 results past the headline number appeared first on AI News .",
+      "published_at": "2026-08-18T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1124,6 +1157,28 @@
       "body_preview": ""
     },
     {
+      "id": "14d0a8bddd2c86437603a2d5e817a8a2",
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Health Forum during Galaxy Unpacked in July 2026. Samsung described a future of [&#8230;] The post Samsung health AI models analyse wearable biosignal data appeared first on AI News .",
+      "published_at": "2026-08-14T13:30:10+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3ee1a5ba8c9eb3e12096c67ab90c19af",
+      "title": "Google AI health coach to use Abbott glucose data",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be integrated into the Google Health app. Users will be able to view glucose trends alongside [&#8230;] The post Google AI health coach to use Abbott glucose data appeared first on AI News .",
+      "published_at": "2026-08-14T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "bf251c5b011d47b336b0d1f43fbec9a4",
       "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
       "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
@@ -1223,6 +1278,17 @@
       "body_preview": ""
     },
     {
+      "id": "82b5995e9b42e981f5c76782fac73a09",
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens consumed as a model considers tools, including [&#8230;] The post Okta targets AI agent token costs with MCP scoping appeared first on AI News .",
+      "published_at": "2026-08-13T09:22:06+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "ce1d5ed8db375519e09b9c1934dbeb7a",
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
@@ -1274,6 +1340,17 @@
       "published_at": "2026-08-12T16:14:36+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5d978ba654ca804f4e04b61554f27377",
+      "title": "Google tests AMIE for clinical video consultations",
+      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonary, abdominal, HEENT, neurological or psychiatric, and musculoskeletal presentations. Google says studies involving real patients and their own health [&#8230;] The post Google tests AMIE for clinical video consultations appeared first on AI News .",
+      "published_at": "2026-08-12T14:56:18+00:00",
+      "source": "AI News",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1344,6 +1421,28 @@
       "body_preview": ""
     },
     {
+      "id": "79ae8daa951860bd84d54fa7f6c167d0",
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI partner. The companies have also created a co-innovation hub at Novo Nordisk’s existing London [&#8230;] The post Novo Nordisk and AWS bring agentic AI into drug discovery appeared first on AI News .",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f8bba194808a371d54c5eb41f94bdeec",
+      "title": "How AI is changing the vulnerability response timeline",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, dependency records and rebuild speed affect the response after an unknown flaw is exposed. Faster analysis helps only [&#8230;] The post How AI is changing the vulnerability response timeline appeared first on AI News .",
+      "published_at": "2026-08-11T07:05:55+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "b3beea770cd3c6169b67321243d64864",
       "title": "AI professors are negotiating the new realities of academic research",
       "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
@@ -1410,6 +1509,17 @@
       "body_preview": ""
     },
     {
+      "id": "c8960096ba9defa3c73e685a9b321f5d",
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s&#160; Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, local agents, and LLM-as-a-judge evaluation. The release targets an operational [&#8230;] The post Meta Muse Glimmer brings local AI agents to consumer GPUs appeared first on AI News .",
+      "published_at": "2026-08-10T11:02:38+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "f62854de365d44671c11b24b3c1f5621",
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
@@ -1440,6 +1550,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "4c7ebf3505e9afc68788f47167aa5a5a",
+      "title": "The limits of physics AI: where Siemens says the human stays in charge",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit, and Sam Mahalingam, [&#8230;] The post The limits of physics AI: where Siemens says the human stays in charge appeared first on AI News .",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1520,136 +1641,15 @@
       "body_preview": ""
     },
     {
-      "id": "0b4e075ec2525a2a54eead081e4a17b0",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "link": "https://openai.com/index/hsp-gruppe",
-      "summary": "",
-      "published_at": "2026-08-07T09:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "2ba306006c3971074f5aac01c35c81d7",
-      "title": "Improving Fable 5's biology safeguards",
-      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to…",
-      "published_at": "2026-08-07T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
-    },
-    {
-      "id": "f2df7f0bc9a7122ecd7b4e241f3983db",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "summary": "",
-      "published_at": "2026-08-06T15:06:15+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1082affeb2d1b7719301f27215e6197a",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "summary": "",
-      "published_at": "2026-08-06T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "b76bf8f93b15140a19fe3b1e3fcb50c1",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "summary": "",
-      "published_at": "2026-08-06T06:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "91e593d57ffd797cbcde787518d793e3",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "summary": "",
-      "published_at": "2026-08-06T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "12a57874ffb547d12f039bd3cdbf8823",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "link": "https://huggingface.co/blog/baseten",
-      "summary": "",
-      "published_at": "2026-08-06T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
+      "id": "a1496a9ef453863ad73ce39e5c84165b",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Brian Hie, an assistant professor of chemical engineering and Dieter Schwarz Foundation Stanford Data [&#8230;] The post Stanford Evo 2 AI model generates phages against E. coli appeared first on AI News .",
+      "published_at": "2026-08-07T15:05:03+00:00",
+      "source": "AI News",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
-    },
-    {
-      "id": "ada3fac11f4f3f72f602c35090501a39",
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "link": "https://www.anthropic.com/news/tino-cuellar",
-      "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie…",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie Endowment for International Peace, a leading independent global policy research institution with scholars in 20 countries. Prior to his role at Carnegie, Tino was a Justice of the Supreme Court of Cal"
-    },
-    {
-      "id": "0701aa53a09f6a6bbdf2732756ab3b5a",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to…",
-      "published_at": "2026-07-30T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews. This post reflects our current understanding; we'll update it if any details change. On July 21, OpenAI disclosed that several of their models had broken out of an isolated test"
-    },
-    {
-      "id": "e6b4ec1b7b0fe936c462d4a9b9589e9f",
-      "title": "Our position on open-weights models",
-      "link": "https://www.anthropic.com/news/position-open-weights-models",
-      "summary": "A post by Dario Amodei, Anthropic CEO Over the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights models, and some people have even accused…",
-      "published_at": "2026-07-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "A post by Dario Amodei, Anthropic CEO Over the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights models, and some people have even accused Anthropic of wanting to ban open-weights models as a means of protecting our business. Anyone who has read my past writing should know that I don’t regard such bans as a useful measure, but let me state it cle"
-    },
-    {
-      "id": "8e719f6a34a35bea85e79bd6f6acd46d",
-      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "link": "https://www.anthropic.com/news/cognizant-anthropic",
-      "summary": "We're expanding our partnership with Cognizant , one of the world's largest technology services companies. Cognizant uses Claude in the systems it builds and runs for clients across manufacturing, life sciences, insurance, and other industries. With the expansion of our partnership, it’s embedding Claude across its own business and engineering platforms, scaling a Claude-certified workforce as…",
-      "published_at": "2026-07-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We're expanding our partnership with Cognizant , one of the world's largest technology services companies. Cognizant uses Claude in the systems it builds and runs for clients across manufacturing, life sciences, insurance, and other industries. With the expansion of our partnership, it’s embedding Claude across its own business and engineering platforms, scaling a Claude-certified workforce as part of its new Frontier Certified workforce model, and becoming a Global Premier Partner in the Claude Partner Network . Successfully integrating AI into a large enterprise requires knowledge of the com"
-    },
-    {
-      "id": "e03005d48514641deed954c6a0f1d22a",
-      "title": "Introducing Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "summary": "Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
-      "published_at": "2026-07-24T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as"
     }
   ],
   "milestones": []
