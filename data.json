@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-08-19T13:52:45.080849+00:00",
+  "generated_at": "2026-08-19T14:22:03.287819+00:00",
   "articles": [
+    {
+      "id": "204111c89d40f0b0fda5a331800b061f",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "summary": "",
+      "published_at": "2026-08-19T14:18:12+00:00",
+      "source": "VentureBeat AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ddd27b47b65193ad8d37af938a9e6cf7",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "summary": "",
+      "published_at": "2026-08-19T14:09:39+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c6cfc82443f6cde7277bd7a990559ba8",
+      "title": "China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US",
+      "link": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/",
+      "summary": "",
+      "published_at": "2026-08-19T13:57:22+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f044071ecb6b6af72480218c10f11b6c",
+      "title": "GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed",
+      "link": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/",
+      "summary": "",
+      "published_at": "2026-08-19T13:54:16+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "7cfeb7445c164d5aa969fe57d40d89c0",
       "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
@@ -76,6 +120,17 @@
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6eac107466401f5f0e145d60ea40ecfe",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
+      "summary": "",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -618,17 +673,6 @@
       "body_preview": ""
     },
     {
-      "id": "e524fc67158a60bc9e784fcd4be985ba",
-      "title": "OpenAI launches a ChatGPT version built for teens",
-      "link": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/",
-      "summary": "",
-      "published_at": "2026-08-18T11:27:29+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "600be17e3c0fd9a7713b84eeec0cf4a2",
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "link": "https://openai.com/index/partnering-with-codeai",
@@ -680,17 +724,6 @@
       "published_at": "2026-08-18T11:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e967e0979708212255c5d7200e574e2b",
-      "title": "Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying",
-      "link": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/",
-      "summary": "",
-      "published_at": "2026-08-18T10:45:00+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -964,17 +997,6 @@
       "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "summary": "",
       "published_at": "2026-08-15T21:29:19+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ac268c7f65ab30787b2c4a1c927400f2",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "summary": "",
-      "published_at": "2026-08-15T18:58:39+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
