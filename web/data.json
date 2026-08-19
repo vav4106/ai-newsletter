@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-19T09:43:22.576544+00:00",
+  "generated_at": "2026-08-19T10:04:44.144477+00:00",
   "articles": [
+    {
+      "id": "452223009ca42661682556556cfc3ab7",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "summary": "",
+      "published_at": "2026-08-19T10:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "9410e62f742ac39927f048ac0633ef14",
       "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
@@ -1074,17 +1085,6 @@
       "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "summary": "",
       "published_at": "2026-08-15T16:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5f7146daf5d3bbedff9d331c94e56117",
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "summary": "",
-      "published_at": "2026-08-15T16:10:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
