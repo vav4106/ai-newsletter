@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-20T18:54:28.101133+00:00",
+  "generated_at": "2026-08-20T19:22:18.740915+00:00",
   "articles": [
+    {
+      "id": "30b97eb1bbaa149b494914abf2fa58df",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "summary": "",
+      "published_at": "2026-08-20T19:18:21+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "40bd29c2948fabb838832a3f27dfd5a3",
+      "title": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "summary": "",
+      "published_at": "2026-08-20T19:15:05+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "b738ba9cc4a4323acb13dc4eb012a288",
       "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
@@ -871,17 +893,6 @@
       "body_preview": ""
     },
     {
-      "id": "182f75eee68eaaf556fb8f01d57cc2f8",
-      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "summary": "",
-      "published_at": "2026-08-19T12:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ca724b34f0d6a4fc47a2aede5283c28c",
       "title": "Nvidia’s new financial strategy does not compute",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
@@ -889,17 +900,6 @@
       "published_at": "2026-08-19T12:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "452223009ca42661682556556cfc3ab7",
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-      "summary": "",
-      "published_at": "2026-08-19T10:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
