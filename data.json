@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:02:02.237640+00:00",
+  "generated_at": "2026-08-20T15:43:44.634639+00:00",
   "articles": [
     {
       "id": "b935a8281c42ca6ad415279f90637e09",
@@ -538,6 +538,17 @@
       "source": "arXiv cs.AI",
       "category": "research",
       "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "f296db76b1abd8ef3404d511030922b9",
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "link": "https://openai.com/index/stampli",
+      "summary": "",
+      "published_at": "2026-08-20T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -1638,17 +1649,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "abf4be5feadea676b72acff1987e1f77",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "link": "https://huggingface.co/blog/muse-glimmer",
-      "summary": "",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     }
   ],
