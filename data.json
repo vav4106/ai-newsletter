@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-20T20:48:12.933163+00:00",
+  "generated_at": "2026-08-20T21:12:16.276332+00:00",
   "articles": [
+    {
+      "id": "8342d517d42470bd71a38ba202af3922",
+      "title": "Ok, can we actually cool data centers with our pee?",
+      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "summary": "",
+      "published_at": "2026-08-20T20:53:13+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a8bf61574397d548c5f2a9aa8e0b8519",
       "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
@@ -800,17 +811,6 @@
       "summary": "",
       "published_at": "2026-08-19T14:18:12+00:00",
       "source": "VentureBeat AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ddd27b47b65193ad8d37af938a9e6cf7",
-      "title": "Calendly throws its hat into meeting note-taker circus",
-      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-      "summary": "",
-      "published_at": "2026-08-19T14:09:39+00:00",
-      "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
