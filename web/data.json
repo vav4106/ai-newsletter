@@ -1,9 +1,20 @@
 {
-  "generated_at": "2026-08-20T21:44:29.739544+00:00",
+  "generated_at": "2026-08-20T22:02:28.073499+00:00",
   "articles": [
     {
+      "id": "d478a56ac42d45b7c53e79cf5d9d4cb6",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
+      "published_at": "2026-08-20T21:50:22+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "8342d517d42470bd71a38ba202af3922",
-      "title": "Ok, can we actually cool data centers with our pee?",
+      "title": "OK, can we actually cool data centers with our pee?",
       "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
       "summary": "",
       "published_at": "2026-08-20T20:53:13+00:00",
@@ -728,8 +739,8 @@
       "body_preview": ""
     },
     {
-      "id": "f296db76b1abd8ef3404d511030922b9",
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "id": "7af782b35743e12009287f7bbe6fa495",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "link": "https://openai.com/index/stampli",
       "summary": "",
       "published_at": "2026-08-20T00:00:00+00:00",
@@ -1021,17 +1032,6 @@
       "published_at": "2026-08-18T13:29:10+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "97f88ffcdb1805efa1e7d3af56e7bd34",
-      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]",
-      "published_at": "2026-08-18T13:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
