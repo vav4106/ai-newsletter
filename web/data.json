@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-20T16:46:57.166004+00:00",
+  "generated_at": "2026-08-20T17:12:58.869843+00:00",
   "articles": [
+    {
+      "id": "1dadec284343c4765ec48ef4e4325f86",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "summary": "",
+      "published_at": "2026-08-20T16:52:57+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a49fd1c6a68e56f5c17f41c0855f135d",
       "title": "Ramp launches its own AI model router, called Router",
@@ -812,17 +823,6 @@
       "published_at": "2026-08-19T14:09:39+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7cfeb7445c164d5aa969fe57d40d89c0",
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "link": "https://huggingface.co/blog/LiquidAI/qad",
-      "summary": "",
-      "published_at": "2026-08-19T13:48:49+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
       "importance": "medium",
       "body_preview": ""
     },
