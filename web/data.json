@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:46:29.621390+00:00",
+  "generated_at": "2026-08-20T18:04:13.684244+00:00",
   "articles": [
     {
       "id": "d28555208ad1148407ba8249ae134554",
@@ -79,17 +79,6 @@
       "body_preview": ""
     },
     {
-      "id": "7f6f31993e2d1a5c5bc687a6172c7c1d",
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
-      "published_at": "2026-08-20T15:45:55+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "af0d50fbbbb1bff9fc5faf4b047d107e",
       "title": "Debates over AI consciousness are a trap",
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
@@ -123,17 +112,6 @@
       "body_preview": ""
     },
     {
-      "id": "27cb25f9c250e03e189d82a10bfde0c4",
-      "title": "Welcome to the AI crisis in math",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
-      "published_at": "2026-08-20T14:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2f5e5c9d2f89833d2e912ced414cc8ee",
       "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
       "link": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/",
@@ -163,17 +141,6 @@
       "published_at": "2026-08-20T12:11:57+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7be3bec44a12398b4cdf891db3f577ea",
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
-      "published_at": "2026-08-20T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1003,6 +970,17 @@
       "body_preview": ""
     },
     {
+      "id": "c0f2bd80e18173abb73951de4162f7b7",
+      "title": "Google&#8217;s Pet Memory forgot who my cats are",
+      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+      "published_at": "2026-08-18T12:01:29+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "0a0fecdb557926db096e93cc08d53672",
       "title": "Alvys launches AI agents for freight TMS workflows",
       "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
@@ -1044,6 +1022,28 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "a61bd5b30d23bf94cc4bb6cb6c307517",
+      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9ebdb0bccd568ffd8d3bf7f668d83eff",
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens [&#8230;]",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
       "body_preview": ""
     },
     {
