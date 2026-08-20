@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-20T13:54:09.560727+00:00",
+  "generated_at": "2026-08-20T14:24:14.632680+00:00",
   "articles": [
+    {
+      "id": "b935a8281c42ca6ad415279f90637e09",
+      "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
+      "link": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
+      "summary": "",
+      "published_at": "2026-08-20T14:08:14+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "70fc06918ac96e31a50fd564b209cff1",
+      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to communities with tens of millions of customers, according to Amazon. Reaching that many [&#8230;] The post Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities appeared first on AI News .",
+      "published_at": "2026-08-20T14:05:18+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "27cb25f9c250e03e189d82a10bfde0c4",
+      "title": "Welcome to the AI crisis in math",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
+      "published_at": "2026-08-20T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2f5e5c9d2f89833d2e912ced414cc8ee",
       "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
@@ -717,17 +750,6 @@
       "body_preview": ""
     },
     {
-      "id": "c6cfc82443f6cde7277bd7a990559ba8",
-      "title": "China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US",
-      "link": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/",
-      "summary": "",
-      "published_at": "2026-08-19T13:57:22+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "7cfeb7445c164d5aa969fe57d40d89c0",
       "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
       "link": "https://huggingface.co/blog/LiquidAI/qad",
@@ -1000,17 +1022,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "a61bd5b30d23bf94cc4bb6cb6c307517",
-      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1406,17 +1417,6 @@
       "published_at": "2026-08-12T16:14:36+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5d978ba654ca804f4e04b61554f27377",
-      "title": "Google tests AMIE for clinical video consultations",
-      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
-      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonary, abdominal, HEENT, neurological or psychiatric, and musculoskeletal presentations. Google says studies involving real patients and their own health [&#8230;] The post Google tests AMIE for clinical video consultations appeared first on AI News .",
-      "published_at": "2026-08-12T14:56:18+00:00",
-      "source": "AI News",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
