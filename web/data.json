@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-20T17:12:58.869843+00:00",
+  "generated_at": "2026-08-20T17:46:29.621390+00:00",
   "articles": [
+    {
+      "id": "d28555208ad1148407ba8249ae134554",
+      "title": "LLMs could write like humans but post-training guardrails make their text detectable",
+      "link": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
+      "summary": "",
+      "published_at": "2026-08-20T17:36:51+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f31ab24fdf4466d3655057617ef19345",
+      "title": "Grok keeps sending gibberish responses to users",
+      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "summary": "",
+      "published_at": "2026-08-20T17:32:16+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b682de776c84dfa4b3984e5566df4592",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "summary": "",
+      "published_at": "2026-08-20T17:18:58+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "1dadec284343c4765ec48ef4e4325f86",
       "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
@@ -739,17 +772,6 @@
       "body_preview": ""
     },
     {
-      "id": "f07f49ee2c3f2f9c4aea0ab1d148744d",
-      "title": "OpenAI fixes Codex bug that deleted real user files without permission",
-      "link": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
-      "summary": "",
-      "published_at": "2026-08-19T18:18:34+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5b476e086989827b48942a9a05cdd0c9",
       "title": "Meet the startup helping Wall Street put a price on AI compute",
       "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
@@ -944,28 +966,6 @@
       "published_at": "2026-08-18T18:09:38+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "58ddf881e9e532994c718489622783d8",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "summary": "",
-      "published_at": "2026-08-18T18:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "55472ba2135efbec0eae2eb15edd44d8",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "summary": "",
-      "published_at": "2026-08-18T17:21:58+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
