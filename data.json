@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-21T11:43:31.330768+00:00",
+  "generated_at": "2026-08-21T12:03:09.501159+00:00",
   "articles": [
+    {
+      "id": "3ed0cfeba4b11abfc845f36168e9445f",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "summary": "",
+      "published_at": "2026-08-21T11:59:48+00:00",
+      "source": "Google DeepMind",
+      "category": "research",
+      "importance": "high",
+      "body_preview": ""
+    },
     {
       "id": "db8b22db484cf1f1a428e8c609aac649",
       "title": "Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia",
@@ -1633,17 +1644,6 @@
       "id": "458de6ef05a27adb6dadfaed4787e200",
       "title": "Premium seats are coming to ChatGPT Business",
       "link": "https://openai.com/index/premium-seats-chatgpt-business",
-      "summary": "",
-      "published_at": "2026-08-10T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "41cd459b5ee7f2161c86684c3440d3be",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "summary": "",
       "published_at": "2026-08-10T00:00:00+00:00",
       "source": "OpenAI News",
