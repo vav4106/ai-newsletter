@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-21T08:25:25.538712+00:00",
+  "generated_at": "2026-08-21T09:05:11.843370+00:00",
   "articles": [
+    {
+      "id": "4e59c227019992e7bf7a9137feb07089",
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the importance of language selection. It was [&#8230;] The post How AI coding tools are contributing to the popularity of JavaScript appeared first on AI News .",
+      "published_at": "2026-08-21T08:41:29+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f63002a11d9dec6bc80531b3b3924b38",
+      "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
+      "link": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
+      "summary": "",
+      "published_at": "2026-08-21T08:27:23+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4c1bcbe02492aac6090f6222f09ca1c1",
+      "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
+      "link": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
+      "summary": "",
+      "published_at": "2026-08-21T08:26:05+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "7428ce1a619217231cf376f125b9311a",
       "title": "OpenAI's GPT-Image-2 can now generate images without a background",
@@ -728,34 +761,12 @@
       "body_preview": ""
     },
     {
-      "id": "1c3d365442409c343d247619f904fa48",
-      "title": "Terence Tao says AI could trigger math's biggest crisis since Gödel",
-      "link": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/",
-      "summary": "",
-      "published_at": "2026-08-20T08:49:36+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "a320041e0f124d96ddc081e562db5b01",
       "title": "A third of ChatGPT ads appear in irrelevant conversations",
       "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
       "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real ChatGPT conversations between 4 July and 4 August 2026, pairing every ad with the conversation it appeared in, [&#8230;] The post A third of ChatGPT ads appear in irrelevant conversations appeared first on AI News .",
       "published_at": "2026-08-20T08:07:40+00:00",
       "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "65da10f933f437d2ef6b706540d98e58",
-      "title": "OpenAI builds safety system that catches misuse without storing customer data",
-      "link": "https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/",
-      "summary": "",
-      "published_at": "2026-08-20T08:01:18+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -1385,17 +1396,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "82b5995e9b42e981f5c76782fac73a09",
-      "title": "Okta targets AI agent token costs with MCP scoping",
-      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
-      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens consumed as a model considers tools, including [&#8230;] The post Okta targets AI agent token costs with MCP scoping appeared first on AI News .",
-      "published_at": "2026-08-13T09:22:06+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
