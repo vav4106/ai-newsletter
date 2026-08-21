@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-21T19:41:23.266531+00:00",
+  "generated_at": "2026-08-21T19:58:19.982563+00:00",
   "articles": [
+    {
+      "id": "cb98ae002879165f00554a094871c141",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "summary": "",
+      "published_at": "2026-08-21T19:43:39+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "ce6792f80b08907963eb1b4adcb7b9dc",
       "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
@@ -46,9 +57,9 @@
       "body_preview": ""
     },
     {
-      "id": "27a7af56a58bc7a70860b3ceee8ab08a",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "id": "08046f1c108962dc556b427f0c044515",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "summary": "",
       "published_at": "2026-08-21T14:00:00+00:00",
       "source": "TechCrunch AI",
@@ -57,9 +68,9 @@
       "body_preview": ""
     },
     {
-      "id": "08046f1c108962dc556b427f0c044515",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "id": "27a7af56a58bc7a70860b3ceee8ab08a",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "summary": "",
       "published_at": "2026-08-21T14:00:00+00:00",
       "source": "TechCrunch AI",
@@ -777,17 +788,6 @@
       "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
       "summary": "",
       "published_at": "2026-08-19T21:51:23+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e1e64fe7d5740e9937ed05393568e0cb",
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "summary": "",
-      "published_at": "2026-08-19T19:11:40+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
