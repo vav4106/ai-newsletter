@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-21T10:48:53.017583+00:00",
+  "generated_at": "2026-08-21T11:11:22.336338+00:00",
   "articles": [
+    {
+      "id": "db8b22db484cf1f1a428e8c609aac649",
+      "title": "Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia",
+      "link": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
+      "summary": "",
+      "published_at": "2026-08-21T11:04:09+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a8f5ec9293c7a892dea8966fd6345555",
+      "title": "Meta spends hundreds of millions on Microsoft's AI services",
+      "link": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/",
+      "summary": "",
+      "published_at": "2026-08-21T10:54:41+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "f836f629d7e571a95dc06f58d89365b3",
       "title": "Anthropic changes data retention policy after enterprise pushback",
@@ -662,17 +684,6 @@
       "body_preview": ""
     },
     {
-      "id": "fc002c3de521f40f6516d607d99756e3",
-      "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world",
-      "link": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/",
-      "summary": "",
-      "published_at": "2026-08-20T12:14:07+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5a89940ae595fb3ad96a35132792b47f",
       "title": "Meta AI’s new Mac app wants you to talk to your apps",
       "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
@@ -691,17 +702,6 @@
       "published_at": "2026-08-20T12:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e8a983605f0d2521f1120ae44222e204",
-      "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only",
-      "link": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/",
-      "summary": "",
-      "published_at": "2026-08-20T10:04:45+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
