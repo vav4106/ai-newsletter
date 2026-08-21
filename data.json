@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-21T18:04:02.502431+00:00",
+  "generated_at": "2026-08-21T18:51:37.957776+00:00",
   "articles": [
+    {
+      "id": "83cc83c25895d1426fd79722f6d70da8",
+      "title": "Data center opposition surged from 42 to 75 percent in just one year, survey finds",
+      "link": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/",
+      "summary": "",
+      "published_at": "2026-08-21T18:25:44+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "c79a9d7e6fc7fe71237ee1554f12e839",
       "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
@@ -486,6 +497,17 @@
       "body_preview": ""
     },
     {
+      "id": "8168f21edb87b9d90cb1e921ebe8b289",
+      "title": "Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
+      "link": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
+      "summary": "S1-mini is a 462 MB open-weights normalizer that sits after ASR, removing fillers and resolving self-corrections locally. The post Meet S1-mini: Superwhisper&#8217;s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text appeared first on MarkTechPost .",
+      "published_at": "2026-08-20T22:23:17+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "37a7312cf1fa7ae03c572d7b9cc01810",
       "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
@@ -519,6 +541,17 @@
       "body_preview": ""
     },
     {
+      "id": "eb1a4e27639d359d65938e3abe590ae0",
+      "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
+      "link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
+      "summary": "PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF is built for that second half: direct editing, 14-format conversion, 38-language OCR, and ten AI agents shipped in version 2.5. The post Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era appeared first on MarkTechPost .",
+      "published_at": "2026-08-20T19:34:10+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "a8bf61574397d548c5f2a9aa8e0b8519",
       "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
       "link": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
@@ -548,6 +581,17 @@
       "published_at": "2026-08-20T19:15:05+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b738ba9cc4a4323acb13dc4eb012a288",
+      "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
+      "link": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
+      "summary": "Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output. The post Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs appeared first on MarkTechPost .",
+      "published_at": "2026-08-20T18:53:09+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -662,17 +706,6 @@
       "body_preview": ""
     },
     {
-      "id": "b935a8281c42ca6ad415279f90637e09",
-      "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
-      "link": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
-      "summary": "",
-      "published_at": "2026-08-20T14:08:14+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "27cb25f9c250e03e189d82a10bfde0c4",
       "title": "Welcome to the AI crisis in math",
       "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
@@ -724,6 +757,17 @@
       "published_at": "2026-08-20T09:30:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f42d1e16f62e18d0812a94092efb87b7",
+      "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
+      "link": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
+      "summary": "This tutorial provides an end-to-end workflow for fine-tuning language models using Direct Preference Optimization (DPO). We demonstrate how to audit the Anthropic HH-RLHF dataset for structural and length-based biases, implement a robust training pipeline using TRL and LoRA, and evaluate model performance to ensure genuine preference learning rather than reliance on lexical shortcuts. The post Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA appeared first on MarkTechPost .",
+      "published_at": "2026-08-20T08:51:38+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -893,6 +937,17 @@
       "body_preview": ""
     },
     {
+      "id": "990ca203959a3b512414eff924d2267d",
+      "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+      "link": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+      "summary": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to end-to-end TensorRT inference in two commands, with no intermediate ONNX export. The build emits a versioned .bundle artifact that runs through native C++ task APIs, so inference executes without PyTorch in the runtime path. NVIDIA's July 29, 2026 GB300 snapshot covers 105 release profiles across 76 model families. The post NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands appeared first on MarkTechPost .",
+      "published_at": "2026-08-18T21:49:04+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "59798fb313738dff1ee2d00fc279a11d",
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
       "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
@@ -922,6 +977,17 @@
       "published_at": "2026-08-18T18:09:38+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "28dee5459fd3ca870343a63ac3b86a75",
+      "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
+      "link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+      "summary": "Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover and call each other's MCP tools across cloud, on-prem, laptop and edge environments, without exposing a single internal endpoint to the public internet. Identity flows from OIDC into Biscuit capability tokens, so nodes authorize every request offline under a strict default-deny model. The post Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents appeared first on MarkTechPost .",
+      "published_at": "2026-08-18T13:29:10+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -959,6 +1025,17 @@
       "body_preview": ""
     },
     {
+      "id": "74eaf227fe66f23f176cfc9f776eeb1d",
+      "title": "Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas",
+      "link": "https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/",
+      "summary": "Cartesia has released Sonic-3.6, a streaming text-to-speech model built on state space models rather than transformers. It now ranks #1 on both Artificial Analysis speech leaderboards — 1,283 Elo on Provider Voice and 1,123 on Controlled Voice, the board that clones every model onto the same eight reference voices to isolate the synthesis engine. Cartesia states sub-90ms time-to-first-audio. The model is available in beta on Cartesia's own API The post Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas appeared first on MarkTechPost .",
+      "published_at": "2026-08-18T10:37:49+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "ea5a71edb3a55ff3d3cdf599632e20de",
       "title": "We still don’t know how people are really using AI",
       "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
@@ -989,6 +1066,28 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "b9326cfa7182203e32d1e6a25f483880",
+      "title": "Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots",
+      "link": "https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/",
+      "summary": "Nous Research has shipped Bot Mode for Hermes Agent, its MIT-licensed open source agent. Bot Mode replaces the single-agent session list with a roster of named bots. Each bot is a real Hermes profile, with its own chat, memory, skills, and pinned model. It is now bundled and default-on in Hermes Desktop. The post Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots appeared first on MarkTechPost .",
+      "published_at": "2026-08-18T02:05:28+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7c1a84ad017e39a31c9981b3b512423b",
+      "title": "ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation",
+      "link": "https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/",
+      "summary": "ByteDance Seed and Tsinghua AIR have released CUDA Agent, an agentic reinforcement learning system that trains a large language model to write GPU kernels that beat a compiler. The gap it targets is narrow but stubborn: frontier models already produce correct CUDA, they just produce slow CUDA. On KernelBench, the base model Seed1.6 passes 74.0% [&#8230;] The post ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation appeared first on MarkTechPost .",
+      "published_at": "2026-08-18T01:10:28+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1033,6 +1132,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "07a439c898c458dfd6bcea0c54737b24",
+      "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption",
+      "link": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/",
+      "summary": "MiniMax released MiniMax-Music3, an open-weights text-to-music model. Given lyrics with section tags and a structured caption, it generates a complete song of up to five minutes in a single pass, as 32 kHz, 16-bit stereo WAV. Here is the architecture, the three serving paths, and the license conditions that matter before you ship. The post MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption appeared first on MarkTechPost .",
+      "published_at": "2026-08-17T18:36:40+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1540,61 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "People have hard questions about AI and work: which jobs will change, which tasks are being automated, and what it means for their own field. The Anthropic Economic Index exists to help answer them with real data. Today we're launching the Anthropic Economic Index connector for Claude, which lets anyone explore that data directly. The Anthropic Economic Index measures how AI is actually being used in the economy. The Index’s data has been useful to researchers, journalists, and policymakers, but we want it to be just as accessible to anyone curious about how AI fits into their field or day-to-"
-    },
-    {
-      "id": "cf284992709f4fc665fe49ec83f242e3",
-      "title": "Anthropic is donating another $20 million to Public First Action",
-      "link": "https://www.anthropic.com/news/donation-public-first-action",
-      "summary": "We're contributing an additional $20 million to Public First Action , bringing our total support to $40 million. Public First Action is a nonpartisan organization that educates the public about AI and works with Republicans, Democrats, and Independents who are serious about putting sensible AI safeguards in place. Both of our donations were made exclusively to support Public First Action’s public…",
-      "published_at": "2026-07-21T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We're contributing an additional $20 million to Public First Action , bringing our total support to $40 million. Public First Action is a nonpartisan organization that educates the public about AI and works with Republicans, Democrats, and Independents who are serious about putting sensible AI safeguards in place. Both of our donations were made exclusively to support Public First Action’s public education and policy mission, and cannot be used to influence the election of any candidate for federal, state, or local office. Our first donation in February 2026 was made to help promote policies t"
-    },
-    {
-      "id": "f8e3243f6a3e71302460b82f1d744439",
-      "title": "Inviting hard questions We’re asking the public for their hardest questions about",
-      "link": "https://www.anthropic.com/news/hard-questions",
-      "summary": "AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailb",
-      "published_at": "2026-07-09T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "364ed0711e1843f76d72cf2ebbf1a0ff",
-      "title": "Redeploying Fable 5 Fable 5 returns globally",
-      "link": "https://www.anthropic.com/news/redeploying-fable-5",
-      "summary": "July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners. Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0b590d649020eb58ff94660b1f70d97f",
-      "title": "Introducing Claude Sonnet 5",
-      "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "summary": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals, and run autonomously at a level that, just a few months ago, required larger and more expensive models. For many developers, the agentic AI era began with Sonnet-class models: Claude Sonnet 3.5, 3.6, and 3.7 were the first models that showed impressive skills in coding and tool use. More recently, though, the clearest gains in agentic capabilities have been in our Opus-class models. Sonnet 5 narrows the gap: its performance is close to that of Opus 4.8, but at lower price"
-    },
-    {
-      "id": "6c472be9947730dd861b28c5195a4d78",
-      "title": "Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
