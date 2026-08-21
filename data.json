@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-21T07:51:59.862398+00:00",
+  "generated_at": "2026-08-21T08:25:25.538712+00:00",
   "articles": [
+    {
+      "id": "7428ce1a619217231cf376f125b9311a",
+      "title": "OpenAI's GPT-Image-2 can now generate images without a background",
+      "link": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/",
+      "summary": "",
+      "published_at": "2026-08-21T07:53:40+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "7a899b77538d9c14df48649cb791de22",
       "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
@@ -822,17 +833,6 @@
       "summary": "",
       "published_at": "2026-08-19T21:51:23+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9d669af82bb9ac32a654becf70a3eea9",
-      "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
-      "link": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
-      "summary": "",
-      "published_at": "2026-08-19T20:03:20+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
