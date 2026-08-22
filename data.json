@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-22T08:48:44.539244+00:00",
+  "generated_at": "2026-08-22T09:11:50.394989+00:00",
   "articles": [
+    {
+      "id": "2455578f7cb5e0b68cd54955934cb69d",
+      "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
+      "link": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
+      "summary": "",
+      "published_at": "2026-08-22T09:00:20+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "f7f76b8ace78d143b083c22b2933e87e",
       "title": "RayNeo's new AI glasses skip the camera, focus on text overlays",
@@ -156,9 +167,9 @@
       "body_preview": ""
     },
     {
-      "id": "08046f1c108962dc556b427f0c044515",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "id": "27a7af56a58bc7a70860b3ceee8ab08a",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "summary": "",
       "published_at": "2026-08-21T14:00:00+00:00",
       "source": "TechCrunch AI",
@@ -167,9 +178,9 @@
       "body_preview": ""
     },
     {
-      "id": "27a7af56a58bc7a70860b3ceee8ab08a",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "id": "08046f1c108962dc556b427f0c044515",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "summary": "",
       "published_at": "2026-08-21T14:00:00+00:00",
       "source": "TechCrunch AI",
@@ -216,17 +227,6 @@
       "link": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/",
       "summary": "",
       "published_at": "2026-08-21T10:54:41+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f836f629d7e571a95dc06f58d89365b3",
-      "title": "Anthropic changes data retention policy after enterprise pushback",
-      "link": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/",
-      "summary": "",
-      "published_at": "2026-08-21T09:59:51+00:00",
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
