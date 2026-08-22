@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-22T11:58:31.067188+00:00",
+  "generated_at": "2026-08-22T12:29:27.573751+00:00",
   "articles": [
+    {
+      "id": "9051ba74c8242287f05376e6b3fef06e",
+      "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
+      "link": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+      "summary": "",
+      "published_at": "2026-08-22T12:15:10+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2455578f7cb5e0b68cd54955934cb69d",
       "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
@@ -216,17 +227,6 @@
       "link": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
       "summary": "",
       "published_at": "2026-08-21T11:04:09+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a8f5ec9293c7a892dea8966fd6345555",
-      "title": "Meta spends hundreds of millions on Microsoft's AI services",
-      "link": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/",
-      "summary": "",
-      "published_at": "2026-08-21T10:54:41+00:00",
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
