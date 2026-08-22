@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-22T07:52:04.236654+00:00",
+  "generated_at": "2026-08-22T08:16:06.048774+00:00",
   "articles": [
+    {
+      "id": "f7f76b8ace78d143b083c22b2933e87e",
+      "title": "RayNeo's new AI glasses skip the camera, focus on text overlays",
+      "link": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/",
+      "summary": "",
+      "published_at": "2026-08-22T08:00:14+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "5d3551f1feae90ddeb210ff2de9435e3",
       "title": "Netflix tests language model as alternative to hand-built recommendation logic",
@@ -228,17 +239,6 @@
       "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the importance of language selection. It was [&#8230;] The post How AI coding tools are contributing to the popularity of JavaScript appeared first on AI News .",
       "published_at": "2026-08-21T08:41:29+00:00",
       "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f63002a11d9dec6bc80531b3b3924b38",
-      "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
-      "link": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
-      "summary": "",
-      "published_at": "2026-08-21T08:27:23+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
