@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-22T16:09:59.123366+00:00",
+  "generated_at": "2026-08-22T16:37:11.743393+00:00",
   "articles": [
+    {
+      "id": "b8071e9b7f57ffc2352108dcdaee4587",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "summary": "",
+      "published_at": "2026-08-22T16:30:34+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "8d81abbff9ba8bed0cfaee3cf3c471ef",
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
@@ -549,17 +560,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "84fafee52e0912f5700c24e8e9f659a9",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "summary": "",
-      "published_at": "2026-08-20T09:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
