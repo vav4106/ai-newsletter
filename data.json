@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-23T14:54:29.725112+00:00",
+  "generated_at": "2026-08-23T15:10:35.223466+00:00",
   "articles": [
+    {
+      "id": "006060ca4fd5bb1031926acba4c2d416",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "",
+      "published_at": "2026-08-23T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "0f68715b28e8a2d0ce7d2a57291ecf5a",
       "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
@@ -381,17 +392,6 @@
       "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
       "summary": "",
       "published_at": "2026-08-20T16:46:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "505cb224b83f412034d323514cea02b8",
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "summary": "",
-      "published_at": "2026-08-20T16:07:26+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
