@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:53:49.349779+00:00",
+  "generated_at": "2026-08-23T08:16:34.778339+00:00",
   "articles": [
     {
       "id": "8507bddf367bb932876f6a6ecfee6a19",
@@ -321,17 +321,6 @@
       "body_preview": ""
     },
     {
-      "id": "4e59c227019992e7bf7a9137feb07089",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the importance of language selection. It was [&#8230;] The post How AI coding tools are contributing to the popularity of JavaScript appeared first on AI News .",
-      "published_at": "2026-08-21T08:41:29+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3c5c1a25fcdd1ceab4881bfc9e8e74c2",
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -541,17 +530,6 @@
       "body_preview": ""
     },
     {
-      "id": "70fc06918ac96e31a50fd564b209cff1",
-      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
-      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to communities with tens of millions of customers, according to Amazon. Reaching that many [&#8230;] The post Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities appeared first on AI News .",
-      "published_at": "2026-08-20T14:05:18+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "27cb25f9c250e03e189d82a10bfde0c4",
       "title": "Welcome to the AI crisis in math",
       "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
@@ -574,17 +552,6 @@
       "body_preview": ""
     },
     {
-      "id": "f0789e565ddf0a68a729cf74132491fc",
-      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and token-based billing. OpenRouter supports more than 400 models from over 80 providers, according to Stripe. Rather than requiring [&#8230;] The post Stripe agrees to buy OpenRouter as AI model routing expands appeared first on AI News .",
-      "published_at": "2026-08-20T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "68cd3107129e9321d7a54c5936f13469",
       "title": "Unlocking hidden revenue streams with market models",
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
@@ -593,50 +560,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "bd071dec0d43a67eb8eeac93cad03548",
-      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
-      "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world&#8217;s first minister of state for artificial intelligence at 27. In the years since, it [&#8230;] The post Agentic AI in government just hit the hard part: deciding what a machine may decide appeared first on AI News .",
-      "published_at": "2026-08-20T09:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a320041e0f124d96ddc081e562db5b01",
-      "title": "A third of ChatGPT ads appear in irrelevant conversations",
-      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
-      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real ChatGPT conversations between 4 July and 4 August 2026, pairing every ad with the conversation it appeared in, [&#8230;] The post A third of ChatGPT ads appear in irrelevant conversations appeared first on AI News .",
-      "published_at": "2026-08-20T08:07:40+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "28636ee59f26aa6386d51fc9a431c779",
-      "title": "AI data centre regulation just got a template that needs no new law",
-      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
-      "summary": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer&#8217;s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breaking them, and persuade the town that has to live with the building to say [&#8230;] The post AI data centre regulation just got a template that needs no new law appeared first on AI News .",
-      "published_at": "2026-08-20T08:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8b5d6ec7b6488926b90bc9d25478922a",
-      "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
-      "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
-      "summary": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently released as a connector for Anthropic&#8217;s AI assistant Claude. The move addresses a real gap. McKinsey&#8217;s recent State of AI survey found that [&#8230;] The post HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector appeared first on AI News .",
-      "published_at": "2026-08-20T07:35:07+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -783,28 +706,6 @@
       "body_preview": ""
     },
     {
-      "id": "6433c265f6d43b712f9951c5f0438758",
-      "title": "OpenAI president urges enterprises to hasten AI security defences",
-      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to argue that organisations need to uplevel their security practices with what he terms unprecedented speed. He writes that he [&#8230;] The post OpenAI president urges enterprises to hasten AI security defences appeared first on AI News .",
-      "published_at": "2026-08-18T14:58:27+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0a0fecdb557926db096e93cc08d53672",
-      "title": "Alvys launches AI agents for freight TMS workflows",
-      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work with freight data and workflows already held within the TMS. Foundry includes more than 20 pre-built [&#8230;] The post Alvys launches AI agents for freight TMS workflows appeared first on AI News .",
-      "published_at": "2026-08-18T12:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "600be17e3c0fd9a7713b84eeec0cf4a2",
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "link": "https://openai.com/index/partnering-with-codeai",
@@ -846,17 +747,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "e09b413c7a415ae54718192b4525a9ee",
-      "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
-      "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
-      "summary": "Zhipu&#8217;s&#160;release note&#160;for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability &#8220;is growing fastest exactly where we are furthest behind.&#8221; Zhipu, which also trades as Z.ai, is one of a handful of Chinese labs releasing models that compete with [&#8230;] The post Reading Zhipu&#8217;s GLM-5.3 results past the headline number appeared first on AI News .",
-      "published_at": "2026-08-18T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -978,28 +868,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "14d0a8bddd2c86437603a2d5e817a8a2",
-      "title": "Samsung health AI models analyse wearable biosignal data",
-      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
-      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Health Forum during Galaxy Unpacked in July 2026. Samsung described a future of [&#8230;] The post Samsung health AI models analyse wearable biosignal data appeared first on AI News .",
-      "published_at": "2026-08-14T13:30:10+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3ee1a5ba8c9eb3e12096c67ab90c19af",
-      "title": "Google AI health coach to use Abbott glucose data",
-      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
-      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be integrated into the Google Health app. Users will be able to view glucose trends alongside [&#8230;] The post Google AI health coach to use Abbott glucose data appeared first on AI News .",
-      "published_at": "2026-08-14T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
