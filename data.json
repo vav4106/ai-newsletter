@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-23T12:15:14.984027+00:00",
+  "generated_at": "2026-08-23T13:02:56.084071+00:00",
   "articles": [
+    {
+      "id": "0f68715b28e8a2d0ce7d2a57291ecf5a",
+      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
+      "link": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+      "summary": "",
+      "published_at": "2026-08-23T12:31:59+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "af8016fe0fd14b86483bfb3c4349af0d",
       "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
@@ -272,17 +283,6 @@
       "summary": "",
       "published_at": "2026-08-21T19:43:39+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ce6792f80b08907963eb1b4adcb7b9dc",
-      "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
-      "link": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
-      "summary": "",
-      "published_at": "2026-08-21T19:35:37+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
