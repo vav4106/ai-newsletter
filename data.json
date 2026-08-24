@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-24T20:59:01.883486+00:00",
+  "generated_at": "2026-08-24T21:25:41.822142+00:00",
   "articles": [
+    {
+      "id": "8bdb2926249b96b272daa88afe6c87ec",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "summary": "",
+      "published_at": "2026-08-24T21:24:17+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "dae4a11503061b62a10d4a0d966760ac",
       "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
@@ -844,17 +855,6 @@
       "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the importance of language selection. It was [&#8230;] The post How AI coding tools are contributing to the popularity of JavaScript appeared first on AI News .",
       "published_at": "2026-08-21T08:41:29+00:00",
       "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3c5c1a25fcdd1ceab4881bfc9e8e74c2",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "summary": "",
-      "published_at": "2026-08-21T00:13:44+00:00",
-      "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
