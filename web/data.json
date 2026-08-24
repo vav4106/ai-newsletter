@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-24T22:09:47.082557+00:00",
+  "generated_at": "2026-08-24T22:40:58.725177+00:00",
   "articles": [
+    {
+      "id": "278248934fae915e0f1c27f9403076d4",
+      "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction",
+      "link": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/",
+      "summary": "Fastino released GLiNER2.5, replacing span enumeration with boundary prediction so entity width no longer costs compute. Three Apache 2.0 checkpoints ship at 74M, 194M, and 287M parameters, all CPU-runnable. The release adds joint entity-relation decoding, constrained classification, span attributes, and 4,096-word context. Overall macro F1 reaches 56.17 on 16 zero-shot benchmarks. The post Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction appeared first on MarkTechPost .",
+      "published_at": "2026-08-24T22:21:22+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "8bdb2926249b96b272daa88afe6c87ec",
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
@@ -735,17 +746,6 @@
       "published_at": "2026-08-22T16:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "97d41abb44b5563dce7c31cd6c890abe",
-      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-      "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-      "summary": "Most teams treat &#8216;which model&#8217; as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain&#8217;s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the question. If the harness decides quality, then how you run the loop becomes [&#8230;] The post Decoding AI&#8217;s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each appeared first on MarkTechPost .",
-      "published_at": "2026-08-22T13:43:13+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
