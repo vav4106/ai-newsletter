@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-24T08:05:01.004570+00:00",
+  "generated_at": "2026-08-24T08:59:26.138762+00:00",
   "articles": [
+    {
+      "id": "143002180f738f98d74186bb3d74b26d",
+      "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
+      "link": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
+      "summary": "",
+      "published_at": "2026-08-24T08:44:48+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "9277844ece5be46768a4b39533422f8b",
       "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
@@ -607,17 +618,6 @@
       "body_preview": ""
     },
     {
-      "id": "97945a62c322fe9661de88e1da374006",
-      "title": "Psychological methods reveal major weaknesses in AI security testing",
-      "link": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
-      "summary": "",
-      "published_at": "2026-08-22T07:00:05+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "54d44c46dd4662bb6b23d87eca804988",
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -684,9 +684,9 @@
       "body_preview": ""
     },
     {
-      "id": "08046f1c108962dc556b427f0c044515",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "id": "27a7af56a58bc7a70860b3ceee8ab08a",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "summary": "",
       "published_at": "2026-08-21T14:00:00+00:00",
       "source": "TechCrunch AI",
@@ -695,9 +695,9 @@
       "body_preview": ""
     },
     {
-      "id": "27a7af56a58bc7a70860b3ceee8ab08a",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "id": "08046f1c108962dc556b427f0c044515",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "summary": "",
       "published_at": "2026-08-21T14:00:00+00:00",
       "source": "TechCrunch AI",
