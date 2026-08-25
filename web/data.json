@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-25T08:38:57.034397+00:00",
+  "generated_at": "2026-08-25T09:18:45.035206+00:00",
   "articles": [
+    {
+      "id": "a26ea5080d92464fe81dfd1b277a69ae",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama [&#8230;]",
+      "published_at": "2026-08-25T09:15:03+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d87e33af908ce9ef3c3bd7faaa455f7f",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+      "published_at": "2026-08-25T09:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "68aa47b8d4a2fdd0a2af811e5bcee071",
+      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
+      "link": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
+      "summary": "",
+      "published_at": "2026-08-25T08:40:14+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "ccaacba3a9ae6c0db4e1458c4fd481ee",
       "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
@@ -343,6 +376,17 @@
       "body_preview": ""
     },
     {
+      "id": "b22ab1cf61876c603781d0963f1c91f0",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "summary": "",
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "0992a8344830aa37f14ff987ca541c12",
       "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
       "link": "https://huggingface.co/blog/gradio-workflow-guide",
@@ -678,17 +722,6 @@
       "link": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
       "summary": "",
       "published_at": "2026-08-23T10:02:00+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "14fe70b4c3368b83164aa95b955c790b",
-      "title": "AI could make scientists do more work less well, not less work better, study argues",
-      "link": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
-      "summary": "",
-      "published_at": "2026-08-23T09:01:17+00:00",
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
@@ -1113,17 +1146,6 @@
       "body_preview": ""
     },
     {
-      "id": "ca724b34f0d6a4fc47a2aede5283c28c",
-      "title": "Nvidia’s new financial strategy does not compute",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
-      "published_at": "2026-08-19T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6eac107466401f5f0e145d60ea40ecfe",
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "link": "https://openai.com/index/replit",
@@ -1476,17 +1498,6 @@
       "body_preview": ""
     },
     {
-      "id": "9cea7ee51e964ada8c0a4b8b7445595e",
-      "title": "How kids feel about AI, in their own words",
-      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
-      "published_at": "2026-08-13T09:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "cf917a00aab854aa9e31f3f4f762fc67",
       "title": "What We Learned by Reproducing 2,200 papers from ICML",
       "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
@@ -1639,17 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We're expanding our partnership with Cognizant , one of the world's largest technology services companies. Cognizant uses Claude in the systems it builds and runs for clients across manufacturing, life sciences, insurance, and other industries. With the expansion of our partnership, it’s embedding Claude across its own business and engineering platforms, scaling a Claude-certified workforce as part of its new Frontier Certified workforce model, and becoming a Global Premier Partner in the Claude Partner Network . Successfully integrating AI into a large enterprise requires knowledge of the com"
-    },
-    {
-      "id": "e03005d48514641deed954c6a0f1d22a",
-      "title": "Introducing Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "summary": "Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
-      "published_at": "2026-07-24T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price. On coding and knowledge work evaluations like Frontier-Bench and GDPval-AA , Opus 5 is the new state-of-the-art, though it remains behind Mythos 5 on cybersecurity tasks. Opus 5 is designed to be used every day: it works more efficiently than other models. It’s the new default model on Claude Max, and the strongest model on Claude Pro. Performance and cost-effectiveness Claude Opus 5 provides greatly improved performance for the same cost as"
     }
   ],
   "milestones": []
