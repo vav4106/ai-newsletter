@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-25T17:47:41.722758+00:00",
+  "generated_at": "2026-08-25T18:14:44.670028+00:00",
   "articles": [
+    {
+      "id": "873084bdf82f620f336f8cbb6ba3182d",
+      "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
+      "link": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/",
+      "summary": "",
+      "published_at": "2026-08-25T18:00:50+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3d42cafb1de017aaeb1977c7e74ee50a",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "summary": "",
+      "published_at": "2026-08-25T17:50:33+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "83d7cc6663335e0f3b86cf8649911ef0",
       "title": "Google launches Gemini for legal work to automate contracts and research",
@@ -695,17 +717,6 @@
       "body_preview": ""
     },
     {
-      "id": "baf11e4da9dae065d0d438cf83e7dd80",
-      "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
-      "link": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/",
-      "summary": "",
-      "published_at": "2026-08-24T12:59:43+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "394476c8795f3b31adaed8b334487df2",
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
       "link": "https://openai.com/index/gpt-5-6-in-kiro",
@@ -810,17 +821,6 @@
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "summary": "",
       "published_at": "2026-08-22T16:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "12d22c1cd241c03b295418a8c0079d44",
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "summary": "",
-      "published_at": "2026-08-22T01:31:04+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
