@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T05:54:27.100716+00:00",
+  "generated_at": "2026-08-25T06:24:25.189026+00:00",
   "articles": [
     {
       "id": "ccaacba3a9ae6c0db4e1458c4fd481ee",
@@ -354,6 +354,17 @@
       "body_preview": ""
     },
     {
+      "id": "278248934fae915e0f1c27f9403076d4",
+      "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction",
+      "link": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/",
+      "summary": "Fastino released GLiNER2.5, replacing span enumeration with boundary prediction so entity width no longer costs compute. Three Apache 2.0 checkpoints ship at 74M, 194M, and 287M parameters, all CPU-runnable. The release adds joint entity-relation decoding, constrained classification, span attributes, and 4,096-word context. Overall macro F1 reaches 56.17 on 16 zero-shot benchmarks. The post Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction appeared first on MarkTechPost .",
+      "published_at": "2026-08-24T22:21:22+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "8bdb2926249b96b272daa88afe6c87ec",
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
@@ -453,6 +464,28 @@
       "body_preview": ""
     },
     {
+      "id": "b17037f633a480c8bea5b92a07e3e24a",
+      "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo",
+      "link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
+      "summary": "Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3–12 seconds of sensorimotor data into its 30-second context window, and the robot performs the task. No gradient updates, no fine-tuning, no task-specific programming. Across 10 diverse manipulation tasks, this one-shot in-context prompting averaged 59% [&#8230;] The post Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo appeared first on MarkTechPost .",
+      "published_at": "2026-08-24T14:17:01+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "75e0db8ec9dd2c693fa11ee8f925f5e0",
+      "title": "Google Research Introduces ME-POIs: A Mobility-Informed Framework that Adds “How a Place Is Used” to Text-Based POI Embeddings",
+      "link": "https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings/",
+      "summary": "framework that folds aggregate human movement into text-based place embeddings. Language models describe what a place is; they miss how it is used. ME-POIs encodes each visit as a contextualized vector and aligns it with one learnable prototype per POI through contrastive learning, then transfers visit distributions from data-rich anchors to the long tail across three spatial scales. Across five map-enrichment tasks on Los Angeles and Houston mobility data, adding ME-POIs improved 34 of 35 model-task pairings in Los Angeles — up to 81.9% relative F1 on visit intent and a 24.7% MAE reduction on busyness. A mobility-only variant beat Gemini text embeddings on price-level classification. The post Google Research Introduces ME-POIs: A Mobility-Informed Framework that Adds &#8220;How a Place Is",
+      "published_at": "2026-08-24T13:56:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "708fa81163031fb3de31d4e9a4de640f",
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
       "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
@@ -530,6 +563,28 @@
       "body_preview": ""
     },
     {
+      "id": "9277844ece5be46768a4b39533422f8b",
+      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+      "link": "https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/",
+      "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate card, Q2 2026 financials, active and contracted gigawatts, anchor contracts, and SemiAnalysis ClusterMAX tier. Nebius posts the lowest H100 rate and the only published B300 price, Lambda has the cheapest B200, Crusoe is the only one with AMD on its card, and CoreWeave commands a 10–15% premium as the sole Platinum-rated provider. Figures verified August 21, 2026. The post Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power appeared f",
+      "published_at": "2026-08-24T05:26:43+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e399033b4e185a7b50fbc0491b67324b",
+      "title": "Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation",
+      "link": "https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/",
+      "summary": "In this tutorial, we explore a LabPlot-inspired scientific data analysis workflow in Python while preserving the structure and terminology of LabPlot’s aspect tree, analysis kernels, plotting system, and project model. We build reusable components to import tabular data, compute descriptive statistics, smooth and differentiate signals, perform Fourier analysis and filtering, detect peaks, integrate curves, reduce [&#8230;] The post Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation appeared first on MarkTechPost .",
+      "published_at": "2026-08-24T03:32:30+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "cce99cc435c9d3bc47b2f88a212f0e1a",
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
@@ -548,6 +603,17 @@
       "published_at": "2026-08-23T19:14:08+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "de0961e582c39fac30355136ec078262",
+      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+      "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+      "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on MarkTechPost .",
+      "published_at": "2026-08-23T17:51:56+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -585,6 +651,17 @@
       "body_preview": ""
     },
     {
+      "id": "af8016fe0fd14b86483bfb3c4349af0d",
+      "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+      "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+      "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost .",
+      "published_at": "2026-08-23T10:44:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "c2271e5f1e855048b7478cbee86b6dad",
       "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
       "link": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
@@ -603,6 +680,39 @@
       "published_at": "2026-08-23T09:01:17+00:00",
       "source": "The Decoder",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8507bddf367bb932876f6a6ecfee6a19",
+      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
+      "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+      "summary": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows. The post Building an End-to-End Document Intelligence Pipeline with deepDoctection appeared first on MarkTechPost .",
+      "published_at": "2026-08-23T07:51:22+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "11dab0db8f4b24102dbd94fc7bd00d0a",
+      "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
+      "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+      "summary": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces &#8216;Is Agentic&#8217;, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora&#8217;s 100+ Checks appeared first on MarkTechPost .",
+      "published_at": "2026-08-23T07:37:14+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3f7e386a762538038b7dffdc1441332a",
+      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+      "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+      "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based tool gating. By integrating stateful multi-turn evaluation and detailed activation tracing, we demonstrate how to build an auditable, secure, and cost-effective AI assistant capable of managing sensitive financial interactions while maintaining strict compliance standards The post The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety appeared first on MarkTechPost .",
+      "published_at": "2026-08-22T23:49:38+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
