@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-25T12:04:33.015598+00:00",
+  "generated_at": "2026-08-25T13:05:33.214211+00:00",
   "articles": [
+    {
+      "id": "a2a4a317a18bec12a97bf884292aa328",
+      "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
+      "link": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/",
+      "summary": "",
+      "published_at": "2026-08-25T12:27:57+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d0dc43c042321448756665fd3e72b997",
+      "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
+      "link": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/",
+      "summary": "",
+      "published_at": "2026-08-25T12:16:41+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "96e85ab40d4202987d6dc80175ed6d17",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "summary": "",
+      "published_at": "2026-08-25T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "7989d94bf7db28be06a03a5a2d7df710",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
@@ -629,17 +662,6 @@
       "body_preview": ""
     },
     {
-      "id": "143002180f738f98d74186bb3d74b26d",
-      "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
-      "link": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
-      "summary": "",
-      "published_at": "2026-08-24T08:44:48+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "9277844ece5be46768a4b39533422f8b",
       "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
       "link": "https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/",
@@ -712,17 +734,6 @@
       "summary": "",
       "published_at": "2026-08-23T15:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0f68715b28e8a2d0ce7d2a57291ecf5a",
-      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
-      "link": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
-      "summary": "",
-      "published_at": "2026-08-23T12:31:59+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -865,17 +876,6 @@
       "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "summary": "",
       "published_at": "2026-08-21T19:43:39+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "08046f1c108962dc556b427f0c044515",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "",
-      "published_at": "2026-08-21T14:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
