@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T16:50:07.477318+00:00",
+  "generated_at": "2026-08-25T17:18:31.144316+00:00",
   "articles": [
     {
       "id": "83d7cc6663335e0f3b86cf8649911ef0",
@@ -1630,17 +1630,6 @@
       "body_preview": ""
     },
     {
-      "id": "a2846d4644da434b55d855aa46c130c7",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "summary": "AMIE promotional video",
-      "published_at": "2026-08-11T17:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "2ba306006c3971074f5aac01c35c81d7",
       "title": "Improving Fable 5's biology safeguards",
       "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
@@ -1650,6 +1639,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": ""
+    },
+    {
+      "id": "ada3fac11f4f3f72f602c35090501a39",
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "link": "https://www.anthropic.com/news/tino-cuellar",
+      "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie…",
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie Endowment for International Peace, a leading independent global policy research institution with scholars in 20 countries. Prior to his role at Carnegie, Tino was a Justice of the Supreme Court of Cal"
     }
   ],
   "milestones": []
