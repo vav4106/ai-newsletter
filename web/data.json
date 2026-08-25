@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-25T10:20:03.474992+00:00",
+  "generated_at": "2026-08-25T10:53:55.402463+00:00",
   "articles": [
+    {
+      "id": "b55103edc717003e239004cf1aa17bb1",
+      "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems",
+      "link": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/",
+      "summary": "",
+      "published_at": "2026-08-25T10:24:13+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a26ea5080d92464fe81dfd1b277a69ae",
       "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
@@ -713,17 +724,6 @@
       "published_at": "2026-08-23T10:44:59+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c2271e5f1e855048b7478cbee86b6dad",
-      "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
-      "link": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
-      "summary": "",
-      "published_at": "2026-08-23T10:02:00+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
