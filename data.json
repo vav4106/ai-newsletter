@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-26T09:35:29.263665+00:00",
+  "generated_at": "2026-08-26T10:08:56.145882+00:00",
   "articles": [
+    {
+      "id": "88858e7e5124f50fcb40d9f59d1a1f10",
+      "title": "Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO",
+      "link": "https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/",
+      "summary": "",
+      "published_at": "2026-08-26T10:02:39+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f46177803f0b18de75fe46bcc603e915",
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, Intact Private Capital, and other investors. Gatik said it has more than $600 million in [&#8230;] The post Gatik raises $200M to scale AI-powered autonomous freight appeared first on AI News .",
+      "published_at": "2026-08-26T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2d918e1602c576361859e4e4b2a406a0",
       "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
@@ -420,6 +442,17 @@
       "body_preview": ""
     },
     {
+      "id": "6433c5efe7919ed1971e6ea81c164f51",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "link": "https://openai.com/index/loveholidays",
+      "summary": "",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "5d8f7480033dd7c7e71d919f419799ed",
       "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
       "link": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
@@ -822,17 +855,6 @@
       "summary": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG says the deal represents the largest single-round private capital raise [&#8230;] The post XPENG IRON humanoid robot draws record physical AI funding appeared first on AI News .",
       "published_at": "2026-08-24T15:53:53+00:00",
       "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6256c13a1ff70b540cd47c773100f963",
-      "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
-      "link": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/",
-      "summary": "",
-      "published_at": "2026-08-24T15:35:03+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -1344,17 +1366,6 @@
       "body_preview": ""
     },
     {
-      "id": "0a0fecdb557926db096e93cc08d53672",
-      "title": "Alvys launches AI agents for freight TMS workflows",
-      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work with freight data and workflows already held within the TMS. Foundry includes more than 20 pre-built [&#8230;] The post Alvys launches AI agents for freight TMS workflows appeared first on AI News .",
-      "published_at": "2026-08-18T12:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "600be17e3c0fd9a7713b84eeec0cf4a2",
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "link": "https://openai.com/index/partnering-with-codeai",
@@ -1639,17 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie Endowment for International Peace, a leading independent global policy research institution with scholars in 20 countries. Prior to his role at Carnegie, Tino was a Justice of the Supreme Court of Cal"
-    },
-    {
-      "id": "0701aa53a09f6a6bbdf2732756ab3b5a",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to…",
-      "published_at": "2026-07-30T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews. This post reflects our current understanding; we'll update it if any details change. On July 21, OpenAI disclosed that several of their models had broken out of an isolated test"
     }
   ],
   "milestones": []
