@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:06:41.922773+00:00",
+  "generated_at": "2026-08-26T04:51:24.701581+00:00",
   "articles": [
     {
       "id": "6e869269ab31a2cc9dc70f7ecb33c86c",
@@ -365,6 +365,28 @@
       "body_preview": ""
     },
     {
+      "id": "5d8f7480033dd7c7e71d919f419799ed",
+      "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
+      "link": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
+      "summary": "Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released Pipette. It is an open-source platform for benchmarking foundation models on edge devices, built in partnership with Artificial Analysis as an independent methodology validator. Pipette treats on-device behavior as a [&#8230;] The post Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together appeared first on MarkTechPost .",
+      "published_at": "2026-08-25T23:48:08+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "35095f1fd8a91ff80793f71f3690d46d",
+      "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps",
+      "link": "https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/",
+      "summary": "Perplexity releases Portable Computer, packaging local models, harness, sandbox, and connectors into one system running on NVIDIA DGX Spark. The post Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps appeared first on MarkTechPost .",
+      "published_at": "2026-08-25T19:12:19+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "ebd9113381bbed9d4a03665c2f2e18af",
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
       "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
@@ -405,6 +427,17 @@
       "published_at": "2026-08-25T17:50:33+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4385047ca40541de3786f2b620ef8545",
+      "title": "Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet",
+      "link": "https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/",
+      "summary": "Training and serving frontier models is now a networking problem as much as a compute problem. Collective operations like all-reduce and all-to-all synchronize thousands of accelerators during training, and the slowest transfer sets the pace for the entire job. Even small amounts of network friction directly strand significant compute capacity. This week, Meta introduced MetaRoCE. [&#8230;] The post Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet appeared first on MarkTechPost .",
+      "published_at": "2026-08-25T17:25:36+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -662,6 +695,17 @@
       "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
     },
     {
+      "id": "278248934fae915e0f1c27f9403076d4",
+      "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction",
+      "link": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/",
+      "summary": "Fastino released GLiNER2.5, replacing span enumeration with boundary prediction so entity width no longer costs compute. Three Apache 2.0 checkpoints ship at 74M, 194M, and 287M parameters, all CPU-runnable. The release adds joint entity-relation decoding, constrained classification, span attributes, and 4,096-word context. Overall macro F1 reaches 56.17 on 16 zero-shot benchmarks. The post Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction appeared first on MarkTechPost .",
+      "published_at": "2026-08-24T22:21:22+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "8bdb2926249b96b272daa88afe6c87ec",
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
@@ -750,6 +794,28 @@
       "body_preview": ""
     },
     {
+      "id": "b17037f633a480c8bea5b92a07e3e24a",
+      "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo",
+      "link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
+      "summary": "Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3–12 seconds of sensorimotor data into its 30-second context window, and the robot performs the task. No gradient updates, no fine-tuning, no task-specific programming. Across 10 diverse manipulation tasks, this one-shot in-context prompting averaged 59% [&#8230;] The post Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo appeared first on MarkTechPost .",
+      "published_at": "2026-08-24T14:17:01+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "75e0db8ec9dd2c693fa11ee8f925f5e0",
+      "title": "Google Research Introduces ME-POIs: A Mobility-Informed Framework that Adds “How a Place Is Used” to Text-Based POI Embeddings",
+      "link": "https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings/",
+      "summary": "framework that folds aggregate human movement into text-based place embeddings. Language models describe what a place is; they miss how it is used. ME-POIs encodes each visit as a contextualized vector and aligns it with one learnable prototype per POI through contrastive learning, then transfers visit distributions from data-rich anchors to the long tail across three spatial scales. Across five map-enrichment tasks on Los Angeles and Houston mobility data, adding ME-POIs improved 34 of 35 model-task pairings in Los Angeles — up to 81.9% relative F1 on visit intent and a 24.7% MAE reduction on busyness. A mobility-only variant beat Gemini text embeddings on price-level classification. The post Google Research Introduces ME-POIs: A Mobility-Informed Framework that Adds &#8220;How a Place Is",
+      "published_at": "2026-08-24T13:56:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "708fa81163031fb3de31d4e9a4de640f",
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
       "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
@@ -783,6 +849,28 @@
       "body_preview": ""
     },
     {
+      "id": "9277844ece5be46768a4b39533422f8b",
+      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+      "link": "https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/",
+      "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate card, Q2 2026 financials, active and contracted gigawatts, anchor contracts, and SemiAnalysis ClusterMAX tier. Nebius posts the lowest H100 rate and the only published B300 price, Lambda has the cheapest B200, Crusoe is the only one with AMD on its card, and CoreWeave commands a 10–15% premium as the sole Platinum-rated provider. Figures verified August 21, 2026. The post Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power appeared f",
+      "published_at": "2026-08-24T05:26:43+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e399033b4e185a7b50fbc0491b67324b",
+      "title": "Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation",
+      "link": "https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/",
+      "summary": "In this tutorial, we explore a LabPlot-inspired scientific data analysis workflow in Python while preserving the structure and terminology of LabPlot’s aspect tree, analysis kernels, plotting system, and project model. We build reusable components to import tabular data, compute descriptive statistics, smooth and differentiate signals, perform Fourier analysis and filtering, detect peaks, integrate curves, reduce [&#8230;] The post Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation appeared first on MarkTechPost .",
+      "published_at": "2026-08-24T03:32:30+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "cce99cc435c9d3bc47b2f88a212f0e1a",
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
@@ -805,6 +893,17 @@
       "body_preview": ""
     },
     {
+      "id": "de0961e582c39fac30355136ec078262",
+      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+      "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+      "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on MarkTechPost .",
+      "published_at": "2026-08-23T17:51:56+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "578dc3cfd7f945e5fb38bc1ab651a8e5",
       "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
       "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
@@ -823,6 +922,17 @@
       "published_at": "2026-08-23T15:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "af8016fe0fd14b86483bfb3c4349af0d",
+      "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+      "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+      "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost .",
+      "published_at": "2026-08-23T10:44:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
