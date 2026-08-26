@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:14:27.219218+00:00",
+  "generated_at": "2026-08-26T11:46:23.666447+00:00",
   "articles": [
     {
       "id": "ea52d88c02a92f6e87db002ba94d44a5",
@@ -9,6 +9,17 @@
       "published_at": "2026-08-26T11:07:40+00:00",
       "source": "The Verge AI",
       "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "05bc3b76cff5d1352c6978103e12da85",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "summary": "",
+      "published_at": "2026-08-26T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -865,17 +876,6 @@
       "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
       "summary": "",
       "published_at": "2026-08-23T15:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "006060ca4fd5bb1031926acba4c2d416",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "summary": "",
-      "published_at": "2026-08-23T15:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
