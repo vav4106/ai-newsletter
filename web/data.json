@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-08-26T14:04:41.771948+00:00",
+  "generated_at": "2026-08-26T14:55:24.655077+00:00",
   "articles": [
+    {
+      "id": "91ce6c9efc64c6d629e3f17ad3da576a",
+      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
+      "link": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
+      "summary": "",
+      "published_at": "2026-08-26T14:40:09+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ec019b31ed5c199999fdeca5fdf69408",
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "summary": "",
+      "published_at": "2026-08-26T14:37:01+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c7025db388485450a8bff782c217dfc6",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "summary": "",
+      "published_at": "2026-08-26T14:30:00+00:00",
+      "source": "VentureBeat AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2b7dc86337fbfce87a0343af059db727",
+      "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
+      "link": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
+      "summary": "Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence The post What Would Have to Be True for Agentic Coding to Replace Junior Engineers appeared first on MarkTechPost .",
+      "published_at": "2026-08-26T14:20:35+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dc44e10b720c55c595abd0f32d31d000",
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "summary": "",
+      "published_at": "2026-08-26T14:19:29+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "8f0dd2dcd336623088f5680f6124172e",
       "title": "Robot brain builders are pushing out of their GPT-2 era",
@@ -739,17 +794,6 @@
       "body_preview": ""
     },
     {
-      "id": "6e687f7ff90a582e00eea07decaf8c2f",
-      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
-      "link": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/",
-      "summary": "",
-      "published_at": "2026-08-25T13:43:40+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b46d329d446f07fdf4e9ff1004a97641",
       "title": "Accel-backed Keenable is indexing the web for AI agents",
       "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
@@ -937,28 +981,6 @@
       "body_preview": ""
     },
     {
-      "id": "105ff7c7855043481a6d91cf81049f05",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "summary": "",
-      "published_at": "2026-08-24T15:24:18+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f540bb68168d1de2fcfb9a240d416a62",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "summary": "",
-      "published_at": "2026-08-24T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0f5dbb2c1ac685adff5d43bff030fcc5",
       "title": "How to encourage smarter AI use in the classroom",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -1030,17 +1052,6 @@
       "link": "https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/",
       "summary": "In this tutorial, we explore a LabPlot-inspired scientific data analysis workflow in Python while preserving the structure and terminology of LabPlot’s aspect tree, analysis kernels, plotting system, and project model. We build reusable components to import tabular data, compute descriptive statistics, smooth and differentiate signals, perform Fourier analysis and filtering, detect peaks, integrate curves, reduce [&#8230;] The post Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation appeared first on MarkTechPost .",
       "published_at": "2026-08-24T03:32:30+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "de0961e582c39fac30355136ec078262",
-      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
-      "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
-      "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on MarkTechPost .",
-      "published_at": "2026-08-23T17:51:56+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1639,17 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": ""
-    },
-    {
-      "id": "ada3fac11f4f3f72f602c35090501a39",
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "link": "https://www.anthropic.com/news/tino-cuellar",
-      "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie…",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie Endowment for International Peace, a leading independent global policy research institution with scholars in 20 countries. Prior to his role at Carnegie, Tino was a Justice of the Supreme Court of Cal"
     }
   ],
   "milestones": []
