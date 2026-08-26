@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-26T10:08:56.145882+00:00",
+  "generated_at": "2026-08-26T10:49:04.156079+00:00",
   "articles": [
+    {
+      "id": "8f62cb4d23b630b761a047ec1a905410",
+      "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0",
+      "link": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/",
+      "summary": "",
+      "published_at": "2026-08-26T10:37:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "88858e7e5124f50fcb40d9f59d1a1f10",
       "title": "Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO",
@@ -822,17 +833,6 @@
       "summary": "",
       "published_at": "2026-08-24T19:54:19+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "84813b5283dfa7c00eb02b01d4476922",
-      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
-      "link": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/",
-      "summary": "",
-      "published_at": "2026-08-24T18:22:49+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
