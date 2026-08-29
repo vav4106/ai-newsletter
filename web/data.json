@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-08-28T16:50:07.780934+00:00",
+  "generated_at": "2026-08-29T00:44:41.437258+00:00",
   "articles": [
+    {
+      "id": "8d1d55f0b831be379cf79c9bd0eca502",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "summary": "",
+      "published_at": "2026-08-28T20:24:11+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9b66ca85b5411b9cdf8e993be6f415c3",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "summary": "",
+      "published_at": "2026-08-28T19:30:38+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "60f9fb46313681ed56071bb721540bc4",
+      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
+      "link": "https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/",
+      "summary": "Z.ai and Qwen independently shipped near-identical architectures: 3:1 linear hybrids, compressed indexers, gated residuals, and Muon training. The post GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture appeared first on MarkTechPost .",
+      "published_at": "2026-08-28T19:12:21+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8c07d2029c614071dec7eac4ee7d5cd4",
+      "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
+      "link": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
+      "summary": "",
+      "published_at": "2026-08-28T18:46:27+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "12cd5cd0cae338d266de37d05efba04f",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "summary": "",
+      "published_at": "2026-08-28T18:19:40+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8fffe1170bf28d222d4f0205453811ad",
+      "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
+      "link": "https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/",
+      "summary": "Vercel has open-sourced vgpu, the WebGPU library it built to ship the shaders on vercel.com. It treats .wgsl files as importable TypeScript modules, runs the same shader in the browser, in headless Node.js via Dawn, and in a deterministic CI mock, and ships a fullscreen effect in 25 KB gzipped. The post Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders appeared first on MarkTechPost .",
+      "published_at": "2026-08-28T17:28:47+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "e6b8d73911379f126e9b0038b38a2fe8",
       "title": "Trump’s EPA wants to let data centers hide their air pollution",
@@ -442,6 +508,17 @@
       "body_preview": ""
     },
     {
+      "id": "9ea628f0bbdf12b14dab60f693f31c68",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "summary": "",
+      "published_at": "2026-08-28T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "5f80b7b37bb447d30ea5be46b4d2df4f",
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
@@ -750,17 +827,6 @@
       "body_preview": ""
     },
     {
-      "id": "7d0c00c2e40c8f553fc8849fada2566f",
-      "title": "Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO",
-      "link": "https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/",
-      "summary": "",
-      "published_at": "2026-08-27T10:49:35+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "4756d7c0840e6854ec6bc056884618f0",
       "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
       "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
@@ -915,28 +981,6 @@
       "body_preview": ""
     },
     {
-      "id": "49c93bf2d126602cd69f1b9e000eee84",
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "summary": "",
-      "published_at": "2026-08-26T19:34:04+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1dd24453e69372018455b71522eb5ab3",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "summary": "",
-      "published_at": "2026-08-26T19:05:22+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "db53a85014a42b1a858bcfadf409a80f",
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -959,17 +1003,6 @@
       "body_preview": ""
     },
     {
-      "id": "7667bba104c332d5e6ac90c10f097f9a",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "summary": "",
-      "published_at": "2026-08-26T15:47:28+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6aa421e5f9dcba3873d362d90f7a5d7c",
       "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture",
       "link": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/",
@@ -977,17 +1010,6 @@
       "published_at": "2026-08-26T15:20:00+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6480d33d8ebdc0793a4d45f0b542fcf5",
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "summary": "",
-      "published_at": "2026-08-26T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1014,9 +1036,9 @@
       "body_preview": ""
     },
     {
-      "id": "f5983c1beb9c27a3523eebbb62d6586c",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1025,9 +1047,9 @@
       "body_preview": ""
     },
     {
-      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
+      "id": "f5983c1beb9c27a3523eebbb62d6586c",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1091,17 +1113,6 @@
       "body_preview": ""
     },
     {
-      "id": "206a34d307a6ada6360fbcb116b0cc1b",
-      "title": "IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models",
-      "link": "https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/",
-      "summary": "IBM has released Granite 4.2, a family of open reasoning language models in 3B, 8B, and 30B sizes, all under Apache 2.0. Every model exposes a thinking / low-effort / non-thinking switch and native tool calling. The 8B and 30B additionally go through an agentic RL block that trains them to edit code, drive a terminal, and run web searches inside real sandboxed environments. The 30B reports 57.00 on SWE-Bench Verified and 29.24 on Terminal-Bench 2.1. The post IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models appeared first on MarkTechPost .",
-      "published_at": "2026-08-26T05:48:10+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1b1efac3c7a8106a48ca2b30a0e92186",
       "title": "The Hugging Face incident and the road ahead",
       "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
@@ -1131,17 +1142,6 @@
       "published_at": "2026-08-26T00:00:00+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5d8f7480033dd7c7e71d919f419799ed",
-      "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
-      "link": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
-      "summary": "Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released Pipette. It is an open-source platform for benchmarking foundation models on edge devices, built in partnership with Artificial Analysis as an independent methodology validator. Pipette treats on-device behavior as a [&#8230;] The post Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together appeared first on MarkTechPost .",
-      "published_at": "2026-08-25T23:48:08+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
