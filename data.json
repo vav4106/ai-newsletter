@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-08-30T08:15:19.620986+00:00",
+  "generated_at": "2026-08-30T13:48:42.313891+00:00",
   "articles": [
+    {
+      "id": "b58ab1a0a0f21af2b601db1ba24c2eda",
+      "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce",
+      "link": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
+      "summary": "",
+      "published_at": "2026-08-30T13:12:19+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3503ba65b36bdc4c7eae746ccc6b2f5a",
+      "title": "AI agents have no sense of time and are not aware of it",
+      "link": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/",
+      "summary": "",
+      "published_at": "2026-08-30T10:41:36+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0ed1c4d0576b95306cd1ae5df00a5eca",
+      "title": "The skills that earn top grades are the ones AI can fake best",
+      "link": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/",
+      "summary": "",
+      "published_at": "2026-08-30T10:34:09+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0336c776e5b1000fdb137ad8a5acc208",
+      "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
+      "link": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
+      "summary": "",
+      "published_at": "2026-08-30T09:05:19+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8b6eb65a83adfb508bb242f0b96b22d6",
+      "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+      "link": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
+      "summary": "",
+      "published_at": "2026-08-30T08:50:20+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "d1d1c37ea28f07839363567268d4ad7c",
       "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices",
@@ -46,10 +101,10 @@
       "body_preview": ""
     },
     {
-      "id": "757af550abb5010d866578e735591eb0",
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "id": "959d92809282cce2dd8f7d4dc5b6712c",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, [&#8230;]",
       "published_at": "2026-08-29T18:19:53+00:00",
       "source": "The Verge AI",
       "category": "consumer",
@@ -200,17 +255,6 @@
       "body_preview": ""
     },
     {
-      "id": "8c07d2029c614071dec7eac4ee7d5cd4",
-      "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
-      "link": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
-      "summary": "",
-      "published_at": "2026-08-28T18:46:27+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "12cd5cd0cae338d266de37d05efba04f",
       "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
       "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
@@ -244,17 +288,6 @@
       "body_preview": ""
     },
     {
-      "id": "5a7bd12c3ba0b57ac8cd21d302f6c5a9",
-      "title": "AI benchmarks have a trust problem and Google wants to fix it",
-      "link": "https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/",
-      "summary": "",
-      "published_at": "2026-08-28T13:15:10+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "71f49aeb527e64a94bb684adebacbfad",
       "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
       "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
@@ -272,39 +305,6 @@
       "summary": "",
       "published_at": "2026-08-28T12:21:06+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "fffd1d988cde9d8fe3dd60035e692d43",
-      "title": "U.S. court rules Pentagon's blacklisting of Anthropic was unlawful",
-      "link": "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/",
-      "summary": "",
-      "published_at": "2026-08-28T11:43:41+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1598f921b7c034a0dd423359710d1b03",
-      "title": "Beatport blocks fully AI-generated music from its DJ marketplace",
-      "link": "https://the-decoder.com/beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace/",
-      "summary": "",
-      "published_at": "2026-08-28T11:20:27+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "098d23c29807a7a060729ff4d8f4d03e",
-      "title": "Always-on and self-starting AI agents might be OpenAI's next big play",
-      "link": "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/",
-      "summary": "",
-      "published_at": "2026-08-28T08:03:22+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
