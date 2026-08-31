@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-31T20:06:08.257997+00:00",
+  "generated_at": "2026-08-31T23:46:05.003856+00:00",
   "articles": [
+    {
+      "id": "5765c469f36db6970345363eda5d9969",
+      "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
+      "link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+      "summary": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&#8230;] The post Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour appeared first on MarkTechPost .",
+      "published_at": "2026-08-31T23:43:26+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8f267704a166fd3a55561019699190f5",
+      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
+      "link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+      "summary": "Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple targets, past covariates, and past-future covariates with no task-specific fine-tuning. It takes the top average rank among pretrained foundation models on GIFT-Eval, fev-bench, and the TIME leaderboard. The weights, however, ship under a non-commercial, non-production license. The post Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting appeared first on MarkTechPost .",
+      "published_at": "2026-08-31T21:20:16+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f51fe410517904b1baae4a73e30179f2",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "summary": "",
+      "published_at": "2026-08-31T20:13:45+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2f5d456521dc2ecf21a4520bbabfda42",
       "title": "Instagram puts new limits on undisclosed AI profiles",
@@ -35,8 +68,8 @@
       "body_preview": ""
     },
     {
-      "id": "b1bba7e58c4cddfaf3a5dbb1e870d5b8",
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "id": "1b19f2a1e1f296108f4f96644f66aed0",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
       "published_at": "2026-08-31T18:00:00+00:00",
@@ -197,6 +230,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dad8aacdad1abd67eaf2153cb6a114d2",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "link": "https://openai.com/index/polimill",
+      "summary": "",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -563,6 +607,17 @@
       "body_preview": ""
     },
     {
+      "id": "228fa74188a2876fc17643ca4e5d5478",
+      "title": "Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity…",
+      "published_at": "2026-08-31T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity testing, in which Claude Mythos 5 took a series of unauthorized actions on the live internet. In that case, the model, again intentionally running without cyber safeguards for evaluation purposes, had been d"
+    },
+    {
       "id": "5bc6f0b5b2bf6b57dc0343e35172c1e2",
       "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
       "link": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
@@ -783,17 +838,6 @@
       "body_preview": ""
     },
     {
-      "id": "60f9fb46313681ed56071bb721540bc4",
-      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
-      "link": "https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/",
-      "summary": "Z.ai and Qwen independently shipped near-identical architectures: 3:1 linear hybrids, compressed indexers, gated residuals, and Muon training. The post GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture appeared first on MarkTechPost .",
-      "published_at": "2026-08-28T19:12:21+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "12cd5cd0cae338d266de37d05efba04f",
       "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
       "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
@@ -801,17 +845,6 @@
       "published_at": "2026-08-28T18:19:40+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8fffe1170bf28d222d4f0205453811ad",
-      "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
-      "link": "https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/",
-      "summary": "Vercel has open-sourced vgpu, the WebGPU library it built to ship the shaders on vercel.com. It treats .wgsl files as importable TypeScript modules, runs the same shader in the browser, in headless Node.js via Dawn, and in a deterministic CI mock, and ships a fullscreen effect in 25 KB gzipped. The post Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders appeared first on MarkTechPost .",
-      "published_at": "2026-08-28T17:28:47+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -898,17 +931,6 @@
       "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
       "summary": "",
       "published_at": "2026-08-27T23:16:45+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "56d80532258a6dd2daf4215a5cad9486",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "summary": "",
-      "published_at": "2026-08-27T19:52:52+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1069,9 +1091,9 @@
       "body_preview": ""
     },
     {
-      "id": "f5983c1beb9c27a3523eebbb62d6586c",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1080,9 +1102,9 @@
       "body_preview": ""
     },
     {
-      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
+      "id": "f5983c1beb9c27a3523eebbb62d6586c",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1627,28 +1649,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "16440eb5ed1903b979990e76f33bfe90",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "link": "https://openai.com/index/nvidia/chatgpt-work",
-      "summary": "",
-      "published_at": "2026-08-18T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "21a600a38c290bb472ac980156c4b3e5",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "link": "https://huggingface.co/blog/multi-vector-encoder",
-      "summary": "",
-      "published_at": "2026-08-18T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     }
   ],
