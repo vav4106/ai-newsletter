@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-08-31T14:11:22.203062+00:00",
+  "generated_at": "2026-08-31T20:06:08.257997+00:00",
   "articles": [
+    {
+      "id": "2f5d456521dc2ecf21a4520bbabfda42",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "summary": "",
+      "published_at": "2026-08-31T19:16:59+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f3e833285c6cbf06b7d6979ab060f9d5",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "summary": "",
+      "published_at": "2026-08-31T18:35:11+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b15d50cccdc3be6b1d6ba660c6e65d36",
+      "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
+      "link": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/",
+      "summary": "",
+      "published_at": "2026-08-31T18:01:21+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b1bba7e58c4cddfaf3a5dbb1e870d5b8",
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+      "published_at": "2026-08-31T18:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "0fed347e44e055014dc2ad1c08ad6396",
+      "title": "Instagram admits users often can't tell AI profiles from real people",
+      "link": "https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/",
+      "summary": "",
+      "published_at": "2026-08-31T17:27:43+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b14a884909542f8a39bb4dda4483eb03",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "summary": "",
+      "published_at": "2026-08-31T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b57a3c04b7a3d9fd523059291ef7b3cc",
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already [&#8230;]",
+      "published_at": "2026-08-31T15:34:58+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "17f36f2371bff5bf7c4c0cf9f4e27e9b",
+      "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
+      "link": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/",
+      "summary": "",
+      "published_at": "2026-08-31T15:24:59+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "883d69409debbef183828a96538bf4b1",
+      "title": "China's CXMT makes its first HBM3E chips, closing the AI memory gap",
+      "link": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/",
+      "summary": "",
+      "published_at": "2026-08-31T15:17:31+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8c9673493d3f7f488e59b1ec10d33c6d",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "summary": "",
+      "published_at": "2026-08-31T15:15:25+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "54a295c798deda27a33607abefc89ec7",
+      "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
+      "link": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/",
+      "summary": "",
+      "published_at": "2026-08-31T14:31:37+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3ddfe3f7d54e9150c74071ed5f39eec0",
+      "title": "OpenAI starts charging some customers only when its AI actually works",
+      "link": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/",
+      "summary": "",
+      "published_at": "2026-08-31T14:28:14+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "fd4ddef6a4d3d9fbe917be1acb2a8212",
       "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
@@ -35,8 +167,8 @@
       "body_preview": ""
     },
     {
-      "id": "ba6f4463364b30d650f58fc5a45a06d0",
-      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+      "id": "4318bb8793171b8560ee432cbfbaed30",
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
       "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
       "summary": "",
       "published_at": "2026-08-31T12:56:46+00:00",
@@ -420,8 +552,8 @@
       "body_preview": ""
     },
     {
-      "id": "3a965ba3a9cf8a83a92258000bb5dcc1",
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "id": "0093d65a1dcd7fb8c50eb88dcbe03081",
+      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
       "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
       "summary": "",
       "published_at": "2026-08-31T02:34:00+00:00",
@@ -508,39 +640,6 @@
       "body_preview": ""
     },
     {
-      "id": "0ed1c4d0576b95306cd1ae5df00a5eca",
-      "title": "The skills that earn top grades are the ones AI can fake best",
-      "link": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/",
-      "summary": "",
-      "published_at": "2026-08-30T10:34:09+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0336c776e5b1000fdb137ad8a5acc208",
-      "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
-      "link": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
-      "summary": "",
-      "published_at": "2026-08-30T09:05:19+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8b6eb65a83adfb508bb242f0b96b22d6",
-      "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
-      "link": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
-      "summary": "",
-      "published_at": "2026-08-30T08:50:20+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "d1d1c37ea28f07839363567268d4ad7c",
       "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices",
       "link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
@@ -574,8 +673,8 @@
       "body_preview": ""
     },
     {
-      "id": "c7805b3d14c860985df2663cdf8ebed0",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "id": "913f3b0d47520f52343c73ace41bb2f8",
+      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "summary": "",
       "published_at": "2026-08-29T18:41:59+00:00",
@@ -596,8 +695,19 @@
       "body_preview": ""
     },
     {
-      "id": "76151745fe4bb89ffa2bbceba7692608",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "id": "3f65607b3783cd405b84f685457014c2",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "summary": "",
+      "published_at": "2026-08-29T17:51:10+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bf71c4aaa0db4b4a3d40c200d908d516",
+      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "summary": "",
       "published_at": "2026-08-29T17:36:47+00:00",
@@ -618,45 +728,12 @@
       "body_preview": ""
     },
     {
-      "id": "981bd0cd0c4dd2d146f081ff07021f93",
-      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
-      "link": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
-      "summary": "",
-      "published_at": "2026-08-29T13:33:35+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "fd0244f0f186bf982ec4065db036fa3b",
-      "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
-      "link": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
-      "summary": "",
-      "published_at": "2026-08-29T13:25:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "4b027d22eaefb392134c7b41ad2b0c62",
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "summary": "",
       "published_at": "2026-08-29T13:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "78de6c10233a46e2cf0c3907b08c1ac7",
-      "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
-      "link": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
-      "summary": "",
-      "published_at": "2026-08-29T12:51:24+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -849,28 +926,6 @@
       "body_preview": ""
     },
     {
-      "id": "b2b8fc77ab8ea5f19f737936004d12ca",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "summary": "",
-      "published_at": "2026-08-27T17:43:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "eaaac1f5d687d71f79a8f37e08eb6edf",
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus [&#8230;]",
-      "published_at": "2026-08-27T16:15:52+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f60cf4b1b832c995ea75f03bb03095e6",
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
       "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
@@ -890,50 +945,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "ce4f3d3bc057de079228d315520e01b0",
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "summary": "",
-      "published_at": "2026-08-27T16:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7357973fb2f342979ca1c6e88c2c8e70",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "summary": "",
-      "published_at": "2026-08-27T14:56:52+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "90a2f18d4b417a0bf8347a87112ed9e0",
-      "title": "AI’s memory crunch is coming for Android apps",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "summary": "",
-      "published_at": "2026-08-27T14:27:04+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "99227b711a89e7b0bb5f17b0b4345db4",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "summary": "",
-      "published_at": "2026-08-27T14:01:42+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1058,9 +1069,9 @@
       "body_preview": ""
     },
     {
-      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
+      "id": "f5983c1beb9c27a3523eebbb62d6586c",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1069,9 +1080,9 @@
       "body_preview": ""
     },
     {
-      "id": "f5983c1beb9c27a3523eebbb62d6586c",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1487,17 +1498,6 @@
       "body_preview": ""
     },
     {
-      "id": "7227d8d9e6825a9bc64d3c50c42a75d4",
-      "title": "Introducing Intelligence Age",
-      "link": "https://openai.com/index/introducing-ai-futures",
-      "summary": "",
-      "published_at": "2026-08-20T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "7af782b35743e12009287f7bbe6fa495",
       "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "link": "https://openai.com/index/stampli",
@@ -1619,17 +1619,6 @@
       "body_preview": ""
     },
     {
-      "id": "ea5a71edb3a55ff3d3cdf599632e20de",
-      "title": "We still don’t know how people are really using AI",
-      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
-      "published_at": "2026-08-18T10:06:43+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "a90ed8e6c8a17da5c4deed235abe80fd",
       "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
       "link": "https://openai.com/index/asana",
@@ -1649,6 +1638,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "21a600a38c290bb472ac980156c4b3e5",
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/multi-vector-encoder",
+      "summary": "",
+      "published_at": "2026-08-18T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
       "body_preview": ""
     }
   ],
