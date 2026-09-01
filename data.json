@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-09-01T19:41:57.595776+00:00",
+  "generated_at": "2026-09-01T22:04:50.978110+00:00",
   "articles": [
+    {
+      "id": "b9622c1b1625e9d4de24e25cd2350847",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "link": "https://huggingface.co/blog/allenai/benchmirt",
+      "summary": "",
+      "published_at": "2026-09-01T21:39:07+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "37b31a38b5ce0f9aa5c4b34b4a70b522",
+      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "summary": "",
+      "published_at": "2026-09-01T21:06:24+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6b12849f81b4ad4f13935dd47be4fefc",
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "summary": "",
+      "published_at": "2026-09-01T20:53:05+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4ca9ab746e8858a7c8a43f31cd879927",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into [&#8230;]",
+      "published_at": "2026-09-01T20:45:49+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bd82098ca9506ae8da5b989b23404b8c",
+      "title": "The latest AI news we announced in August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
+      "published_at": "2026-09-01T20:45:00+00:00",
+      "source": "Google AI Blog",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "ed4dd14e748cbb70303632c628f5ae14",
+      "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+      "link": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+      "summary": "",
+      "published_at": "2026-09-01T20:40:36+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7f9a7456c74cf71f02f87212cef7ee52",
+      "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+      "link": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+      "summary": "",
+      "published_at": "2026-09-01T20:32:55+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "ede31e4a7dbd8b718f517a792bfa0874",
       "title": "Anthropic’s new Fable release is cheaper, less restrictive",
@@ -175,6 +252,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cf59c14bddecd9c5e8c5d284f3fb3bd4",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra",
+      "summary": "",
+      "published_at": "2026-09-01T13:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -706,28 +794,6 @@
       "body_preview": ""
     },
     {
-      "id": "54a295c798deda27a33607abefc89ec7",
-      "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
-      "link": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/",
-      "summary": "",
-      "published_at": "2026-08-31T14:31:37+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3ddfe3f7d54e9150c74071ed5f39eec0",
-      "title": "OpenAI starts charging some customers only when its AI actually works",
-      "link": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/",
-      "summary": "",
-      "published_at": "2026-08-31T14:28:14+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "fd4ddef6a4d3d9fbe917be1acb2a8212",
       "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
       "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
@@ -838,17 +904,6 @@
       "body_preview": ""
     },
     {
-      "id": "29697fb40a300267ec139ff3679c3d0e",
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
-      "published_at": "2026-08-30T15:35:10+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0bfc0903f2f29ef408ae47836ab7f0be",
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
@@ -865,28 +920,6 @@
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "summary": "",
       "published_at": "2026-08-29T18:41:59+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3f65607b3783cd405b84f685457014c2",
-      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "summary": "",
-      "published_at": "2026-08-29T17:51:10+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "bf71c4aaa0db4b4a3d40c200d908d516",
-      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "summary": "",
-      "published_at": "2026-08-29T17:36:47+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1415,17 +1448,6 @@
       "link": "https://openai.com/index/replit",
       "summary": "",
       "published_at": "2026-08-19T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "62ba68890575b2a1f47d0330af843cab",
-      "title": "ChatGPT Ads expands across Europe",
-      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "summary": "",
-      "published_at": "2026-08-18T22:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
