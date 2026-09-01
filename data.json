@@ -1,6 +1,336 @@
 {
-  "generated_at": "2026-09-01T02:04:09.735240+00:00",
+  "generated_at": "2026-09-01T07:43:10.853438+00:00",
   "articles": [
+    {
+      "id": "df9f2faa41f3449ff6c59cca5b187ad1",
+      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+      "link": "https://arxiv.org/abs/2608.27459",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "52d63900e06a3a38ad3457ae99dd3d76",
+      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+      "link": "https://arxiv.org/abs/2608.27463",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "ae761e80c4992f802f54c9c927008340",
+      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+      "link": "https://arxiv.org/abs/2608.27464",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "04965c90b4f72b9cd219c72d8e9f809a",
+      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
+      "link": "https://arxiv.org/abs/2608.27471",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "b0c562aa2eff68d061daf892ef3ff587",
+      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
+      "link": "https://arxiv.org/abs/2608.27472",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "f1a4f00431e7e6ff786a5cf3eec08b63",
+      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
+      "link": "https://arxiv.org/abs/2608.27475",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "9370e08f54edf040cfec57954cb9762a",
+      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
+      "link": "https://arxiv.org/abs/2608.27476",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "6c0162529b6311bb1ec5ef7bfbcd4dfb",
+      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
+      "link": "https://arxiv.org/abs/2608.27477",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "5394dc0bf1e9c18b3b0ad03016cab9fa",
+      "title": "Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations",
+      "link": "https://arxiv.org/abs/2608.27480",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "12e4b2f30e8070a91b997e4e6add17e7",
+      "title": "Context Localization for Generalized Level-Based Evaluation in Knowledge-Based Systems",
+      "link": "https://arxiv.org/abs/2608.27482",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "53e1e02acfa10be8e46c163363808ca6",
+      "title": "CareGraph: An Auditable Hybrid AI Framework for Evidence-Grounded Personalized Longitudinal Health Intelligence",
+      "link": "https://arxiv.org/abs/2608.27484",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "66263b301ccc53afef46ea9195669ca3",
+      "title": "Thinking Costs Tokens: When More Structure is Worth the Price",
+      "link": "https://arxiv.org/abs/2608.27506",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "65ce03922e42bda1c4f63076f7ed41f2",
+      "title": "WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2608.27508",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "ad9eb030b44e4a9eda72267e065fb293",
+      "title": "SETU: An Agentic Ecosystem for Multilingual, Persona-Aware Communication Coaching",
+      "link": "https://arxiv.org/abs/2608.27524",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "228589c33cfc18185b0a5bf267945ab9",
+      "title": "Nemotron 3.5 Content Safety Moderator: A Compact Multimodal, Multilingual, and Reasoning Enabled Content Safety Moderator",
+      "link": "https://arxiv.org/abs/2608.27548",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "0aecced9c52c4b1d15c3deb9ad20f277",
+      "title": "LongGuard: Mechanistic Analysis and Training-Free Mitigation of Long-Context Failure in Safety Guardrails",
+      "link": "https://arxiv.org/abs/2608.27580",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "0ffb95ccf5b541bd1c759dc7a825c71d",
+      "title": "Generative AI Expands the Intellectual Reach of Course Based Undergraduate Research Experiences (CUREs)",
+      "link": "https://arxiv.org/abs/2608.27638",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "92ecb791c914017dbae133f7952544aa",
+      "title": "If Agents Were Angels, No Governance Would Be Necessary: Out-of-Band Policy Enforcement at a Trusted Tool Boundary",
+      "link": "https://arxiv.org/abs/2608.27646",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "5358937922c22a00173d84552ca3d739",
+      "title": "A Framework for Object-Centric Predictive Monitoring of Collaborative Processes",
+      "link": "https://arxiv.org/abs/2608.27671",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "de8044c086c208e10c50dbd9bdd49727",
+      "title": "Agents for Everyone: A Workshop Framework for Building Agentic AI Capabilities in a Distributed Curation Community",
+      "link": "https://arxiv.org/abs/2608.27675",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "a333f2e2f518c5cafcd99cc84bad5b41",
+      "title": "PCFBench: A Diagnostic Benchmark for Product Carbon Footprint Estimation",
+      "link": "https://arxiv.org/abs/2608.27716",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "fcb1dab82558b5ab7cb724941a4821ae",
+      "title": "Probing Perceptual Priors of MLLMs via Gibbs Sampling with Interpretable Generative Controls",
+      "link": "https://arxiv.org/abs/2608.27727",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "27072aae122253fe0c5c05c3b3332061",
+      "title": "Why Didn't It Check? Unsupported Final Claims and Their Repair in Two Tool-Equipped Language Models",
+      "link": "https://arxiv.org/abs/2608.27768",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "592686eb905c0e9cd25d46824807d3ad",
+      "title": "Credo: Reusable Declarative Primitives for Agentic Workflows",
+      "link": "https://arxiv.org/abs/2608.27790",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "7482d7f38edb921bb701fdcdfab95aed",
+      "title": "ReToolSQL: Agentic Reinforcement Learning for Robust Text-to-SQL",
+      "link": "https://arxiv.org/abs/2608.27796",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "2a5324ca5c89d4f2f76acf7153d24e7d",
+      "title": "CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action",
+      "link": "https://arxiv.org/abs/2608.27797",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "bd291fb253962adcec5d35f32372d2c7",
+      "title": "CURA: Certified Runtime Alarms for Computer-Use Agents",
+      "link": "https://arxiv.org/abs/2608.27808",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "f7b9aadc5509c6a6ae05562f35fe2299",
+      "title": "AcCoRD: Evaluating User-Agent Collaboration Under Realistic User Preference Dynamics",
+      "link": "https://arxiv.org/abs/2608.27818",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "37555625aeecbb36675d16d219a46db5",
+      "title": "Evidential-Based Higher-Order Set Argumentation Framework",
+      "link": "https://arxiv.org/abs/2608.27824",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "8143a9e5f9574e35d344f91a0614a661",
+      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
+      "link": "https://arxiv.org/abs/2608.27831",
+      "summary": "",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
     {
       "id": "7a30c98633fa74c9b706e67315e655dd",
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
@@ -9,28 +339,6 @@
       "published_at": "2026-09-01T00:13:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5765c469f36db6970345363eda5d9969",
-      "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
-      "link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
-      "summary": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&#8230;] The post Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour appeared first on MarkTechPost .",
-      "published_at": "2026-08-31T23:43:26+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8f267704a166fd3a55561019699190f5",
-      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
-      "link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
-      "summary": "Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple targets, past covariates, and past-future covariates with no task-specific fine-tuning. It takes the top average rank among pretrained foundation models on GIFT-Eval, fev-bench, and the TIME leaderboard. The weights, however, ship under a non-commercial, non-production license. The post Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting appeared first on MarkTechPost .",
-      "published_at": "2026-08-31T21:20:16+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -244,6 +552,17 @@
       "body_preview": ""
     },
     {
+      "id": "1b8e88e3a383d3432ba2a7438bfed0d4",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "summary": "",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "dad8aacdad1abd67eaf2153cb6a114d2",
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
       "link": "https://openai.com/index/polimill",
@@ -255,17 +574,6 @@
       "body_preview": ""
     },
     {
-      "id": "d5e98a252c61bc8e3ed2c46a6a9062b5",
-      "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
-      "link": "https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/",
-      "summary": "The OpenClaw Foundation has released v2026.8.1, which the project calls OpenClaw 2.0: 933 contributors, 569 first-timers, and more than 16,000 pull requests, roughly half of every PR ever merged into the repo. Setup now reuses existing subscriptions, API keys and local models. The rebuilt Control UI cut test-harness startup from about 1.6 seconds to 575 ms. Shared cloud sessions add real multiplayer, though the docs are explicit that they are not a security boundary. The post OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway appeared first on MarkTechPost .",
-      "published_at": "2026-08-31T05:04:10+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3defcdab6f03246c88049a038cbb1f50",
       "title": "A milestone in expanding access to AI",
       "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
@@ -274,336 +582,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "df9f2faa41f3449ff6c59cca5b187ad1",
-      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
-      "link": "https://arxiv.org/abs/2608.27459",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "52d63900e06a3a38ad3457ae99dd3d76",
-      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
-      "link": "https://arxiv.org/abs/2608.27463",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "ae761e80c4992f802f54c9c927008340",
-      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
-      "link": "https://arxiv.org/abs/2608.27464",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "04965c90b4f72b9cd219c72d8e9f809a",
-      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
-      "link": "https://arxiv.org/abs/2608.27471",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "b0c562aa2eff68d061daf892ef3ff587",
-      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
-      "link": "https://arxiv.org/abs/2608.27472",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "f1a4f00431e7e6ff786a5cf3eec08b63",
-      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
-      "link": "https://arxiv.org/abs/2608.27475",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "9370e08f54edf040cfec57954cb9762a",
-      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
-      "link": "https://arxiv.org/abs/2608.27476",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "6c0162529b6311bb1ec5ef7bfbcd4dfb",
-      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
-      "link": "https://arxiv.org/abs/2608.27477",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "5394dc0bf1e9c18b3b0ad03016cab9fa",
-      "title": "Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations",
-      "link": "https://arxiv.org/abs/2608.27480",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "12e4b2f30e8070a91b997e4e6add17e7",
-      "title": "Context Localization for Generalized Level-Based Evaluation in Knowledge-Based Systems",
-      "link": "https://arxiv.org/abs/2608.27482",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "53e1e02acfa10be8e46c163363808ca6",
-      "title": "CareGraph: An Auditable Hybrid AI Framework for Evidence-Grounded Personalized Longitudinal Health Intelligence",
-      "link": "https://arxiv.org/abs/2608.27484",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "66263b301ccc53afef46ea9195669ca3",
-      "title": "Thinking Costs Tokens: When More Structure is Worth the Price",
-      "link": "https://arxiv.org/abs/2608.27506",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "65ce03922e42bda1c4f63076f7ed41f2",
-      "title": "WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning",
-      "link": "https://arxiv.org/abs/2608.27508",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "ad9eb030b44e4a9eda72267e065fb293",
-      "title": "SETU: An Agentic Ecosystem for Multilingual, Persona-Aware Communication Coaching",
-      "link": "https://arxiv.org/abs/2608.27524",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "228589c33cfc18185b0a5bf267945ab9",
-      "title": "Nemotron 3.5 Content Safety Moderator: A Compact Multimodal, Multilingual, and Reasoning Enabled Content Safety Moderator",
-      "link": "https://arxiv.org/abs/2608.27548",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "0aecced9c52c4b1d15c3deb9ad20f277",
-      "title": "LongGuard: Mechanistic Analysis and Training-Free Mitigation of Long-Context Failure in Safety Guardrails",
-      "link": "https://arxiv.org/abs/2608.27580",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "0ffb95ccf5b541bd1c759dc7a825c71d",
-      "title": "Generative AI Expands the Intellectual Reach of Course Based Undergraduate Research Experiences (CUREs)",
-      "link": "https://arxiv.org/abs/2608.27638",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "92ecb791c914017dbae133f7952544aa",
-      "title": "If Agents Were Angels, No Governance Would Be Necessary: Out-of-Band Policy Enforcement at a Trusted Tool Boundary",
-      "link": "https://arxiv.org/abs/2608.27646",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "5358937922c22a00173d84552ca3d739",
-      "title": "A Framework for Object-Centric Predictive Monitoring of Collaborative Processes",
-      "link": "https://arxiv.org/abs/2608.27671",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "de8044c086c208e10c50dbd9bdd49727",
-      "title": "Agents for Everyone: A Workshop Framework for Building Agentic AI Capabilities in a Distributed Curation Community",
-      "link": "https://arxiv.org/abs/2608.27675",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "a333f2e2f518c5cafcd99cc84bad5b41",
-      "title": "PCFBench: A Diagnostic Benchmark for Product Carbon Footprint Estimation",
-      "link": "https://arxiv.org/abs/2608.27716",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "fcb1dab82558b5ab7cb724941a4821ae",
-      "title": "Probing Perceptual Priors of MLLMs via Gibbs Sampling with Interpretable Generative Controls",
-      "link": "https://arxiv.org/abs/2608.27727",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "27072aae122253fe0c5c05c3b3332061",
-      "title": "Why Didn't It Check? Unsupported Final Claims and Their Repair in Two Tool-Equipped Language Models",
-      "link": "https://arxiv.org/abs/2608.27768",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "592686eb905c0e9cd25d46824807d3ad",
-      "title": "Credo: Reusable Declarative Primitives for Agentic Workflows",
-      "link": "https://arxiv.org/abs/2608.27790",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "7482d7f38edb921bb701fdcdfab95aed",
-      "title": "ReToolSQL: Agentic Reinforcement Learning for Robust Text-to-SQL",
-      "link": "https://arxiv.org/abs/2608.27796",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "2a5324ca5c89d4f2f76acf7153d24e7d",
-      "title": "CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action",
-      "link": "https://arxiv.org/abs/2608.27797",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "bd291fb253962adcec5d35f32372d2c7",
-      "title": "CURA: Certified Runtime Alarms for Computer-Use Agents",
-      "link": "https://arxiv.org/abs/2608.27808",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "f7b9aadc5509c6a6ae05562f35fe2299",
-      "title": "AcCoRD: Evaluating User-Agent Collaboration Under Realistic User Preference Dynamics",
-      "link": "https://arxiv.org/abs/2608.27818",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "37555625aeecbb36675d16d219a46db5",
-      "title": "Evidential-Based Higher-Order Set Argumentation Framework",
-      "link": "https://arxiv.org/abs/2608.27824",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "8143a9e5f9574e35d344f91a0614a661",
-      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
-      "link": "https://arxiv.org/abs/2608.27831",
-      "summary": "",
-      "published_at": "2026-08-31T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
       "body_preview": ""
     },
     {
@@ -627,28 +605,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity testing, in which Claude Mythos 5 took a series of unauthorized actions on the live internet. In that case, the model, again intentionally running without cyber safeguards for evaluation purposes, had been d"
-    },
-    {
-      "id": "5bc6f0b5b2bf6b57dc0343e35172c1e2",
-      "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
-      "link": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
-      "summary": "Voice agents fail on latency long before they fail on intelligence. Time to first token is the metric most teams use to choose an inference API, and it is the right starting point and the wrong stopping point. This benchmark works through every layer of the voice stack — LLM, speech-to-text, text-to-speech, and speech-to-speech — using figures verified against primary sources on August 30, 2026, with each number labeled as independently measured, vendor-published, or vendor-measured on its own product. The post Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark appeared first on MarkTechPost .",
-      "published_at": "2026-08-30T21:24:38+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "32db86d283eca2171e776dd86e6d6a97",
-      "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
-      "link": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
-      "summary": "Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel Hill, has released EnvHarness, an Apache-2.0 layer that turns a static agent benchmark into one that adapts to the policy training on it. It wraps a frozen environment through the standard reset()/step() interface, so tasks and human-built verifiers stay untouched — and an LLM designer, EnvRigger, writes those wrappers automatically against flaws diagnosed in the agent's own rollouts. Across five benchmarks, mined skills gain up to 9.0 points on held-out tasks with 9.8% fewer execution steps. The post Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds appeared first on MarkTechPost .",
-      "published_at": "2026-08-30T20:23:46+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
     },
     {
       "id": "35071f439e534665b7e24252ea5218ff",
@@ -706,39 +662,6 @@
       "body_preview": ""
     },
     {
-      "id": "d1d1c37ea28f07839363567268d4ad7c",
-      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices",
-      "link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
-      "summary": "Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely operate physical devices. Instrument integration that normally takes weeks or months drops to hours: Carnegie Mellon went from raw equipment to a finished dose-response curve in eight, and QuEra's laser relock improved from 58% to 99.3% across 700 trials. MHS is model-agnostic, reachable over MCP, and enforces safety limits in the driver rather than the prompt. The post Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices appeared first on MarkTechPost .",
-      "published_at": "2026-08-30T06:12:21+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "47d11d34d43bf2d1fc59772b2fcd9b29",
-      "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
-      "link": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/",
-      "summary": "Code-as-World recovers editable MuJoCo scene code from real video, then uses those verified worlds to train physical reasoning. The post Meet &#8216;Code-as-World&#8217;: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs appeared first on MarkTechPost .",
-      "published_at": "2026-08-30T01:35:02+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9460a4575e48b431f3cc4739ff10dddd",
-      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
-      "link": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/",
-      "summary": "In this tutorial, we build an ensemble weather forecasting workflow with NVIDIA Earth2Studio. We install the required Earth2Studio components while preserving Colab’s existing CUDA-enabled PyTorch environment, load the FCN prognostic model, and retrieve atmospheric initial conditions from GFS. We then implement a custom wind-power diagnostic that converts 10-meter wind components into turbine capacity factors, along [&#8230;] The post Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio appeared first on MarkTechPost .",
-      "published_at": "2026-08-29T18:57:26+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "913f3b0d47520f52343c73ace41bb2f8",
       "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -783,17 +706,6 @@
       "body_preview": ""
     },
     {
-      "id": "d72f9708c4203245370528cffb0c5bb1",
-      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
-      "link": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
-      "summary": "We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prior context instead of a single final frame, first and last frames can be pinned to control camera movement, and video clips can be passed as references for character consistency. The post Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling appeared first on MarkTechPost .",
-      "published_at": "2026-08-29T14:30:44+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "4b027d22eaefb392134c7b41ad2b0c62",
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
@@ -812,17 +724,6 @@
       "published_at": "2026-08-29T12:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7e2b3cd31eef992ba406bf700c5435bf",
-      "title": "Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning",
-      "link": "https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/",
-      "summary": "Pollen Robotics, the Bordeaux robotics team at Hugging Face, opened pre-orders for Microduck — a 25 cm bipedal robot where every movement is a neural policy trained in MuJoCo and exported to ONNX. At $399, it puts the full sim-to-real loop on a desk: 15 motors, camera, LiDAR, two IMUs, and an Apache-2.0 training stack you can retrain yourself. The post Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning appeared first on MarkTechPost .",
-      "published_at": "2026-08-29T05:25:16+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1003,17 +904,6 @@
       "body_preview": ""
     },
     {
-      "id": "4756d7c0840e6854ec6bc056884618f0",
-      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
-      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company&#8217;s chief financial officer,&#160;told analysts&#160;on August 26 that demand from the labs Nvidia backs with its own balance sheet will contribute toward roughly a quarter of its business [&#8230;] The post A quarter of Nvidia&#8217;s business next year comes from labs it is financing appeared first on AI News .",
-      "published_at": "2026-08-27T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1c96dec0bc9a85075cc03b43698baf42",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -1091,17 +981,6 @@
       "body_preview": ""
     },
     {
-      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
-      "summary": "",
-      "published_at": "2026-08-26T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "f5983c1beb9c27a3523eebbb62d6586c",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
@@ -1113,25 +992,14 @@
       "body_preview": ""
     },
     {
-      "id": "f46177803f0b18de75fe46bcc603e915",
-      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, Intact Private Capital, and other investors. Gatik said it has more than $600 million in [&#8230;] The post Gatik raises $200M to scale AI-powered autonomous freight appeared first on AI News .",
+      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
+      "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2d918e1602c576361859e4e4b2a406a0",
-      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside a data centre. NVIDIA&#8217;s argument for [&#8230;] The post NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots appeared first on AI News .",
-      "published_at": "2026-08-26T09:08:11+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -1209,17 +1077,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "510773270dfc660d8ae18acb9caa95bc",
-      "title": "MIT AI forecasts extreme weather without historical data",
-      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of events that have not appeared in a region&#8217;s historical record but remain statistically-possible. Each map also carries estimates of the [&#8230;] The post MIT AI forecasts extreme weather without historical data appeared first on AI News .",
-      "published_at": "2026-08-25T15:46:06+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1322,17 +1179,6 @@
       "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
     },
     {
-      "id": "c645cd01aeb03c565e8527ca03f9d8f4",
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "summary": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG says the deal represents the largest single-round private capital raise [&#8230;] The post XPENG IRON humanoid robot draws record physical AI funding appeared first on AI News .",
-      "published_at": "2026-08-24T15:53:53+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0f5dbb2c1ac685adff5d43bff030fcc5",
       "title": "How to encourage smarter AI use in the classroom",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -1374,17 +1220,6 @@
       "source": "Google DeepMind",
       "category": "research",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "4e59c227019992e7bf7a9137feb07089",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the importance of language selection. It was [&#8230;] The post How AI coding tools are contributing to the popularity of JavaScript appeared first on AI News .",
-      "published_at": "2026-08-21T08:41:29+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1432,28 +1267,6 @@
       "body_preview": ""
     },
     {
-      "id": "70fc06918ac96e31a50fd564b209cff1",
-      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
-      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to communities with tens of millions of customers, according to Amazon. Reaching that many [&#8230;] The post Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities appeared first on AI News .",
-      "published_at": "2026-08-20T14:05:18+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f0789e565ddf0a68a729cf74132491fc",
-      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and token-based billing. OpenRouter supports more than 400 models from over 80 providers, according to Stripe. Rather than requiring [&#8230;] The post Stripe agrees to buy OpenRouter as AI model routing expands appeared first on AI News .",
-      "published_at": "2026-08-20T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "68cd3107129e9321d7a54c5936f13469",
       "title": "Unlocking hidden revenue streams with market models",
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
@@ -1462,50 +1275,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "bd071dec0d43a67eb8eeac93cad03548",
-      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
-      "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world&#8217;s first minister of state for artificial intelligence at 27. In the years since, it [&#8230;] The post Agentic AI in government just hit the hard part: deciding what a machine may decide appeared first on AI News .",
-      "published_at": "2026-08-20T09:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a320041e0f124d96ddc081e562db5b01",
-      "title": "A third of ChatGPT ads appear in irrelevant conversations",
-      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
-      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real ChatGPT conversations between 4 July and 4 August 2026, pairing every ad with the conversation it appeared in, [&#8230;] The post A third of ChatGPT ads appear in irrelevant conversations appeared first on AI News .",
-      "published_at": "2026-08-20T08:07:40+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "28636ee59f26aa6386d51fc9a431c779",
-      "title": "AI data centre regulation just got a template that needs no new law",
-      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
-      "summary": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer&#8217;s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breaking them, and persuade the town that has to live with the building to say [&#8230;] The post AI data centre regulation just got a template that needs no new law appeared first on AI News .",
-      "published_at": "2026-08-20T08:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8b5d6ec7b6488926b90bc9d25478922a",
-      "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
-      "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
-      "summary": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently released as a connector for Anthropic&#8217;s AI assistant Claude. The move addresses a real gap. McKinsey&#8217;s recent State of AI survey found that [&#8230;] The post HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector appeared first on AI News .",
-      "published_at": "2026-08-20T07:35:07+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1641,15 +1410,92 @@
       "body_preview": ""
     },
     {
-      "id": "a90ed8e6c8a17da5c4deed235abe80fd",
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "link": "https://openai.com/index/asana",
-      "summary": "",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "source": "OpenAI News",
+      "id": "ff0d3111b8b01ad536f3a23d5956f676",
+      "title": "How Claude’s text watermark works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. Product Jul 24, 2026 Introducing Claude Opus 5 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Features Jul 6",
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "source": "Anthropic News",
       "category": "company",
       "importance": "high",
       "body_preview": ""
+    },
+    {
+      "id": "2ba306006c3971074f5aac01c35c81d7",
+      "title": "Improving Fable 5's biology safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to…",
+      "published_at": "2026-08-07T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
+    },
+    {
+      "id": "ada3fac11f4f3f72f602c35090501a39",
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "link": "https://www.anthropic.com/news/tino-cuellar",
+      "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie…",
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie Endowment for International Peace, a leading independent global policy research institution with scholars in 20 countries. Prior to his role at Carnegie, Tino was a Justice of the Supreme Court of Cal"
+    },
+    {
+      "id": "0701aa53a09f6a6bbdf2732756ab3b5a",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to…",
+      "published_at": "2026-07-30T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews. This post reflects our current understanding; we'll update it if any details change. On July 21, OpenAI disclosed that several of their models had broken out of an isolated test"
+    },
+    {
+      "id": "e6b4ec1b7b0fe936c462d4a9b9589e9f",
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "A post by Dario Amodei, Anthropic CEO Over the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights models, and some people have even accused…",
+      "published_at": "2026-07-27T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "A post by Dario Amodei, Anthropic CEO Over the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights models, and some people have even accused Anthropic of wanting to ban open-weights models as a means of protecting our business. Anyone who has read my past writing should know that I don’t regard such bans as a useful measure, but let me state it cle"
+    },
+    {
+      "id": "8e719f6a34a35bea85e79bd6f6acd46d",
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "link": "https://www.anthropic.com/news/cognizant-anthropic",
+      "summary": "We're expanding our partnership with Cognizant , one of the world's largest technology services companies. Cognizant uses Claude in the systems it builds and runs for clients across manufacturing, life sciences, insurance, and other industries. With the expansion of our partnership, it’s embedding Claude across its own business and engineering platforms, scaling a Claude-certified workforce as…",
+      "published_at": "2026-07-27T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "We're expanding our partnership with Cognizant , one of the world's largest technology services companies. Cognizant uses Claude in the systems it builds and runs for clients across manufacturing, life sciences, insurance, and other industries. With the expansion of our partnership, it’s embedding Claude across its own business and engineering platforms, scaling a Claude-certified workforce as part of its new Frontier Certified workforce model, and becoming a Global Premier Partner in the Claude Partner Network . Successfully integrating AI into a large enterprise requires knowledge of the com"
+    },
+    {
+      "id": "e03005d48514641deed954c6a0f1d22a",
+      "title": "Introducing Claude Opus 5",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "6c472be9947730dd861b28c5195a4d78",
+      "title": "Responsible Scaling Policy",
+      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
+      "published_at": "",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
