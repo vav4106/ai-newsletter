@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-31T23:46:05.003856+00:00",
+  "generated_at": "2026-09-01T02:04:09.735240+00:00",
   "articles": [
+    {
+      "id": "7a30c98633fa74c9b706e67315e655dd",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "summary": "",
+      "published_at": "2026-09-01T00:13:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "5765c469f36db6970345363eda5d9969",
       "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
@@ -922,17 +933,6 @@
       "published_at": "2026-08-28T00:00:00+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5f80b7b37bb447d30ea5be46b4d2df4f",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "summary": "",
-      "published_at": "2026-08-27T23:16:45+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
