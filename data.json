@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-02T08:01:21.878211+00:00",
+  "generated_at": "2026-09-02T12:44:33.966363+00:00",
   "articles": [
+    {
+      "id": "879f78699accd2160ba4cb35946a2f95",
+      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
+      "link": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/",
+      "summary": "",
+      "published_at": "2026-09-02T12:28:36+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e8ae6a278a11a98df3f7921a404b7bb7",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "summary": "",
+      "published_at": "2026-09-02T12:09:42+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a9fd58041876b0ed128295389f4c3cba",
+      "title": "Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent",
+      "link": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/",
+      "summary": "",
+      "published_at": "2026-09-02T08:21:38+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2e97b07c5f53a2d42c55c495b4ac98a3",
       "title": "Anthropic Introduces Enterprise Frontier Safeguards (EFS): Zero-Data-Retention Privacy Plus Cross-Session Misuse Detection",
@@ -893,28 +926,6 @@
       "body_preview": ""
     },
     {
-      "id": "17f36f2371bff5bf7c4c0cf9f4e27e9b",
-      "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
-      "link": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/",
-      "summary": "",
-      "published_at": "2026-08-31T15:24:59+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "883d69409debbef183828a96538bf4b1",
-      "title": "China's CXMT makes its first HBM3E chips, closing the AI memory gap",
-      "link": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/",
-      "summary": "",
-      "published_at": "2026-08-31T15:17:31+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "8c9673493d3f7f488e59b1ec10d33c6d",
       "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
       "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
@@ -1030,17 +1041,6 @@
       "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
       "summary": "",
       "published_at": "2026-08-30T16:54:25+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0bfc0903f2f29ef408ae47836ab7f0be",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "summary": "",
-      "published_at": "2026-08-30T15:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
