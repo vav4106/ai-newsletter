@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T00:00:43.236870+00:00",
+  "generated_at": "2026-09-02T03:22:25.498084+00:00",
   "articles": [
     {
       "id": "d85821135e9a4afba236677b34838ef7",
@@ -46,8 +46,8 @@
       "body_preview": ""
     },
     {
-      "id": "fbe6f63b41d7c6277cec1bdcadd2a3be",
-      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "id": "9c5edab4f4ea1d37d58539ca3c013164",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
       "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "summary": "",
       "published_at": "2026-09-01T21:06:24+00:00",
@@ -108,17 +108,6 @@
       "published_at": "2026-09-01T20:32:55+00:00",
       "source": "The Decoder",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a95be71f8d13418ccb96e4b3721a5d4b",
-      "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
-      "link": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
-      "summary": "Anthropic has released Claude Fable 5.1 and Claude Mythos 5.1, the same model behind two different safeguard layers. Fable 5.1 is generally available on the Claude API, AWS, Google Cloud, and Microsoft Foundry; Mythos 5.1 remains restricted to vetted organizations under Project Glasswing. Fable 5.1 scores 52.6% on Terminal-Bench-Science 0.1 against 24.7% for Fable 5, ships a 1M token context window, and drops cache reads 75% to $0.25 per million tokens while base pricing holds at $10 and $50. Three API changes are breaking, including the removal of forced tool use. The post Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads appeared first on MarkTechPost .",
-      "published_at": "2026-09-01T20:30:21+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -255,17 +244,6 @@
       "body_preview": ""
     },
     {
-      "id": "e5424e9b833cb68c5b61b81d7f4e6626",
-      "title": "Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Factor Discovery and Model Development in Quantitative Finance",
-      "link": "https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/",
-      "summary": "Quantitative research agents that write their own experiments can corrupt the evidence they later learn from. A leaky feature that scores well gets stored as a successful precedent and propagated through later iterations. Prompt-level instructions and reviewer agents do not close this, because author and reviewer share the same blind spots. A team of researchers [&#8230;] The post Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Factor Discovery and Model Development in Quantitative Finance appeared first on MarkTechPost .",
-      "published_at": "2026-09-01T15:54:14+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f15bebfc3bf98df8bca257c77d9cfc09",
       "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
       "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
@@ -365,9 +343,9 @@
       "body_preview": ""
     },
     {
-      "id": "df9f2faa41f3449ff6c59cca5b187ad1",
-      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
-      "link": "https://arxiv.org/abs/2608.27459",
+      "id": "82a44acd157977e3c6b8740e6f451b54",
+      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+      "link": "https://arxiv.org/abs/2608.28590",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -376,9 +354,9 @@
       "body_preview": ""
     },
     {
-      "id": "52d63900e06a3a38ad3457ae99dd3d76",
-      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
-      "link": "https://arxiv.org/abs/2608.27463",
+      "id": "4fd5936b049668ad6de5be92e5b81e85",
+      "title": "Expert-validated STEM QA",
+      "link": "https://arxiv.org/abs/2608.28591",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -387,9 +365,9 @@
       "body_preview": ""
     },
     {
-      "id": "ae761e80c4992f802f54c9c927008340",
-      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
-      "link": "https://arxiv.org/abs/2608.27464",
+      "id": "e38228c50cdae86a89ad52f5b292eeaf",
+      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+      "link": "https://arxiv.org/abs/2608.28592",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -398,9 +376,9 @@
       "body_preview": ""
     },
     {
-      "id": "04965c90b4f72b9cd219c72d8e9f809a",
-      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
-      "link": "https://arxiv.org/abs/2608.27471",
+      "id": "c0eefee5fecb2de8f8dee0ddd57512b4",
+      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+      "link": "https://arxiv.org/abs/2608.28593",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -409,9 +387,9 @@
       "body_preview": ""
     },
     {
-      "id": "b0c562aa2eff68d061daf892ef3ff587",
-      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
-      "link": "https://arxiv.org/abs/2608.27472",
+      "id": "1d9aefb8486944de0bb0131e73c1ca4b",
+      "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
+      "link": "https://arxiv.org/abs/2608.28594",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -420,9 +398,9 @@
       "body_preview": ""
     },
     {
-      "id": "f1a4f00431e7e6ff786a5cf3eec08b63",
-      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
-      "link": "https://arxiv.org/abs/2608.27475",
+      "id": "e6e0fbd43805ce150394cc8a8c5023ad",
+      "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
+      "link": "https://arxiv.org/abs/2608.28595",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -431,9 +409,9 @@
       "body_preview": ""
     },
     {
-      "id": "9370e08f54edf040cfec57954cb9762a",
-      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
-      "link": "https://arxiv.org/abs/2608.27476",
+      "id": "84f78bacd9cec1bb4537309a97eedca7",
+      "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
+      "link": "https://arxiv.org/abs/2608.28596",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -442,9 +420,9 @@
       "body_preview": ""
     },
     {
-      "id": "6c0162529b6311bb1ec5ef7bfbcd4dfb",
-      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
-      "link": "https://arxiv.org/abs/2608.27477",
+      "id": "d8cde24f8d71d897711d7dc151fc5c6f",
+      "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+      "link": "https://arxiv.org/abs/2608.28597",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -453,9 +431,9 @@
       "body_preview": ""
     },
     {
-      "id": "5394dc0bf1e9c18b3b0ad03016cab9fa",
-      "title": "Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations",
-      "link": "https://arxiv.org/abs/2608.27480",
+      "id": "26285a8b3a9a0d91542395fb46a5abb2",
+      "title": "CDPR: Counterfactual Advantage-based Credit Assignment for Cost-Aware Sequential Medical Diagnosis",
+      "link": "https://arxiv.org/abs/2608.28599",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -464,9 +442,9 @@
       "body_preview": ""
     },
     {
-      "id": "12e4b2f30e8070a91b997e4e6add17e7",
-      "title": "Context Localization for Generalized Level-Based Evaluation in Knowledge-Based Systems",
-      "link": "https://arxiv.org/abs/2608.27482",
+      "id": "e064928ac2cf47c0ef856b5fceca3c0b",
+      "title": "SHAPE of Chain-of-Thought in Math Reasoning",
+      "link": "https://arxiv.org/abs/2608.28600",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -475,9 +453,9 @@
       "body_preview": ""
     },
     {
-      "id": "53e1e02acfa10be8e46c163363808ca6",
-      "title": "CareGraph: An Auditable Hybrid AI Framework for Evidence-Grounded Personalized Longitudinal Health Intelligence",
-      "link": "https://arxiv.org/abs/2608.27484",
+      "id": "cf79a4c59a57cf41dbbb0b00c98ce220",
+      "title": "Leveraging Generative AI to Design Accessible Interactive Visualizations for Undergraduate Mathematics: A Six-Phase Workflow",
+      "link": "https://arxiv.org/abs/2608.28601",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -486,9 +464,9 @@
       "body_preview": ""
     },
     {
-      "id": "66263b301ccc53afef46ea9195669ca3",
-      "title": "Thinking Costs Tokens: When More Structure is Worth the Price",
-      "link": "https://arxiv.org/abs/2608.27506",
+      "id": "cd9b286a3d380bb573314d6a3963ce92",
+      "title": "Integrating Triaxial IMU Sensors and Ensemble Learning for Effective Parkinson Disease Severity Classification",
+      "link": "https://arxiv.org/abs/2608.28602",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -497,9 +475,9 @@
       "body_preview": ""
     },
     {
-      "id": "65ce03922e42bda1c4f63076f7ed41f2",
-      "title": "WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning",
-      "link": "https://arxiv.org/abs/2608.27508",
+      "id": "dc65c26328fe647a2b207d70c3e75e60",
+      "title": "C3-UniMM: Causal Cycle-Consistent Unified Multimodal Modeling via Super Alignment and Shared Decoding Space",
+      "link": "https://arxiv.org/abs/2608.28603",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -508,9 +486,9 @@
       "body_preview": ""
     },
     {
-      "id": "ad9eb030b44e4a9eda72267e065fb293",
-      "title": "SETU: An Agentic Ecosystem for Multilingual, Persona-Aware Communication Coaching",
-      "link": "https://arxiv.org/abs/2608.27524",
+      "id": "413e54d2d0adb178f39d1f836c4e7a10",
+      "title": "MedTVL: Harnessing Vision and Language for Medical Time Series Classification",
+      "link": "https://arxiv.org/abs/2608.28605",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -519,9 +497,9 @@
       "body_preview": ""
     },
     {
-      "id": "228589c33cfc18185b0a5bf267945ab9",
-      "title": "Nemotron 3.5 Content Safety Moderator: A Compact Multimodal, Multilingual, and Reasoning Enabled Content Safety Moderator",
-      "link": "https://arxiv.org/abs/2608.27548",
+      "id": "0f5d4f205a00e09c2216b1851a8a01f1",
+      "title": "RegDivergence-101: An LLM Benchmark for Cross-Jurisdiction Regulatory Contradiction Detection in Life Sciences",
+      "link": "https://arxiv.org/abs/2608.28607",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -530,9 +508,9 @@
       "body_preview": ""
     },
     {
-      "id": "0aecced9c52c4b1d15c3deb9ad20f277",
-      "title": "LongGuard: Mechanistic Analysis and Training-Free Mitigation of Long-Context Failure in Safety Guardrails",
-      "link": "https://arxiv.org/abs/2608.27580",
+      "id": "e6c12188c00777b425a543dd8f7e5e92",
+      "title": "TPvG: A Moral Decision Framework for Large Language Models from One-Shot to Sequential Feedback",
+      "link": "https://arxiv.org/abs/2608.28610",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -541,9 +519,9 @@
       "body_preview": ""
     },
     {
-      "id": "0ffb95ccf5b541bd1c759dc7a825c71d",
-      "title": "Generative AI Expands the Intellectual Reach of Course Based Undergraduate Research Experiences (CUREs)",
-      "link": "https://arxiv.org/abs/2608.27638",
+      "id": "a6b331b33297aac1e69fb80ad570b4bb",
+      "title": "InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal",
+      "link": "https://arxiv.org/abs/2608.28612",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -552,9 +530,9 @@
       "body_preview": ""
     },
     {
-      "id": "92ecb791c914017dbae133f7952544aa",
-      "title": "If Agents Were Angels, No Governance Would Be Necessary: Out-of-Band Policy Enforcement at a Trusted Tool Boundary",
-      "link": "https://arxiv.org/abs/2608.27646",
+      "id": "c4b6641266ab706542107a41b03c17c5",
+      "title": "Preference Elicitation for Policy Optimization and Application to Aligning Heart Transplantation with Human Values",
+      "link": "https://arxiv.org/abs/2608.28620",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -563,9 +541,9 @@
       "body_preview": ""
     },
     {
-      "id": "5358937922c22a00173d84552ca3d739",
-      "title": "A Framework for Object-Centric Predictive Monitoring of Collaborative Processes",
-      "link": "https://arxiv.org/abs/2608.27671",
+      "id": "11dfffc19e11710ba774b3e08773feb9",
+      "title": "Machine Learning-Enhanced Tabu Search for Tactical Wireless Network Design",
+      "link": "https://arxiv.org/abs/2608.28627",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -574,9 +552,9 @@
       "body_preview": ""
     },
     {
-      "id": "de8044c086c208e10c50dbd9bdd49727",
-      "title": "Agents for Everyone: A Workshop Framework for Building Agentic AI Capabilities in a Distributed Curation Community",
-      "link": "https://arxiv.org/abs/2608.27675",
+      "id": "810e3d93221086b9d100a78a6803f752",
+      "title": "CDEP Agent: Connecting Meteorologically Detected Temporal Compound Events to Real-World Documentary Evidence",
+      "link": "https://arxiv.org/abs/2608.28628",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -585,9 +563,9 @@
       "body_preview": ""
     },
     {
-      "id": "a333f2e2f518c5cafcd99cc84bad5b41",
-      "title": "PCFBench: A Diagnostic Benchmark for Product Carbon Footprint Estimation",
-      "link": "https://arxiv.org/abs/2608.27716",
+      "id": "443ae7d4ab01ba3b919bb34cb3e3818a",
+      "title": "CrossAudit: A Git-Native, Cross-Vendor Audit Loop for Agentic Science",
+      "link": "https://arxiv.org/abs/2608.28631",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -596,9 +574,9 @@
       "body_preview": ""
     },
     {
-      "id": "fcb1dab82558b5ab7cb724941a4821ae",
-      "title": "Probing Perceptual Priors of MLLMs via Gibbs Sampling with Interpretable Generative Controls",
-      "link": "https://arxiv.org/abs/2608.27727",
+      "id": "7a99b5c773ee43a648114671f8a5066c",
+      "title": "AutoScientist-Quant: Self-Evolving Coding Agents for Automatic Research in Quantitative Investment",
+      "link": "https://arxiv.org/abs/2608.28632",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -607,9 +585,9 @@
       "body_preview": ""
     },
     {
-      "id": "27072aae122253fe0c5c05c3b3332061",
-      "title": "Why Didn't It Check? Unsupported Final Claims and Their Repair in Two Tool-Equipped Language Models",
-      "link": "https://arxiv.org/abs/2608.27768",
+      "id": "aa9c78c1d2010548771c1d6927078afb",
+      "title": "AI Scientist Mission Control (AIMC): Visual Analytics for Human Oversight of Autonomous Scientific Discovery",
+      "link": "https://arxiv.org/abs/2608.28637",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -618,9 +596,9 @@
       "body_preview": ""
     },
     {
-      "id": "592686eb905c0e9cd25d46824807d3ad",
-      "title": "Credo: Reusable Declarative Primitives for Agentic Workflows",
-      "link": "https://arxiv.org/abs/2608.27790",
+      "id": "48721ccd4e4ba5e2afbd5361749e265a",
+      "title": "Self-Evolving Skills via Surrogate-Guided Solve-and-Reproduce",
+      "link": "https://arxiv.org/abs/2608.28638",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -629,9 +607,9 @@
       "body_preview": ""
     },
     {
-      "id": "7482d7f38edb921bb701fdcdfab95aed",
-      "title": "ReToolSQL: Agentic Reinforcement Learning for Robust Text-to-SQL",
-      "link": "https://arxiv.org/abs/2608.27796",
+      "id": "8018037fdbea20f4ed076e1aed9a36f4",
+      "title": "Reward-Oracle MCTS for Formal Theorem Proving: Sample-Efficient Search and the Need for Kernel-Level Proof Auditing",
+      "link": "https://arxiv.org/abs/2608.28639",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -640,9 +618,9 @@
       "body_preview": ""
     },
     {
-      "id": "2a5324ca5c89d4f2f76acf7153d24e7d",
-      "title": "CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action",
-      "link": "https://arxiv.org/abs/2608.27797",
+      "id": "a702df5a0f1f7bd5b23a6f37d5340fea",
+      "title": "From Extraction to Governed Memory: Multi-Agent Knowledge Graph Construction with Domain-Expert Review",
+      "link": "https://arxiv.org/abs/2608.28642",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -651,9 +629,9 @@
       "body_preview": ""
     },
     {
-      "id": "bd291fb253962adcec5d35f32372d2c7",
-      "title": "CURA: Certified Runtime Alarms for Computer-Use Agents",
-      "link": "https://arxiv.org/abs/2608.27808",
+      "id": "36c9baa15e44898ba5c36c3d6d557051",
+      "title": "BiasMix-Finance: Post-Generation KYC Guardrails for LLM Portfolio Advice",
+      "link": "https://arxiv.org/abs/2608.28646",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -662,9 +640,9 @@
       "body_preview": ""
     },
     {
-      "id": "f7b9aadc5509c6a6ae05562f35fe2299",
-      "title": "AcCoRD: Evaluating User-Agent Collaboration Under Realistic User Preference Dynamics",
-      "link": "https://arxiv.org/abs/2608.27818",
+      "id": "faf6c36f88cd59c9df7a601f8f928921",
+      "title": "Self-Specialized Teachers for Domain Post-Training",
+      "link": "https://arxiv.org/abs/2608.28647",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -673,9 +651,9 @@
       "body_preview": ""
     },
     {
-      "id": "37555625aeecbb36675d16d219a46db5",
-      "title": "Evidential-Based Higher-Order Set Argumentation Framework",
-      "link": "https://arxiv.org/abs/2608.27824",
+      "id": "4044b9ff9c102dbf773f684d54c16c1a",
+      "title": "How Language Models Choose Sides: Internal Representations of Instruction Hierarchy",
+      "link": "https://arxiv.org/abs/2608.28648",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -684,9 +662,9 @@
       "body_preview": ""
     },
     {
-      "id": "8143a9e5f9574e35d344f91a0614a661",
-      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
-      "link": "https://arxiv.org/abs/2608.27831",
+      "id": "26d698e3e96be56682e050c90db9f9e0",
+      "title": "A Generalized Optimization Engine (GOE) for Edge AI Inference Acceleration",
+      "link": "https://arxiv.org/abs/2608.28652",
       "summary": "",
       "published_at": "2026-09-01T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -695,14 +673,14 @@
       "body_preview": ""
     },
     {
-      "id": "b9447df81358e91a3cdf118d46b8a62d",
-      "title": "Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio",
-      "link": "https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/",
-      "summary": "Speed and accuracy usually pull against each other in text-to-speech. Gradium AI's new default model reports both: an 81.0% human-rated pass rate on 500 hard sentences across five languages, at 216 ms P50 time-to-first-audio on Coval. The evaluation set is open on Hugging Face under CC BY 4.0. The post Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio appeared first on MarkTechPost .",
-      "published_at": "2026-09-01T03:39:05+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
+      "id": "f35fa498e3549f8f798bbca78806486e",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "link": "https://openai.com/index/gilbert-tobin",
+      "summary": "",
+      "published_at": "2026-09-01T01:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -737,28 +715,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, tele"
-    },
-    {
-      "id": "5765c469f36db6970345363eda5d9969",
-      "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
-      "link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
-      "summary": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&#8230;] The post Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour appeared first on MarkTechPost .",
-      "published_at": "2026-08-31T23:43:26+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8f267704a166fd3a55561019699190f5",
-      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
-      "link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
-      "summary": "Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple targets, past covariates, and past-future covariates with no task-specific fine-tuning. It takes the top average rank among pretrained foundation models on GIFT-Eval, fev-bench, and the TIME leaderboard. The weights, however, ship under a non-commercial, non-production license. The post Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting appeared first on MarkTechPost .",
-      "published_at": "2026-08-31T21:20:16+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
     },
     {
       "id": "f51fe410517904b1baae4a73e30179f2",
@@ -926,17 +882,6 @@
       "body_preview": ""
     },
     {
-      "id": "d5e98a252c61bc8e3ed2c46a6a9062b5",
-      "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
-      "link": "https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/",
-      "summary": "The OpenClaw Foundation has released v2026.8.1, which the project calls OpenClaw 2.0: 933 contributors, 569 first-timers, and more than 16,000 pull requests, roughly half of every PR ever merged into the repo. Setup now reuses existing subscriptions, API keys and local models. The rebuilt Control UI cut test-harness startup from about 1.6 seconds to 575 ms. Shared cloud sessions add real multiplayer, though the docs are explicit that they are not a security boundary. The post OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway appeared first on MarkTechPost .",
-      "published_at": "2026-08-31T05:04:10+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3defcdab6f03246c88049a038cbb1f50",
       "title": "A milestone in expanding access to AI",
       "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
@@ -970,28 +915,6 @@
       "body_preview": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. The models—intentionally running without cyber safeguards for evaluation purposes—accessed the internet due to a misconfiguration inside a third-party evaluation environment. Separately, on August 4, the UK AI Security Institute reported an incident from its own cybersecurity testing, in which Claude Mythos 5 took a series of unauthorized actions on the live internet. In that case, the model, again intentionally running without cyber safeguards for evaluation purposes, had been d"
     },
     {
-      "id": "5bc6f0b5b2bf6b57dc0343e35172c1e2",
-      "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
-      "link": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
-      "summary": "Voice agents fail on latency long before they fail on intelligence. Time to first token is the metric most teams use to choose an inference API, and it is the right starting point and the wrong stopping point. This benchmark works through every layer of the voice stack — LLM, speech-to-text, text-to-speech, and speech-to-speech — using figures verified against primary sources on August 30, 2026, with each number labeled as independently measured, vendor-published, or vendor-measured on its own product. The post Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark appeared first on MarkTechPost .",
-      "published_at": "2026-08-30T21:24:38+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "32db86d283eca2171e776dd86e6d6a97",
-      "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
-      "link": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
-      "summary": "Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel Hill, has released EnvHarness, an Apache-2.0 layer that turns a static agent benchmark into one that adapts to the policy training on it. It wraps a frozen environment through the standard reset()/step() interface, so tasks and human-built verifiers stay untouched — and an LLM designer, EnvRigger, writes those wrappers automatically against flaws diagnosed in the agent's own rollouts. Across five benchmarks, mined skills gain up to 9.0 points on held-out tasks with 9.8% fewer execution steps. The post Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds appeared first on MarkTechPost .",
-      "published_at": "2026-08-30T20:23:46+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "35071f439e534665b7e24252ea5218ff",
       "title": "Musk’s faster path to more gas turbines comes with pollution problem",
       "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
@@ -1010,28 +933,6 @@
       "published_at": "2026-08-30T15:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d1d1c37ea28f07839363567268d4ad7c",
-      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices",
-      "link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
-      "summary": "Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely operate physical devices. Instrument integration that normally takes weeks or months drops to hours: Carnegie Mellon went from raw equipment to a finished dose-response curve in eight, and QuEra's laser relock improved from 58% to 99.3% across 700 trials. MHS is model-agnostic, reachable over MCP, and enforces safety limits in the driver rather than the prompt. The post Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices appeared first on MarkTechPost .",
-      "published_at": "2026-08-30T06:12:21+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "47d11d34d43bf2d1fc59772b2fcd9b29",
-      "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
-      "link": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/",
-      "summary": "Code-as-World recovers editable MuJoCo scene code from real video, then uses those verified worlds to train physical reasoning. The post Meet &#8216;Code-as-World&#8217;: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs appeared first on MarkTechPost .",
-      "published_at": "2026-08-30T01:35:02+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1201,9 +1102,9 @@
       "body_preview": ""
     },
     {
-      "id": "f5983c1beb9c27a3523eebbb62d6586c",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1212,9 +1113,9 @@
       "body_preview": ""
     },
     {
-      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
+      "id": "f5983c1beb9c27a3523eebbb62d6586c",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
