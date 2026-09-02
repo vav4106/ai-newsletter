@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-02T19:33:00.555641+00:00",
+  "generated_at": "2026-09-02T21:57:40.768402+00:00",
   "articles": [
+    {
+      "id": "525e1629e40c956934bb53a3093f4ef7",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "summary": "",
+      "published_at": "2026-09-02T20:19:14+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9e0ec57be6a8f65eeb6e504d51f7eb5e",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
+      "published_at": "2026-09-02T20:11:40+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "d10385c13fba6826be46e8d76c439590",
       "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
@@ -827,17 +849,6 @@
       "body_preview": ""
     },
     {
-      "id": "1b1db89d7520d61cf1c7dddbabb7d4a7",
-      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
-      "published_at": "2026-09-01T19:02:54+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e6d7c4e49e30a4ce28fc653e9ff2419b",
       "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
       "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
@@ -1022,17 +1033,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "7a30c98633fa74c9b706e67315e655dd",
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "summary": "",
-      "published_at": "2026-09-01T00:13:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
