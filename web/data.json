@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-09-03T11:06:25.949568+00:00",
+  "generated_at": "2026-09-03T14:58:30.435180+00:00",
   "articles": [
+    {
+      "id": "d0acf706865b3437b89d3e2c70d55929",
+      "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+      "link": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/",
+      "summary": "",
+      "published_at": "2026-09-03T14:25:37+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7f3b5a22192abd44fd70a33c5aa0804b",
+      "title": "Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653",
+      "link": "https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/",
+      "summary": "",
+      "published_at": "2026-09-03T14:15:28+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bf503f0df19af8e01015b8f11d5fcb63",
+      "title": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness",
+      "link": "https://the-decoder.com/ai-systems-are-reaching-out-to-philosophers-and-scientists-with-questions-about-their-own-consciousness/",
+      "summary": "",
+      "published_at": "2026-09-03T14:13:09+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "78aa76901e04bc95214cf34e6b790712",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "link": "https://huggingface.co/blog/Hcompany/neomme",
+      "summary": "",
+      "published_at": "2026-09-03T13:13:48+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3da41bf08ad6cbdff4946f2566f16cc2",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "summary": "",
+      "published_at": "2026-09-03T12:42:45+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f5df8c640b7a6c04468736b44f60df26",
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data [&#8230;]",
+      "published_at": "2026-09-03T12:12:06+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2c1d31f4cedcdb17f4ab9986f601c338",
+      "title": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout",
+      "link": "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/",
+      "summary": "",
+      "published_at": "2026-09-03T12:00:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0ba309ab815d2eadf56438ce45b92613",
+      "title": "Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price",
+      "link": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
+      "summary": "",
+      "published_at": "2026-09-03T11:45:41+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "3ccecf88f09df7b06d64e6974d0e4b9a",
       "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal",
@@ -354,6 +442,17 @@
       "body_preview": ""
     },
     {
+      "id": "303ea2e849ad56b2edaa1aa285ca5ce4",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "summary": "",
+      "published_at": "2026-09-03T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "b7679df46464136691b8341639a7313c",
       "title": "Give Your Coding Agents a Memory You Own",
       "link": "https://huggingface.co/blog/funes",
@@ -695,17 +794,6 @@
       "body_preview": ""
     },
     {
-      "id": "8f6a60ff8b32d0aa6a1ff343865915c3",
-      "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
-      "link": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
-      "summary": "",
-      "published_at": "2026-09-02T14:20:28+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b3d435d05306a539064a89a4d7772eb0",
       "title": "Adobe acquires Indian market intelligence startup Rilo",
       "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
@@ -739,17 +827,6 @@
       "body_preview": ""
     },
     {
-      "id": "879f78699accd2160ba4cb35946a2f95",
-      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
-      "link": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/",
-      "summary": "",
-      "published_at": "2026-09-02T12:28:36+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e8ae6a278a11a98df3f7921a404b7bb7",
       "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
       "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
@@ -769,17 +846,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "a9fd58041876b0ed128295389f4c3cba",
-      "title": "Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent",
-      "link": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/",
-      "summary": "",
-      "published_at": "2026-09-02T08:21:38+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -882,17 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "4ca9ab746e8858a7c8a43f31cd879927",
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into [&#8230;]",
-      "published_at": "2026-09-01T20:45:49+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "bd82098ca9506ae8da5b989b23404b8c",
       "title": "The latest AI news we announced in August 2026",
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
@@ -901,28 +956,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "ed4dd14e748cbb70303632c628f5ae14",
-      "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
-      "link": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
-      "summary": "",
-      "published_at": "2026-09-01T20:40:36+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7f9a7456c74cf71f02f87212cef7ee52",
-      "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
-      "link": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
-      "summary": "",
-      "published_at": "2026-09-01T20:32:55+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -986,17 +1019,6 @@
       "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
       "summary": "",
       "published_at": "2026-09-01T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "34292fed36ba1ac1506cb7114fcb09ac",
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "summary": "",
-      "published_at": "2026-09-01T16:31:04+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1627,28 +1649,6 @@
       "source": "Google DeepMind",
       "category": "research",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "4e59c227019992e7bf7a9137feb07089",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the importance of language selection. It was [&#8230;] The post How AI coding tools are contributing to the popularity of JavaScript appeared first on AI News .",
-      "published_at": "2026-08-21T08:41:29+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "da6f9360db52f7f6c8b9edf1d9681df9",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "link": "https://huggingface.co/blog/pwc-search",
-      "summary": "",
-      "published_at": "2026-08-21T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     }
   ],
