@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-03T21:05:04.773821+00:00",
+  "generated_at": "2026-09-03T23:13:59.106139+00:00",
   "articles": [
+    {
+      "id": "eb07c1e8f936c9270515a243d1dfa473",
+      "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
+      "link": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
+      "summary": "OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compaction with searchable notes, and ships a 1.05M-token context at $10/$50 per million tokens. It is also the first OpenAI model to cross the Critical cybersecurity threshold, which shapes who can use it and for what. The post OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a &#8216;Critical&#8217; Cyber Threshold appeared first on MarkTechPost .",
+      "published_at": "2026-09-03T21:16:11+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "c204f9a4469426936996f8dad0fba4b1",
       "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
@@ -1080,17 +1091,6 @@
       "body_preview": ""
     },
     {
-      "id": "a95be71f8d13418ccb96e4b3721a5d4b",
-      "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
-      "link": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
-      "summary": "Anthropic has released Claude Fable 5.1 and Claude Mythos 5.1, the same model behind two different safeguard layers. Fable 5.1 is generally available on the Claude API, AWS, Google Cloud, and Microsoft Foundry; Mythos 5.1 remains restricted to vetted organizations under Project Glasswing. Fable 5.1 scores 52.6% on Terminal-Bench-Science 0.1 against 24.7% for Fable 5, ships a 1M token context window, and drops cache reads 75% to $0.25 per million tokens while base pricing holds at $10 and $50. Three API changes are breaking, including the removal of forced tool use. The post Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads appeared first on MarkTechPost .",
-      "published_at": "2026-09-01T20:30:21+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "a8f800b6365a16199c7f7c55aa2889d8",
       "title": "Introducing agentic video understanding with Gemini",
       "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
@@ -1399,9 +1399,9 @@
       "body_preview": ""
     },
     {
-      "id": "f5983c1beb9c27a3523eebbb62d6586c",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1410,9 +1410,9 @@
       "body_preview": ""
     },
     {
-      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
+      "id": "f5983c1beb9c27a3523eebbb62d6586c",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
