@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-09-03T18:17:26.277778+00:00",
+  "generated_at": "2026-09-03T21:05:04.773821+00:00",
   "articles": [
+    {
+      "id": "c204f9a4469426936996f8dad0fba4b1",
+      "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
+      "link": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
+      "summary": "Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has now released that scaffolding as code. This week, they published anthropics/commerce-agents, a reference blueprint containing a shopping agent and a merchant agent, along with four [&#8230;] The post Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment appeared first on MarkTechPost .",
+      "published_at": "2026-09-03T19:46:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "389a3129cf4050722d4dc8a2fcd5dd10",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "summary": "",
+      "published_at": "2026-09-03T19:36:29+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2028c98eaffb4b68e131bf64c8d70746",
+      "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+      "link": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
+      "summary": "",
+      "published_at": "2026-09-03T19:25:40+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ce01669a256446708eaed92014f17062",
+      "title": "Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2",
+      "link": "https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2/",
+      "summary": "Perplexity has shipped hybrid compute for its Mac app, splitting a single Perplexity Computer task between frontier models in the cloud and a compact model running on the user's machine. Tasks start in the cloud for search, planning and reasoning, then hand sensitive steps down to the Mac without restarting or losing context. An on-device privacy gate decides what may cross: keep local, mask, refuse, or ask for consent. Perplexity also open-sourced the 0.6B classifier behind that gate, which records the highest character F1 (0.629) among twelve detectors evaluated. Hybrid compute is live now for Pro, Max and Enterprise on Apple silicon Macs with 24GB of unified memory. The post Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Th",
+      "published_at": "2026-09-03T18:51:52+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "17dedfe74617ffe53ffd9c8bbeada001",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "summary": "",
+      "published_at": "2026-09-03T18:37:57+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4d92b665412246cc0f201b75c9433779",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "summary": "",
+      "published_at": "2026-09-03T18:19:56+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "7d31734940f6df3bb95fd927fd2b2647",
       "title": "Pangram's biggest flaw is users turning its scores into public shaming",
@@ -167,6 +233,17 @@
       "body_preview": ""
     },
     {
+      "id": "a5b9cd66a3e800cffd6d3752bca90152",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "summary": "",
+      "published_at": "2026-09-03T13:15:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "78aa76901e04bc95214cf34e6b790712",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "link": "https://huggingface.co/blog/Hcompany/neomme",
@@ -211,9 +288,9 @@
       "body_preview": ""
     },
     {
-      "id": "b9d3c6299fb27f0c6719f3d53a727995",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "id": "0317f137ee7b96264885255e02b80e94",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "summary": "",
       "published_at": "2026-09-03T12:00:00+00:00",
       "source": "OpenAI News",
@@ -222,9 +299,9 @@
       "body_preview": ""
     },
     {
-      "id": "0317f137ee7b96264885255e02b80e94",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "id": "b9d3c6299fb27f0c6719f3d53a727995",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
       "summary": "",
       "published_at": "2026-09-03T12:00:00+00:00",
       "source": "OpenAI News",
@@ -596,6 +673,17 @@
       "body_preview": ""
     },
     {
+      "id": "6e14939758ff4e9104e58a79eef4ca22",
+      "title": "Safety overview: GPT-6 Astra",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "summary": "",
+      "published_at": "2026-09-03T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "303ea2e849ad56b2edaa1aa285ca5ce4",
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
       "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
@@ -893,17 +981,6 @@
       "body_preview": ""
     },
     {
-      "id": "2fe8d00cb3cad05b06068662c226fe7d",
-      "title": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
-      "link": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/",
-      "summary": "",
-      "published_at": "2026-09-02T14:40:51+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b3d435d05306a539064a89a4d7772eb0",
       "title": "Adobe acquires Indian market intelligence startup Rilo",
       "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
@@ -933,17 +1010,6 @@
       "published_at": "2026-09-02T13:49:14+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e8ae6a278a11a98df3f7921a404b7bb7",
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "summary": "",
-      "published_at": "2026-09-02T12:09:42+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -992,17 +1058,6 @@
       "body_preview": ""
     },
     {
-      "id": "ef77f280ed6c454611aab3c5911792ec",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "summary": "",
-      "published_at": "2026-09-01T22:08:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b9622c1b1625e9d4de24e25cd2350847",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "link": "https://huggingface.co/blog/allenai/benchmirt",
@@ -1010,17 +1065,6 @@
       "published_at": "2026-09-01T21:39:07+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9c5edab4f4ea1d37d58539ca3c013164",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "summary": "",
-      "published_at": "2026-09-01T21:06:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1091,17 +1135,6 @@
       "body_preview": ""
     },
     {
-      "id": "e5424e9b833cb68c5b61b81d7f4e6626",
-      "title": "Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Factor Discovery and Model Development in Quantitative Finance",
-      "link": "https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/",
-      "summary": "Quantitative research agents that write their own experiments can corrupt the evidence they later learn from. A leaky feature that scores well gets stored as a successful precedent and propagated through later iterations. Prompt-level instructions and reviewer agents do not close this, because author and reviewer share the same blind spots. A team of researchers [&#8230;] The post Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Factor Discovery and Model Development in Quantitative Finance appeared first on MarkTechPost .",
-      "published_at": "2026-09-01T15:54:14+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "cf59c14bddecd9c5e8c5d284f3fb3bd4",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "link": "https://openai.com/index/path-to-astra",
@@ -1131,17 +1164,6 @@
       "published_at": "2026-09-01T07:37:26+00:00",
       "source": "AI News",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b9447df81358e91a3cdf118d46b8a62d",
-      "title": "Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio",
-      "link": "https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/",
-      "summary": "Speed and accuracy usually pull against each other in text-to-speech. Gradium AI's new default model reports both: an 81.0% human-rated pass rate on 500 hard sentences across five languages, at 216 ms P50 time-to-first-audio on Coval. The evaluation set is open on Hugging Face under CC BY 4.0. The post Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio appeared first on MarkTechPost .",
-      "published_at": "2026-09-01T03:39:05+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1289,17 +1311,6 @@
       "body_preview": ""
     },
     {
-      "id": "6afe348ebe12e2b7246541c5637e1740",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "summary": "",
-      "published_at": "2026-08-27T14:01:00+00:00",
-      "source": "VentureBeat AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b57d1402009177666fc2bcfeac42daca",
       "title": "Piloting the world's first double-blind AI evaluations",
       "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
@@ -1308,17 +1319,6 @@
       "source": "Google DeepMind",
       "category": "research",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1c416a8f5dbc526783c11ff7433d839d",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "summary": "",
-      "published_at": "2026-08-27T12:01:00+00:00",
-      "source": "VentureBeat AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1399,20 +1399,9 @@
       "body_preview": ""
     },
     {
-      "id": "c7025db388485450a8bff782c217dfc6",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "summary": "",
-      "published_at": "2026-08-26T14:30:00+00:00",
-      "source": "VentureBeat AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
+      "id": "f5983c1beb9c27a3523eebbb62d6586c",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1421,9 +1410,9 @@
       "body_preview": ""
     },
     {
-      "id": "f5983c1beb9c27a3523eebbb62d6586c",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "503eea92ee89bcb93d5cf6cb41e30a79",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
       "summary": "",
       "published_at": "2026-08-26T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1649,6 +1638,17 @@
       "source": "AI News",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0f5dbb2c1ac685adff5d43bff030fcc5",
+      "title": "How to encourage smarter AI use in the classroom",
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+      "published_at": "2026-08-24T14:20:19+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
       "body_preview": ""
     }
   ],
