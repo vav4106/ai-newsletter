@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-04T19:36:31.182415+00:00",
+  "generated_at": "2026-09-04T21:45:48.252710+00:00",
   "articles": [
+    {
+      "id": "9c00e4e2105c585c03f3b873e717c3a4",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "summary": "",
+      "published_at": "2026-09-04T21:12:11+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "e0738b04e1f0cb1ad3224bc2a03f721d",
       "title": "Architecting memory and storage in the AI era",
@@ -189,6 +200,17 @@
       "body_preview": ""
     },
     {
+      "id": "20fe71d31bc8caa2551626f1f8e2613b",
+      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "summary": "M&#38;T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify customer needs, and flag portfolio risks, according to Fast Company. M&#38;T is also examining [&#8230;] The post M&#038;T Bank expands enterprise AI after years of technology overhaul appeared first on AI News .",
+      "published_at": "2026-09-04T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "aeba26fdd48b2387cf51372153c6e69a",
       "title": "This NAS company wants to run your local smart home",
       "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
@@ -208,6 +230,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "28a8cf57a941644b3ef8c781711c09cd",
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+      "summary": "Just over half of American adults, 50.5%, say a partner&#8217;s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the 1,709 responses that remained [&#8230;] The post 50.5% of Americans Say AI Romance Can Count as Cheating appeared first on AI News .",
+      "published_at": "2026-09-04T08:25:12+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -563,6 +596,17 @@
       "body_preview": ""
     },
     {
+      "id": "15a3d6304b5c6fe987db2e9ed0bf0cc7",
+      "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+      "link": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
+      "summary": "WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps. The post Google DeepMind&#8217;s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour appeared first on MarkTechPost .",
+      "published_at": "2026-09-04T01:21:49+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "5653d831895474ba71f2a9080f1f72f4",
       "title": "Crusoe reportedly raises $3B at a $30B valuation",
       "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -570,6 +614,28 @@
       "published_at": "2026-09-04T00:48:42+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "eb07c1e8f936c9270515a243d1dfa473",
+      "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
+      "link": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
+      "summary": "OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compaction with searchable notes, and ships a 1.05M-token context at $10/$50 per million tokens. It is also the first OpenAI model to cross the Critical cybersecurity threshold, which shapes who can use it and for what. The post OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a &#8216;Critical&#8217; Cyber Threshold appeared first on MarkTechPost .",
+      "published_at": "2026-09-03T21:16:11+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c204f9a4469426936996f8dad0fba4b1",
+      "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
+      "link": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
+      "summary": "Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has now released that scaffolding as code. This week, they published anthropics/commerce-agents, a reference blueprint containing a shopping agent and a merchant agent, along with four [&#8230;] The post Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment appeared first on MarkTechPost .",
+      "published_at": "2026-09-03T19:46:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -592,6 +658,17 @@
       "published_at": "2026-09-03T19:25:40+00:00",
       "source": "The Decoder",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ce01669a256446708eaed92014f17062",
+      "title": "Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2",
+      "link": "https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2/",
+      "summary": "Perplexity has shipped hybrid compute for its Mac app, splitting a single Perplexity Computer task between frontier models in the cloud and a compact model running on the user's machine. Tasks start in the cloud for search, planning and reasoning, then hand sensitive steps down to the Mac without restarting or losing context. An on-device privacy gate decides what may cross: keep local, mask, refuse, or ask for consent. Perplexity also open-sourced the 0.6B classifier behind that gate, which records the highest character F1 (0.629) among twelve detectors evaluated. Hybrid compute is live now for Pro, Max and Enterprise on Apple silicon Macs with 24GB of unified memory. The post Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Th",
+      "published_at": "2026-09-03T18:51:52+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -662,6 +739,17 @@
       "body_preview": ""
     },
     {
+      "id": "a17da040c75a040c70efbf22a74d1f84",
+      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+      "summary": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including owned fleets, couriers, parcel carriers, and other delivery modes, then selects the lowest-cost option that meets the required service level, according to OneRail. The [&#8230;] The post OneRail uses Nvidia AI for real-time last-mile delivery optimisation appeared first on AI News .",
+      "published_at": "2026-09-03T16:07:18+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "19c6284e557e84767e195faa48d94c71",
       "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
       "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
@@ -669,6 +757,17 @@
       "published_at": "2026-09-03T16:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a571e689b1ea30947455ebbbebb7f514",
+      "title": "NVIDIA to acquire Hugging Face for $12.93B",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+      "summary": "NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository&#8217;s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for enterprise developers, software engineers, and research institutions globally. Built over the past decade by Clem Delangue, Julien Chaumond, Thomas Wolf, and their [&#8230;] The post NVIDIA to acquire Hugging Face for $12.93B appeared first on AI News .",
+      "published_at": "2026-09-03T15:50:31+00:00",
+      "source": "AI News",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -739,6 +838,17 @@
       "body_preview": ""
     },
     {
+      "id": "78aa76901e04bc95214cf34e6b790712",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "link": "https://huggingface.co/blog/Hcompany/neomme",
+      "summary": "",
+      "published_at": "2026-09-03T13:13:48+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "3da41bf08ad6cbdff4946f2566f16cc2",
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
       "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
@@ -772,6 +882,17 @@
       "body_preview": ""
     },
     {
+      "id": "d8aa9a5f199a18222b107619af963193",
+      "title": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon",
+      "link": "https://www.marktechpost.com/2026/09/02/perplexity-open-sources-lily-a-rust-metal-inference-engine-for-qwen3-6-35b-a3b-on-apple-silicon/",
+      "summary": "Perplexity has open sourced Lily, the local inference engine behind Hybrid Compute in Perplexity Computer. Built in Rust with custom Metal kernels for one model on one chip family, it averages 1.23x MLX-LM's prefill throughput and 1.35x its decode throughput on a 40-core, 128 GB M5 Max. The post Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon appeared first on MarkTechPost .",
+      "published_at": "2026-09-03T06:57:07+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "6e14939758ff4e9104e58a79eef4ca22",
       "title": "Safety overview: GPT-6 Astra",
       "link": "https://openai.com/index/safety-overview-gpt-6-astra",
@@ -780,6 +901,50 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "303ea2e849ad56b2edaa1aa285ca5ce4",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "summary": "",
+      "published_at": "2026-09-03T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b7679df46464136691b8341639a7313c",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "link": "https://huggingface.co/blog/funes",
+      "summary": "",
+      "published_at": "2026-09-03T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1a10eec3345dd344872306e043682dcb",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "link": "https://huggingface.co/blog/train-to-paint-with-code",
+      "summary": "",
+      "published_at": "2026-09-03T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f5b05a7e7a4cd09563f52a66d20ca39f",
+      "title": "Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search",
+      "link": "https://www.marktechpost.com/2026/09/02/qwen-developers-open-sources-zg-zvec-grep-a-local-first-search-layer-unifying-ripgrep-bm25-and-vector-search/",
+      "summary": "We look at zg (zvec-grep), the local-first search layer that Qwen Developers just open-sourced under Apache 2.0. We explain how it puts ripgrep, BM25, and vector search behind a single interface, so an agent can move from a plain-language description to an exact line span without switching tools. We cover the deliberately small MCP surface, the on-device embedding catalog, and the authorization gate that stands between local content and remote models. The post Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search appeared first on MarkTechPost .",
+      "published_at": "2026-09-02T23:48:47+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -827,13 +992,24 @@
       "body_preview": ""
     },
     {
-      "id": "e4ed34683b7f00e713a1f5d9d682565f",
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "summary": "",
-      "published_at": "2026-09-02T17:18:13+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
+      "id": "e8b8d0aa609a04898f2b072967852bd4",
+      "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
+      "link": "https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/",
+      "summary": "NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM traffic. It decodes requests into provider-neutral types, routes them with passthrough, random, LLM-classifier, or stage-router algorithms, and translates responses back into the client's format, so Claude Code or Codex CLI can run against vLLM, NIM, or Ollama unchanged. The project is pre-alpha and not for production. The post Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs appeared first on MarkTechPost .",
+      "published_at": "2026-09-02T18:05:52+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "21eed6aba6e815baea5834580c98da38",
+      "title": "Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes",
+      "link": "https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/",
+      "summary": "Google released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on September 2, 2026. Both variants run on the same foundational intelligence, split by safety mitigations rather than model size. Gemini 3.8 Flash is generally available at $0.75 and $3.75 per 1M tokens, introductory through December 31, 2026. Flash Cyber reaches 47.2% pass@1 on CWE-Bench and is restricted to vetted defenders through the Fairwind Program. This article covers the benchmarks, the token-for-accuracy tradeoff, and what deploying either one actually requires. The post Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes appeared first on MarkTechPost .",
+      "published_at": "2026-09-02T17:20:24+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -871,6 +1047,17 @@
       "body_preview": ""
     },
     {
+      "id": "9dacbd54cc8f1e4cf86e4769b03ff1c9",
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that includes CEO Laura Major, working alongside researchers from MIT&#8217;s Computer Science and Artificial Intelligence Laboratory. Their proposed method, [&#8230;] The post Motional and MIT AI explains self-driving car decisions appeared first on AI News .",
+      "published_at": "2026-09-02T15:25:12+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "993734f71dbc151a5ef95cd1555e9c0f",
       "title": "Facilitating AI integration with simplicity at scale",
       "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
@@ -882,6 +1069,17 @@
       "body_preview": ""
     },
     {
+      "id": "11bfc2353b65c224be5715c38bdfe845",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "summary": "",
+      "published_at": "2026-09-02T13:49:14+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "0435294e4da1e8e384a095561bba9639",
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
       "link": "https://openai.com/index/atv-big-air-tour",
@@ -890,6 +1088,39 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "2e97b07c5f53a2d42c55c495b4ac98a3",
+      "title": "Anthropic Introduces Enterprise Frontier Safeguards (EFS): Zero-Data-Retention Privacy Plus Cross-Session Misuse Detection",
+      "link": "https://www.marktechpost.com/2026/09/02/anthropic-enterprise-frontier-safeguards-efs/",
+      "summary": "Anthropic announced Enterprise Frontier Safeguards on September 1, 2026, an architecture that stores monitoring data in the customer's own cloud account rather than Anthropic's. Detection stays automated and Anthropic-run; custody, encryption keys, and flag review stay with the customer. Built with more than 100 enterprises and rolling out in phases this fall. The post Anthropic Introduces Enterprise Frontier Safeguards (EFS): Zero-Data-Retention Privacy Plus Cross-Session Misuse Detection appeared first on MarkTechPost .",
+      "published_at": "2026-09-02T07:38:18+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8d6af48be80881fd7a9c58e15b0f5dce",
+      "title": "Meta Superintelligence Labs Releases Muse Voice Transcribe: One Real-Time Model for Streaming ASR, Diarization, and Endpointing",
+      "link": "https://www.marktechpost.com/2026/09/01/meta-superintelligence-labs-releases-muse-voice-transcribe-one-real-time-model-for-streaming-asr-diarization-and-endpointing/",
+      "summary": "Most production voice stacks are three systems stitched together. One model transcribes, a second separates speakers, and a detector decides when the user stopped talking. Each hand-off adds latency and a new failure mode. Muse Voice Transcribe, announced by Meta Superintelligence Labs this week, collapses those three jobs into a single autoregressive model. Meta calls [&#8230;] The post Meta Superintelligence Labs Releases Muse Voice Transcribe: One Real-Time Model for Streaming ASR, Diarization, and Endpointing appeared first on MarkTechPost .",
+      "published_at": "2026-09-02T05:37:12+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b9622c1b1625e9d4de24e25cd2350847",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "link": "https://huggingface.co/blog/allenai/benchmirt",
+      "summary": "",
+      "published_at": "2026-09-01T21:39:07+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -926,6 +1157,17 @@
       "body_preview": ""
     },
     {
+      "id": "63fe7882c2e48af4354c8f8f189eaed5",
+      "title": "ChatGPT Ads passes $1B run rate in 200 days",
+      "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
+      "summary": "ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is launching today in India, Europe, the Middle East, and North Africa. According to OpenAI, people [&#8230;] The post ChatGPT Ads passes $1B run rate in 200 days appeared first on AI News .",
+      "published_at": "2026-09-01T16:05:27+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "2c9fe827d1adf50e389da4b3ae24a094",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
@@ -959,6 +1201,17 @@
       "body_preview": ""
     },
     {
+      "id": "14cd361fea4ee62b29a771e32e6a2c2b",
+      "title": "Why MCP servers are becoming AI’s newest attack surface",
+      "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
+      "summary": "As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years. That speed strengthens what AI can do, but makes it very difficult for security teams to maintain sufficient protections. [&#8230;] The post Why MCP servers are becoming AI’s newest attack surface appeared first on AI News .",
+      "published_at": "2026-09-01T07:37:26+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "f35fa498e3549f8f798bbca78806486e",
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
       "link": "https://openai.com/index/gilbert-tobin",
@@ -967,6 +1220,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "5fa31cdd637d28d96bb149565383b8ae",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
+      "summary": "",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1058,6 +1322,17 @@
       "body_preview": ""
     },
     {
+      "id": "9ea628f0bbdf12b14dab60f693f31c68",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "summary": "",
+      "published_at": "2026-08-28T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "f60cf4b1b832c995ea75f03bb03095e6",
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
       "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
@@ -1088,6 +1363,17 @@
       "source": "Google DeepMind",
       "category": "research",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "4756d7c0840e6854ec6bc056884618f0",
+      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company&#8217;s chief financial officer,&#160;told analysts&#160;on August 26 that demand from the labs Nvidia backs with its own balance sheet will contribute toward roughly a quarter of its business [&#8230;] The post A quarter of Nvidia&#8217;s business next year comes from labs it is financing appeared first on AI News .",
+      "published_at": "2026-08-27T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1179,6 +1465,28 @@
       "body_preview": ""
     },
     {
+      "id": "f46177803f0b18de75fe46bcc603e915",
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, Intact Private Capital, and other investors. Gatik said it has more than $600 million in [&#8230;] The post Gatik raises $200M to scale AI-powered autonomous freight appeared first on AI News .",
+      "published_at": "2026-08-26T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2d918e1602c576361859e4e4b2a406a0",
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside a data centre. NVIDIA&#8217;s argument for [&#8230;] The post NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots appeared first on AI News .",
+      "published_at": "2026-08-26T09:08:11+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "f6bea7562d106b25093055efaee3e5c9",
       "title": "Raised on AI",
       "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
@@ -1234,6 +1542,17 @@
       "body_preview": ""
     },
     {
+      "id": "0affc227278667c45306222327e93722",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "summary": "",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "09162ac10a10d7ac3833595a92f8eed9",
       "title": "5 ways to upgrade your home decor with Google Search",
       "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
@@ -1242,6 +1561,39 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "510773270dfc660d8ae18acb9caa95bc",
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of events that have not appeared in a region&#8217;s historical record but remain statistically-possible. Each map also carries estimates of the [&#8230;] The post MIT AI forecasts extreme weather without historical data appeared first on AI News .",
+      "published_at": "2026-08-25T15:46:06+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "72c7625e9f9bc49fb05fabf58fd2ac62",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "summary": "",
+      "published_at": "2026-08-25T15:14:14+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7989d94bf7db28be06a03a5a2d7df710",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "summary": "",
+      "published_at": "2026-08-25T11:39:24+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1298,116 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": ""
-    },
-    {
-      "id": "9e2952193ebef9b24bbf3cbbf04c8f90",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "summary": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source…",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
-    },
-    {
-      "id": "0f5dbb2c1ac685adff5d43bff030fcc5",
-      "title": "How to encourage smarter AI use in the classroom",
-      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
-      "published_at": "2026-08-24T14:20:19+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "394476c8795f3b31adaed8b334487df2",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "link": "https://openai.com/index/gpt-5-6-in-kiro",
-      "summary": "",
-      "published_at": "2026-08-24T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "ff0d3111b8b01ad536f3a23d5956f676",
-      "title": "How Claude’s text watermark works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "summary": "In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. Product Jul 24, 2026 Introducing Claude Opus 5 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Features Jul 6",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "2ba306006c3971074f5aac01c35c81d7",
-      "title": "Improving Fable 5's biology safeguards",
-      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to…",
-      "published_at": "2026-08-07T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
-    },
-    {
-      "id": "ada3fac11f4f3f72f602c35090501a39",
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "link": "https://www.anthropic.com/news/tino-cuellar",
-      "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie…",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie Endowment for International Peace, a leading independent global policy research institution with scholars in 20 countries. Prior to his role at Carnegie, Tino was a Justice of the Supreme Court of Cal"
-    },
-    {
-      "id": "0701aa53a09f6a6bbdf2732756ab3b5a",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to…",
-      "published_at": "2026-07-30T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews. This post reflects our current understanding; we'll update it if any details change. On July 21, OpenAI disclosed that several of their models had broken out of an isolated test"
-    },
-    {
-      "id": "e6b4ec1b7b0fe936c462d4a9b9589e9f",
-      "title": "Our position on open-weights models",
-      "link": "https://www.anthropic.com/news/position-open-weights-models",
-      "summary": "A post by Dario Amodei, Anthropic CEO Over the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights models, and some people have even accused…",
-      "published_at": "2026-07-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "A post by Dario Amodei, Anthropic CEO Over the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights models, and some people have even accused Anthropic of wanting to ban open-weights models as a means of protecting our business. Anyone who has read my past writing should know that I don’t regard such bans as a useful measure, but let me state it cle"
-    },
-    {
-      "id": "e03005d48514641deed954c6a0f1d22a",
-      "title": "Introducing Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "summary": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
-      "published_at": "2026-07-24T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "6c472be9947730dd861b28c5195a4d78",
-      "title": "Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
