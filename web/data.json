@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-03T23:13:59.106139+00:00",
+  "generated_at": "2026-09-04T00:59:42.598343+00:00",
   "articles": [
+    {
+      "id": "5653d831895474ba71f2a9080f1f72f4",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "summary": "",
+      "published_at": "2026-09-04T00:48:42+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "eb07c1e8f936c9270515a243d1dfa473",
       "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
@@ -986,17 +997,6 @@
       "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
       "summary": "",
       "published_at": "2026-09-02T14:56:34+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b3d435d05306a539064a89a4d7772eb0",
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "summary": "",
-      "published_at": "2026-09-02T14:03:57+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
