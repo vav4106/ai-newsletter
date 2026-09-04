@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-09-04T05:31:30.540872+00:00",
+  "generated_at": "2026-09-04T09:54:40.217381+00:00",
   "articles": [
+    {
+      "id": "aeba26fdd48b2387cf51372153c6e69a",
+      "title": "This NAS company wants to run your local smart home",
+      "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a [&#8230;]",
+      "published_at": "2026-09-04T09:41:44+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "96f8fb6b819eff085d24889f01952641",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+      "published_at": "2026-09-04T09:25:19+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "28a8cf57a941644b3ef8c781711c09cd",
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+      "summary": "Just over half of American adults, 50.5%, say a partner&#8217;s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the 1,709 responses that remained [&#8230;] The post 50.5% of Americans Say AI Romance Can Count as Cheating appeared first on AI News .",
+      "published_at": "2026-09-04T08:25:12+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0b2b4e20268d58d463d8324725b24021",
+      "title": "Nvidia wants your home network to work like a mini data center for local AI",
+      "link": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
+      "summary": "",
+      "published_at": "2026-09-04T08:06:15+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "edc36cb831676f72c045736c0c3dfd1a",
       "title": "The sameness problem behind those unappetizing AI-generated menus",
@@ -904,17 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "cd0bd7b3a218f9b1f278481c701886dd",
-      "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
-      "link": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
-      "summary": "",
-      "published_at": "2026-09-02T16:59:29+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "fe5a0001c2145a16b0b9dc532c4645a2",
       "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
       "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
@@ -945,17 +978,6 @@
       "source": "Google DeepMind",
       "category": "research",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "40b1779570e67f01009088077a7cd7e1",
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from [&#8230;]",
-      "published_at": "2026-09-02T16:12:25+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1628,28 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
-    },
-    {
-      "id": "c645cd01aeb03c565e8527ca03f9d8f4",
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "summary": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG says the deal represents the largest single-round private capital raise [&#8230;] The post XPENG IRON humanoid robot draws record physical AI funding appeared first on AI News .",
-      "published_at": "2026-08-24T15:53:53+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0f5dbb2c1ac685adff5d43bff030fcc5",
-      "title": "How to encourage smarter AI use in the classroom",
-      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
-      "published_at": "2026-08-24T14:20:19+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
     }
   ],
   "milestones": []
