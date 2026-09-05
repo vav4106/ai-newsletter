@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-05T21:25:01.142312+00:00",
+  "generated_at": "2026-09-05T23:02:39.205967+00:00",
   "articles": [
+    {
+      "id": "3ed6fe97d1bb23f4ab00af13f419833c",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "",
+      "published_at": "2026-09-05T22:49:55+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "d35aa543629ae0e69a02402816572cd1",
       "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
@@ -944,17 +955,6 @@
       "published_at": "2026-09-03T13:13:48+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3da41bf08ad6cbdff4946f2566f16cc2",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "summary": "",
-      "published_at": "2026-09-03T12:42:45+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
