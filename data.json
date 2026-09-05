@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-05T17:33:13.867049+00:00",
+  "generated_at": "2026-09-05T19:24:57.385047+00:00",
   "articles": [
+    {
+      "id": "13928c6f9c913dcd3253de4236d54ccf",
+      "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
+      "link": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
+      "summary": "Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window. The post Nous Research Adds One-Click Local Model Setup to Hermes Desktop appeared first on MarkTechPost .",
+      "published_at": "2026-09-05T19:12:02+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ae73232883c0dca2920f7bc67e76b603",
+      "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+      "link": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+      "summary": "",
+      "published_at": "2026-09-05T18:21:02+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "156a3634b0e7ebdd160d60c0f94c90c4",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "",
+      "published_at": "2026-09-05T18:05:27+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "217331b7119ac56e2c99e61a2616f943",
       "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
@@ -695,17 +728,6 @@
       "body_preview": ""
     },
     {
-      "id": "0b2b4e20268d58d463d8324725b24021",
-      "title": "Nvidia wants your home network to work like a mini data center for local AI",
-      "link": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
-      "summary": "",
-      "published_at": "2026-09-04T08:06:15+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "edc36cb831676f72c045736c0c3dfd1a",
       "title": "The sameness problem behind those unappetizing AI-generated menus",
       "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
@@ -1021,28 +1043,6 @@
       "published_at": "2026-09-02T23:01:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "298877afb056ac4811c461da1758f08f",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "summary": "",
-      "published_at": "2026-09-02T22:44:56+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e8b8d0aa609a04898f2b072967852bd4",
-      "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
-      "link": "https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/",
-      "summary": "NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM traffic. It decodes requests into provider-neutral types, routes them with passthrough, random, LLM-classifier, or stage-router algorithms, and translates responses back into the client's format, so Claude Code or Codex CLI can run against vLLM, NIM, or Ollama unchanged. The project is pre-alpha and not for production. The post Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs appeared first on MarkTechPost .",
-      "published_at": "2026-09-02T18:05:52+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
