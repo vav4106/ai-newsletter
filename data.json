@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-09-06T09:22:34.247198+00:00",
+  "generated_at": "2026-09-06T12:57:54.722800+00:00",
   "articles": [
+    {
+      "id": "4729c00b0469bc5862e16ce66621ef38",
+      "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+      "link": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
+      "summary": "",
+      "published_at": "2026-09-06T11:57:12+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f8bd678d8782b34412b63069bc34b60e",
+      "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
+      "link": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/",
+      "summary": "",
+      "published_at": "2026-09-06T10:36:35+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fa3a1cdb8381f2b5f7e8ddeca07008eb",
+      "title": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
+      "link": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/",
+      "summary": "",
+      "published_at": "2026-09-06T10:15:17+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8676f0599764366858077c0c269fc2b2",
+      "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
+      "link": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/",
+      "summary": "",
+      "published_at": "2026-09-06T09:56:24+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "26e3c5c69367bd3ef7f181fd93f2b221",
+      "title": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
+      "link": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/",
+      "summary": "",
+      "published_at": "2026-09-06T09:45:18+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "023b2259569bda5217fd985731e16263",
       "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
@@ -101,28 +156,6 @@
       "body_preview": ""
     },
     {
-      "id": "f7c709efda65becee706274ba461db29",
-      "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
-      "link": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
-      "summary": "",
-      "published_at": "2026-09-05T10:22:38+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d1ff3f2b31a2803f5708ad41b9d36e38",
-      "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-      "link": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
-      "summary": "",
-      "published_at": "2026-09-05T07:41:03+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "8305a72ff595245d22780aba9df61360",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -174,17 +207,6 @@
       "published_at": "2026-09-04T17:51:35+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2d2a14af4c9d1f2e80a5784971cf3c47",
-      "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
-      "summary": "",
-      "published_at": "2026-09-04T17:23:35+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -244,17 +266,6 @@
       "body_preview": ""
     },
     {
-      "id": "e9694cd3f37e06a55832b9098c631558",
-      "title": "Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia",
-      "link": "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia/",
-      "summary": "",
-      "published_at": "2026-09-04T14:19:14+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "70c6ac6ac25139617717cc3b2c6dba44",
       "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
       "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
@@ -273,17 +284,6 @@
       "published_at": "2026-09-04T13:34:12+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "45ef7c5fc7ba30a35421639222c60917",
-      "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits",
-      "link": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
-      "summary": "",
-      "published_at": "2026-09-04T13:24:24+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
