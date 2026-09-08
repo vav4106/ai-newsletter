@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-08T05:17:45.913428+00:00",
+  "generated_at": "2026-09-08T09:45:07.494078+00:00",
   "articles": [
+    {
+      "id": "e18bc4166b91a466b2f406980ca4a390",
+      "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals",
+      "link": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/",
+      "summary": "",
+      "published_at": "2026-09-08T07:45:41+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "71fb2f1c9152e19f2e78913583b8230a",
       "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -151,17 +162,6 @@
       "summary": "",
       "published_at": "2026-09-06T16:45:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4729c00b0469bc5862e16ce66621ef38",
-      "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
-      "link": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
-      "summary": "",
-      "published_at": "2026-09-06T11:57:12+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -1088,39 +1088,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d87e33af908ce9ef3c3bd7faaa455f7f",
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "00ee8cbc1dae129835e0d6da03afad2a",
-      "title": "The full stack behind abundant intelligence",
-      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "summary": "",
-      "published_at": "2026-08-25T07:05:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "b9cfdd79761496e2948523e2323076c2",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "link": "https://openai.com/index/jalapeno-first-results",
-      "summary": "",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     },
     {
