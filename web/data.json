@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-09-10T13:31:25.534556+00:00",
+  "generated_at": "2026-09-10T17:08:46.986721+00:00",
   "articles": [
+    {
+      "id": "6e69509cf4ab5cfbf79760a768f4aaa8",
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification instead, it highlights an operating model that can [&#8230;] The post Supply chains detect fast, act slow: How AI agents fix it appeared first on AI News .",
+      "published_at": "2026-09-10T16:34:43+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a66bec7f8c9f7b7e0e031899d91cca08",
+      "title": "Swarmchasers\" hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+      "link": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/",
+      "summary": "",
+      "published_at": "2026-09-10T16:33:44+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f058243369ac4ddbbc960907aa3afdef",
+      "title": "Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk",
+      "link": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/",
+      "summary": "",
+      "published_at": "2026-09-10T16:31:02+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ec368ac920f4b9212b9f485048ddbd23",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "summary": "",
+      "published_at": "2026-09-10T16:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "22ac43e0cf1bd153cc77f6bae50bdb3a",
+      "title": "3 ways to prep for your next big race with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "published_at": "2026-09-10T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "781a093533f65ef5760dc248f19396b9",
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
+      "published_at": "2026-09-10T15:38:19+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a50171dccce1ed2e45643bb7d9af921a",
+      "title": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+      "link": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/",
+      "summary": "",
+      "published_at": "2026-09-10T15:26:58+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e43cbc63f69cad231290e9587403d040",
+      "title": "Now everyone can put data to work",
+      "link": "https://openai.com/index/put-data-to-work",
+      "summary": "",
+      "published_at": "2026-09-10T15:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "09f0eca641d1cf6d24c5e50360fe458e",
+      "title": "Meta’s Muse AI works and creeps me out",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+      "published_at": "2026-09-10T15:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d3e87ed2f335dee7cb71ed2a4ad78af9",
+      "title": "AI agents are flooding public services with new requests",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "summary": "",
+      "published_at": "2026-09-10T14:53:50+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "39127252b72c63558675d882f8c00763",
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "summary": "",
+      "published_at": "2026-09-10T14:17:37+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fb5d8d111a132b0cd3eb92e2454b5349",
+      "title": "Why the current tech backlash feels different",
+      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "summary": "This interview has been lightly edited for length and clarity.&#160; Nick Statt: Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer. And I&#8217;m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is [&#8230;]",
+      "published_at": "2026-09-10T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "92b9db8b0a9974a6fe8caaaf13b74df8",
+      "title": "GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design",
+      "link": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
+      "summary": "",
+      "published_at": "2026-09-10T13:45:32+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "5fc2c109bd516962c79ab23528829e3f",
       "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
@@ -98,6 +241,17 @@
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "97ec3f3631fd6cdbe7f032962c32889d",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "summary": "",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -739,28 +893,6 @@
       "body_preview": ""
     },
     {
-      "id": "48dd76dbbe11175732303675066216fc",
-      "title": "Suno launches v6 music models built with Warner, BMG, and Believe",
-      "link": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/",
-      "summary": "",
-      "published_at": "2026-09-09T14:06:57+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "582a04f9d65aa92d9ba886764714a62c",
-      "title": "Deepmind's AlphaGenome Atlas maps every possible DNA change in the human genome",
-      "link": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/",
-      "summary": "",
-      "published_at": "2026-09-09T13:40:40+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2429ec1390a9f5c064d288fd5b0b4b43",
       "title": "The AI policy window is open. We need to act.",
       "link": "https://openai.com/index/ai-policy-window",
@@ -805,61 +937,6 @@
       "body_preview": ""
     },
     {
-      "id": "4fdbe7b07cc194c3496e00d965485b2c",
-      "title": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
-      "link": "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/",
-      "summary": "",
-      "published_at": "2026-09-09T12:48:41+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9aad124e81cc192ea2e972856c1a326e",
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "summary": "",
-      "published_at": "2026-09-09T12:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "18ba2bd8ff7b387265bebc57f7014da8",
-      "title": "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips",
-      "link": "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/",
-      "summary": "",
-      "published_at": "2026-09-09T12:27:42+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "007d4ad37382c6db9cd13bf1b752c551",
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "summary": "",
-      "published_at": "2026-09-09T12:05:34+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d2b9ba61ef49c3902130dcaa8d7f305b",
-      "title": "Students who use AI generally score worse at school",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how [&#8230;]",
-      "published_at": "2026-09-09T12:05:01+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "566879e8e4ef5ea08f51755d42e55b70",
       "title": "GPT-6 Astra: The next generation in intelligence for work",
       "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
@@ -878,17 +955,6 @@
       "published_at": "2026-09-09T10:34:20+00:00",
       "source": "AI News",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0f17ea9fc4bc4db8f6f633ffbb01f347",
-      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on [&#8230;]",
-      "published_at": "2026-09-09T09:56:28+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -934,17 +1000,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "aa15da7180746999c1239db7467e1062",
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [&#8230;]",
-      "published_at": "2026-09-08T20:53:52+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1256,17 +1311,6 @@
       "body_preview": ""
     },
     {
-      "id": "a571e689b1ea30947455ebbbebb7f514",
-      "title": "NVIDIA to acquire Hugging Face for $12.93B",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
-      "summary": "NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository&#8217;s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for enterprise developers, software engineers, and research institutions globally. Built over the past decade by Clem Delangue, Julien Chaumond, Thomas Wolf, and their [&#8230;] The post NVIDIA to acquire Hugging Face for $12.93B appeared first on AI News .",
-      "published_at": "2026-09-03T15:50:31+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3d377acdef95b0e1d9b4776de0a35201",
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
@@ -1300,9 +1344,9 @@
       "body_preview": ""
     },
     {
-      "id": "0317f137ee7b96264885255e02b80e94",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "id": "b9d3c6299fb27f0c6719f3d53a727995",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
       "summary": "",
       "published_at": "2026-09-03T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1311,9 +1355,9 @@
       "body_preview": ""
     },
     {
-      "id": "b9d3c6299fb27f0c6719f3d53a727995",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "id": "0317f137ee7b96264885255e02b80e94",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "summary": "",
       "published_at": "2026-09-03T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1603,50 +1647,6 @@
       "summary": "",
       "published_at": "2026-08-28T06:00:00+00:00",
       "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "7e2702018266fdbeab80de25152f2c49",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "summary": "",
-      "published_at": "2026-08-28T02:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "9ea628f0bbdf12b14dab60f693f31c68",
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "summary": "",
-      "published_at": "2026-08-28T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f60cf4b1b832c995ea75f03bb03095e6",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "summary": "",
-      "published_at": "2026-08-27T16:11:32+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "e89264a8c32e811532a93056fcc3ee59",
-      "title": "3 new ways to plan and book travel in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "summary": "Graphic depicting new travel features for AI Mode in Search",
-      "published_at": "2026-08-27T16:00:00+00:00",
-      "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
       "body_preview": ""
