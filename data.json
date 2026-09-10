@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-09T22:03:38.470936+00:00",
+  "generated_at": "2026-09-10T00:06:09.167271+00:00",
   "articles": [
+    {
+      "id": "34f8d8fb42bd6a61b874c63200a811a2",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "summary": "",
+      "published_at": "2026-09-10T00:00:37+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ef3f70857646c48dc4a0f48f9e840935",
+      "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
+      "link": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
+      "summary": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only. The post Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities appeared first on MarkTechPost .",
+      "published_at": "2026-09-09T22:58:29+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4b189e92b8328a0099df3c45310d8fa9",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "summary": "",
+      "published_at": "2026-09-09T22:25:22+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "72b030569a286699580301d3d722f617",
       "title": "Massachusetts hits data centers with new clean power rules",
@@ -112,8 +145,8 @@
       "body_preview": ""
     },
     {
-      "id": "a3763643e3292089244c27c8a93d1845",
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "id": "f2b022abf3613edf37f85e3db59aec04",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
       "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
       "summary": "",
       "published_at": "2026-09-09T18:08:35+00:00",
@@ -274,6 +307,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2429ec1390a9f5c064d288fd5b0b4b43",
+      "title": "The AI policy window is open. We need to act.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "summary": "",
+      "published_at": "2026-09-09T13:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -805,17 +849,6 @@
       "body_preview": ""
     },
     {
-      "id": "f7483b83deceebf8f78b30fdc148d43c",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "summary": "",
-      "published_at": "2026-09-08T21:10:27+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "aa15da7180746999c1239db7467e1062",
       "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
@@ -1113,17 +1146,6 @@
       "body_preview": ""
     },
     {
-      "id": "c688a91f49d8b11f0fc84d5eb119f106",
-      "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
-      "link": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
-      "summary": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours. The post Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours appeared first on MarkTechPost .",
-      "published_at": "2026-09-06T20:25:17+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "914045e28e883011fb771677de2d53dd",
       "title": "An Alien Mind",
       "link": "https://openai.com/index/an-alien-mind",
@@ -1245,9 +1267,9 @@
       "body_preview": ""
     },
     {
-      "id": "b9d3c6299fb27f0c6719f3d53a727995",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "id": "0317f137ee7b96264885255e02b80e94",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "summary": "",
       "published_at": "2026-09-03T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1256,9 +1278,9 @@
       "body_preview": ""
     },
     {
-      "id": "0317f137ee7b96264885255e02b80e94",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "id": "b9d3c6299fb27f0c6719f3d53a727995",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
       "summary": "",
       "published_at": "2026-09-03T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1625,28 +1647,6 @@
       "summary": "",
       "published_at": "2026-08-27T09:00:00+00:00",
       "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "244aaa82ab0c61bc7ab26632cee6ed03",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "summary": "",
-      "published_at": "2026-08-27T03:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "3e634266d23b9345743fdbcea85a23cd",
-      "title": "Previewing the Model Hardware",
-      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "summary": "Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. Announcements Aug 14, 2026 How Claude’s text watermark works In this article, we share answers to some of the questions we’ve received about how our chosen watermarking metho",
-      "published_at": "2026-08-27T00:00:00+00:00",
-      "source": "Anthropic News",
       "category": "company",
       "importance": "high",
       "body_preview": ""
