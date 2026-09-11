@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-09-11T14:58:46.846576+00:00",
+  "generated_at": "2026-09-11T18:08:53.772527+00:00",
   "articles": [
+    {
+      "id": "757e65bd3907f5b5c4d7c093ee2308a2",
+      "title": "Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion",
+      "link": "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/",
+      "summary": "",
+      "published_at": "2026-09-11T17:57:42+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a4d8ba9fab181595a4bb9f0cb4cafc2b",
+      "title": "Deep learning pioneer Bengio argues the training process itself makes AI dangerous",
+      "link": "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/",
+      "summary": "",
+      "published_at": "2026-09-11T17:22:18+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6804ab0e4306c1ee3f3e79b5f720ef9d",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "summary": "",
+      "published_at": "2026-09-11T16:46:25+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "544dc1e2cc38fafee58b5d87e3446db6",
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
+      "published_at": "2026-09-11T16:09:14+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "543ee748e67aae584ea867f1bc638431",
       "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
@@ -43,6 +87,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "225856c6b3f9d81bfce8ca96cf2aef2f",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "summary": "",
+      "published_at": "2026-09-11T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -618,17 +673,6 @@
       "body_preview": ""
     },
     {
-      "id": "f058243369ac4ddbbc960907aa3afdef",
-      "title": "Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk",
-      "link": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/",
-      "summary": "",
-      "published_at": "2026-09-10T16:31:02+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ec368ac920f4b9212b9f485048ddbd23",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -658,17 +702,6 @@
       "published_at": "2026-09-10T15:38:19+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a50171dccce1ed2e45643bb7d9af921a",
-      "title": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
-      "link": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/",
-      "summary": "",
-      "published_at": "2026-09-10T15:26:58+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -904,17 +937,6 @@
       "body_preview": ""
     },
     {
-      "id": "0ee70220525203841034f8dce904cd82",
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new [&#8230;]",
-      "published_at": "2026-09-09T20:44:43+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "31d6e3d796add12cf8acb7a0fd5411dc",
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
@@ -989,17 +1011,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "536d9f2e79a3458ff9ddd0416a7d18ca",
-      "title": "Superintelligence is coming. Should we let it?",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "summary": "",
-      "published_at": "2026-09-09T16:05:35+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1633,17 +1644,6 @@
       "id": "1b8e88e3a383d3432ba2a7438bfed0d4",
       "title": "OpenAI supports California’s bill to advance youth AI safety",
       "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "summary": "",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "dad8aacdad1abd67eaf2153cb6a114d2",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "link": "https://openai.com/index/polimill",
       "summary": "",
       "published_at": "2026-08-31T07:00:00+00:00",
       "source": "OpenAI News",
