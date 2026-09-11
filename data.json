@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T23:26:37.582999+00:00",
+  "generated_at": "2026-09-11T01:15:58.352026+00:00",
   "articles": [
     {
       "id": "07228657fd5bc768cf931161da24748c",
@@ -1377,9 +1377,9 @@
       "body_preview": ""
     },
     {
-      "id": "b9d3c6299fb27f0c6719f3d53a727995",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "id": "0317f137ee7b96264885255e02b80e94",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "summary": "",
       "published_at": "2026-09-03T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1388,9 +1388,9 @@
       "body_preview": ""
     },
     {
-      "id": "0317f137ee7b96264885255e02b80e94",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "id": "b9d3c6299fb27f0c6719f3d53a727995",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
       "summary": "",
       "published_at": "2026-09-03T12:00:00+00:00",
       "source": "OpenAI News",
