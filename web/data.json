@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:52:25.083389+00:00",
+  "generated_at": "2026-09-12T15:55:06.296055+00:00",
   "articles": [
     {
       "id": "b4cc74695324448c83adc4798d38d556",
@@ -10,6 +10,83 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "b89b11e614ee141b5579204bc73c6b6d",
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "",
+      "published_at": "2026-09-12T15:52:11+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "da36e93af8b0f78508a98206a6a484a2",
+      "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
+      "link": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
+      "summary": "",
+      "published_at": "2026-09-12T15:03:21+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d18a653e140e94339dc1b8a38a98de0d",
+      "title": "Trump is giving data centers a pass to pollute",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection [&#8230;]",
+      "published_at": "2026-09-12T14:41:27+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8b9d86ce018f0f9d2e9d0650a0d22fce",
+      "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
+      "link": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/",
+      "summary": "",
+      "published_at": "2026-09-12T14:26:09+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c9c7beb79395d49d1e68343cdf127b7b",
+      "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
+      "link": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo/",
+      "summary": "",
+      "published_at": "2026-09-12T14:05:18+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "73daf4ccaf13ab67ee7b8f339b17f5d8",
+      "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
+      "link": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/",
+      "summary": "",
+      "published_at": "2026-09-12T13:39:43+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "13c54a0309f1a54a4f7e7fdbec8a2662",
+      "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
+      "link": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/",
+      "summary": "",
+      "published_at": "2026-09-12T13:10:11+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -552,28 +629,6 @@
       "body_preview": ""
     },
     {
-      "id": "ebc63677d4ecac11af425b9b05585b67",
-      "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-      "link": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/",
-      "summary": "",
-      "published_at": "2026-09-11T13:50:28+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "61d463626ab28347bfcb2fb4afcdbc87",
-      "title": "OpenAI floats a shared AI slowdown, takes it to Congress",
-      "link": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/",
-      "summary": "",
-      "published_at": "2026-09-11T11:59:19+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "225856c6b3f9d81bfce8ca96cf2aef2f",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
@@ -582,39 +637,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "2ebbffcab505019f0ad9ea73ce21b701",
-      "title": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
-      "link": "https://the-decoder.com/class-action-lawsuit-accuses-anthropic-of-overselling-claude-subscriptions-with-deceptive-usage-multipliers/",
-      "summary": "",
-      "published_at": "2026-09-11T09:45:58+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "14a192a5d38489f1c308ded283619213",
-      "title": "The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable",
-      "link": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/",
-      "summary": "",
-      "published_at": "2026-09-11T09:15:10+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "83aa475d5a9a24044a2b2c6e4e504423",
-      "title": "Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid",
-      "link": "https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/",
-      "summary": "",
-      "published_at": "2026-09-11T08:40:01+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -805,17 +827,6 @@
       "body_preview": ""
     },
     {
-      "id": "fa89bff661316b5f21d72ab8d7c25110",
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lack of transparency about the origins [&#8230;]",
-      "published_at": "2026-09-10T11:00:57+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3ac9a70047aa289daa3a2f6eee05579f",
       "title": "Powering AI is an architecture problem",
       "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
@@ -889,17 +900,6 @@
       "published_at": "2026-09-10T00:00:00+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4b189e92b8328a0099df3c45310d8fa9",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "summary": "",
-      "published_at": "2026-09-09T22:25:22+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
