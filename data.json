@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:56:22.998112+00:00",
+  "generated_at": "2026-09-12T19:50:56.067846+00:00",
   "articles": [
     {
       "id": "b4cc74695324448c83adc4798d38d556",
@@ -13,6 +13,28 @@
       "body_preview": ""
     },
     {
+      "id": "153c305337d0d1b6067aa965771e9acd",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "",
+      "published_at": "2026-09-12T19:34:44+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "80582a4a680204bc43ccd4cc297bba5f",
+      "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
+      "link": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
+      "summary": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per token memory bound, and what it takes to run the MIT-licensed code locally. The post Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help appeared first on MarkTechPost .",
+      "published_at": "2026-09-12T18:51:24+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "7658ae1b6417169bb81e7fc854b246f4",
       "title": "Anthropic CEO says it’s time to pump the brakes on AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
@@ -20,17 +42,6 @@
       "published_at": "2026-09-12T16:23:40+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b89b11e614ee141b5579204bc73c6b6d",
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary": "",
-      "published_at": "2026-09-12T15:52:11+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -608,7 +619,7 @@
     },
     {
       "id": "a4d8ba9fab181595a4bb9f0cb4cafc2b",
-      "title": "Deep learning pioneer Bengio argues the training process itself makes AI dangerous",
+      "title": "Deep Learning pioneer Bengio argues the training process itself makes AI dangerous",
       "link": "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/",
       "summary": "",
       "published_at": "2026-09-11T17:22:18+00:00",
@@ -989,17 +1000,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "b7b0cbe53cb00b97100d3c71116e3b18",
-      "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
-      "link": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
-      "summary": "LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse billing now counts output characters instead of flat pages. Gen1 code will not run against Gen2 endpoints. The post LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity appeared first on MarkTechPost .",
-      "published_at": "2026-09-10T02:13:12+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
