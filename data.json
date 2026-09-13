@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T06:11:30.825570+00:00",
+  "generated_at": "2026-09-13T11:53:51.402167+00:00",
   "articles": [
     {
       "id": "b4cc74695324448c83adc4798d38d556",
@@ -10,6 +10,39 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "ff2273f3d1ab42455ad211405d59f9a6",
+      "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+      "link": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
+      "summary": "",
+      "published_at": "2026-09-13T10:52:16+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "22d54ed41dd64ea746a8860520939a17",
+      "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+      "link": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
+      "summary": "",
+      "published_at": "2026-09-13T09:27:01+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "782c73de30c13ab226fc5be2a5f747f9",
+      "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+      "link": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/",
+      "summary": "",
+      "published_at": "2026-09-13T08:53:00+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -167,17 +200,6 @@
       "body_preview": ""
     },
     {
-      "id": "0f8b1051ccd527f876529a2b3f7c026b",
-      "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
-      "link": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/",
-      "summary": "",
-      "published_at": "2026-09-12T08:28:53+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ad41db53ae4e074c584e3ebd8f2697ec",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -272,28 +294,6 @@
       "summary": "",
       "published_at": "2026-09-11T18:41:49+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "757e65bd3907f5b5c4d7c093ee2308a2",
-      "title": "Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion",
-      "link": "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/",
-      "summary": "",
-      "published_at": "2026-09-11T17:57:42+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a4d8ba9fab181595a4bb9f0cb4cafc2b",
-      "title": "Deep Learning pioneer Bengio argues the training process itself makes AI dangerous",
-      "link": "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/",
-      "summary": "",
-      "published_at": "2026-09-11T17:22:18+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
