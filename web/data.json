@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-09-14T05:16:02.627434+00:00",
+  "generated_at": "2026-09-14T10:41:43.536192+00:00",
   "articles": [
+    {
+      "id": "d2598f44b60a35e1883d5a70d0b92f58",
+      "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
+      "link": "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/",
+      "summary": "",
+      "published_at": "2026-09-14T09:39:59+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d16df450251ca28cdd1533818e57d3f2",
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal; deployment is rare. The difference is not model [&#8230;] The post Why Most Enterprise Agent Pilots Never Reach Deployment appeared first on AI News .",
+      "published_at": "2026-09-14T08:04:35+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "84952948abd7e0018b055089b5c7abbd",
+      "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
+      "link": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
+      "summary": "NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training, simulation, and hardware-in-the-loop tasks in a single YAML file and routes each one to the right compute tier, from GB200 clusters to Jetson AGX Thor devices, without infrastructure code. Apache-2.0 licensed, latest release 6.3.1. The post NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing appeared first on MarkTechPost .",
+      "published_at": "2026-09-14T08:04:27+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8f3c503fa0526888dd27da196f23ac94",
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to transcribe, faces [&#8230;] The post From Video to Data: How AI Is Transforming Multimedia Content Processing appeared first on AI News .",
+      "published_at": "2026-09-14T07:56:45+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2d8354f77ac6fc1c8c5820d146e7bd90",
+      "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+      "link": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "summary": "Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuilding its AI-powered technology, Aura, to close that gap, [&#8230;] The post How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel appeared first on AI News .",
+      "published_at": "2026-09-14T07:39:28+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "271aff4084ac7f07bee393174d9b2505",
       "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
@@ -629,17 +684,6 @@
       "body_preview": ""
     },
     {
-      "id": "13c54a0309f1a54a4f7e7fdbec8a2662",
-      "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
-      "link": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/",
-      "summary": "",
-      "published_at": "2026-09-12T13:10:11+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5d1393d5feeb1bb8a3b737f88e09a6e1",
       "title": "OpenAI just wants to win",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
@@ -667,17 +711,6 @@
       "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
       "summary": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on held-out tasks. The post Can LLMs Engineer Their Own Agent Harness? ByteDance Seed&#8217;s HarnessDev Says Only 34 of 64 Changes Generalize appeared first on MarkTechPost .",
       "published_at": "2026-09-11T22:01:08+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c093ee585063467ae3c9727bb5791d46",
-      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
-      "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
-      "summary": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it [&#8230;] The post Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills appeared first on MarkTechPost .",
-      "published_at": "2026-09-11T21:05:55+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1014,6 +1047,17 @@
       "body_preview": ""
     },
     {
+      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "summary": "",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "faf6018fd73f51f55a769a61654187e7",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
@@ -1025,14 +1069,14 @@
       "body_preview": ""
     },
     {
-      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
+      "id": "9d501bb0becad5528cf87be725179658",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
       "summary": "",
       "published_at": "2026-09-10T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1300,17 +1344,6 @@
       "body_preview": ""
     },
     {
-      "id": "d7413d7332925c3dd592377bf5370b9b",
-      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
-      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
-      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commercial shippers, pairing automated routing algorithms with carrier recommendation systems across international trade corridors. The deployment arrives as enterprise supply chain operators report measurable operational returns from [&#8230;] The post MG Ship adds AI route optimisation as logistics returns accelerate appeared first on AI News .",
-      "published_at": "2026-09-07T13:01:23+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1e13629369e2cd8d86d77a9dce43e4f1",
       "title": "Supporting independent journalism in Ukraine",
       "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -1355,17 +1388,6 @@
       "body_preview": ""
     },
     {
-      "id": "20fe71d31bc8caa2551626f1f8e2613b",
-      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
-      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-      "summary": "M&#38;T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify customer needs, and flag portfolio risks, according to Fast Company. M&#38;T is also examining [&#8230;] The post M&#038;T Bank expands enterprise AI after years of technology overhaul appeared first on AI News .",
-      "published_at": "2026-09-04T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "96f8fb6b819eff085d24889f01952641",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
@@ -1374,17 +1396,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "28a8cf57a941644b3ef8c781711c09cd",
-      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
-      "summary": "Just over half of American adults, 50.5%, say a partner&#8217;s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the 1,709 responses that remained [&#8230;] The post 50.5% of Americans Say AI Romance Can Count as Cheating appeared first on AI News .",
-      "published_at": "2026-09-04T08:25:12+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1638,17 +1649,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "5fa31cdd637d28d96bb149565383b8ae",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "link": "https://huggingface.co/blog/webgpu-kernels",
-      "summary": "",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     }
   ],
