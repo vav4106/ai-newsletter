@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:42:27.035969+00:00",
+  "generated_at": "2026-09-14T00:28:40.690983+00:00",
   "articles": [
     {
       "id": "b4cc74695324448c83adc4798d38d556",
@@ -10,6 +10,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "c3fcff1c28241bc29a17e42f547fb0c2",
+      "title": "Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction",
+      "link": "https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/",
+      "summary": "In this tutorial, we build an end-to-end hierarchical Neural Radiance Field (NeRF) using JAX, Flax, Optax, and the volume-rendering primitives provided by jax3d. We first construct a synthetic multi-view dataset from an analytic scene containing volumetric geometry and view-dependent radiance, using sample_along_rays and volume_rendering to establish the forward rendering process. We then implement a NeRF [&#8230;] The post Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction appeared first on MarkTechPost .",
+      "published_at": "2026-09-13T19:46:38+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -31,6 +42,17 @@
       "published_at": "2026-09-13T19:40:15+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b4c96eb24b3cca448213f61abba038e2",
+      "title": "A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth",
+      "link": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/",
+      "summary": "Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token, with no reset at the serving boundary. The reference tied configuration uses 48 encoder and 48 decoder layers, executing 96 logical blocks per token while the state path grows to 48t decoder blocks after t tokens. The design also specifies hardware-aware execution around the recurrent core and an exact current-policy RL replay contract. No code, weights, or measured results are released yet. The post A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbou",
+      "published_at": "2026-09-13T17:02:26+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -101,6 +123,50 @@
       "body_preview": ""
     },
     {
+      "id": "9062107a4b307a4f943655f05af61c94",
+      "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
+      "link": "https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/",
+      "summary": "Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers. The post AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents appeared first on MarkTechPost .",
+      "published_at": "2026-09-13T08:10:51+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d2fa04b730f149bbc3e32b31af234f2e",
+      "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+      "link": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/",
+      "summary": "A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with the actual thresholds shipped by LangChain Deep Agents, Claude Code, Manus, OpenAI Codex and Amazon Bedrock AgentCore, plus an interactive simulator that shows a 200K window filling up. The post Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks appeared first on MarkTechPost .",
+      "published_at": "2026-09-13T05:56:03+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a4061f33379352873452edc09c0f4312",
+      "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
+      "link": "https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/",
+      "summary": "This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn acceleration with cuml.accel, performance benchmarking across key ML algorithms, manifold learning with UMAP and HDBSCAN, tree-model inference with FIL, and model explainability using GPU-accelerated SHAP The post Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference appeared first on MarkTechPost .",
+      "published_at": "2026-09-13T01:42:58+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "004c00be32bf7a92a8d13c1e0ddb93ed",
+      "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
+      "link": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
+      "summary": "Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3, Moonshot AI&#8217;s 2.8T-parameter open model. Cognition reports a score of 50.0% on FrontierCode 1.1 Main, within 1 point of Fable 5.1 at 64% lower cost. It is also [&#8230;] The post Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost appeared first on MarkTechPost .",
+      "published_at": "2026-09-12T23:56:03+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "c0731ba76b2e6d44b555edecfc5a1f06",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
@@ -141,6 +207,17 @@
       "published_at": "2026-09-12T19:34:44+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "80582a4a680204bc43ccd4cc297bba5f",
+      "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
+      "link": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
+      "summary": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per token memory bound, and what it takes to run the MIT-licensed code locally. The post Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help appeared first on MarkTechPost .",
+      "published_at": "2026-09-12T18:51:24+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -240,6 +317,28 @@
       "published_at": "2026-09-11T22:58:17+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "be79524d6a34a947531d657166f9da3f",
+      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+      "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+      "summary": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on held-out tasks. The post Can LLMs Engineer Their Own Agent Harness? ByteDance Seed&#8217;s HarnessDev Says Only 34 of 64 Changes Generalize appeared first on MarkTechPost .",
+      "published_at": "2026-09-11T22:01:08+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c093ee585063467ae3c9727bb5791d46",
+      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+      "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+      "summary": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it [&#8230;] The post Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills appeared first on MarkTechPost .",
+      "published_at": "2026-09-11T21:05:55+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -376,6 +475,17 @@
       "body_preview": ""
     },
     {
+      "id": "c63abe37bc90c8b5a57013403397be5d",
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data centre system) and time-to-token (which covers power, cooling, networking, and day-one software [&#8230;] The post Palantir Foundry and cuOpt drive NVIDIA supply chain allocation appeared first on AI News .",
+      "published_at": "2026-09-11T12:00:18+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "225856c6b3f9d81bfce8ca96cf2aef2f",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
@@ -384,6 +494,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "bd64caace192d62ea68d6d410a4f8ab2",
+      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
+      "link": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
+      "summary": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation. Weights are free for non-commercial use, with commercial access through Cohere Model Vault or RWS Language Weaver. The post Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages appeared first on MarkTechPost .",
+      "published_at": "2026-09-11T06:57:22+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -475,6 +596,17 @@
       "body_preview": ""
     },
     {
+      "id": "6e69509cf4ab5cfbf79760a768f4aaa8",
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification instead, it highlights an operating model that can [&#8230;] The post Supply chains detect fast, act slow: How AI agents fix it appeared first on AI News .",
+      "published_at": "2026-09-10T16:34:43+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "ec368ac920f4b9212b9f485048ddbd23",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -516,6 +648,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "634e283bd4719eca74ce4af262a0b193",
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "summary": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The company launched the plan at JDDiscovery 2026 in Beijing. JD Logistics also unveiled its industrial Wolf Robot series, designed [&#8230;] The post JD.com expands physical AI in logistics with 3 million robots appeared first on AI News .",
+      "published_at": "2026-09-10T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -640,6 +783,28 @@
       "body_preview": ""
     },
     {
+      "id": "8233985756e6c8984da32f972ed45c5a",
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital, Entrepreneur First, and LM Ventures, the venture capital fund of Lockheed Martin. Founded in 2015, CloudNC operates from [&#8230;] The post CloudNC aims to accelerate AI supply chain machining appeared first on AI News .",
+      "published_at": "2026-09-09T10:34:20+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b5619a1e7c2a5596a9bfefd70a67d06b",
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral&#8217;s software suite – including its flagship Mistral Large model – into internal semiconductor facilities to build customised [&#8230;] The post Samsung taps Mistral AI models for semiconductor manufacturing appeared first on AI News .",
+      "published_at": "2026-09-09T08:52:19+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "689671e29225d373325e7b8f9e5d0b66",
       "title": "What OpenAI’s latest controversy tells us about the future of math",
       "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
@@ -695,6 +860,17 @@
       "body_preview": ""
     },
     {
+      "id": "6adac3453688c33198fbdf6f13462b2f",
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estimated $200 billion annual compute opportunity by the 2030s. To address engineering fragmentation [&#8230;] The post Arm launches Total Design for Physical AI and robotics framework appeared first on AI News .",
+      "published_at": "2026-09-08T11:44:10+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "832ae85bafeb93e1d76956290792a513",
       "title": "Introducing ChatGPT Images 2.5",
       "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
@@ -728,6 +904,17 @@
       "body_preview": ""
     },
     {
+      "id": "3a64bfab17765b52723ee343fbda33a7",
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+      "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders, ordering frequency, seasonality, weather, and purchasing patterns among similar businesses. Coca-Cola said Coke Buddy currently supports about 39,000 retail outlets across [&#8230;] The post Coca-Cola uses AI to improve retailer ordering in Malaysia appeared first on AI News .",
+      "published_at": "2026-09-08T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "516248281394cc8b811b81774d0fe423",
       "title": "Funding grants for new research into AI and teen development",
       "link": "https://openai.com/index/teen-development-research-grants",
@@ -736,6 +923,28 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "319f7928cba88c42ce10735795ace6a5",
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "summary": "Google&#8217;s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour. Energy traders, grid operators and wind and solar developers already pay other companies for that [&#8230;] The post AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3 appeared first on AI News .",
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "422f7b7ee1bdc6d342ec75348568a1a1",
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected. Searcherries followed 50 searches daily from [&#8230;] The post YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches appeared first on AI News .",
+      "published_at": "2026-09-08T08:50:39+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -758,6 +967,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "d7413d7332925c3dd592377bf5370b9b",
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commercial shippers, pairing automated routing algorithms with carrier recommendation systems across international trade corridors. The deployment arrives as enterprise supply chain operators report measurable operational returns from [&#8230;] The post MG Ship adds AI route optimisation as logistics returns accelerate appeared first on AI News .",
+      "published_at": "2026-09-07T13:01:23+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -805,6 +1025,17 @@
       "body_preview": ""
     },
     {
+      "id": "20fe71d31bc8caa2551626f1f8e2613b",
+      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "summary": "M&#38;T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify customer needs, and flag portfolio risks, according to Fast Company. M&#38;T is also examining [&#8230;] The post M&#038;T Bank expands enterprise AI after years of technology overhaul appeared first on AI News .",
+      "published_at": "2026-09-04T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "96f8fb6b819eff085d24889f01952641",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
@@ -813,6 +1044,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "28a8cf57a941644b3ef8c781711c09cd",
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+      "summary": "Just over half of American adults, 50.5%, say a partner&#8217;s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the 1,709 responses that remained [&#8230;] The post 50.5% of Americans Say AI Romance Can Count as Cheating appeared first on AI News .",
+      "published_at": "2026-09-04T08:25:12+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
