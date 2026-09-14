@@ -1,6 +1,160 @@
 {
-  "generated_at": "2026-09-14T10:41:43.536192+00:00",
+  "generated_at": "2026-09-14T16:35:52.251044+00:00",
   "articles": [
+    {
+      "id": "f62ab30caff42d99d5d7d50cbeeeb41c",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "summary": "",
+      "published_at": "2026-09-14T16:27:53+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f625d6550fcf1baead2ec0a2faeadc59",
+      "title": "DevFest is back",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon",
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "a36469a111f0c0638ab711a19514f881",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "f8386b07256d2e3c05cb49889c527ad4",
+      "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
+      "link": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
+      "summary": "",
+      "published_at": "2026-09-14T15:52:51+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "33a7042c997f4b1af64e3c03a88503a2",
+      "title": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+      "link": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo/",
+      "summary": "",
+      "published_at": "2026-09-14T15:46:45+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "338e85074a288b5b11d5764b19781b32",
+      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+      "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operational boundaries, and oversight protocols across MAI frontier models. It builds on the division&#8217;s humanist superintelligence framework announced last November, establishing [&#8230;] The post Microsoft AI opens review on Humanist AI Code of Conduct appeared first on AI News .",
+      "published_at": "2026-09-14T15:30:41+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1645c2432112ca129162ba7f9fa127ba",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "summary": "",
+      "published_at": "2026-09-14T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "29d074b90ac58cc56ab3fe49d124f339",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "summary": "",
+      "published_at": "2026-09-14T14:45:44+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "97e8d7389b133bb11478bece1815d90d",
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-09-14T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a1996202ab2efc5fe11824793ac1098f",
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "summary": "",
+      "published_at": "2026-09-14T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5cadabe8bfad60baf8834039d7f0b5ef",
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "summary": "",
+      "published_at": "2026-09-14T13:55:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bcf5fe36b5f5edbfc1b842d797974392",
+      "title": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
+      "link": "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/",
+      "summary": "",
+      "published_at": "2026-09-14T13:01:26+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "706189185c2a06539731b193b81bf945",
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify [&#8230;]",
+      "published_at": "2026-09-14T13:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f6cd7f71656236e04643f91c8dc3d69c",
+      "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
+      "link": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
+      "summary": "",
+      "published_at": "2026-09-14T12:20:22+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "d2598f44b60a35e1883d5a70d0b92f58",
       "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
@@ -629,17 +783,6 @@
       "body_preview": ""
     },
     {
-      "id": "da36e93af8b0f78508a98206a6a484a2",
-      "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
-      "link": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
-      "summary": "",
-      "published_at": "2026-09-12T15:03:21+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "d18a653e140e94339dc1b8a38a98de0d",
       "title": "Trump is giving data centers a pass to pollute",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
@@ -647,39 +790,6 @@
       "published_at": "2026-09-12T14:41:27+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8b9d86ce018f0f9d2e9d0650a0d22fce",
-      "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
-      "link": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/",
-      "summary": "",
-      "published_at": "2026-09-12T14:26:09+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c9c7beb79395d49d1e68343cdf127b7b",
-      "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
-      "link": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo/",
-      "summary": "",
-      "published_at": "2026-09-12T14:05:18+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "73daf4ccaf13ab67ee7b8f339b17f5d8",
-      "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
-      "link": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/",
-      "summary": "",
-      "published_at": "2026-09-12T13:39:43+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -769,17 +879,6 @@
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c4956345d8270ead6ce81df29806c3f3",
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
-      "published_at": "2026-09-11T20:05:06+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
       "body_preview": ""
     },
     {
@@ -887,72 +986,6 @@
       "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "summary": "",
       "published_at": "2026-09-10T21:35:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "143850d0223508e8e9df468ba86f48c7",
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
-      "published_at": "2026-09-10T21:25:21+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f333efb24e38eda423213dee6a1dc6f5",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "summary": "",
-      "published_at": "2026-09-10T20:59:51+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ac93c1acfed86a9a8e9a17cac23a7b4e",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "summary": "",
-      "published_at": "2026-09-10T20:57:30+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2465d1dda9a7a8fae041d0fd0f33e912",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "summary": "",
-      "published_at": "2026-09-10T19:50:04+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "31858fa672721f864c4ed72c0fcf8c95",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "summary": "",
-      "published_at": "2026-09-10T17:54:44+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ae86eb47e108c23f2c2bcea709631345",
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "summary": "",
-      "published_at": "2026-09-10T17:45:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1311,17 +1344,6 @@
       "body_preview": ""
     },
     {
-      "id": "422f7b7ee1bdc6d342ec75348568a1a1",
-      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
-      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
-      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected. Searcherries followed 50 searches daily from [&#8230;] The post YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches appeared first on AI News .",
-      "published_at": "2026-09-08T08:50:39+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "7778b6d8ac189d3252811dcdd30b49a8",
       "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
       "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
@@ -1624,28 +1646,6 @@
       "link": "https://openai.com/index/path-to-astra",
       "summary": "",
       "published_at": "2026-09-01T13:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "9e372cbd4ff5e5a82ccb8bc8c8009986",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "summary": "",
-      "published_at": "2026-09-01T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f35fa498e3549f8f798bbca78806486e",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "link": "https://openai.com/index/gilbert-tobin",
-      "summary": "",
-      "published_at": "2026-09-01T01:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
