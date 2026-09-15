@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-09-15T16:51:06.806826+00:00",
+  "generated_at": "2026-09-15T19:54:01.964106+00:00",
   "articles": [
+    {
+      "id": "8f4ff96ed1f265496988ab30cdf8c09e",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "",
+      "published_at": "2026-09-15T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ac5737b4ad3231c685885af041bc555f",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "summary": "",
+      "published_at": "2026-09-15T18:29:20+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7d35488eede59f000a2e79d8ffbe5678",
+      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+      "link": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
+      "summary": "",
+      "published_at": "2026-09-15T18:23:20+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bbe11b35dd2f82a62b1fa45370c3b818",
+      "title": "AI labs have a data trust problem that their policies haven't solved",
+      "link": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/",
+      "summary": "",
+      "published_at": "2026-09-15T17:52:05+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7c739c55e05994433822e116fae2114b",
+      "title": "Roundtables: Could AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
+      "published_at": "2026-09-15T17:47:51+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "d3ef07823f5603a9c5fad1b1aa92f0b4",
+      "title": "AI agents now have a place to snitch",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "summary": "",
+      "published_at": "2026-09-15T17:42:59+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "06d32397db46f936d3287082a8745772",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "summary": "",
+      "published_at": "2026-09-15T17:05:57+00:00",
+      "source": "Google DeepMind",
+      "category": "research",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "673409e874d65c5d0a4f56d750e253a0",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "summary": "",
+      "published_at": "2026-09-15T17:05:24+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "21ee992b94b5fde110f2d829d6fe9cc6",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
@@ -200,8 +288,8 @@
       "body_preview": ""
     },
     {
-      "id": "ec9d6b204dae93b0c4636cb01df32d46",
-      "title": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+      "id": "7b589295760c8aafa6868552eddcd300",
+      "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
       "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
       "summary": "",
       "published_at": "2026-09-15T09:04:36+00:00",
@@ -750,28 +838,6 @@
       "body_preview": ""
     },
     {
-      "id": "a1996202ab2efc5fe11824793ac1098f",
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "summary": "",
-      "published_at": "2026-09-14T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4a91e7304b408e975d5cdd46cb14e369",
-      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "summary": "",
-      "published_at": "2026-09-14T13:55:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "bcf5fe36b5f5edbfc1b842d797974392",
       "title": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
       "link": "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/",
@@ -794,17 +860,6 @@
       "body_preview": ""
     },
     {
-      "id": "f6cd7f71656236e04643f91c8dc3d69c",
-      "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
-      "link": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
-      "summary": "",
-      "published_at": "2026-09-14T12:20:22+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "bc04f87a392b0b4e026b5325e88f9efe",
       "title": "How Fyxer built an AI executive assistant people trust",
       "link": "https://openai.com/index/fyxer",
@@ -813,17 +868,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d2598f44b60a35e1883d5a70d0b92f58",
-      "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
-      "link": "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/",
-      "summary": "",
-      "published_at": "2026-09-14T09:39:59+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -845,28 +889,6 @@
       "published_at": "2026-09-13T19:41:48+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3d8708db65b8e02ed374775a36a3364c",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "summary": "",
-      "published_at": "2026-09-13T19:40:15+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4a57bac46855d4041f19b878ec59482c",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "summary": "",
-      "published_at": "2026-09-13T16:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -901,17 +923,6 @@
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c4956345d8270ead6ce81df29806c3f3",
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
-      "published_at": "2026-09-11T20:05:06+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
       "body_preview": ""
     },
     {
@@ -1460,28 +1471,6 @@
       "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
       "published_at": "2026-09-01T20:45:00+00:00",
       "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "a8f800b6365a16199c7f7c55aa2889d8",
-      "title": "Introducing agentic video understanding with Gemini",
-      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "summary": "",
-      "published_at": "2026-09-01T17:08:51+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "c6fb1c5e5dabc50775bd81b1e2702330",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "link": "https://openai.com/index/ai-native-company-workflows",
-      "summary": "",
-      "published_at": "2026-09-01T17:00:00+00:00",
-      "source": "OpenAI News",
       "category": "company",
       "importance": "high",
       "body_preview": ""
