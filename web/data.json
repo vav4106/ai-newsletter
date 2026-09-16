@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-09-16T18:24:53.560025+00:00",
+  "generated_at": "2026-09-16T21:28:50.865928+00:00",
   "articles": [
+    {
+      "id": "ea593e8e66768c0df52d3aab1131f8b3",
+      "title": "Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens",
+      "link": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/",
+      "summary": "GLiFormer Large scores 91.10 F1 on nested JSON, near GPT-5.6-luna's 91.96, while grounding every value in source spans. The post Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens appeared first on MarkTechPost .",
+      "published_at": "2026-09-16T21:19:32+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1c26366ab25157bc324f45c8613b749e",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "summary": "",
+      "published_at": "2026-09-16T21:07:24+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f8246df73708528e472d5f6f972d4d8e",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, called Odysseus: The Fall, comes [&#8230;]",
+      "published_at": "2026-09-16T20:59:13+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cb0e507cc3cb0e6ee1ed347cfe471733",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste than previous studies have [&#8230;]",
+      "published_at": "2026-09-16T20:40:46+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "69815466bdb311705bc534130914e0ad",
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "summary": "",
+      "published_at": "2026-09-16T20:12:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7bfb17c9b03b4067810fb86c5e87bf16",
+      "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
+      "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+      "summary": "",
+      "published_at": "2026-09-16T19:02:25+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b2395f32d55ac4b138ff560f0337ac66",
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "summary": "",
+      "published_at": "2026-09-16T18:25:25+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "df5f59fb1aa90147f1a3023decae3515",
       "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
@@ -240,6 +317,17 @@
       "published_at": "2026-09-16T12:47:34+00:00",
       "source": "MIT Technology Review AI",
       "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "bb799286f57ba563bd19915731a0f0ae",
+      "title": "How to connect AI usage to business value",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "summary": "",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
       "importance": "high",
       "body_preview": ""
     },
@@ -860,17 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "b1c0edf53759ed2167fc56205377b250",
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "summary": "",
-      "published_at": "2026-09-15T15:22:48+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3a768fb7e0f6e62a55c9a36ae89d24a8",
       "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
       "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
@@ -878,39 +955,6 @@
       "published_at": "2026-09-15T15:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c5f5d89d938a305e301069fb35069fea",
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "summary": "",
-      "published_at": "2026-09-15T14:42:37+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a42a7369443e450f6d2c171bc5fe7b4a",
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "summary": "",
-      "published_at": "2026-09-15T14:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "188568bc7d0d2c909fc4aae307d2b6ba",
-      "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
-      "link": "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/",
-      "summary": "",
-      "published_at": "2026-09-15T14:26:48+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -992,17 +1036,6 @@
       "body_preview": ""
     },
     {
-      "id": "be4e42e5115a8fe9fe7cc3639ec79e3f",
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
-      "published_at": "2026-09-14T22:59:41+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "d8c564a9d9c52b59a9acb5dfc9909c0b",
       "title": "Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery",
       "link": "https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/",
@@ -1010,17 +1043,6 @@
       "published_at": "2026-09-14T21:54:22+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "fdfcca3c49cdd534567ff4e07e5e5dcb",
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of [&#8230;]",
-      "published_at": "2026-09-14T21:21:42+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1120,17 +1142,6 @@
       "published_at": "2026-09-14T08:04:35+00:00",
       "source": "AI News",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "84952948abd7e0018b055089b5c7abbd",
-      "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
-      "link": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
-      "summary": "NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training, simulation, and hardware-in-the-loop tasks in a single YAML file and routes each one to the right compute tier, from GB200 clusters to Jetson AGX Thor devices, without infrastructure code. Apache-2.0 licensed, latest release 6.3.1. The post NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing appeared first on MarkTechPost .",
-      "published_at": "2026-09-14T08:04:27+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1289,9 +1300,9 @@
       "body_preview": ""
     },
     {
-      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
+      "id": "faf6018fd73f51f55a769a61654187e7",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "summary": "",
       "published_at": "2026-09-10T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1300,9 +1311,9 @@
       "body_preview": ""
     },
     {
-      "id": "faf6018fd73f51f55a769a61654187e7",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
       "summary": "",
       "published_at": "2026-09-10T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1608,9 +1619,9 @@
       "body_preview": ""
     },
     {
-      "id": "b9d3c6299fb27f0c6719f3d53a727995",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "id": "0317f137ee7b96264885255e02b80e94",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "summary": "",
       "published_at": "2026-09-03T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1619,9 +1630,9 @@
       "body_preview": ""
     },
     {
-      "id": "0317f137ee7b96264885255e02b80e94",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "id": "b9d3c6299fb27f0c6719f3d53a727995",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
       "summary": "",
       "published_at": "2026-09-03T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1635,17 +1646,6 @@
       "link": "https://openai.com/index/gpt-6-astra",
       "summary": "",
       "published_at": "2026-09-03T11:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "6e14939758ff4e9104e58a79eef4ca22",
-      "title": "Safety overview: GPT-6 Astra",
-      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "summary": "",
-      "published_at": "2026-09-03T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
