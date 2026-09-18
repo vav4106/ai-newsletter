@@ -1,9 +1,42 @@
 {
-  "generated_at": "2026-09-17T22:30:48.703930+00:00",
+  "generated_at": "2026-09-18T00:44:43.079321+00:00",
   "articles": [
     {
-      "id": "e2cda59a2cdca51d5b253dac8b651f7c",
-      "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+      "id": "dbee07ee1a9b995471f3567c1c35c68a",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "summary": "",
+      "published_at": "2026-09-17T23:25:52+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8924b50d5bce999fad39f99337146803",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "summary": "",
+      "published_at": "2026-09-17T23:21:17+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f2ad18430320ac60bfc39c498dcca935",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "",
+      "published_at": "2026-09-17T22:34:09+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "33cb34e721c3f744f23006f50cf8189d",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
       "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
       "summary": "",
       "published_at": "2026-09-17T22:14:59+00:00",
@@ -241,6 +274,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9ad72d98e5a8e8be2c9dd3a0e3bbd55a",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "link": "https://openai.com/index/cooley-gopublic",
+      "summary": "",
+      "published_at": "2026-09-17T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -695,17 +739,6 @@
       "body_preview": ""
     },
     {
-      "id": "1c26366ab25157bc324f45c8613b749e",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "summary": "",
-      "published_at": "2026-09-16T21:07:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f8246df73708528e472d5f6f972d4d8e",
       "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
       "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
@@ -728,34 +761,12 @@
       "body_preview": ""
     },
     {
-      "id": "69815466bdb311705bc534130914e0ad",
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "summary": "",
-      "published_at": "2026-09-16T20:12:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "7bfb17c9b03b4067810fb86c5e87bf16",
       "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
       "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
       "summary": "",
       "published_at": "2026-09-16T19:02:25+00:00",
       "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b2395f32d55ac4b138ff560f0337ac66",
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "summary": "",
-      "published_at": "2026-09-16T18:25:25+00:00",
-      "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
