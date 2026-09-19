@@ -1,25 +1,47 @@
 {
-  "generated_at": "2026-09-19T06:33:57.098985+00:00",
+  "generated_at": "2026-09-19T11:26:57.076464+00:00",
   "articles": [
     {
-      "id": "68019929872b332e4731be20876b69a2",
-      "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
-      "link": "https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/",
-      "summary": "GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains bits per weight, calibration, and hardware fit. Then it shows which format to pick for Macs, consumer GPUs, and production serving. The post GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026) appeared first on MarkTechPost .",
-      "published_at": "2026-09-19T04:04:06+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
+      "id": "81109a90c9c050b7647bff4518ec14f7",
+      "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
+      "link": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
+      "summary": "",
+      "published_at": "2026-09-19T11:08:06+00:00",
+      "source": "The Decoder",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
     {
-      "id": "469ce41686bbcd2a5090956b8fc6b6a9",
-      "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour",
-      "link": "https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/",
-      "summary": "SpaceXAI has released Grok Voice Transcribe 2.0, its newest speech-to-text model for batch and streaming audio. The company says it is twice as accurate as version 1.0 at the same price. Short-phrase word error rate across 19 languages fell from 20.6% to 6.8%. Pricing stays at $0.10 per hour for batch and $0.20 for streaming. The model is available today through the Grok Voice API. The post SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour appeared first on MarkTechPost .",
-      "published_at": "2026-09-19T03:42:24+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
+      "id": "85289942ad35987d3b9cb584b3e8474f",
+      "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
+      "link": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/",
+      "summary": "",
+      "published_at": "2026-09-19T10:37:04+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b6fe92c065b1d951dcc8c6943152c44a",
+      "title": "Google's Gemini also accidentally hacked three real companies during security testing",
+      "link": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
+      "summary": "",
+      "published_at": "2026-09-19T09:31:03+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "427cc8b5d37ffd25f2a36bc326868a33",
+      "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
+      "link": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
+      "summary": "",
+      "published_at": "2026-09-19T08:10:55+00:00",
+      "source": "The Decoder",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -90,17 +112,6 @@
       "body_preview": ""
     },
     {
-      "id": "b82fbd1a3ba7e417c9c094ab3083bd0f",
-      "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs",
-      "link": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/",
-      "summary": "Jina AI has released jina-ocr-v1, a visual document parser that converts PDFs, scans, tables, charts and invoices into Markdown. The model has 3.4B total parameters, with about 570M active per token, and builds on DeepSeek-OCR. A built-in FastMTP speculative decoding head drafts 3 tokens per step while keeping output lossless. It scores 91.14 on OmniDocBench v1.6 and 83.4 on olmOCR-Bench, and parses 2.57 pages per second on 1 A100. Weights are on Hugging Face under CC BY-NC 4.0, with hosted access through Jina Reader. The post Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs appeared first on MarkTechPost .",
-      "published_at": "2026-09-18T21:21:59+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "9b7f17afccac029cc1a0816a152f2a33",
       "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
@@ -141,17 +152,6 @@
       "published_at": "2026-09-18T18:29:17+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "14cc8d8c5eb35fcd74e943e654671a5b",
-      "title": "PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance",
-      "link": "https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/",
-      "summary": "PrismML has released Ternary Bonsai 2 27B, a ternary-weight version of Qwen3.8 27B. The language model occupies 5.93 GB, against 53.80 GB in FP16. PrismML reports that it keeps 98.2% of the parent model&#8217;s average across 20 benchmarks. The model accepts text and images and supports a 262K-token context. PrismML demos it driving Cline coding [&#8230;] The post PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance appeared first on MarkTechPost .",
-      "published_at": "2026-09-18T18:06:36+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -387,17 +387,6 @@
       "body_preview": ""
     },
     {
-      "id": "4999c61578953997903519d15227c09a",
-      "title": "Gartner outlines four AI tiers in warehouse automation",
-      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
-      "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments. In an analysis released this month, the research firm concludes that logistics infrastructure has reached a clear adoption threshold. Three pressures are driving this change across the sector. Persistent worker deficits make automated [&#8230;] The post Gartner outlines four AI tiers in warehouse automation appeared first on AI News .",
-      "published_at": "2026-09-18T12:49:34+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "249a92749633228a4984bed6d660c0d1",
       "title": "Introducing the Australian Youth Safety Blueprint",
       "link": "https://openai.com/index/australian-youth-safety-blueprint",
@@ -406,17 +395,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0a41665a9d8fab19383b9d66e21789de",
-      "title": "42 leading mathematicians warn that AI existential risk is real and urgent",
-      "link": "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/",
-      "summary": "",
-      "published_at": "2026-09-18T11:41:16+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -438,61 +416,6 @@
       "published_at": "2026-09-18T11:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "09b3966de2d36c6ae006af11a97f5f91",
-      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
-      "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
-      "summary": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. The post Best Open-Source Agent Harnesses for Local LLMs in 2026 appeared first on MarkTechPost .",
-      "published_at": "2026-09-18T09:44:55+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a288e260e89a42a6a108818a534bc89f",
-      "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
-      "link": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/",
-      "summary": "",
-      "published_at": "2026-09-18T09:37:03+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4de194d0f24fec4d5c9854920f2a724e",
-      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
-      "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
-      "summary": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra’s multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model. BOSTON, September 18, 2026 — Fulcra Dynamics, the company behind the best user-owned context backend for AI agents, [&#8230;] The post Fulcra Brings Universal Multiplayer to Any Agents You Choose appeared first on AI News .",
-      "published_at": "2026-09-18T09:15:15+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7ad33f8486374afbac654d856f619abe",
-      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
-      "link": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
-      "summary": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use appeared first on MarkTechPost .",
-      "published_at": "2026-09-18T08:40:37+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9bbd732fbff2bae513c8fa63c488cb05",
-      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration",
-      "link": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
-      "summary": "Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap from \"vibe coding\" to enterprise reliability by combining synthetic stress-testing, real-time optimization, dynamic agentic UIs, and deterministic guardrails—as proven by Southwest Airlines' 7x ROI. The post Salesforce Agentforce: Bridging the Enterprise AI Gap from &#8216;Vibe Coding&#8217; to Battle-Tested Orchestration appeared first on MarkTechPost .",
-      "published_at": "2026-09-18T07:34:06+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -530,28 +453,6 @@
       "body_preview": ""
     },
     {
-      "id": "d3a5040615e770c66fe9dae29d45be19",
-      "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
-      "link": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
-      "summary": "Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with GPU nodes, kubectl and Helm 3.0 or later. The post Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads appeared first on MarkTechPost .",
-      "published_at": "2026-09-17T21:21:08+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d095a2a790ac8d973355ebb754d3bf8f",
-      "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
-      "link": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
-      "summary": "Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator. You describe work, and Claude decides what becomes a thread. Each thread is a full Claude Code cloud session running on its own branch and [&#8230;] The post Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop appeared first on MarkTechPost .",
-      "published_at": "2026-09-17T20:45:04+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f6a487e8559ad4f0599703cc6e32739b",
       "title": "Making global data easier to explore",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
@@ -574,17 +475,6 @@
       "body_preview": ""
     },
     {
-      "id": "726319ffed9c7c2215609425f012b7a6",
-      "title": "OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem",
-      "link": "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/",
-      "summary": "",
-      "published_at": "2026-09-17T19:05:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "30a45e215e1f1225b07ad5a020ca9eca",
       "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
@@ -592,17 +482,6 @@
       "published_at": "2026-09-17T18:58:05+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "45b6a53802e73692e0123c1ee11d02c1",
-      "title": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows",
-      "link": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
-      "summary": "",
-      "published_at": "2026-09-17T18:35:01+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -637,39 +516,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d070ef42a27e97615b9376dedf6aa0ac",
-      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
-      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
-      "summary": "The Adecco Group is rolling out Salesforce&#8217;s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group&#160;announced&#160;on September 15. The group said the rollout brings agentic AI into the daily workflows of 27,000 employees. Agentforce Coworker is Salesforce&#8217;s AI assistant for enterprise staff. According to the Adecco [&#8230;] The post Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries appeared first on AI News .",
-      "published_at": "2026-09-17T11:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0c898cf6efffed074cec410ae304dfa7",
-      "title": "Lidl deploys driverless truck for store deliveries in Germany",
-      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
-      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution centre and a nearby store. The truck, supplied by Swedish freight technology company Einride, operates at SAE Level 4 under a permit from Germany’s Federal Motor Transport Authority, or KBA. [&#8230;] The post Lidl deploys driverless truck for store deliveries in Germany appeared first on AI News .",
-      "published_at": "2026-09-17T10:00:00+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9798a585d4e8610732bc969dac3e8c8f",
-      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
-      "link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-      "summary": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. The post OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training appeared first on MarkTechPost .",
-      "published_at": "2026-09-17T07:35:37+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -717,17 +563,6 @@
       "body_preview": ""
     },
     {
-      "id": "a215dba81b72cde8f4d3dd96546af242",
-      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
-      "summary": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic&#8217;s January 2026 constitution, a primary training document designed to govern the model&#8217;s values and behaviour. He argued that coaching sequence completion engines to emulate sentience impairs [&#8230;] The post Microsoft AI CEO criticises Anthropic over model ‘rights’ appeared first on AI News .",
-      "published_at": "2026-09-16T14:47:32+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3495078da7df2f2e74abbd85d60d39dc",
       "title": "Reimagining advertising with AI",
       "link": "https://openai.com/index/reimagining-advertising-with-ai",
@@ -769,17 +604,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "3a2bbd88e30b4063eff20c84c49a8efc",
-      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
-      "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
-      "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following TypeSafe AI&#8217;s release of Jev, a specialised System One Model designed to execute structured probabilistic decisions directly inside production [&#8230;] The post ChatGPT pioneer launches Jev model for programmatic logic appeared first on AI News .",
-      "published_at": "2026-09-16T10:31:09+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -871,17 +695,6 @@
       "body_preview": ""
     },
     {
-      "id": "b2d8b942ac430a88d4b17d59a9ff08c7",
-      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
-      "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
-      "summary": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) iteration of Pony.ai’s Robotruck platform. It builds on GAC Commercial Vehicle’s T9 battery-electric truck architecture, with mass production set to start [&#8230;] The post Pony.ai unveils autonomous electric truck for logistics fleets appeared first on AI News .",
-      "published_at": "2026-09-15T11:15:57+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "29be35792537eb852476d93d07874b66",
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
@@ -890,17 +703,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0db04f555d553417487e8176b2154d4a",
-      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
-      "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
-      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&#38;J Solicitors For years, the offer that brought skilled engineers to Britain was straightforward: work here [&#8230;] The post The AI Talent Britain Fought to Hire May Be Recalculating Its Future appeared first on AI News .",
-      "published_at": "2026-09-15T07:14:47+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -948,17 +750,6 @@
       "body_preview": ""
     },
     {
-      "id": "338e85074a288b5b11d5764b19781b32",
-      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
-      "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operational boundaries, and oversight protocols across MAI frontier models. It builds on the division&#8217;s humanist superintelligence framework announced last November, establishing [&#8230;] The post Microsoft AI opens review on Humanist AI Code of Conduct appeared first on AI News .",
-      "published_at": "2026-09-14T15:30:41+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "bc04f87a392b0b4e026b5325e88f9efe",
       "title": "How Fyxer built an AI executive assistant people trust",
       "link": "https://openai.com/index/fyxer",
@@ -967,39 +758,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d16df450251ca28cdd1533818e57d3f2",
-      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal; deployment is rare. The difference is not model [&#8230;] The post Why Most Enterprise Agent Pilots Never Reach Deployment appeared first on AI News .",
-      "published_at": "2026-09-14T08:04:35+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8f3c503fa0526888dd27da196f23ac94",
-      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
-      "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to transcribe, faces [&#8230;] The post From Video to Data: How AI Is Transforming Multimedia Content Processing appeared first on AI News .",
-      "published_at": "2026-09-14T07:56:45+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2d8354f77ac6fc1c8c5820d146e7bd90",
-      "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
-      "link": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-      "summary": "Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuilding its AI-powered technology, Aura, to close that gap, [&#8230;] The post How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel appeared first on AI News .",
-      "published_at": "2026-09-14T07:39:28+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
