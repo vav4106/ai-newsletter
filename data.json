@@ -1,9 +1,20 @@
 {
-  "generated_at": "2026-09-18T23:42:46.773569+00:00",
+  "generated_at": "2026-09-19T01:38:10.449786+00:00",
   "articles": [
     {
-      "id": "833395e3e026d7ecf296f42b30af7de0",
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "id": "b8cec6f9e3a318b6a02544f0d88b0f0e",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "summary": "",
+      "published_at": "2026-09-19T01:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fb422c542576baed8772ccc08977cdb5",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "summary": "",
       "published_at": "2026-09-18T23:25:01+00:00",
@@ -810,17 +821,6 @@
       "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
       "summary": "",
       "published_at": "2026-09-17T22:34:09+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "33cb34e721c3f744f23006f50cf8189d",
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "summary": "",
-      "published_at": "2026-09-17T22:14:59+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
