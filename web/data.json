@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-20T11:42:50.886672+00:00",
+  "generated_at": "2026-09-20T14:53:04.134778+00:00",
   "articles": [
+    {
+      "id": "c151be38ea0bb6197fe1376047324854",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-09-20T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "998485f4ee1a6d4d660ff7c7ce0e0d40",
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [&#8230;]",
+      "published_at": "2026-09-20T12:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "09de8dfa1c135f56055475fc3754723b",
+      "title": "Runway wants to turn AI video generation into a live stream you control in real time",
+      "link": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/",
+      "summary": "",
+      "published_at": "2026-09-20T11:56:59+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "f7ef6951c21a2d1249fe9edb28272149",
       "title": "Daily AI usage in the U.S. has more than doubled in just six months",
@@ -222,17 +255,6 @@
       "body_preview": ""
     },
     {
-      "id": "b6fe92c065b1d951dcc8c6943152c44a",
-      "title": "Google's Gemini also accidentally hacked three real companies during security testing",
-      "link": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
-      "summary": "",
-      "published_at": "2026-09-19T09:31:03+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b8cec6f9e3a318b6a02544f0d88b0f0e",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
       "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
@@ -398,17 +420,6 @@
       "body_preview": ""
     },
     {
-      "id": "d2c222525469f45c0914ee62086ab8ab",
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "summary": "",
-      "published_at": "2026-09-18T16:35:49+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "88d9b4c264d28539fb5c9f809a4fa5b4",
       "title": "What Hollywood thinks about existential AI warnings",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
@@ -472,17 +483,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "70cdd9c3e3d53844e0ae5882b8edf425",
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [&#8230;]",
-      "published_at": "2026-09-18T11:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
