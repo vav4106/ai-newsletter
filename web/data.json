@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:21:27.436292+00:00",
+  "generated_at": "2026-09-20T06:30:10.668265+00:00",
   "articles": [
     {
       "id": "cc2212e72f719b4b29e81adf2438734f",
@@ -9,6 +9,17 @@
       "published_at": "2026-09-19T21:44:23+00:00",
       "source": "MarkTechPost",
       "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9557977a73c980efefc49bc8faae8b97",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
+      "published_at": "2026-09-19T20:44:40+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -626,17 +637,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "ff4936dd7ac3a382aa14b3ceb951f9ba",
-      "title": "The AI Superintelligence Slowdown",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
-      "published_at": "2026-09-17T19:28:24+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
