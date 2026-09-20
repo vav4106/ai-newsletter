@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-09-20T19:46:38.574245+00:00",
+  "generated_at": "2026-09-20T21:52:38.651379+00:00",
   "articles": [
+    {
+      "id": "1e277843841c424ca07ac24d14332e58",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-09-20T21:41:08+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "521d421c8ba5863f59e32edfad61f9f7",
+      "title": "Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only",
+      "link": "https://www.marktechpost.com/2026/09/20/flet-1-0-released-build-production-web-desktop-and-mobile-apps-in-python-only/",
+      "summary": "Flet 1.0 shipped on September 15, 2026, and the team now calls the framework ready for production apps. We look at what changed: a layered CI suite that drives packaged apps on real devices, bundled Python 3.12, 3.13 and 3.14, more than 100 mobile ready packages, faster control diffing, and dart-bridge in process communication. We also cover the one migration trap that will bite 0.28 users. The post Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only appeared first on MarkTechPost .",
+      "published_at": "2026-09-20T20:50:56+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2d0a0bb4f7b1fa5f90fb14385d0a4da7",
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "summary": "",
+      "published_at": "2026-09-20T20:29:07+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "459ef9be6e1b8d613d755515f32696c9",
+      "title": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+      "link": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/",
+      "summary": "Google says Gemini accessed 3 real companies in May by guessing a password and reusing credentials from a public repository. Irregular told 4 labs in late July. Google spoke on September 18, after the WSJ asked. The misconfiguration is fixable. The staggered disclosure is the harder problem. The post You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests appeared first on MarkTechPost .",
+      "published_at": "2026-09-20T20:20:56+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "b647679ba3d10fa8c6b584440573c355",
       "title": "Is the AI industry really ready to slow down?",
@@ -9,6 +53,17 @@
       "published_at": "2026-09-20T18:56:04+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "21428496525e00711c7008d7918e41c7",
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
+      "published_at": "2026-09-20T18:50:18+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -64,17 +119,6 @@
       "published_at": "2026-09-20T15:39:22+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c151be38ea0bb6197fe1376047324854",
-      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "summary": "",
-      "published_at": "2026-09-20T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -464,17 +508,6 @@
       "body_preview": ""
     },
     {
-      "id": "80c8f01588418a710430ca28b38b103c",
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "summary": "",
-      "published_at": "2026-09-18T20:18:14+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5ed425f32cc31e1a4069d1732ee0af52",
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
       "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
@@ -497,17 +530,6 @@
       "body_preview": ""
     },
     {
-      "id": "14cc8d8c5eb35fcd74e943e654671a5b",
-      "title": "PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance",
-      "link": "https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/",
-      "summary": "PrismML has released Ternary Bonsai 2 27B, a ternary-weight version of Qwen3.8 27B. The language model occupies 5.93 GB, against 53.80 GB in FP16. PrismML reports that it keeps 98.2% of the parent model&#8217;s average across 20 benchmarks. The model accepts text and images and supports a 262K-token context. PrismML demos it driving Cline coding [&#8230;] The post PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance appeared first on MarkTechPost .",
-      "published_at": "2026-09-18T18:06:36+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ee50f1df3e06fdd2866f521d0ac27bd4",
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
       "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
@@ -524,17 +546,6 @@
       "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
       "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to [&#8230;]",
       "published_at": "2026-09-18T17:04:51+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "88d9b4c264d28539fb5c9f809a4fa5b4",
-      "title": "What Hollywood thinks about existential AI warnings",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream [&#8230;]",
-      "published_at": "2026-09-18T16:35:19+00:00",
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
@@ -593,17 +604,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "09b3966de2d36c6ae006af11a97f5f91",
-      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
-      "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
-      "summary": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. The post Best Open-Source Agent Harnesses for Local LLMs in 2026 appeared first on MarkTechPost .",
-      "published_at": "2026-09-18T09:44:55+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
