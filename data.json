@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-20T17:46:24.591599+00:00",
+  "generated_at": "2026-09-20T19:46:38.574245+00:00",
   "articles": [
+    {
+      "id": "b647679ba3d10fa8c6b584440573c355",
+      "title": "Is the AI industry really ready to slow down?",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "summary": "",
+      "published_at": "2026-09-20T18:56:04+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c1b75d0be3c0c17f433f8a996930cdcd",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "summary": "",
+      "published_at": "2026-09-20T18:32:52+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f05d29cef1dd349894f1a918635af69f",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "summary": "",
+      "published_at": "2026-09-20T18:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "bd5ffe50385381279e67346caf4c0045",
       "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
@@ -20,6 +53,17 @@
       "published_at": "2026-09-20T15:41:30+00:00",
       "source": "The Decoder",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "36c8549199b026b539a492795d189d6f",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder [&#8230;]",
+      "published_at": "2026-09-20T15:39:22+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -475,39 +519,6 @@
       "body_preview": ""
     },
     {
-      "id": "84c60870e63be9c380d13cea8d1b5cd6",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "summary": "",
-      "published_at": "2026-09-18T17:33:50+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5009e6a84a8861aa1919296af09c0203",
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "summary": "",
-      "published_at": "2026-09-18T17:09:56+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a32fe672ed8c6d20d65c2fe4f49ed330",
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "summary": "",
-      "published_at": "2026-09-18T17:06:32+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "dd994c8a5c5c5fe9a7c2fff41f9f2516",
       "title": "Gavin Newsom is pushing for an AI kill switch",
       "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
@@ -524,17 +535,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
       "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream [&#8230;]",
       "published_at": "2026-09-18T16:35:19+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3735590315c40be1b03a39d26dd3a016",
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The [&#8230;]",
-      "published_at": "2026-09-18T15:30:16+00:00",
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
