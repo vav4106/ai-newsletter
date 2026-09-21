@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-09-21T07:05:18.188849+00:00",
+  "generated_at": "2026-09-21T13:57:17.986628+00:00",
   "articles": [
+    {
+      "id": "42d2a3f1995aee7aec28c5152c7cfda9",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "summary": "",
+      "published_at": "2026-09-21T13:44:34+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6f3eaff0568c966061597067d031fa1f",
+      "title": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit",
+      "link": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/",
+      "summary": "",
+      "published_at": "2026-09-21T13:43:33+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f4944247767e6d1f0ddd4cb2af3063f4",
+      "title": "Amazon blocks Meta's AI agent Muse from online shopping",
+      "link": "https://the-decoder.com/amazon-blocks-metas-ai-agent-muse-from-online-shopping/",
+      "summary": "",
+      "published_at": "2026-09-21T13:37:51+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5f1bbdbf2519c333652d47c7bc70cdd3",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technology Review&#160;and&#160;Times of San Diego. Journalists in both newsrooms spent the past&#8230;",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "a8aad07631787e07781e12b3fd78789e",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&#8230;",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "b40eebccf2827055662cd4e9ab16f4b7",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed&#8230;",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "bce971b4998022578066c6aeeca1c979",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&#160; This story is part of&#160;Dying&#8230;",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "53dd22e47e7912a003d8475c6cc46ae7",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
+      "published_at": "2026-09-21T10:18:06+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a8b7b805c7230adb1e9d23da19cbe8ed",
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+      "published_at": "2026-09-21T09:21:47+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "247dab3f7d0c23a565de6852b0555aff",
+      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/",
+      "summary": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem. Organisations cannot protect what they cannot see, and visibility has become the prerequisite for all other AI security controls. Traditional monitoring tools fail to track AI activity effectively, creating significant risks that require new strategies for security teams to regain control [&#8230;] The post How to Improve Visibility Across Your Enterprise AI Ecosystem appeared first on AI News .",
+      "published_at": "2026-09-21T07:50:48+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1adc54fce2eb713223ad4951b6dcee1b",
+      "title": "Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters",
+      "link": "https://www.marktechpost.com/2026/09/21/best-voice-cloning-apis-in-2026-speaker-similarity-consent-checks-and-price-per-1m-characters/",
+      "summary": "We cloned one 10-second voice on 7 platforms and ranked them on reference audio, consent, licensing, and cost. The post Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters appeared first on MarkTechPost .",
+      "published_at": "2026-09-21T07:26:18+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "36c9b451642249dbaaf3a3292cbd5426",
+      "title": "StepFun Launches Step 5 Preview: A 600B-Total, 27B-Active MoE Model With 1M Context for Long-Horizon Agentic Work",
+      "link": "https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview/",
+      "summary": "StepFun has released Step 5 Preview, a sparse Mixture-of-Experts model with 600B total parameters and 27B active per token. It supports a 1M-token context window and accepts text, image, and video input. The model targets long-horizon agentic work in software engineering, professional knowledge work, and finance. API access is live at $1.00 per 1M input tokens and $2.70 per 1M output tokens, and open weights are scheduled for October 15, 2026. The post StepFun Launches Step 5 Preview: A 600B-Total, 27B-Active MoE Model With 1M Context for Long-Horizon Agentic Work appeared first on MarkTechPost .",
+      "published_at": "2026-09-21T06:37:18+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "192a54146a03fdbfa8065ed60af209fb",
       "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
@@ -332,6 +464,17 @@
       "body_preview": ""
     },
     {
+      "id": "a344d730b7b31ad621a94f6903e4ad71",
+      "title": "How V7 gives AI agents institutional memory",
+      "link": "https://openai.com/index/v7",
+      "summary": "",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "1e277843841c424ca07ac24d14332e58",
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
@@ -339,6 +482,17 @@
       "published_at": "2026-09-20T21:41:08+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "521d421c8ba5863f59e32edfad61f9f7",
+      "title": "Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only",
+      "link": "https://www.marktechpost.com/2026/09/20/flet-1-0-released-build-production-web-desktop-and-mobile-apps-in-python-only/",
+      "summary": "Flet 1.0 shipped on September 15, 2026, and the team now calls the framework ready for production apps. We look at what changed: a layered CI suite that drives packaged apps on real devices, bundled Python 3.12, 3.13 and 3.14, more than 100 mobile ready packages, faster control diffing, and dart-bridge in process communication. We also cover the one migration trap that will bite 0.28 users. The post Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only appeared first on MarkTechPost .",
+      "published_at": "2026-09-20T20:50:56+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -354,6 +508,17 @@
       "body_preview": ""
     },
     {
+      "id": "459ef9be6e1b8d613d755515f32696c9",
+      "title": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+      "link": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/",
+      "summary": "Google says Gemini accessed 3 real companies in May by guessing a password and reusing credentials from a public repository. Irregular told 4 labs in late July. Google spoke on September 18, after the WSJ asked. The misconfiguration is fixable. The staggered disclosure is the harder problem. The post You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests appeared first on MarkTechPost .",
+      "published_at": "2026-09-20T20:20:56+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "b647679ba3d10fa8c6b584440573c355",
       "title": "Is the AI industry really ready to slow down?",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
@@ -365,8 +530,8 @@
       "body_preview": ""
     },
     {
-      "id": "77c5173e3dcac80b5df4182d6683cf33",
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
+      "id": "f9776397f2fd93d16d92bd27fa45d8cd",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
       "published_at": "2026-09-20T18:50:18+00:00",
@@ -497,6 +662,28 @@
       "body_preview": ""
     },
     {
+      "id": "53822230ac186c1c85312b97fe410e24",
+      "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
+      "link": "https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/",
+      "summary": "Qwen has released Qwen3.8-LiveTranslate, a real-time simultaneous interpretation model built on a new Interleave architecture. It cuts average lagging (LAAL) from 2.8 seconds to 2.3 seconds. It also adds real-time speaker diarization with stable voice cloning, synchronized bilingual display, and long-context disambiguation for names and terms. The model understands 60 languages, speaks 29, and is available now as a WebSocket API on Alibaba Cloud Model Studio and QwenCloud. The post Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages appeared first on MarkTechPost .",
+      "published_at": "2026-09-20T06:46:08+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cc2212e72f719b4b29e81adf2438734f",
+      "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
+      "link": "https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/",
+      "summary": "OpenClaw 2026.9.5 ships 4,179 pull requests from 502 contributing accounts. The headline change is Atomic Updates, which check the next version against a private copy of your setup while the current Gateway keeps running. The release also adds plugin hot reload, read-only conversation sharing, GPT Live in meetings and calls, shared browser pages, archiving, and guided specialist-agent setup. The post OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live appeared first on MarkTechPost .",
+      "published_at": "2026-09-19T21:44:23+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "9557977a73c980efefc49bc8faae8b97",
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
@@ -526,6 +713,17 @@
       "published_at": "2026-09-19T19:57:47+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "32e7feb1f268baaea0c9e8feb60ce58a",
+      "title": "TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text",
+      "link": "https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/",
+      "summary": "TypeSafe AI released Jev, a System One model that answers typed questions with probabilities instead of generating text. Input costs $0.042 per 1M tokens, and output tokens are free. We cover the API, the vendor benchmarks and their caveats, what developers are already building, and the documented limits. The post TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text appeared first on MarkTechPost .",
+      "published_at": "2026-09-19T18:41:33+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -607,28 +805,6 @@
       "body_preview": ""
     },
     {
-      "id": "09ad37b42d775b377ad1bbebb99d4f65",
-      "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
-      "link": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
-      "summary": "",
-      "published_at": "2026-09-19T13:31:46+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "003ba6fb26a96a5db1e587c91fd5b3fb",
-      "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
-      "link": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
-      "summary": "",
-      "published_at": "2026-09-19T13:28:55+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "046de78eecb6f51bfb3b94c43689d105",
       "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
@@ -647,6 +823,39 @@
       "published_at": "2026-09-19T13:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "49b811a969d31e080b29623302598144",
+      "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
+      "link": "https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/",
+      "summary": "Linkup Research has released SPARSEUP, an open-source sparse embedding model built on a 149M-parameter ModernBERT backbone. It scores 56.4 nDCG@10 on BEIR-13, which Linkup calls the best result it knows of for a public sparse encoder under 150M parameters. The model uses a logit shift, top-12 expansion per token and case folding to keep its vectors sparse. With the Seismic index, it reaches over 97% recall in about 380 microseconds per query, and it ships under Apache 2.0. The post Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model appeared first on MarkTechPost .",
+      "published_at": "2026-09-19T07:48:38+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dbdfaded4e6cd0fdeefc962c0da2707c",
+      "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
+      "link": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
+      "summary": "Meta has released Muse for Mac, the first version of Muse that can complete things on a user&#8217;s computer. The agent works with local files and native apps, where your data already lives. It adds a desktop layer to an agent that launched on phones, the web and WhatsApp earlier this month. Is it deployable? [&#8230;] The post Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes appeared first on MarkTechPost .",
+      "published_at": "2026-09-19T07:22:16+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "68019929872b332e4731be20876b69a2",
+      "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
+      "link": "https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/",
+      "summary": "GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains bits per weight, calibration, and hardware fit. Then it shows which format to pick for Macs, consumer GPUs, and production serving. The post GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026) appeared first on MarkTechPost .",
+      "published_at": "2026-09-19T04:04:06+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -739,17 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "c0bbc5132c495aa22adfc7a0d2d0b3f5",
-      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements [&#8230;]",
-      "published_at": "2026-09-18T18:29:17+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ee50f1df3e06fdd2866f521d0ac27bd4",
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
       "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
@@ -757,17 +955,6 @@
       "published_at": "2026-09-18T17:59:53+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "dd994c8a5c5c5fe9a7c2fff41f9f2516",
-      "title": "Gavin Newsom is pushing for an AI kill switch",
-      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to [&#8230;]",
-      "published_at": "2026-09-18T17:04:51+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -794,6 +981,17 @@
       "body_preview": ""
     },
     {
+      "id": "4999c61578953997903519d15227c09a",
+      "title": "Gartner outlines four AI tiers in warehouse automation",
+      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
+      "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments. In an analysis released this month, the research firm concludes that logistics infrastructure has reached a clear adoption threshold. Three pressures are driving this change across the sector. Persistent worker deficits make automated [&#8230;] The post Gartner outlines four AI tiers in warehouse automation appeared first on AI News .",
+      "published_at": "2026-09-18T12:49:34+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "249a92749633228a4984bed6d660c0d1",
       "title": "Introducing the Australian Youth Safety Blueprint",
       "link": "https://openai.com/index/australian-youth-safety-blueprint",
@@ -813,6 +1011,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "4de194d0f24fec4d5c9854920f2a724e",
+      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+      "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+      "summary": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra’s multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model. BOSTON, September 18, 2026 — Fulcra Dynamics, the company behind the best user-owned context backend for AI agents, [&#8230;] The post Fulcra Brings Universal Multiplayer to Any Agents You Choose appeared first on AI News .",
+      "published_at": "2026-09-18T09:15:15+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -846,6 +1055,28 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "d070ef42a27e97615b9376dedf6aa0ac",
+      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+      "summary": "The Adecco Group is rolling out Salesforce&#8217;s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group&#160;announced&#160;on September 15. The group said the rollout brings agentic AI into the daily workflows of 27,000 employees. Agentforce Coworker is Salesforce&#8217;s AI assistant for enterprise staff. According to the Adecco [&#8230;] The post Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries appeared first on AI News .",
+      "published_at": "2026-09-17T11:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0c898cf6efffed074cec410ae304dfa7",
+      "title": "Lidl deploys driverless truck for store deliveries in Germany",
+      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution centre and a nearby store. The truck, supplied by Swedish freight technology company Einride, operates at SAE Level 4 under a permit from Germany’s Federal Motor Transport Authority, or KBA. [&#8230;] The post Lidl deploys driverless truck for store deliveries in Germany appeared first on AI News .",
+      "published_at": "2026-09-17T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -893,6 +1124,17 @@
       "body_preview": ""
     },
     {
+      "id": "a215dba81b72cde8f4d3dd96546af242",
+      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "summary": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic&#8217;s January 2026 constitution, a primary training document designed to govern the model&#8217;s values and behaviour. He argued that coaching sequence completion engines to emulate sentience impairs [&#8230;] The post Microsoft AI CEO criticises Anthropic over model ‘rights’ appeared first on AI News .",
+      "published_at": "2026-09-16T14:47:32+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "3495078da7df2f2e74abbd85d60d39dc",
       "title": "Reimagining advertising with AI",
       "link": "https://openai.com/index/reimagining-advertising-with-ai",
@@ -934,6 +1176,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "3a2bbd88e30b4063eff20c84c49a8efc",
+      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following TypeSafe AI&#8217;s release of Jev, a specialised System One Model designed to execute structured probabilistic decisions directly inside production [&#8230;] The post ChatGPT pioneer launches Jev model for programmatic logic appeared first on AI News .",
+      "published_at": "2026-09-16T10:31:09+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1025,6 +1278,17 @@
       "body_preview": ""
     },
     {
+      "id": "b2d8b942ac430a88d4b17d59a9ff08c7",
+      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+      "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+      "summary": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) iteration of Pony.ai’s Robotruck platform. It builds on GAC Commercial Vehicle’s T9 battery-electric truck architecture, with mass production set to start [&#8230;] The post Pony.ai unveils autonomous electric truck for logistics fleets appeared first on AI News .",
+      "published_at": "2026-09-15T11:15:57+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "29be35792537eb852476d93d07874b66",
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
@@ -1033,6 +1297,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "0db04f555d553417487e8176b2154d4a",
+      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&#38;J Solicitors For years, the offer that brought skilled engineers to Britain was straightforward: work here [&#8230;] The post The AI Talent Britain Fought to Hire May Be Recalculating Its Future appeared first on AI News .",
+      "published_at": "2026-09-15T07:14:47+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1080,6 +1355,17 @@
       "body_preview": ""
     },
     {
+      "id": "338e85074a288b5b11d5764b19781b32",
+      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+      "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operational boundaries, and oversight protocols across MAI frontier models. It builds on the division&#8217;s humanist superintelligence framework announced last November, establishing [&#8230;] The post Microsoft AI opens review on Humanist AI Code of Conduct appeared first on AI News .",
+      "published_at": "2026-09-14T15:30:41+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "bc04f87a392b0b4e026b5325e88f9efe",
       "title": "How Fyxer built an AI executive assistant people trust",
       "link": "https://openai.com/index/fyxer",
@@ -1088,6 +1374,28 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "d16df450251ca28cdd1533818e57d3f2",
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal; deployment is rare. The difference is not model [&#8230;] The post Why Most Enterprise Agent Pilots Never Reach Deployment appeared first on AI News .",
+      "published_at": "2026-09-14T08:04:35+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8f3c503fa0526888dd27da196f23ac94",
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to transcribe, faces [&#8230;] The post From Video to Data: How AI Is Transforming Multimedia Content Processing appeared first on AI News .",
+      "published_at": "2026-09-14T07:56:45+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1157,17 +1465,6 @@
       "body_preview": ""
     },
     {
-      "id": "3ac9a70047aa289daa3a2f6eee05579f",
-      "title": "Powering AI is an architecture problem",
-      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;",
-      "published_at": "2026-09-10T11:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "7b781a09884e05b70e10e0996ec45368",
       "title": "Introducing ChatGPT for Financial Services",
       "link": "https://openai.com/index/introducing-chatgpt-financial-services",
@@ -1190,9 +1487,9 @@
       "body_preview": ""
     },
     {
-      "id": "faf6018fd73f51f55a769a61654187e7",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
       "summary": "",
       "published_at": "2026-09-10T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1201,9 +1498,9 @@
       "body_preview": ""
     },
     {
-      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
+      "id": "faf6018fd73f51f55a769a61654187e7",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "summary": "",
       "published_at": "2026-09-10T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1289,17 +1586,6 @@
       "body_preview": ""
     },
     {
-      "id": "689671e29225d373325e7b8f9e5d0b66",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;",
-      "published_at": "2026-09-09T03:10:08+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "7b0d37cd82cab591d78877a6e304db7b",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "link": "https://openai.com/index/codex-quantum-computing-experiments",
@@ -1308,17 +1594,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "ac71950b60be3a0c17550b7106504062",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "summary": "",
-      "published_at": "2026-09-08T14:23:07+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1355,17 +1630,6 @@
       "body_preview": ""
     },
     {
-      "id": "4bb7beeaef8b93809ed456de629243d3",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture. But what it lacks in decor,&#8230;",
-      "published_at": "2026-09-08T10:34:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "849d74b4694876fe92bb6f43b891ef88",
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "link": "https://openai.com/index/navier-stokes-solution",
@@ -1386,127 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": ""
-    },
-    {
-      "id": "7778b6d8ac189d3252811dcdd30b49a8",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "summary": "",
-      "published_at": "2026-09-08T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "a17f0339fd796c20a55eb72a55642be1",
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "link": "https://openai.com/index/1password",
-      "summary": "",
-      "published_at": "2026-09-08T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "29ab5877ede78d1b9a42b8e3d328dc29",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "summary": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers…",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, tele"
-    },
-    {
-      "id": "228fa74188a2876fc17643ca4e5d5478",
-      "title": "Improving our alignment and security efforts",
-      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
-      "published_at": "2026-08-31T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1211823dd270f9965db6e92329afb879",
-      "title": "Previewing the Model Hardware Standard",
-      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "summary": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging…",
-      "published_at": "2026-08-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging from routine drug discovery experiments to laser calibration on a quantum computer. The development of MHS began as a collaboration between Anthropic and HHMI Janelia Research Campus . It typically tak"
-    },
-    {
-      "id": "a29afbdafd152488bb4e0168fa909242",
-      "title": "Expanding our support for scientists",
-      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "summary": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science…",
-      "published_at": "2026-08-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science program , which provides free credits to researchers working on high-impact scientific projects. Starting today, we are announcing a significant expansion of these efforts. We are opening 10,000 seats for s"
-    },
-    {
-      "id": "9e2952193ebef9b24bbf3cbbf04c8f90",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "summary": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source…",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
-    },
-    {
-      "id": "ff0d3111b8b01ad536f3a23d5956f676",
-      "title": "How Claude’s text watermark works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether…",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
-    },
-    {
-      "id": "2ba306006c3971074f5aac01c35c81d7",
-      "title": "Improving Fable 5's biology safeguards",
-      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to…",
-      "published_at": "2026-08-07T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
-    },
-    {
-      "id": "ada3fac11f4f3f72f602c35090501a39",
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "link": "https://www.anthropic.com/news/tino-cuellar",
-      "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie…",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie Endowment for International Peace, a leading independent global policy research institution with scholars in 20 countries. Prior to his role at Carnegie, Tino was a Justice of the Supreme Court of Cal"
-    },
-    {
-      "id": "6c472be9947730dd861b28c5195a4d78",
-      "title": "Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
