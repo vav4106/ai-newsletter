@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T23:39:31.689497+00:00",
+  "generated_at": "2026-09-21T01:38:01.426062+00:00",
   "articles": [
     {
       "id": "1e277843841c424ca07ac24d14332e58",
@@ -1074,17 +1074,6 @@
       "link": "https://openai.com/index/1password",
       "summary": "",
       "published_at": "2026-09-08T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1e13629369e2cd8d86d77a9dce43e4f1",
-      "title": "Supporting independent journalism in Ukraine",
-      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "summary": "",
-      "published_at": "2026-09-07T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
