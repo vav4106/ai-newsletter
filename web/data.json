@@ -1,6 +1,160 @@
 {
-  "generated_at": "2026-09-21T13:57:17.986628+00:00",
+  "generated_at": "2026-09-21T18:59:51.209300+00:00",
   "articles": [
+    {
+      "id": "864c3feadebb33ff83bc02bb3caaa554",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "summary": "",
+      "published_at": "2026-09-21T17:55:18+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d17266fdd5fa424fc5762baed6c39e09",
+      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
+      "link": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
+      "summary": "",
+      "published_at": "2026-09-21T17:44:10+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1e5e0e68a0d224b4a41c9c659e5282fd",
+      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
+      "link": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
+      "summary": "",
+      "published_at": "2026-09-21T16:56:36+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8435f8d6511155759a1af02d779050ea",
+      "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
+      "link": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
+      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi-reference editing, and native RGBA transparency in one checkpoint. A prefix KV cache speeds up edits with up to 10 reference images. The weights are public, but commercial use requires a separate license from Qwen. The post Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing appeared first on MarkTechPost .",
+      "published_at": "2026-09-21T16:40:44+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f1a62a87fa3261a12b64288f1477c2f3",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "summary": "",
+      "published_at": "2026-09-21T16:38:51+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "258e1efe5f99e1b5b0c57f0ea9d7c7ba",
+      "title": "ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen",
+      "link": "https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/",
+      "summary": "",
+      "published_at": "2026-09-21T16:01:31+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "070ebe68086ae5a79bf5a2160b92961c",
+      "title": "Multi-agent AI systems are taking over supply chain execution",
+      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+      "summary": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendations, yet human planners still clear every action. Multi-agent systems replace that approval stage across targeted operational boundaries. Instead of waiting for weekly scheduling runs, independent software [&#8230;] The post Multi-agent AI systems are taking over supply chain execution appeared first on AI News .",
+      "published_at": "2026-09-21T15:32:54+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0b8b48550c12a57dac458431121b3258",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-09-21T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "76f67918b9af9dedaed486ce07882f71",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "summary": "",
+      "published_at": "2026-09-21T14:39:22+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "29f4ff5b72265525cffc708ea70f1f70",
+      "title": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake",
+      "link": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/",
+      "summary": "",
+      "published_at": "2026-09-21T14:35:11+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c9f5ec55e68e6ff45cc4b311569385ea",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-09-21T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "af2d369ccb4c948ed4dce66e89d2101e",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-09-21T14:15:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b5f4b6eec3e532eee9ade37dbcbd957c",
+      "title": "Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it",
+      "link": "https://the-decoder.com/bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it/",
+      "summary": "",
+      "published_at": "2026-09-21T14:06:28+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "775d91ef74844fd16b8077d2587e8cd4",
+      "title": "Can John Ternus find Apple’s next big thing?",
+      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
+      "published_at": "2026-09-21T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "42d2a3f1995aee7aec28c5152c7cfda9",
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
@@ -32,6 +186,28 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4daea6fa61052546986fc6304f3769f2",
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
+      "published_at": "2026-09-21T13:36:52+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "079c217c94aeb350aa98701f0f24d009",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "summary": "",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -90,8 +266,19 @@
       "body_preview": ""
     },
     {
-      "id": "a8b7b805c7230adb1e9d23da19cbe8ed",
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "id": "f5530371a24cba0893b744629c5f9da2",
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "summary": "",
+      "published_at": "2026-09-21T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "51d85463d7962a51b91e61695ad18bb7",
+      "title": "Amazon blocks Meta’s Muse AI agent",
       "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
       "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
       "published_at": "2026-09-21T09:21:47+00:00",
@@ -120,6 +307,17 @@
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f3439edbcd253b2261ed2bd4dfae57be",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "summary": "",
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -475,6 +673,17 @@
       "body_preview": ""
     },
     {
+      "id": "340071e9a5c87d2bab67c8802b3a88ee",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "link": "https://huggingface.co/blog/tokenizers-v1",
+      "summary": "",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "1e277843841c424ca07ac24d14332e58",
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
@@ -618,50 +827,6 @@
       "body_preview": ""
     },
     {
-      "id": "f7ef6951c21a2d1249fe9edb28272149",
-      "title": "Daily AI usage in the U.S. has more than doubled in just six months",
-      "link": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
-      "summary": "",
-      "published_at": "2026-09-20T10:03:29+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "fd3b8a3b2b2b44711c707c387e21b18a",
-      "title": "Simulated students that make realistic mistakes help AI tutors learn faster",
-      "link": "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/",
-      "summary": "",
-      "published_at": "2026-09-20T09:50:32+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ead7e10b2f39d2422ea0b742fac9dc3d",
-      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
-      "link": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/",
-      "summary": "",
-      "published_at": "2026-09-20T08:52:06+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "169e83d3a88c5cddde3155411a5da38a",
-      "title": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
-      "link": "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/",
-      "summary": "",
-      "published_at": "2026-09-20T08:35:25+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "53822230ac186c1c85312b97fe410e24",
       "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
       "link": "https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/",
@@ -772,19 +937,8 @@
       "body_preview": ""
     },
     {
-      "id": "5890db1c82a29c1058752bc2688c73ca",
-      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
-      "link": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
-      "summary": "",
-      "published_at": "2026-09-19T14:30:57+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5f9e30811f760f0b3d7b7bf42068c61d",
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "id": "f476c40c1c1d972e17d8abb9b4291c9a",
+      "title": "Prices go up in 7 days — get your Disrupt ticket now",
       "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
       "summary": "",
       "published_at": "2026-09-19T14:00:00+00:00",
@@ -816,17 +970,6 @@
       "body_preview": ""
     },
     {
-      "id": "6776d8f5d9a500a86e2d0a343e3df1bf",
-      "title": "The AI regulation smackdown isn’t over",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially [&#8230;]",
-      "published_at": "2026-09-19T13:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "49b811a969d31e080b29623302598144",
       "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
       "link": "https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/",
@@ -849,17 +992,6 @@
       "body_preview": ""
     },
     {
-      "id": "68019929872b332e4731be20876b69a2",
-      "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
-      "link": "https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/",
-      "summary": "GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains bits per weight, calibration, and hardware fit. Then it shows which format to pick for Macs, consumer GPUs, and production serving. The post GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026) appeared first on MarkTechPost .",
-      "published_at": "2026-09-19T04:04:06+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b8cec6f9e3a318b6a02544f0d88b0f0e",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
       "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
@@ -876,83 +1008,6 @@
       "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
       "summary": "",
       "published_at": "2026-09-19T00:12:07+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "fb422c542576baed8772ccc08977cdb5",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "summary": "",
-      "published_at": "2026-09-18T23:25:01+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "413fa772ed01b8903dda46ba39acdf71",
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "summary": "",
-      "published_at": "2026-09-18T23:13:31+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f270174610e13b6d7a8a73c91f7814e9",
-      "title": "AI hallucination nearly triggers US military operation",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "summary": "",
-      "published_at": "2026-09-18T23:12:32+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6a4938eb91fa793605aa5b524b773b72",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "summary": "",
-      "published_at": "2026-09-18T21:44:33+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9b7f17afccac029cc1a0816a152f2a33",
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [&#8230;]",
-      "published_at": "2026-09-18T21:07:24+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5ed425f32cc31e1a4069d1732ee0af52",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "summary": "",
-      "published_at": "2026-09-18T18:49:30+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ee50f1df3e06fdd2866f521d0ac27bd4",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "summary": "",
-      "published_at": "2026-09-18T17:59:53+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1388,17 +1443,6 @@
       "body_preview": ""
     },
     {
-      "id": "8f3c503fa0526888dd27da196f23ac94",
-      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
-      "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to transcribe, faces [&#8230;] The post From Video to Data: How AI Is Transforming Multimedia Content Processing appeared first on AI News .",
-      "published_at": "2026-09-14T07:56:45+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b4cc74695324448c83adc4798d38d556",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -1487,9 +1531,9 @@
       "body_preview": ""
     },
     {
-      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
+      "id": "faf6018fd73f51f55a769a61654187e7",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "summary": "",
       "published_at": "2026-09-10T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1498,9 +1542,9 @@
       "body_preview": ""
     },
     {
-      "id": "faf6018fd73f51f55a769a61654187e7",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
       "summary": "",
       "published_at": "2026-09-10T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1604,50 +1648,6 @@
       "published_at": "2026-09-08T14:00:15+00:00",
       "source": "Google DeepMind",
       "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d63e56783e22ac54db0f5cf460140413",
-      "title": "The Work Now Within Reach",
-      "link": "https://openai.com/index/the-work-now-within-reach",
-      "summary": "",
-      "published_at": "2026-09-08T13:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "832ae85bafeb93e1d76956290792a513",
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "summary": "",
-      "published_at": "2026-09-08T11:30:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "849d74b4694876fe92bb6f43b891ef88",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://openai.com/index/navier-stokes-solution",
-      "summary": "",
-      "published_at": "2026-09-08T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "516248281394cc8b811b81774d0fe423",
-      "title": "Funding grants for new research into AI and teen development",
-      "link": "https://openai.com/index/teen-development-research-grants",
-      "summary": "",
-      "published_at": "2026-09-08T09:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
       "importance": "high",
       "body_preview": ""
     }
