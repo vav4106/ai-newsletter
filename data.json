@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-09-22T18:46:55.331935+00:00",
+  "generated_at": "2026-09-22T21:40:57.069266+00:00",
   "articles": [
+    {
+      "id": "085d7fae6c7a09972b48e69a77faa7ec",
+      "title": "Better prompt caching for GPT-6",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "summary": "",
+      "published_at": "2026-09-22T21:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "1b4e98e239059e02bc5007b8bda81a94",
+      "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
+      "link": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+      "summary": "",
+      "published_at": "2026-09-22T20:06:51+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fb7d83e2d8e3ebd41aee8a623ca836d6",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "summary": "",
+      "published_at": "2026-09-22T20:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a9c2b0f4d1360b6a76d198b06739332a",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "summary": "",
+      "published_at": "2026-09-22T19:09:11+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "aae5bdc59ff1ec62a894e3775878741f",
+      "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+      "link": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
+      "summary": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the level of Claude Fable 5.1 on most work. It also costs 40% less to run than Opus 5 on typical workloads at default settings. On Anthropic&#8217;s own benchmarks, it leads in agentic coding, [&#8230;] The post Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5 appeared first on MarkTechPost .",
+      "published_at": "2026-09-22T18:59:35+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "323c03f3057cb0aab4fb02afa05fb598",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "summary": "",
+      "published_at": "2026-09-22T18:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
     {
       "id": "5a31fa6d726a58777a60bf62dbc76a3e",
       "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
@@ -816,33 +882,11 @@
       "body_preview": ""
     },
     {
-      "id": "29f4ff5b72265525cffc708ea70f1f70",
-      "title": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake",
-      "link": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/",
-      "summary": "",
-      "published_at": "2026-09-21T14:35:11+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c9f5ec55e68e6ff45cc4b311569385ea",
       "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
       "summary": "",
       "published_at": "2026-09-21T14:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "af2d369ccb4c948ed4dce66e89d2101e",
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "summary": "",
-      "published_at": "2026-09-21T14:15:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -882,9 +926,9 @@
       "body_preview": ""
     },
     {
-      "id": "438598559de8531a8d81241123ab25cc",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "id": "079c217c94aeb350aa98701f0f24d009",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "summary": "",
       "published_at": "2026-09-21T12:00:00+00:00",
       "source": "OpenAI News",
@@ -893,9 +937,9 @@
       "body_preview": ""
     },
     {
-      "id": "079c217c94aeb350aa98701f0f24d009",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "id": "438598559de8531a8d81241123ab25cc",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "summary": "",
       "published_at": "2026-09-21T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1047,17 +1091,6 @@
       "body_preview": ""
     },
     {
-      "id": "1e277843841c424ca07ac24d14332e58",
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "summary": "",
-      "published_at": "2026-09-20T21:41:08+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "521d421c8ba5863f59e32edfad61f9f7",
       "title": "Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only",
       "link": "https://www.marktechpost.com/2026/09/20/flet-1-0-released-build-production-web-desktop-and-mobile-apps-in-python-only/",
@@ -1096,17 +1129,6 @@
       "link": "https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/",
       "summary": "Qwen has released Qwen3.8-LiveTranslate, a real-time simultaneous interpretation model built on a new Interleave architecture. It cuts average lagging (LAAL) from 2.8 seconds to 2.3 seconds. It also adds real-time speaker diarization with stable voice cloning, synchronized bilingual display, and long-context disambiguation for names and terms. The model understands 60 languages, speaks 29, and is available now as a WebSocket API on Alibaba Cloud Model Studio and QwenCloud. The post Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages appeared first on MarkTechPost .",
       "published_at": "2026-09-20T06:46:08+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "cc2212e72f719b4b29e81adf2438734f",
-      "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
-      "link": "https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/",
-      "summary": "OpenClaw 2026.9.5 ships 4,179 pull requests from 502 contributing accounts. The headline change is Atomic Updates, which check the next version against a private copy of your setup while the current Gateway keeps running. The release also adds plugin hot reload, read-only conversation sharing, GPT Live in meetings and calls, shared browser pages, archiving, and guided specialist-agent setup. The post OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live appeared first on MarkTechPost .",
-      "published_at": "2026-09-19T21:44:23+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1586,9 +1608,9 @@
       "body_preview": ""
     },
     {
-      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
+      "id": "faf6018fd73f51f55a769a61654187e7",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "summary": "",
       "published_at": "2026-09-10T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1597,9 +1619,9 @@
       "body_preview": ""
     },
     {
-      "id": "faf6018fd73f51f55a769a61654187e7",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
       "summary": "",
       "published_at": "2026-09-10T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1627,28 +1649,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6207a0865af45b0dd18705fc13eee026",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "summary": "",
-      "published_at": "2026-09-09T17:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "783fe638830453d61a67c3d2074b50a8",
-      "title": "Get ready for the game with new football features in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
-      "published_at": "2026-09-09T16:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     }
   ],
