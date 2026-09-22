@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-22T05:51:20.569090+00:00",
+  "generated_at": "2026-09-22T10:27:44.104061+00:00",
   "articles": [
+    {
+      "id": "fa9d7e48aab3a3382eb496ec8af2d40f",
+      "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+      "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+      "summary": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was discussed with investors earlier in September, according to Reuters. Toyota has not said whether the full investment will proceed or [&#8230;] The post Toyota’s $6.4bn robotics estimate puts physical AI in focus appeared first on AI News .",
+      "published_at": "2026-09-22T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "514ad61e6577b7605ed5a4b8249d21c4",
+      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
+      "link": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/",
+      "summary": "",
+      "published_at": "2026-09-22T09:27:16+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "488fc4d0930218a5eac5a7149ed548ce",
       "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%",
@@ -351,6 +373,17 @@
       "source": "arXiv cs.AI",
       "category": "research",
       "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "935c85d16051d9a27d2491b5a7f43e70",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "link": "https://huggingface.co/blog/omlx",
+      "summary": "",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -915,17 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "09de8dfa1c135f56055475fc3754723b",
-      "title": "Runway wants to turn AI video generation into a live stream you control in real time",
-      "link": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/",
-      "summary": "",
-      "published_at": "2026-09-20T11:56:59+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "53822230ac186c1c85312b97fe410e24",
       "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
       "link": "https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/",
@@ -1443,17 +1465,6 @@
       "body_preview": ""
     },
     {
-      "id": "d16df450251ca28cdd1533818e57d3f2",
-      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal; deployment is rare. The difference is not model [&#8230;] The post Why Most Enterprise Agent Pilots Never Reach Deployment appeared first on AI News .",
-      "published_at": "2026-09-14T08:04:35+00:00",
-      "source": "AI News",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b4cc74695324448c83adc4798d38d556",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -1635,17 +1646,6 @@
       "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "summary": "",
       "published_at": "2026-09-09T11:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "7b0d37cd82cab591d78877a6e304db7b",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments",
-      "summary": "",
-      "published_at": "2026-09-08T17:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
