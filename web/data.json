@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-23T20:43:04.865921+00:00",
+  "generated_at": "2026-09-23T23:10:52.038457+00:00",
   "articles": [
+    {
+      "id": "b770c4553eee4c85e15bab8a938d68bd",
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&#8217;ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users [&#8230;]",
+      "published_at": "2026-09-23T22:45:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f522dee3d79f4eaa7b6226a847958a5b",
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent [&#8230;]",
+      "published_at": "2026-09-23T22:30:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b227641f81405fd584d2c0787a553cbf",
+      "title": "Anthropic says its biology lab has already found something big",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "",
+      "published_at": "2026-09-23T22:17:39+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "22eea2c91f0ec6d5eeb9d6911953ded3",
       "title": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design",
@@ -244,9 +277,9 @@
       "body_preview": ""
     },
     {
-      "id": "7a60a3862c38f63b4fe0e9f989d03cc5",
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "id": "9e2830e3a1b721ad8a7b0d09e1cf5b3a",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
       "summary": "",
       "published_at": "2026-09-23T14:30:00+00:00",
       "source": "TechCrunch AI",
@@ -255,9 +288,9 @@
       "body_preview": ""
     },
     {
-      "id": "9e2830e3a1b721ad8a7b0d09e1cf5b3a",
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "id": "7a60a3862c38f63b4fe0e9f989d03cc5",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
       "summary": "",
       "published_at": "2026-09-23T14:30:00+00:00",
       "source": "TechCrunch AI",
@@ -340,6 +373,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "113bd7078be54f4224b0a91245f83ed6",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -827,6 +871,17 @@
       "body_preview": ""
     },
     {
+      "id": "1b940b4ae9328778c2fe17ca7b771d3e",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "link": "https://openai.com/index/airbnb-gpt-6-astra",
+      "summary": "",
+      "published_at": "2026-09-23T01:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "aac1c5b2bd3485be35792e558e59b09c",
       "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
       "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
@@ -970,17 +1025,6 @@
       "body_preview": ""
     },
     {
-      "id": "b49737b8615cae29d0ef1d5ab71a0b6d",
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. [&#8230;]",
-      "published_at": "2026-09-22T16:34:08+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5c4920a983afe002b2afde57fb03e017",
       "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
       "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
@@ -988,17 +1032,6 @@
       "published_at": "2026-09-22T16:30:07+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "28658bca313cff31a189518dfe38432b",
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [&#8230;]",
-      "published_at": "2026-09-22T16:30:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1019,17 +1052,6 @@
       "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
       "summary": "",
       "published_at": "2026-09-22T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1c18aa20f9e56f3d83008594df23436b",
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "summary": "",
-      "published_at": "2026-09-22T14:30:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1624,28 +1646,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
       "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
       "published_at": "2026-09-15T13:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "e3a3119cbb1e2766906ce1d2632e8844",
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "published_at": "2026-09-14T19:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f625d6550fcf1baead2ec0a2faeadc59",
-      "title": "DevFest is back",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon",
-      "published_at": "2026-09-14T16:00:00+00:00",
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
