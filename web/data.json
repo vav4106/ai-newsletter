@@ -1,6 +1,226 @@
 {
-  "generated_at": "2026-09-23T13:01:37.681965+00:00",
+  "generated_at": "2026-09-23T17:49:43.746835+00:00",
   "articles": [
+    {
+      "id": "668951742746f621b259e268d22ab925",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
+      "summary": "",
+      "published_at": "2026-09-24T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "82c6acb18f55410a3c8212b4bda11af1",
+      "title": "Google's new Flash TTS models let you design AI voices from scratch using text descriptions",
+      "link": "https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/",
+      "summary": "",
+      "published_at": "2026-09-23T17:39:10+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "80041a854b2b053145b0462e0d2ec3c5",
+      "title": "Even Americans who use AI every day are worried about it",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "summary": "",
+      "published_at": "2026-09-23T16:49:58+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "44467b13c7341182237c86420d6165b9",
+      "title": "YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing",
+      "link": "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/",
+      "summary": "",
+      "published_at": "2026-09-23T16:37:43+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "04c41a9ca067a994c8544b88d4323faf",
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years [&#8230;]",
+      "published_at": "2026-09-23T16:23:05+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8705e2580f75bf00050101709496c70a",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "",
+      "published_at": "2026-09-23T16:00:57+00:00",
+      "source": "Google DeepMind",
+      "category": "research",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "a36b7a24afd7894845e6664ca497c7aa",
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "summary": "",
+      "published_at": "2026-09-23T16:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "95a0243e862dc3afe9b339d0ca9ed654",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "published_at": "2026-09-23T15:25:14+00:00",
+      "source": "Google DeepMind",
+      "category": "research",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "3d63f028e267f10efee856e2ed16fa60",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "summary": "",
+      "published_at": "2026-09-23T15:19:30+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "828d847ba6e55796e71983f6b8d905cd",
+      "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter",
+      "link": "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
+      "summary": "",
+      "published_at": "2026-09-23T15:14:34+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dff7ef338cfc40d5a443d33fd36ebb9b",
+      "title": "Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing",
+      "link": "https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/",
+      "summary": "",
+      "published_at": "2026-09-23T14:44:22+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "739465c79bd2bee2b142658947c52ea6",
+      "title": "Meta's AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw",
+      "link": "https://the-decoder.com/metas-ai-agent-muse-draws-500000-users-in-a-week-along-with-claims-it-copied-openclaw/",
+      "summary": "",
+      "published_at": "2026-09-23T14:42:38+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8f311dc5165e75c129323a6fa0aba27d",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "summary": "",
+      "published_at": "2026-09-23T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9e2830e3a1b721ad8a7b0d09e1cf5b3a",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "summary": "",
+      "published_at": "2026-09-23T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7a60a3862c38f63b4fe0e9f989d03cc5",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "summary": "",
+      "published_at": "2026-09-23T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8e1743ac49f0c3f15e21efded7b17675",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Made on YouTube [&#8230;]",
+      "published_at": "2026-09-23T14:30:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "91bc8797370c776fa409d7dc5a629477",
+      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-09-23T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "57f54cffb09354397bc9e93aa78874ca",
+      "title": "Inside Basecamp Research, the AI startup turning evolution into training data",
+      "link": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/",
+      "summary": "",
+      "published_at": "2026-09-23T13:52:23+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2c15474c3c0185d6c9d88ff3485ee29a",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "summary": "",
+      "published_at": "2026-09-23T13:17:01+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d8a8b8746de10c489e444043eee2255a",
+      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+      "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+      "summary": "Deploying randomised AI logistics offers military planners a viable defence against adversarial tracking, allowing U.S. Transportation Command (TRANSCOM) to insulate global distribution networks against contested disruption.&#160; Commercial freight software historically prioritises static scheduling, steady delivery windows, and just-in-time routing to eliminate transit waste. In an operational theatre, however, those fixed cadences expose military transports to [&#8230;] The post U.S. TRANSCOM deploys randomised AI to secure military logistics appeared first on AI News .",
+      "published_at": "2026-09-23T13:13:15+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "0c97ea828652bcc95b0c072ef9af6f74",
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
@@ -10,6 +230,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "baa57cedea374dddba25a73b3ddc37ea",
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "summary": "",
+      "published_at": "2026-09-23T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -38,7 +269,7 @@
       "id": "1fa694761e1cc3a30f6c7044ba18bfe4",
       "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
       "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with [&#8230;]",
+      "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with [&#8230;]",
       "published_at": "2026-09-23T11:02:39+00:00",
       "source": "The Verge AI",
       "category": "consumer",
@@ -57,6 +288,50 @@
       "body_preview": ""
     },
     {
+      "id": "4d99cb4a49f2514bd4a43d30eca6959f",
+      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads: that is the scale of FakeGit, a malware campaign documented by Island in July 2026. Over 800 repositories impersonated AI skills and MCP servers, distributing SmartLoader and [&#8230;] The post AI Agents Are Becoming a New Malware Distribution Channel appeared first on AI News .",
+      "published_at": "2026-09-23T07:44:17+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "56df4776d262e84fe7107600cd401f4b",
+      "title": "Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Open LLM Into a Calibrated Decision Model",
+      "link": "https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/",
+      "summary": "Nokia&#8217;s applied research team has open-sourced AnyJev, a Python library that turns an open LLM into a decision model. It needs no training. It targets a common production job: picking one answer from a fixed set instead of writing a sentence. Is it deployable? Yes, it installs from PyPI, ships under Apache-2.0, and has transformers [&#8230;] The post Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Open LLM Into a Calibrated Decision Model appeared first on MarkTechPost .",
+      "published_at": "2026-09-23T07:09:38+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e971bbf15b9ba3cd2dabb313a38fe590",
+      "title": "Kyutai Releases Voice of Reason: A Speech-Native Model that Solves Spoken Math with Reinforcement Learning",
+      "link": "https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/",
+      "summary": "Kyutai has released Voice of Reason, 2 open-weight speech-to-speech models built on GLM-4-Voice-9B. Supervised fine-tuning and reinforcement learning lift spoken GSM8K accuracy from 27.3% to 77.1%. There is no transcription step and no text LLM in the loop. Both checkpoints are on Hugging Face and run on a single H100. The post Kyutai Releases Voice of Reason: A Speech-Native Model that Solves Spoken Math with Reinforcement Learning appeared first on MarkTechPost .",
+      "published_at": "2026-09-23T06:33:18+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "79afe2aa8673ac9635bb77da9a2e48be",
+      "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks",
+      "link": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks/",
+      "summary": "OpenAI has released GPT-6 Sol and GPT-6 Luna, 2 lower-cost models trained with methods similar to GPT-6 Astra. Sol costs $2/$10 and Luna $0.10/$0.50 per 1M tokens. Both are available now in the API, ChatGPT Work and Codex. They come with improved prompt caching for long-running agents. The post OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks appeared first on MarkTechPost .",
+      "published_at": "2026-09-23T05:18:36+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "a3756e02d529b2d504bed92253a07268",
       "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
       "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
@@ -64,6 +339,17 @@
       "published_at": "2026-09-23T04:59:08+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4e2b9e32288f00388c9b8bac237da144",
+      "title": "SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone",
+      "link": "https://www.marktechpost.com/2026/09/22/speakon-ships-a-magsafe-ai-voice-button/",
+      "summary": "Voice input on phones has been solved for years. What has not been solved is the output. Speak into most dictation tools and you get back exactly what you said, fillers and false starts included, in a note you then have to clean up and move somewhere else. SpeakON attacks that gap with hardware: a [&#8230;] The post SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone appeared first on MarkTechPost .",
+      "published_at": "2026-09-23T04:50:40+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -497,6 +783,17 @@
       "body_preview": ""
     },
     {
+      "id": "aae5bdc59ff1ec62a894e3775878741f",
+      "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+      "link": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
+      "summary": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the level of Claude Fable 5.1 on most work. It also costs 40% less to run than Opus 5 on typical workloads at default settings. On Anthropic&#8217;s own benchmarks, it leads in agentic coding, [&#8230;] The post Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5 appeared first on MarkTechPost .",
+      "published_at": "2026-09-22T18:59:35+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "323c03f3057cb0aab4fb02afa05fb598",
       "title": "Introducing GPT-6 Sol and Luna",
       "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
@@ -574,17 +871,6 @@
       "body_preview": ""
     },
     {
-      "id": "ba592999fc83785d83e498436f5c64ef",
-      "title": "OpenAI calls for international standards on AI that could improve itself",
-      "link": "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/",
-      "summary": "",
-      "published_at": "2026-09-22T15:29:51+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "86b33958c1e7fe4d8417ddbc454c00d3",
       "title": "AstroForge is putting AI in command of its next spacecraft",
       "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
@@ -640,17 +926,6 @@
       "body_preview": ""
     },
     {
-      "id": "94726517e3ab182112c1e58a6f8f7306",
-      "title": "A tiny software layer from lab-grown neurons promises faster, cheaper AI video",
-      "link": "https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/",
-      "summary": "",
-      "published_at": "2026-09-22T13:58:20+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f1e83c212b565f09c443f91b177dedb9",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
@@ -659,28 +934,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "fa62ecafcfb6dd2be1fd53476b59fac4",
-      "title": "Everyone can find a reason to dislike data center construction",
-      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "summary": "",
-      "published_at": "2026-09-22T13:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a3ab6b9bd49af8e213dfefe8f09ff094",
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "summary": "",
-      "published_at": "2026-09-22T12:23:05+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -706,23 +959,12 @@
       "body_preview": ""
     },
     {
-      "id": "8c4c7c92166b20a9cab024fa79dbed9f",
-      "title": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
-      "link": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/",
-      "summary": "",
-      "published_at": "2026-09-22T11:42:11+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e26d9553a1323e3cbb8522bd83440edd",
-      "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-      "link": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/",
-      "summary": "",
-      "published_at": "2026-09-22T11:17:59+00:00",
-      "source": "The Decoder",
+      "id": "684855b286ec5e006de657a402c35685",
+      "title": "AutoScheduler launches warehouse app builder for logistics teams",
+      "link": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+      "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company&#8217;s wider Warehouse AI Platform, serving distribution centres that balance inventory, machinery, and labour. Distribution centres routinely depend on rigid enterprise resource planning and warehouse management suites. When [&#8230;] The post AutoScheduler launches warehouse app builder for logistics teams appeared first on AI News .",
+      "published_at": "2026-09-22T11:34:39+00:00",
+      "source": "AI News",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -739,13 +981,35 @@
       "body_preview": ""
     },
     {
-      "id": "514ad61e6577b7605ed5a4b8249d21c4",
-      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
-      "link": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/",
-      "summary": "",
-      "published_at": "2026-09-22T09:27:16+00:00",
-      "source": "The Decoder",
+      "id": "fa9d7e48aab3a3382eb496ec8af2d40f",
+      "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+      "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+      "summary": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was discussed with investors earlier in September, according to Reuters. Toyota has not said whether the full investment will proceed or [&#8230;] The post Toyota’s $6.4bn robotics estimate puts physical AI in focus appeared first on AI News .",
+      "published_at": "2026-09-22T10:00:00+00:00",
+      "source": "AI News",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "488fc4d0930218a5eac5a7149ed548ce",
+      "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%",
+      "link": "https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/",
+      "summary": "NVIDIA researchers have released SoL-Pi, 4 harness mechanisms for the open-source Pi coding agent, discovered by an AI running auto-research loops across 535 environments. On EdgeBench, SoL-Pi cuts token traffic by 44.7% to 49.0% and API cost by roughly 33%, while keeping about 94% of Pi's score on GPT-5.6 Sol and Opus 5. The post NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49% appeared first on MarkTechPost .",
+      "published_at": "2026-09-22T05:04:43+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5cba8e65a943aa9e0094c24cc392af75",
+      "title": "SpaceXAI Releases Grok 4.7: A Larger Base Model at the Same $2/$6 Price as Grok 4.6",
+      "link": "https://www.marktechpost.com/2026/09/21/spacexai-releases-grok-4-7/",
+      "summary": "SpaceXAI has released Grok 4.7, its new flagship model for coding, agentic tasks, and knowledge work. Grok 4.7 is built on a larger base model and a longer reinforcement learning run. It still ships at the same price and speed as Grok 4.6. Is it deployable? Yes, as a hosted model. You can call grok-4.7 [&#8230;] The post SpaceXAI Releases Grok 4.7: A Larger Base Model at the Same $2/$6 Price as Grok 4.6 appeared first on MarkTechPost .",
+      "published_at": "2026-09-22T04:10:04+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -794,13 +1058,13 @@
       "body_preview": ""
     },
     {
-      "id": "d265891481acb144ee0fbfa265acd9d1",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "summary": "",
-      "published_at": "2026-09-21T23:44:28+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
+      "id": "7d424bf40b0c3f91544bc56f012843df",
+      "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy",
+      "link": "https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/",
+      "summary": "Many developers find that an agent idea works inside Claude Code or Codex, then struggles once they rebuild it with their own loop. The Strands Agents team at AWS is targeting that gap with Strands harness, a fully assembled, general-purpose agent harness. It runs locally or deploys to a cloud provider, ships for Python and [&#8230;] The post AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy appeared first on MarkTechPost .",
+      "published_at": "2026-09-21T21:42:14+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -816,68 +1080,24 @@
       "body_preview": ""
     },
     {
-      "id": "f324eaf428488fe549be1760b90c4521",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "summary": "",
-      "published_at": "2026-09-21T20:15:58+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
+      "id": "8435f8d6511155759a1af02d779050ea",
+      "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
+      "link": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
+      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi-reference editing, and native RGBA transparency in one checkpoint. A prefix KV cache speeds up edits with up to 10 reference images. The weights are public, but commercial use requires a separate license from Qwen. The post Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing appeared first on MarkTechPost .",
+      "published_at": "2026-09-21T16:40:44+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
     {
-      "id": "028b0712254dc5b0053f1e28d4734774",
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "summary": "",
-      "published_at": "2026-09-21T19:25:00+00:00",
-      "source": "TechCrunch AI",
+      "id": "070ebe68086ae5a79bf5a2160b92961c",
+      "title": "Multi-agent AI systems are taking over supply chain execution",
+      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+      "summary": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendations, yet human planners still clear every action. Multi-agent systems replace that approval stage across targeted operational boundaries. Instead of waiting for weekly scheduling runs, independent software [&#8230;] The post Multi-agent AI systems are taking over supply chain execution appeared first on AI News .",
+      "published_at": "2026-09-21T15:32:54+00:00",
+      "source": "AI News",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c31495294377f3ee356372abf4b5e41c",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "summary": "",
-      "published_at": "2026-09-21T19:19:21+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "864c3feadebb33ff83bc02bb3caaa554",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "summary": "",
-      "published_at": "2026-09-21T17:55:18+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d17266fdd5fa424fc5762baed6c39e09",
-      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
-      "link": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
-      "summary": "",
-      "published_at": "2026-09-21T17:44:10+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "775d91ef74844fd16b8077d2587e8cd4",
-      "title": "Can John Ternus find Apple’s next big thing?",
-      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
-      "published_at": "2026-09-21T14:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -893,20 +1113,9 @@
       "body_preview": ""
     },
     {
-      "id": "4daea6fa61052546986fc6304f3769f2",
-      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
-      "published_at": "2026-09-21T13:36:52+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "438598559de8531a8d81241123ab25cc",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "id": "079c217c94aeb350aa98701f0f24d009",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "summary": "",
       "published_at": "2026-09-21T12:00:00+00:00",
       "source": "OpenAI News",
@@ -915,9 +1124,9 @@
       "body_preview": ""
     },
     {
-      "id": "079c217c94aeb350aa98701f0f24d009",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "id": "438598559de8531a8d81241123ab25cc",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "summary": "",
       "published_at": "2026-09-21T12:00:00+00:00",
       "source": "OpenAI News",
@@ -981,6 +1190,28 @@
       "body_preview": ""
     },
     {
+      "id": "247dab3f7d0c23a565de6852b0555aff",
+      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/",
+      "summary": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem. Organisations cannot protect what they cannot see, and visibility has become the prerequisite for all other AI security controls. Traditional monitoring tools fail to track AI activity effectively, creating significant risks that require new strategies for security teams to regain control [&#8230;] The post How to Improve Visibility Across Your Enterprise AI Ecosystem appeared first on AI News .",
+      "published_at": "2026-09-21T07:50:48+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1adc54fce2eb713223ad4951b6dcee1b",
+      "title": "Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters",
+      "link": "https://www.marktechpost.com/2026/09/21/best-voice-cloning-apis-in-2026-speaker-similarity-consent-checks-and-price-per-1m-characters/",
+      "summary": "We cloned one 10-second voice on 7 platforms and ranked them on reference audio, consent, licensing, and cost. The post Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters appeared first on MarkTechPost .",
+      "published_at": "2026-09-21T07:26:18+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "f3439edbcd253b2261ed2bd4dfae57be",
       "title": "Expanding OpenAI Academy with new learning paths",
       "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
@@ -1036,6 +1267,17 @@
       "body_preview": ""
     },
     {
+      "id": "4999c61578953997903519d15227c09a",
+      "title": "Gartner outlines four AI tiers in warehouse automation",
+      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
+      "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments. In an analysis released this month, the research firm concludes that logistics infrastructure has reached a clear adoption threshold. Three pressures are driving this change across the sector. Persistent worker deficits make automated [&#8230;] The post Gartner outlines four AI tiers in warehouse automation appeared first on AI News .",
+      "published_at": "2026-09-18T12:49:34+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "249a92749633228a4984bed6d660c0d1",
       "title": "Introducing the Australian Youth Safety Blueprint",
       "link": "https://openai.com/index/australian-youth-safety-blueprint",
@@ -1055,6 +1297,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "4de194d0f24fec4d5c9854920f2a724e",
+      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+      "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+      "summary": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra’s multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model. BOSTON, September 18, 2026 — Fulcra Dynamics, the company behind the best user-owned context backend for AI agents, [&#8230;] The post Fulcra Brings Universal Multiplayer to Any Agents You Choose appeared first on AI News .",
+      "published_at": "2026-09-18T09:15:15+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1088,6 +1341,28 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "d070ef42a27e97615b9376dedf6aa0ac",
+      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+      "summary": "The Adecco Group is rolling out Salesforce&#8217;s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group&#160;announced&#160;on September 15. The group said the rollout brings agentic AI into the daily workflows of 27,000 employees. Agentforce Coworker is Salesforce&#8217;s AI assistant for enterprise staff. According to the Adecco [&#8230;] The post Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries appeared first on AI News .",
+      "published_at": "2026-09-17T11:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0c898cf6efffed074cec410ae304dfa7",
+      "title": "Lidl deploys driverless truck for store deliveries in Germany",
+      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution centre and a nearby store. The truck, supplied by Swedish freight technology company Einride, operates at SAE Level 4 under a permit from Germany’s Federal Motor Transport Authority, or KBA. [&#8230;] The post Lidl deploys driverless truck for store deliveries in Germany appeared first on AI News .",
+      "published_at": "2026-09-17T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1135,6 +1410,17 @@
       "body_preview": ""
     },
     {
+      "id": "a215dba81b72cde8f4d3dd96546af242",
+      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "summary": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic&#8217;s January 2026 constitution, a primary training document designed to govern the model&#8217;s values and behaviour. He argued that coaching sequence completion engines to emulate sentience impairs [&#8230;] The post Microsoft AI CEO criticises Anthropic over model ‘rights’ appeared first on AI News .",
+      "published_at": "2026-09-16T14:47:32+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "3495078da7df2f2e74abbd85d60d39dc",
       "title": "Reimagining advertising with AI",
       "link": "https://openai.com/index/reimagining-advertising-with-ai",
@@ -1176,6 +1462,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "3a2bbd88e30b4063eff20c84c49a8efc",
+      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following TypeSafe AI&#8217;s release of Jev, a specialised System One Model designed to execute structured probabilistic decisions directly inside production [&#8230;] The post ChatGPT pioneer launches Jev model for programmatic logic appeared first on AI News .",
+      "published_at": "2026-09-16T10:31:09+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1353,226 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": ""
-    },
-    {
-      "id": "22ac43e0cf1bd153cc77f6bae50bdb3a",
-      "title": "3 ways to prep for your next big race with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
-      "published_at": "2026-09-10T16:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "e43cbc63f69cad231290e9587403d040",
-      "title": "Now everyone can put data to work",
-      "link": "https://openai.com/index/put-data-to-work",
-      "summary": "",
-      "published_at": "2026-09-10T15:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "7b781a09884e05b70e10e0996ec45368",
-      "title": "Introducing ChatGPT for Financial Services",
-      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "summary": "",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "97ec3f3631fd6cdbe7f032962c32889d",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "link": "https://openai.com/index/expanding-ai-access-us-government",
-      "summary": "",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "b94ff7a188b0d3feb5fc2866ae43e1ac",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "faf6018fd73f51f55a769a61654187e7",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "9d501bb0becad5528cf87be725179658",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "summary": "",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b9c74c76ceaaae32572f1078a580c7ec",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "link": "https://huggingface.co/blog/gradio-workflow-1111",
-      "summary": "",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6207a0865af45b0dd18705fc13eee026",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "summary": "",
-      "published_at": "2026-09-09T17:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "783fe638830453d61a67c3d2074b50a8",
-      "title": "Get ready for the game with new football features in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
-      "published_at": "2026-09-09T16:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "059b26ad24577c4e27ad40656bc6f397",
-      "title": "Recreating a 70-year love story frame by frame",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-      "published_at": "2026-09-09T16:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "29ab5877ede78d1b9a42b8e3d328dc29",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "summary": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers…",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, tele"
-    },
-    {
-      "id": "228fa74188a2876fc17643ca4e5d5478",
-      "title": "Improving our alignment and security efforts",
-      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month. Announcements Aug 27, 2026 Previewing the Model Hardware Standard We’re opening a res",
-      "published_at": "2026-08-31T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "3e634266d23b9345743fdbcea85a23cd",
-      "title": "Previewing the Model Hardware",
-      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "summary": "Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-      "published_at": "2026-08-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging from routine drug discovery experiments to laser calibration on a quantum computer. The development of MHS began as a collaboration between Anthropic and HHMI Janelia Research Campus . It typically tak"
-    },
-    {
-      "id": "a29afbdafd152488bb4e0168fa909242",
-      "title": "Expanding our support for scientists",
-      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "summary": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science…",
-      "published_at": "2026-08-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science program , which provides free credits to researchers working on high-impact scientific projects. Starting today, we are announcing a significant expansion of these efforts. We are opening 10,000 seats for s"
-    },
-    {
-      "id": "9e2952193ebef9b24bbf3cbbf04c8f90",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "summary": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source…",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
-    },
-    {
-      "id": "ff0d3111b8b01ad536f3a23d5956f676",
-      "title": "How Claude’s text watermark works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether…",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
-    },
-    {
-      "id": "2ba306006c3971074f5aac01c35c81d7",
-      "title": "Improving Fable 5's biology safeguards",
-      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to…",
-      "published_at": "2026-08-07T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
-    },
-    {
-      "id": "ada3fac11f4f3f72f602c35090501a39",
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "link": "https://www.anthropic.com/news/tino-cuellar",
-      "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie…",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie Endowment for International Peace, a leading independent global policy research institution with scholars in 20 countries. Prior to his role at Carnegie, Tino was a Justice of the Supreme Court of Cal"
-    },
-    {
-      "id": "6c472be9947730dd861b28c5195a4d78",
-      "title": "Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
