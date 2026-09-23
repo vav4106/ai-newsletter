@@ -1,6 +1,391 @@
 {
-  "generated_at": "2026-09-23T02:06:26.278964+00:00",
+  "generated_at": "2026-09-23T07:41:28.940116+00:00",
   "articles": [
+    {
+      "id": "56df4776d262e84fe7107600cd401f4b",
+      "title": "Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Open LLM Into a Calibrated Decision Model",
+      "link": "https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/",
+      "summary": "Nokia&#8217;s applied research team has open-sourced AnyJev, a Python library that turns an open LLM into a decision model. It needs no training. It targets a common production job: picking one answer from a fixed set instead of writing a sentence. Is it deployable? Yes, it installs from PyPI, ships under Apache-2.0, and has transformers [&#8230;] The post Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Open LLM Into a Calibrated Decision Model appeared first on MarkTechPost .",
+      "published_at": "2026-09-23T07:09:38+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e971bbf15b9ba3cd2dabb313a38fe590",
+      "title": "Kyutai Releases Voice of Reason: A Speech-Native Model that Solves Spoken Math with Reinforcement Learning",
+      "link": "https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/",
+      "summary": "Kyutai has released Voice of Reason, 2 open-weight speech-to-speech models built on GLM-4-Voice-9B. Supervised fine-tuning and reinforcement learning lift spoken GSM8K accuracy from 27.3% to 77.1%. There is no transcription step and no text LLM in the loop. Both checkpoints are on Hugging Face and run on a single H100. The post Kyutai Releases Voice of Reason: A Speech-Native Model that Solves Spoken Math with Reinforcement Learning appeared first on MarkTechPost .",
+      "published_at": "2026-09-23T06:33:18+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "79afe2aa8673ac9635bb77da9a2e48be",
+      "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks",
+      "link": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks/",
+      "summary": "OpenAI has released GPT-6 Sol and GPT-6 Luna, 2 lower-cost models trained with methods similar to GPT-6 Astra. Sol costs $2/$10 and Luna $0.10/$0.50 per 1M tokens. Both are available now in the API, ChatGPT Work and Codex. They come with improved prompt caching for long-running agents. The post OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks appeared first on MarkTechPost .",
+      "published_at": "2026-09-23T05:18:36+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a3756e02d529b2d504bed92253a07268",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "summary": "",
+      "published_at": "2026-09-23T04:59:08+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4e2b9e32288f00388c9b8bac237da144",
+      "title": "SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone",
+      "link": "https://www.marktechpost.com/2026/09/22/speakon-ships-a-magsafe-ai-voice-button/",
+      "summary": "Voice input on phones has been solved for years. What has not been solved is the output. Speak into most dictation tools and you get back exactly what you said, fillers and false starts included, in a note you then have to clean up and move somewhere else. SpeakON attacks that gap with hardware: a [&#8230;] The post SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone appeared first on MarkTechPost .",
+      "published_at": "2026-09-23T04:50:40+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cc57e8dfc91bdfbab0b764e8962535a1",
+      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+      "link": "https://arxiv.org/abs/2609.25010",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "2e043446e9b64a7a22993b446f197e53",
+      "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
+      "link": "https://arxiv.org/abs/2609.25013",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "067103f3f3785d7cd9e83f43e7642e1e",
+      "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
+      "link": "https://arxiv.org/abs/2609.25036",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "da0f363663291de8baed8e2878a22b85",
+      "title": "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
+      "link": "https://arxiv.org/abs/2609.25088",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "6510f0ae88820de5dbe21e6e0acb0fee",
+      "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
+      "link": "https://arxiv.org/abs/2609.25165",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "7bc9c0b516dd794272072e0fc1fa0792",
+      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
+      "link": "https://arxiv.org/abs/2609.25187",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "215c940df5b1696334a2fbf1ef34a6c5",
+      "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+      "link": "https://arxiv.org/abs/2609.25199",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "9591e4e834da6c7cd92c750e9d8de844",
+      "title": "The AI Neuroscientist: An Interactive Agentic Interface for Neuroimaging Analysis",
+      "link": "https://arxiv.org/abs/2609.25254",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "34bc200bf13d6dd5f1edabc6f8ca38b3",
+      "title": "MedGate-Fusion: Integrating First-Encounter Semantic Narratives and Physiological Biomarkers for Prospective Stroke Risk Stratification",
+      "link": "https://arxiv.org/abs/2609.25272",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "1a3872e33f99d26c742c60b9a39c1821",
+      "title": "When LLM Agents Fail to Read the Room: ReAdapt for Relational Social Reasoning",
+      "link": "https://arxiv.org/abs/2609.25284",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "61e83d7048539b3dc506b2e222c2d987",
+      "title": "Attention as a Routing Graph: Live Circuit Extraction from a Single Forward Pass",
+      "link": "https://arxiv.org/abs/2609.25285",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "50273229f51ca31cbdb12aa72ba7d0af",
+      "title": "Learned Enterprise Data Comprehension: Compression and Routing for Data Agents",
+      "link": "https://arxiv.org/abs/2609.25286",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "4ac32ca2239138d73a28ec0252499fc4",
+      "title": "Making Agents More Consistent: Skills Should Form Habits for Repeat Tasks",
+      "link": "https://arxiv.org/abs/2609.25299",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "abcf5dcf952069c36d26c1ef8e73d96a",
+      "title": "Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing",
+      "link": "https://arxiv.org/abs/2609.25303",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "3684ca1ebd7260cddb5f4f8763b0d649",
+      "title": "Clarification Is Not Correction: LLMs Fail to Let Go",
+      "link": "https://arxiv.org/abs/2609.25337",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "0aaeb316af3383335bae50a9cdeb7d2b",
+      "title": "From Decorative to Load-Bearing: Task Difficulty Shapes the Causal Role of Chain-of-Thought",
+      "link": "https://arxiv.org/abs/2609.25366",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "fd01f912dfbe3317b38f85eae8df9654",
+      "title": "Robust Failure, Conservative Repair: Textual Knowledge Distillation from Cross-Model Failures",
+      "link": "https://arxiv.org/abs/2609.25400",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "c9b891bf66286c19318ebd0e8208fa80",
+      "title": "Efficient Iterative Retrieval with Heterogeneous Batching",
+      "link": "https://arxiv.org/abs/2609.25405",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "5fb0712744d5b0caf9a79d77aa761104",
+      "title": "From Offline Proxies to Online Decisions: A Layered Engagement Evaluation Framework for Conversational AI",
+      "link": "https://arxiv.org/abs/2609.25408",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "095238307fdb1a9e5ec75d84c49d67e4",
+      "title": "ZeroGate: Trust-Preserving Fast Paths for Governed AI Agent Runtimes",
+      "link": "https://arxiv.org/abs/2609.25443",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "a49351c69db05695fa8ebe4af35bb71c",
+      "title": "Rollout Efficiency in Reinforcement Learning for Reasoning Large Language Models: A Taxonomy and Future Directions",
+      "link": "https://arxiv.org/abs/2609.25463",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "6ec4753a3e62f939a05b3565d876f390",
+      "title": "Real-Time Hand Gesture Recognition for OpenXR Using Transformer-Based Machine Learning",
+      "link": "https://arxiv.org/abs/2609.25466",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "c1845b5e890baee138a04185a05068c9",
+      "title": "ShowTellArena: Evaluating Business Workflow Understanding from Demonstrations",
+      "link": "https://arxiv.org/abs/2609.25467",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "74a0fafb1e2dd77d7ea3d0ca684d6c07",
+      "title": "RAG-NAROK: Retrieval-Aware Knowledge Corpus Poisoning in RAG with Source-specific Refutation",
+      "link": "https://arxiv.org/abs/2609.25469",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "5a0dc5181c9444787f3af63469dd2c95",
+      "title": "Spectra: A Rules-Driven LLM Pipeline for Automated KYC Document Processing",
+      "link": "https://arxiv.org/abs/2609.25474",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "262860b70ae358164bdfc4001272fd21",
+      "title": "Queer inclusion in speech datasets: An audit and taxonomy of practical tensions",
+      "link": "https://arxiv.org/abs/2609.25491",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "3bdfd86b519c8d16e29be61d8febe2ac",
+      "title": "Towards participatory speech dataset curation: A queer case study and conceptual framework",
+      "link": "https://arxiv.org/abs/2609.25496",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "bfd8ea2158c03b9ae48906edf40cdafe",
+      "title": "SMTB: Fast Structure-Mapping with Tight Bounds",
+      "link": "https://arxiv.org/abs/2609.25508",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "7cd8c8f4eaea6f7e9afff6ba9ea57a3b",
+      "title": "Weakly Supervised Quantum Error Mitigation",
+      "link": "https://arxiv.org/abs/2609.25555",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "a61a6042caccea95b2e7c039050b0a29",
+      "title": "Recovering Agentic Sovereignty: Mitigating the Consensus Paradox via Contrastive Epistemic Decoding",
+      "link": "https://arxiv.org/abs/2609.25570",
+      "summary": "",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
     {
       "id": "aac1c5b2bd3485be35792e558e59b09c",
       "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
@@ -86,6 +471,17 @@
       "published_at": "2026-09-22T19:09:11+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "aae5bdc59ff1ec62a894e3775878741f",
+      "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+      "link": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
+      "summary": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the level of Claude Fable 5.1 on most work. It also costs 40% less to run than Opus 5 on typical workloads at default settings. On Anthropic&#8217;s own benchmarks, it leads in agentic coding, [&#8230;] The post Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5 appeared first on MarkTechPost .",
+      "published_at": "2026-09-22T18:59:35+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -310,6 +706,17 @@
       "body_preview": ""
     },
     {
+      "id": "684855b286ec5e006de657a402c35685",
+      "title": "AutoScheduler launches warehouse app builder for logistics teams",
+      "link": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+      "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company&#8217;s wider Warehouse AI Platform, serving distribution centres that balance inventory, machinery, and labour. Distribution centres routinely depend on rigid enterprise resource planning and warehouse management suites. When [&#8230;] The post AutoScheduler launches warehouse app builder for logistics teams appeared first on AI News .",
+      "published_at": "2026-09-22T11:34:39+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "e26d9553a1323e3cbb8522bd83440edd",
       "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
       "link": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/",
@@ -332,6 +739,17 @@
       "body_preview": ""
     },
     {
+      "id": "fa9d7e48aab3a3382eb496ec8af2d40f",
+      "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+      "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+      "summary": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was discussed with investors earlier in September, according to Reuters. Toyota has not said whether the full investment will proceed or [&#8230;] The post Toyota’s $6.4bn robotics estimate puts physical AI in focus appeared first on AI News .",
+      "published_at": "2026-09-22T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "514ad61e6577b7605ed5a4b8249d21c4",
       "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
       "link": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/",
@@ -343,333 +761,25 @@
       "body_preview": ""
     },
     {
-      "id": "192a54146a03fdbfa8065ed60af209fb",
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "link": "https://arxiv.org/abs/2609.20971",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
+      "id": "488fc4d0930218a5eac5a7149ed548ce",
+      "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%",
+      "link": "https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/",
+      "summary": "NVIDIA researchers have released SoL-Pi, 4 harness mechanisms for the open-source Pi coding agent, discovered by an AI running auto-research loops across 535 environments. On EdgeBench, SoL-Pi cuts token traffic by 44.7% to 49.0% and API cost by roughly 33%, while keeping about 94% of Pi's score on GPT-5.6 Sol and Opus 5. The post NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49% appeared first on MarkTechPost .",
+      "published_at": "2026-09-22T05:04:43+00:00",
+      "source": "MarkTechPost",
       "category": "research",
-      "importance": "low",
+      "importance": "medium",
       "body_preview": ""
     },
     {
-      "id": "23207f5b3061249457ab1280ada00b59",
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "link": "https://arxiv.org/abs/2609.20974",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
+      "id": "5cba8e65a943aa9e0094c24cc392af75",
+      "title": "SpaceXAI Releases Grok 4.7: A Larger Base Model at the Same $2/$6 Price as Grok 4.6",
+      "link": "https://www.marktechpost.com/2026/09/21/spacexai-releases-grok-4-7/",
+      "summary": "SpaceXAI has released Grok 4.7, its new flagship model for coding, agentic tasks, and knowledge work. Grok 4.7 is built on a larger base model and a longer reinforcement learning run. It still ships at the same price and speed as Grok 4.6. Is it deployable? Yes, as a hosted model. You can call grok-4.7 [&#8230;] The post SpaceXAI Releases Grok 4.7: A Larger Base Model at the Same $2/$6 Price as Grok 4.6 appeared first on MarkTechPost .",
+      "published_at": "2026-09-22T04:10:04+00:00",
+      "source": "MarkTechPost",
       "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "0a2bddb02f5b8dcf514af4f17ba7b93f",
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "link": "https://arxiv.org/abs/2609.20981",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "6ecaaa678e06c522110288237453d200",
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "link": "https://arxiv.org/abs/2609.21061",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "d96a46f7f3a3a449296d891c7d4fe9c8",
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "link": "https://arxiv.org/abs/2609.21096",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "9c25ae9f243741bc8143116afa1bd8a5",
-      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-      "link": "https://arxiv.org/abs/2609.21113",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "b8b8c4ad356303a3f14289974f20ceda",
-      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
-      "link": "https://arxiv.org/abs/2609.21139",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "960342c6154400332e3100cdb9efec93",
-      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-      "link": "https://arxiv.org/abs/2609.21149",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "44d542052140028d66bbe87b66aff65c",
-      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
-      "link": "https://arxiv.org/abs/2609.21157",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "bc76d4ecda222ee4445d108495e57d1c",
-      "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-      "link": "https://arxiv.org/abs/2609.21165",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "0d3efb6316d9252a8424aeae9814401a",
-      "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
-      "link": "https://arxiv.org/abs/2609.21181",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "af50a0f2bdaf478582f0efe4824d30b8",
-      "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
-      "link": "https://arxiv.org/abs/2609.21192",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "48861f6d8557dc79091f81ac22991195",
-      "title": "Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation",
-      "link": "https://arxiv.org/abs/2609.21208",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "e431afc8238239f761d9f99d07f66b16",
-      "title": "Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis",
-      "link": "https://arxiv.org/abs/2609.21214",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "7f0f96ed6c9ed557b9688273c0972602",
-      "title": "A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning",
-      "link": "https://arxiv.org/abs/2609.21221",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "0ba7467f66e6e1083201fb4c9d555fc0",
-      "title": "CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition",
-      "link": "https://arxiv.org/abs/2609.21259",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "e296c39eb5c57ac68d2891bfe7e58084",
-      "title": "PlaceReasoner-Beta: Reasoning-Driven Macro Placement and Benchmarking",
-      "link": "https://arxiv.org/abs/2609.21263",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "d497af3dc4c80debbf01b1ffa9a0d23d",
-      "title": "Efficient Benchmarking in Production: A Study of an Evolving LLM Agent",
-      "link": "https://arxiv.org/abs/2609.21267",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "1175868add0fa74a9517efa27fcba40b",
-      "title": "GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development",
-      "link": "https://arxiv.org/abs/2609.21293",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "2ecfd025b130e70adf4b56c22e18b163",
-      "title": "LEGIT: Credentialing Protocol for Trustworthy AI Agent Marketplaces",
-      "link": "https://arxiv.org/abs/2609.21325",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "b936efd5a39237f25a1e2d2e3454e750",
-      "title": "Offline Multimodal Large Language Models for Decision Support in Air Operations",
-      "link": "https://arxiv.org/abs/2609.21390",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "297e51cbec0943191eb5288352aea5fa",
-      "title": "DENSE: Distilling Agent Trajectories into Evidence-Grounded Shortcut Trees for Self-Refinement",
-      "link": "https://arxiv.org/abs/2609.21423",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "583f37ebd578efa022b1c359a7f75353",
-      "title": "GVPO++: Group Variance Policy Optimization for LLM Post-Training and On-Policy Distillation",
-      "link": "https://arxiv.org/abs/2609.21432",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "03249cceedbd8ba6c7e379c16de9cfa0",
-      "title": "Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving",
-      "link": "https://arxiv.org/abs/2609.21470",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "edda32c34ed22a580ac6ced6295417a7",
-      "title": "Driving on Registers, Reasoning on Risk: Risk-Aware Occupancy for Register-Based End-to-End Autonomous Driving",
-      "link": "https://arxiv.org/abs/2609.21486",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "ea8c1e17306423f882951733696a8f77",
-      "title": "LogicTrack: Auditing Reasoning Trajectories of Large Language Models with Formal Logic Solvers",
-      "link": "https://arxiv.org/abs/2609.21492",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "c520a68ecfd1680393e76c30d79ff581",
-      "title": "PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design",
-      "link": "https://arxiv.org/abs/2609.21493",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "789ebe04120b01bbacc601307438412c",
-      "title": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
-      "link": "https://arxiv.org/abs/2609.21509",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "0d63fa57116671b504584a0c71f7fa96",
-      "title": "Learning-to-Optimize as the Missing Architectural Layer of AI-Native Networks",
-      "link": "https://arxiv.org/abs/2609.21519",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "409a468851862ecd59e49bf14250af8a",
-      "title": "Dual-Interest Sequential Product Recommendation With Multi-Granular SSM",
-      "link": "https://arxiv.org/abs/2609.21548",
-      "summary": "",
-      "published_at": "2026-09-22T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -724,6 +834,17 @@
       "published_at": "2026-09-21T23:44:28+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7d424bf40b0c3f91544bc56f012843df",
+      "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy",
+      "link": "https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/",
+      "summary": "Many developers find that an agent idea works inside Claude Code or Codex, then struggles once they rebuild it with their own loop. The Strands Agents team at AWS is targeting that gap with Strands harness, a fully assembled, general-purpose agent harness. It runs locally or deploys to a cloud provider, ships for Python and [&#8230;] The post AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy appeared first on MarkTechPost .",
+      "published_at": "2026-09-21T21:42:14+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -805,6 +926,17 @@
       "body_preview": ""
     },
     {
+      "id": "8435f8d6511155759a1af02d779050ea",
+      "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
+      "link": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
+      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi-reference editing, and native RGBA transparency in one checkpoint. A prefix KV cache speeds up edits with up to 10 reference images. The weights are public, but commercial use requires a separate license from Qwen. The post Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing appeared first on MarkTechPost .",
+      "published_at": "2026-09-21T16:40:44+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "f1a62a87fa3261a12b64288f1477c2f3",
       "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
       "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
@@ -827,12 +959,12 @@
       "body_preview": ""
     },
     {
-      "id": "0b8b48550c12a57dac458431121b3258",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "summary": "",
-      "published_at": "2026-09-21T15:00:00+00:00",
-      "source": "TechCrunch AI",
+      "id": "070ebe68086ae5a79bf5a2160b92961c",
+      "title": "Multi-agent AI systems are taking over supply chain execution",
+      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+      "summary": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendations, yet human planners still clear every action. Multi-agent systems replace that approval stage across targeted operational boundaries. Instead of waiting for weekly scheduling runs, independent software [&#8230;] The post Multi-agent AI systems are taking over supply chain execution appeared first on AI News .",
+      "published_at": "2026-09-21T15:32:54+00:00",
+      "source": "AI News",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -959,6 +1091,28 @@
       "body_preview": ""
     },
     {
+      "id": "247dab3f7d0c23a565de6852b0555aff",
+      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/",
+      "summary": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem. Organisations cannot protect what they cannot see, and visibility has become the prerequisite for all other AI security controls. Traditional monitoring tools fail to track AI activity effectively, creating significant risks that require new strategies for security teams to regain control [&#8230;] The post How to Improve Visibility Across Your Enterprise AI Ecosystem appeared first on AI News .",
+      "published_at": "2026-09-21T07:50:48+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1adc54fce2eb713223ad4951b6dcee1b",
+      "title": "Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters",
+      "link": "https://www.marktechpost.com/2026/09/21/best-voice-cloning-apis-in-2026-speaker-similarity-consent-checks-and-price-per-1m-characters/",
+      "summary": "We cloned one 10-second voice on 7 platforms and ranked them on reference audio, consent, licensing, and cost. The post Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters appeared first on MarkTechPost .",
+      "published_at": "2026-09-21T07:26:18+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "f3439edbcd253b2261ed2bd4dfae57be",
       "title": "Expanding OpenAI Academy with new learning paths",
       "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
@@ -1014,6 +1168,17 @@
       "body_preview": ""
     },
     {
+      "id": "4999c61578953997903519d15227c09a",
+      "title": "Gartner outlines four AI tiers in warehouse automation",
+      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
+      "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments. In an analysis released this month, the research firm concludes that logistics infrastructure has reached a clear adoption threshold. Three pressures are driving this change across the sector. Persistent worker deficits make automated [&#8230;] The post Gartner outlines four AI tiers in warehouse automation appeared first on AI News .",
+      "published_at": "2026-09-18T12:49:34+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "249a92749633228a4984bed6d660c0d1",
       "title": "Introducing the Australian Youth Safety Blueprint",
       "link": "https://openai.com/index/australian-youth-safety-blueprint",
@@ -1033,6 +1198,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "4de194d0f24fec4d5c9854920f2a724e",
+      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+      "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+      "summary": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra’s multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model. BOSTON, September 18, 2026 — Fulcra Dynamics, the company behind the best user-owned context backend for AI agents, [&#8230;] The post Fulcra Brings Universal Multiplayer to Any Agents You Choose appeared first on AI News .",
+      "published_at": "2026-09-18T09:15:15+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1066,6 +1242,28 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "d070ef42a27e97615b9376dedf6aa0ac",
+      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+      "summary": "The Adecco Group is rolling out Salesforce&#8217;s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group&#160;announced&#160;on September 15. The group said the rollout brings agentic AI into the daily workflows of 27,000 employees. Agentforce Coworker is Salesforce&#8217;s AI assistant for enterprise staff. According to the Adecco [&#8230;] The post Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries appeared first on AI News .",
+      "published_at": "2026-09-17T11:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0c898cf6efffed074cec410ae304dfa7",
+      "title": "Lidl deploys driverless truck for store deliveries in Germany",
+      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution centre and a nearby store. The truck, supplied by Swedish freight technology company Einride, operates at SAE Level 4 under a permit from Germany’s Federal Motor Transport Authority, or KBA. [&#8230;] The post Lidl deploys driverless truck for store deliveries in Germany appeared first on AI News .",
+      "published_at": "2026-09-17T10:00:00+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1113,6 +1311,17 @@
       "body_preview": ""
     },
     {
+      "id": "a215dba81b72cde8f4d3dd96546af242",
+      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "summary": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic&#8217;s January 2026 constitution, a primary training document designed to govern the model&#8217;s values and behaviour. He argued that coaching sequence completion engines to emulate sentience impairs [&#8230;] The post Microsoft AI CEO criticises Anthropic over model ‘rights’ appeared first on AI News .",
+      "published_at": "2026-09-16T14:47:32+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "3495078da7df2f2e74abbd85d60d39dc",
       "title": "Reimagining advertising with AI",
       "link": "https://openai.com/index/reimagining-advertising-with-ai",
@@ -1154,6 +1363,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "3a2bbd88e30b4063eff20c84c49a8efc",
+      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following TypeSafe AI&#8217;s release of Jev, a specialised System One Model designed to execute structured probabilistic decisions directly inside production [&#8230;] The post ChatGPT pioneer launches Jev model for programmatic logic appeared first on AI News .",
+      "published_at": "2026-09-16T10:31:09+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1245,6 +1465,17 @@
       "body_preview": ""
     },
     {
+      "id": "b2d8b942ac430a88d4b17d59a9ff08c7",
+      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+      "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+      "summary": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) iteration of Pony.ai’s Robotruck platform. It builds on GAC Commercial Vehicle’s T9 battery-electric truck architecture, with mass production set to start [&#8230;] The post Pony.ai unveils autonomous electric truck for logistics fleets appeared first on AI News .",
+      "published_at": "2026-09-15T11:15:57+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "29be35792537eb852476d93d07874b66",
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
@@ -1253,6 +1484,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "0db04f555d553417487e8176b2154d4a",
+      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&#38;J Solicitors For years, the offer that brought skilled engineers to Britain was straightforward: work here [&#8230;] The post The AI Talent Britain Fought to Hire May Be Recalculating Its Future appeared first on AI News .",
+      "published_at": "2026-09-15T07:14:47+00:00",
+      "source": "AI News",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1408,171 +1650,6 @@
       "category": "tools",
       "importance": "medium",
       "body_preview": ""
-    },
-    {
-      "id": "b9c74c76ceaaae32572f1078a580c7ec",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "link": "https://huggingface.co/blog/gradio-workflow-1111",
-      "summary": "",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6207a0865af45b0dd18705fc13eee026",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "summary": "",
-      "published_at": "2026-09-09T17:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "783fe638830453d61a67c3d2074b50a8",
-      "title": "Get ready for the game with new football features in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
-      "published_at": "2026-09-09T16:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "059b26ad24577c4e27ad40656bc6f397",
-      "title": "Recreating a 70-year love story frame by frame",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-      "published_at": "2026-09-09T16:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "2429ec1390a9f5c064d288fd5b0b4b43",
-      "title": "The AI policy window is open. We need to act.",
-      "link": "https://openai.com/index/ai-policy-window",
-      "summary": "",
-      "published_at": "2026-09-09T13:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "566879e8e4ef5ea08f51755d42e55b70",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "summary": "",
-      "published_at": "2026-09-09T11:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "29ab5877ede78d1b9a42b8e3d328dc29",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "summary": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers…",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, tele"
-    },
-    {
-      "id": "228fa74188a2876fc17643ca4e5d5478",
-      "title": "Improving our alignment and security efforts",
-      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month. Announcements Aug 27, 2026 Previewing the Model Hardware Standard We’re opening a res",
-      "published_at": "2026-08-31T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "3e634266d23b9345743fdbcea85a23cd",
-      "title": "Previewing the Model Hardware",
-      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "summary": "Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-      "published_at": "2026-08-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging from routine drug discovery experiments to laser calibration on a quantum computer. The development of MHS began as a collaboration between Anthropic and HHMI Janelia Research Campus . It typically tak"
-    },
-    {
-      "id": "a29afbdafd152488bb4e0168fa909242",
-      "title": "Expanding our support for scientists",
-      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "summary": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science…",
-      "published_at": "2026-08-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science program , which provides free credits to researchers working on high-impact scientific projects. Starting today, we are announcing a significant expansion of these efforts. We are opening 10,000 seats for s"
-    },
-    {
-      "id": "9e2952193ebef9b24bbf3cbbf04c8f90",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "summary": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source…",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
-    },
-    {
-      "id": "ff0d3111b8b01ad536f3a23d5956f676",
-      "title": "How Claude’s text watermark works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether…",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
-    },
-    {
-      "id": "2ba306006c3971074f5aac01c35c81d7",
-      "title": "Improving Fable 5's biology safeguards",
-      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to…",
-      "published_at": "2026-08-07T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
-    },
-    {
-      "id": "ada3fac11f4f3f72f602c35090501a39",
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "link": "https://www.anthropic.com/news/tino-cuellar",
-      "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie…",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships worldwide. Tino’s career spans law, technology, international security, and public institutions at the international, national, and state levels. He recently stepped down as President of the Carnegie Endowment for International Peace, a leading independent global policy research institution with scholars in 20 countries. Prior to his role at Carnegie, Tino was a Justice of the Supreme Court of Cal"
-    },
-    {
-      "id": "6c472be9947730dd861b28c5195a4d78",
-      "title": "Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
