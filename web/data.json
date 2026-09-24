@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-24T19:57:29.077743+00:00",
+  "generated_at": "2026-09-24T22:54:07.603914+00:00",
   "articles": [
+    {
+      "id": "77eab2244da41b52e5804240030b5ec5",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
+      "published_at": "2026-09-24T19:59:26+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "862af6148bee3ffbb64f1ad62217b73b",
       "title": "Top AI experts badly underestimated how fast the field is moving, study finds",
@@ -348,17 +359,6 @@
       "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
       "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime and counterterrorism subcommittee chair [&#8230;]",
       "published_at": "2026-09-24T14:15:05+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "862bbf3f088503d353e44e1ffff703af",
-      "title": "I have some questions for Mark Zuckerberg",
-      "link": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
-      "summary": "It&#8217;s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I&#8217;ve been using it — it is surprisingly good.&#160; CEO Mark Zuckerberg has obviously been out there taking a victory lap and participating in a lot [&#8230;]",
-      "published_at": "2026-09-24T14:15:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
