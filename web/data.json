@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-25T19:29:58.165217+00:00",
+  "generated_at": "2026-09-25T22:40:05.933382+00:00",
   "articles": [
+    {
+      "id": "1b5ed04a2d62abd076d297b6f6ee6d9e",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "summary": "",
+      "published_at": "2026-09-25T22:20:47+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b66ad58403170f49f0f0bf2e1601555c",
+      "title": "Meta opens early access program for new Muse features",
+      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "summary": "",
+      "published_at": "2026-09-25T20:34:53+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "5c6e9c678dd31a1bfdeb31a293b9e401",
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
@@ -823,28 +845,6 @@
       "published_at": "2026-09-24T17:10:38+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "09d71ece9c89a2bdd873d16f2a794b8e",
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "summary": "",
-      "published_at": "2026-09-24T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "857c9f0b33dccf43480c0b78821ad2fc",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "summary": "",
-      "published_at": "2026-09-24T16:46:47+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
