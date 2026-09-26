@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-26T00:51:46.271093+00:00",
+  "generated_at": "2026-09-26T05:39:53.005006+00:00",
   "articles": [
+    {
+      "id": "046278fa276624aec5d67ddf4ed733e4",
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "summary": "",
+      "published_at": "2026-09-26T01:08:57+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "152335963f93debddcfee7f974d737db",
       "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
@@ -420,336 +431,6 @@
       "body_preview": ""
     },
     {
-      "id": "48f5b0190853a15363e9feb2241e4097",
-      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-      "link": "https://arxiv.org/abs/2609.28475",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "8cec04dd4cc8838834177faa75b8887b",
-      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
-      "link": "https://arxiv.org/abs/2609.28506",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "1be08d8ee6c1f5cbfd2122993ec3ea46",
-      "title": "PAWS: Policy-driven Agentic World Simulation",
-      "link": "https://arxiv.org/abs/2609.28547",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "f24710a51b903c6fab73c9bffc5d60e9",
-      "title": "Pistis Technical Report",
-      "link": "https://arxiv.org/abs/2609.28554",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "db5e67e7037e1d6fb5950dceeabb3d66",
-      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-      "link": "https://arxiv.org/abs/2609.28557",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "0750bcf3aa36b0d2930bb2e50a72bd4a",
-      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
-      "link": "https://arxiv.org/abs/2609.28570",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "1c09af32f6103e5325c726ac1f194c45",
-      "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
-      "link": "https://arxiv.org/abs/2609.28575",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "da8672858e3c2f36cf73591dc62efcf7",
-      "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
-      "link": "https://arxiv.org/abs/2609.28609",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "cfbbc5c7f76d6d0ffc317b81bdecf56f",
-      "title": "Training Object Permanence in World Models",
-      "link": "https://arxiv.org/abs/2609.28654",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "0524fb49eb9a9cd04e637e6453244551",
-      "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
-      "link": "https://arxiv.org/abs/2609.28690",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "a41132a496476393d2d3ec1963dfbf98",
-      "title": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
-      "link": "https://arxiv.org/abs/2609.28692",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "28e4e3e48da3c6e0a67f6f68301ed178",
-      "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
-      "link": "https://arxiv.org/abs/2609.28693",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "7ae6e8cf29aa399471bab12422bbbb7d",
-      "title": "Reinforcement Learning with Verifiable Rewards for Small Search Agents",
-      "link": "https://arxiv.org/abs/2609.28765",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "11d1e961a3ac38143aefa0a338d7ec6d",
-      "title": "Agent Memory with Episodic Retrieval for Financial Decision-Making",
-      "link": "https://arxiv.org/abs/2609.28771",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "73866489dd9f1c63256eeb46481346f0",
-      "title": "Learned Cross-Task Relationships in Multi-Task Models",
-      "link": "https://arxiv.org/abs/2609.28776",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "2f8c6523e66811fa455e632a5e9c4a5d",
-      "title": "RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?",
-      "link": "https://arxiv.org/abs/2609.28850",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "f07a683c868fb4c9e290875107722719",
-      "title": "Human-AI-Powered Hypothesis Testing: Cost-Aware Selective AI Scoring and Sequential Human Escalation",
-      "link": "https://arxiv.org/abs/2609.28859",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "e99fff6936ccbd90e9076d4c59008c0c",
-      "title": "Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents",
-      "link": "https://arxiv.org/abs/2609.28876",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "a4d2f8e84b6f54edc15d7feb4c147699",
-      "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise",
-      "link": "https://arxiv.org/abs/2609.28919",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "0f7657ef059d5eff61bcc448652b3369",
-      "title": "PFArena: Benchmarking Language Models for Protein Modification",
-      "link": "https://arxiv.org/abs/2609.28921",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "bf66a55e9fc2923aee345f547c38cd13",
-      "title": "From Static Personal Values to Contextualized Personalization: Bayesian Personalized Value Alignment for LLMs",
-      "link": "https://arxiv.org/abs/2609.28942",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "9d7c4d9eef933167f0707603dd9fced8",
-      "title": "Back to the Definition: Estimating Step-Level Advantages via Trajectory Graphs for Agentic Reinforcement Learning",
-      "link": "https://arxiv.org/abs/2609.28963",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "a1fc658b110773a61713831e719b6b6c",
-      "title": "When Does Action Credit Need Updating?",
-      "link": "https://arxiv.org/abs/2609.29007",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "d474b22c3fdf5cd6563a5b1b02fba1c9",
-      "title": "AlphaDiverse: Post-Training Local Quantitative Research Agents for Diverse Exploration in Alpha Factor Mining",
-      "link": "https://arxiv.org/abs/2609.29014",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "82214346b94f9e678b131f55226d69d9",
-      "title": "MeshHeal: Two-Timescale Self-Healing for Gray Failures in Decentralized LLM Agent Networks",
-      "link": "https://arxiv.org/abs/2609.29015",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "e2687ec19ae19ecad04feaf4fbb26b48",
-      "title": "SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL",
-      "link": "https://arxiv.org/abs/2609.29050",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "7540cebb20aa926add423d1395649ebc",
-      "title": "From Self-Distillation to Self-Practice: Privileged Information for Multi-Turn Agents",
-      "link": "https://arxiv.org/abs/2609.29051",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "33a7562a26d9431cc9e6228bfd7354dc",
-      "title": "CRISS: A Retrieval-Augmented AI Chatbot for Assisting Cancer Registrars",
-      "link": "https://arxiv.org/abs/2609.29075",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "7c48d9125b5d8d4aafa0eceb23a5eb39",
-      "title": "A Rapid Pipeline for Training and Deploying ML Models on WeBe Band",
-      "link": "https://arxiv.org/abs/2609.29084",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "f3c12fba526852cbe641be4eeb786786",
-      "title": "Functional Architecture of European Electricity Trading Markets: Requirements for AI Supported Trading Systems under Regulatory Constraints",
-      "link": "https://arxiv.org/abs/2609.29108",
-      "summary": "",
-      "published_at": "2026-09-25T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
       "id": "77eab2244da41b52e5804240030b5ec5",
       "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
       "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
@@ -801,17 +482,6 @@
       "published_at": "2026-09-24T18:58:56+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "42459d651d198b1e7197c214f40b5384",
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "summary": "",
-      "published_at": "2026-09-24T18:11:44+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1650,6 +1320,50 @@
       "category": "company",
       "importance": "high",
       "body_preview": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science program , which provides free credits to researchers working on high-impact scientific projects. Starting today, we are announcing a significant expansion of these efforts. We are opening 10,000 seats for s"
+    },
+    {
+      "id": "9e2952193ebef9b24bbf3cbbf04c8f90",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "summary": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source…",
+      "published_at": "2026-08-25T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
+    },
+    {
+      "id": "ff0d3111b8b01ad536f3a23d5956f676",
+      "title": "How Claude’s text watermark works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether…",
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
+    },
+    {
+      "id": "2ba306006c3971074f5aac01c35c81d7",
+      "title": "Improving Fable 5's biology safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to…",
+      "published_at": "2026-08-07T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
+    },
+    {
+      "id": "6c472be9947730dd861b28c5195a4d78",
+      "title": "Responsible Scaling Policy",
+      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
+      "published_at": "",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
