@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-26T14:30:50.795868+00:00",
+  "generated_at": "2026-09-26T17:58:25.661480+00:00",
   "articles": [
+    {
+      "id": "6e3c5463b4e50816abc6678ffe3200b9",
+      "title": "Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them",
+      "link": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/",
+      "summary": "",
+      "published_at": "2026-09-26T17:27:52+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "38c3e069cb3c391931f278826c48e20f",
+      "title": "AI access makes people almost entirely unwilling to say \"I don't know,\" study finds",
+      "link": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/",
+      "summary": "",
+      "published_at": "2026-09-26T16:56:36+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "be9b119b87a72e0e6b98215765b5d19e",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
+      "published_at": "2026-09-26T16:34:59+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "d6419c493327d25912227935a73abd83",
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -365,28 +398,6 @@
       "body_preview": ""
     },
     {
-      "id": "9d125ad0bf7e11e57a9d1297af9f1de2",
-      "title": "Google's \"Call for Me\" lets Gemini phone businesses for you",
-      "link": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/",
-      "summary": "",
-      "published_at": "2026-09-25T11:49:52+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3ad13a6ae821f406fa106d9e04d3ce45",
-      "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year",
-      "link": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/",
-      "summary": "",
-      "published_at": "2026-09-25T10:43:15+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5cdc0a493cbe6856a51e3f89fe830f57",
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
@@ -447,17 +458,6 @@
       "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
       "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in [&#8230;]",
       "published_at": "2026-09-24T17:52:29+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8fc4383d51173a05235a7d51e811ffc1",
-      "title": "Muse will apparently let you download its entire filesystem",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on [&#8230;]",
-      "published_at": "2026-09-24T17:14:12+00:00",
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
