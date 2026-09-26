@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-26T17:58:25.661480+00:00",
+  "generated_at": "2026-09-26T20:34:50.892388+00:00",
   "articles": [
+    {
+      "id": "e502924391f4ebd1a531a5e935fbba4f",
+      "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU",
+      "link": "https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/",
+      "summary": "Supersonic Labs has released Julia 1, a 144.3M-parameter decision model built on mmBERT-small. It takes context, a question, and 2 to 20 options, then returns one choice with probabilities. The model runs on a CPU and ships under Apache 2.0. It beat Jev reference values on 3 of 4 pilots but trailed on the 72-label Banking77 test. The post Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU appeared first on MarkTechPost .",
+      "published_at": "2026-09-26T19:50:57+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2459b41ca2de307d4a97bba2faf47000",
+      "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
+      "link": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/",
+      "summary": "",
+      "published_at": "2026-09-26T19:10:20+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "6e3c5463b4e50816abc6678ffe3200b9",
       "title": "Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them",
@@ -90,6 +112,28 @@
       "body_preview": ""
     },
     {
+      "id": "a5282eb7906203923cdce20e883609a3",
+      "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
+      "link": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
+      "summary": "Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall on WANDR. The post Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building appeared first on MarkTechPost .",
+      "published_at": "2026-09-26T08:04:08+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "75551e1aaef6e0e93ee12f96a3c5d1b8",
+      "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
+      "link": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
+      "summary": "Discover how to build a comprehensive multimodal augmentation and adversarial robustness workflow using AugLy for images, text, audio, and PyTorch datasets. The post End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch appeared first on MarkTechPost .",
+      "published_at": "2026-09-26T07:22:46+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "046278fa276624aec5d67ddf4ed733e4",
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
       "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -97,6 +141,17 @@
       "published_at": "2026-09-26T01:08:57+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "152335963f93debddcfee7f974d737db",
+      "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
+      "link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
+      "summary": "Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang. The post Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding appeared first on MarkTechPost .",
+      "published_at": "2026-09-25T23:11:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -321,6 +376,17 @@
       "body_preview": ""
     },
     {
+      "id": "202f5928e6635960eb3c195cdbf362e9",
+      "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
+      "link": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
+      "summary": "Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI&#8217;s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company&#8217;s autonomous pentesting appliance for on-prem and air-gapped networks. Is it deployable? Yes, the weights are public on Hugging Face and run with vLLM [&#8230;] The post Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB appeared first on MarkTechPost .",
+      "published_at": "2026-09-25T15:14:45+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "02802ea558d3c073f369084680b3f9fe",
       "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
       "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
@@ -328,6 +394,17 @@
       "published_at": "2026-09-25T15:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "81e3c3b35b77631cdfe789c66aea17b2",
+      "title": "Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation",
+      "link": "https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/",
+      "summary": "Perplexity Research published a new post-training study. It trains a model inside Perplexity Computer on real user sessions, including failed ones. The method pairs rejection sampling fine-tuning with hint-guided self-distillation. In a live A/B test, tool-call failures fell from 2.24% to 1.77% between 2 trained checkpoints. Perplexity team reports this as a statistically significant 21.2% [&#8230;] The post Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation appeared first on MarkTechPost .",
+      "published_at": "2026-09-25T14:30:26+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -376,17 +453,6 @@
       "body_preview": ""
     },
     {
-      "id": "ae1dfbd50aa1f025bd339dc4a11194f1",
-      "title": "Intelligence doesn't come cheap as AI drives up costs for the NSA, hospitals, and insurers",
-      "link": "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/",
-      "summary": "",
-      "published_at": "2026-09-25T12:03:24+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3cc4f8754bbc2164eb38278cfa935ebd",
       "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
       "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
@@ -420,6 +486,28 @@
       "body_preview": ""
     },
     {
+      "id": "08db81d2277a695bc2b35005b79b2f7d",
+      "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
+      "link": "https://www.marktechpost.com/2026/09/24/fastino-releases-gliner2-5-decide-a-340m-open-weight-decision-model-that-runs-on-cpu/",
+      "summary": "Fastino Labs has released GLiNER2.5-Decide, a 340M-parameter open-weight decision model. It takes text and a schema of typed questions and returns structured answers. Each answer comes with a probability distribution, a confidence score, and constraint-feasibility metadata. It targets the frequent judgment calls inside agent pipelines: routing, triage, tool selection, and guardrails. Is it deployable? Yes, [&#8230;] The post Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU appeared first on MarkTechPost .",
+      "published_at": "2026-09-25T04:46:38+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "356c9114c3424b876c231e707840b216",
+      "title": "Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120",
+      "link": "https://www.marktechpost.com/2026/09/24/black-forest-labs-releases-flux-3-action-a-7b-open-weights-world-action-model-that-tops-robolab-120/",
+      "summary": "Black Forest Labs (BFL), the lab behind the FLUX image models, has released FLUX 3 Action. It is a 7B open-weights World Action Model (WAM) for robot control. The model reads camera frames, robot state and a text instruction. It then predicts future video frames and the next chunk of actions together. On the RoboLab-120 [&#8230;] The post Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120 appeared first on MarkTechPost .",
+      "published_at": "2026-09-25T04:24:01+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "77eab2244da41b52e5804240030b5ec5",
       "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
       "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
@@ -438,6 +526,17 @@
       "published_at": "2026-09-24T19:15:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d34f2b4fd22e05cf8987e4baaf364a74",
+      "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost",
+      "link": "https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/",
+      "summary": "BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to 85.79%, and long-context AA-LCR improves by 2.25pp. The model is a drop-in replacement on vLLM and SGLang, with FP8, NVFP4, GGUF and MLX builds. The post BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost appeared first on MarkTechPost .",
+      "published_at": "2026-09-24T18:58:56+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -482,6 +581,17 @@
       "published_at": "2026-09-24T14:08:57+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9c0e6b8b3f5be58d224dd5372ae7ef9d",
+      "title": "Contrastive-LM Releases CLM-8B: An Open System One Model That Scores Agent Actions Up to 9× Faster Than Jev",
+      "link": "https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/",
+      "summary": "Contrastive-LM has released CLM-8B, an open System One model that scores candidate actions against a state instead of generating text. It adds 2 small projection heads to a frozen Qwen3-8B encoder and trains them with a contrastive InfoNCE objective. In zero-shot tests it runs up to 9× faster than TypeSafe's Jev. With fine-tuned heads as a verifier, it reaches 81.6% on held-out DeepSWE tasks and 87.6% on held-out Terminal-Bench 2.1 tasks. The post Contrastive-LM Releases CLM-8B: An Open System One Model That Scores Agent Actions Up to 9× Faster Than Jev appeared first on MarkTechPost .",
+      "published_at": "2026-09-24T05:27:41+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
