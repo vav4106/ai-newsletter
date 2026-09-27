@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-27T12:29:15.261331+00:00",
+  "generated_at": "2026-09-27T17:08:23.726112+00:00",
   "articles": [
+    {
+      "id": "81b964c6e4a29e8c3015f8e610a3acf1",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "summary": "",
+      "published_at": "2026-09-27T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9f9c5da4fae264857e812c0926b1134d",
+      "title": "AI agents do more of the work in model development, but humans still make the decisions",
+      "link": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
+      "summary": "",
+      "published_at": "2026-09-27T15:18:39+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1931942c9fd96624772e1f7eeb8fb135",
+      "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
+      "link": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
+      "summary": "",
+      "published_at": "2026-09-27T13:03:05+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "da747865aba9d409e8c6044b31d21fad",
       "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
@@ -57,28 +90,6 @@
       "body_preview": ""
     },
     {
-      "id": "26994ac08f9ebd8d10f171b4b886a2a6",
-      "title": "AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared",
-      "link": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/",
-      "summary": "We read the contracts behind GitHub Copilot, AWS Kiro, Cursor, Devin and Windsurf. Copilot and Kiro offer uncapped indemnity on generated code. Cognition's standard terms exclude outputs entirely. Here is how 500 seats compare on legal exposure, prompt storage, audit logs and true cost. The post AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared appeared first on MarkTechPost .",
-      "published_at": "2026-09-27T05:57:51+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "efa5c8bdb48ca06f119da7c155eb0754",
-      "title": "A Coding Guide to Google Research’s MSEB: Writing Sound Encoders to the Benchmark Contract and Scoring Them Across Classification, Clustering, Retrieval and Segmentation",
-      "link": "https://www.marktechpost.com/2026/09/26/a-coding-guide-to-google-researchs-mseb-writing-sound-encoders-to-the-benchmark-contract-and-scoring-them-across-classification-clustering-retrieval-and-segmentation/",
-      "summary": "A comprehensive coding tutorial on Google Research's Massive Sound Embedding Benchmark (MSEB), demonstrating how to implement custom sound encoders, drive classification, clustering, retrieval, and segmentation evaluators, and analyze multi-task benchmark performance. The post A Coding Guide to Google Research&#8217;s MSEB: Writing Sound Encoders to the Benchmark Contract and Scoring Them Across Classification, Clustering, Retrieval and Segmentation appeared first on MarkTechPost .",
-      "published_at": "2026-09-27T05:42:35+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f69dc8e1ee6ccb8b06f1bae8a67e76a8",
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -90,17 +101,6 @@
       "body_preview": ""
     },
     {
-      "id": "dd7e278637800f60eedef09faeefea36",
-      "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English",
-      "link": "https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/",
-      "summary": "Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state-space decoder. It adds keyterm prompting for up to 50 terms, 5 output modes from 1 model, and streaming with first-token latency under 150 ms. It is available today through Sarvam's API at ₹30 per hour. The post Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English appeared first on MarkTechPost .",
-      "published_at": "2026-09-26T21:56:23+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "69e1b2d2f70b0328efebaabd11ba0694",
       "title": "Insurers claim AI is already increasing healthcare costs",
       "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
@@ -108,17 +108,6 @@
       "published_at": "2026-09-26T21:02:06+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e502924391f4ebd1a531a5e935fbba4f",
-      "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU",
-      "link": "https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/",
-      "summary": "Supersonic Labs has released Julia 1, a 144.3M-parameter decision model built on mmBERT-small. It takes context, a question, and 2 to 20 options, then returns one choice with probabilities. The model runs on a CPU and ships under Apache 2.0. It beat Jev reference values on 3 of 4 pilots but trailed on the 72-label Banking77 test. The post Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU appeared first on MarkTechPost .",
-      "published_at": "2026-09-26T19:50:57+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -189,50 +178,6 @@
       "body_preview": ""
     },
     {
-      "id": "6e1434d5b8aa54d5138e67163040acb3",
-      "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
-      "link": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/",
-      "summary": "",
-      "published_at": "2026-09-26T10:30:32+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2eb9cccae324fbbabb3e3bf43e89f25d",
-      "title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
-      "summary": "",
-      "published_at": "2026-09-26T09:44:54+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a5282eb7906203923cdce20e883609a3",
-      "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
-      "link": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
-      "summary": "Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall on WANDR. The post Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building appeared first on MarkTechPost .",
-      "published_at": "2026-09-26T08:04:08+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "75551e1aaef6e0e93ee12f96a3c5d1b8",
-      "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
-      "link": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
-      "summary": "Discover how to build a comprehensive multimodal augmentation and adversarial robustness workflow using AugLy for images, text, audio, and PyTorch datasets. The post End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch appeared first on MarkTechPost .",
-      "published_at": "2026-09-26T07:22:46+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "046278fa276624aec5d67ddf4ed733e4",
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
       "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -240,17 +185,6 @@
       "published_at": "2026-09-26T01:08:57+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "152335963f93debddcfee7f974d737db",
-      "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
-      "link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
-      "summary": "Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang. The post Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding appeared first on MarkTechPost .",
-      "published_at": "2026-09-25T23:11:59+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -442,17 +376,6 @@
       "body_preview": ""
     },
     {
-      "id": "202f5928e6635960eb3c195cdbf362e9",
-      "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
-      "link": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
-      "summary": "Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI&#8217;s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company&#8217;s autonomous pentesting appliance for on-prem and air-gapped networks. Is it deployable? Yes, the weights are public on Hugging Face and run with vLLM [&#8230;] The post Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB appeared first on MarkTechPost .",
-      "published_at": "2026-09-25T15:14:45+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "02802ea558d3c073f369084680b3f9fe",
       "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
       "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
@@ -464,33 +387,11 @@
       "body_preview": ""
     },
     {
-      "id": "81e3c3b35b77631cdfe789c66aea17b2",
-      "title": "Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation",
-      "link": "https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/",
-      "summary": "Perplexity Research published a new post-training study. It trains a model inside Perplexity Computer on real user sessions, including failed ones. The method pairs rejection sampling fine-tuning with hint-guided self-distillation. In a live A/B test, tool-call failures fell from 2.24% to 1.77% between 2 trained checkpoints. Perplexity team reports this as a statistically significant 21.2% [&#8230;] The post Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation appeared first on MarkTechPost .",
-      "published_at": "2026-09-25T14:30:26+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ce46b4150a4fcebf823d4b00cd654100",
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
       "summary": "",
       "published_at": "2026-09-25T14:15:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d61e6a03c684febb0c8827f5e1a4c3e5",
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-      "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-      "summary": "",
-      "published_at": "2026-09-25T14:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -527,17 +428,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "08db81d2277a695bc2b35005b79b2f7d",
-      "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
-      "link": "https://www.marktechpost.com/2026/09/24/fastino-releases-gliner2-5-decide-a-340m-open-weight-decision-model-that-runs-on-cpu/",
-      "summary": "Fastino Labs has released GLiNER2.5-Decide, a 340M-parameter open-weight decision model. It takes text and a schema of typed questions and returns structured answers. Each answer comes with a probability distribution, a confidence score, and constraint-feasibility metadata. It targets the frequent judgment calls inside agent pipelines: routing, triage, tool selection, and guardrails. Is it deployable? Yes, [&#8230;] The post Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU appeared first on MarkTechPost .",
-      "published_at": "2026-09-25T04:46:38+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
