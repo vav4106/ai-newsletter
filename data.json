@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-27T20:06:09.234533+00:00",
+  "generated_at": "2026-09-27T22:58:30.325591+00:00",
   "articles": [
+    {
+      "id": "971c386f260b0ba9f2a6b8c8886de44e",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 [&#8230;]",
+      "published_at": "2026-09-27T20:46:36+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5aecc8d69476bb081c1a6e0233e2cd9c",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "summary": "",
+      "published_at": "2026-09-27T20:34:28+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a12b003cba19e0d96663ed7353bef50a",
       "title": "Can Muse overcome Meta’s trust issues?",
@@ -486,17 +508,6 @@
       "body_preview": ""
     },
     {
-      "id": "02802ea558d3c073f369084680b3f9fe",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "summary": "",
-      "published_at": "2026-09-25T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "81e3c3b35b77631cdfe789c66aea17b2",
       "title": "Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation",
       "link": "https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/",
@@ -557,17 +568,6 @@
       "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
       "published_at": "2026-09-24T19:59:26+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "756bcb15a2bff0ad3177dfaef8b6fb43",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
-      "published_at": "2026-09-24T18:04:44+00:00",
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
