@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-27T01:21:33.068488+00:00",
+  "generated_at": "2026-09-27T06:41:49.001595+00:00",
   "articles": [
+    {
+      "id": "f69dc8e1ee6ccb8b06f1bae8a67e76a8",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "summary": "",
+      "published_at": "2026-09-27T01:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "69e1b2d2f70b0328efebaabd11ba0694",
       "title": "Insurers claim AI is already increasing healthcare costs",
@@ -417,17 +428,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "2619bb1d2735b2837fd2cc2096795d19",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "summary": "",
-      "published_at": "2026-09-25T05:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
