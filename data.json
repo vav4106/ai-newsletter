@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-09-29T18:43:53.614488+00:00",
+  "generated_at": "2026-09-29T22:39:30.681453+00:00",
   "articles": [
+    {
+      "id": "a34cb85c512fcc68e88a9eb87126013a",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said [&#8230;]",
+      "published_at": "2026-09-29T22:25:45+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "eb94cb20dbe24fd7c9872aa4e4c89a0b",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "summary": "",
+      "published_at": "2026-09-29T22:20:59+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "249d97da2d04359b1b477dc5efb48f30",
+      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a [&#8230;]",
+      "published_at": "2026-09-29T21:49:09+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a2729277fea4d4c763681a5cf5ed5400",
+      "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
+      "link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
+      "summary": "Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated probabilities across a fixed set of outcomes in a single call, with zero generated tokens. The target is the work many teams still send to general [&#8230;] The post Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens appeared first on MarkTechPost .",
+      "published_at": "2026-09-29T21:47:09+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "aea0c89fb8761a1f118fd344eb3ed879",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "summary": "",
+      "published_at": "2026-09-29T20:15:47+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7456453d9a708f6cfe13bda1a811e2cc",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "summary": "",
+      "published_at": "2026-09-29T19:52:37+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8b9d6e7b91ccf18fa203cfc89bdd5e53",
+      "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+      "link": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
+      "summary": "",
+      "published_at": "2026-09-29T19:24:12+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a55e6b65e42f449cebc190837ccdf295",
       "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
@@ -13,6 +90,17 @@
       "body_preview": ""
     },
     {
+      "id": "6aabb9f9a211c93bdf877bd7dc977220",
+      "title": "OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers",
+      "link": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
+      "summary": "OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents powered by GPT-6 Astra. Each dot gets its own cloud computer and browser. It works across 4,000+ apps through ChatGPT plugins and keeps going after you log off. Is it deployable today? Yes, as a managed product. Dots are rolling out in [&#8230;] The post OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers appeared first on MarkTechPost .",
+      "published_at": "2026-09-29T18:30:13+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "f581c664302c5f2878658e53843b30a0",
       "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
       "link": "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/",
@@ -20,6 +108,17 @@
       "published_at": "2026-09-29T18:10:34+00:00",
       "source": "The Decoder",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e84796a0e5a7175917945e780e50808c",
+      "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes",
+      "link": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
+      "summary": "Nebius and NVIDIA are running the 2026 Physical AI Awards for startups with products in the field. Five category winners each get $150,000 in compute credits, joint promotion, executive mentorship, and seats at an executive dinner. Applications close October 25. The post Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes appeared first on MarkTechPost .",
+      "published_at": "2026-09-29T17:48:10+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -90,9 +189,9 @@
       "body_preview": ""
     },
     {
-      "id": "528e11664284051e25c8618292d00301",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "id": "9b2371fd9a734525f8bbc72d83399dbc",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
       "summary": "",
       "published_at": "2026-09-29T17:15:00+00:00",
       "source": "TechCrunch AI",
@@ -101,9 +200,9 @@
       "body_preview": ""
     },
     {
-      "id": "9b2371fd9a734525f8bbc72d83399dbc",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "id": "528e11664284051e25c8618292d00301",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
       "summary": "",
       "published_at": "2026-09-29T17:15:00+00:00",
       "source": "TechCrunch AI",
@@ -354,14 +453,14 @@
       "body_preview": ""
     },
     {
-      "id": "26e1d853f3b67b1355a55f162d113e51",
-      "title": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use",
-      "link": "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/",
+      "id": "d1517ea2f2a29007dca93a51e75a1196",
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
       "summary": "",
-      "published_at": "2026-09-29T10:05:14+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -376,14 +475,25 @@
       "body_preview": ""
     },
     {
-      "id": "d1517ea2f2a29007dca93a51e75a1196",
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "summary": "",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
+      "id": "e5ead37ee241b827048a3ac9cce4eef4",
+      "title": "Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting",
+      "link": "https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting/",
+      "summary": "Google Cloud AI Research has open-sourced RRSI, a framework that lets LLM agents rewrite their own prompts, tools and memory while model weights stay frozen. It adds a leakage critic, a noise floor, a cost rule and pruning so gains carry over to new tasks. With Claude Opus 4.8, Terminal-Bench 2.1 rose from 74.2% to 80.2%, and all 6 held-out splits improved. The post Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting appeared first on MarkTechPost .",
+      "published_at": "2026-09-29T09:01:36+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "057905bdb2a29b2a9a382ff313db5955",
+      "title": "H Company Releases Holo4: Open-Weight Computer-Use Models That Click, Code and Call Tools Across Desktop, Web, Android and APIs",
+      "link": "https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-and-apis/",
+      "summary": "H Company has released Holo4, a family of generalist computer-use models for AI agents. One set of weights clicks and types on screens. It also writes code and calls MCP or API tools. Holo4 ships in 2 sizes: Holo4 27B (dense) and Holo4 35B-A3B (Mixture of Experts, 3B active). Both serve a 256K context on [&#8230;] The post H Company Releases Holo4: Open-Weight Computer-Use Models That Click, Code and Call Tools Across Desktop, Web, Android and APIs appeared first on MarkTechPost .",
+      "published_at": "2026-09-29T07:38:13+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -394,6 +504,28 @@
       "published_at": "2026-09-29T05:13:43+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "70263609fbb5940a797c8335333ee56a",
+      "title": "Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak",
+      "link": "https://www.marktechpost.com/2026/09/28/alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex-voice-model-trained-to-think-act-and-decide-when-to-speak/",
+      "summary": "Alibaba's Qwen team released Qwen-Audio-3.1-Realtime, a full-duplex voice model trained to reason, call tools and decide when to speak. On a τ-Voice adaptation, task success rises to 82.0% from 78.4%. Replies to background speech drop from 73% to 13%. It is available now as an API on QwenCloud. The post Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak appeared first on MarkTechPost .",
+      "published_at": "2026-09-29T04:58:15+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c8fa3ba9024b59387012f81bcd713e70",
+      "title": "Anthropic Releases Claude Sonnet 5.5: 70.6% on Terminal-Bench 4.0 at the Same $2/$10 Price",
+      "link": "https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/",
+      "summary": "Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It scores 70.6% on Terminal-Bench 4.0 and lands within 2 points of Opus 5.5 on GDPval-AA. It also generates output 30%+ faster than Sonnet 5 and keeps the same $2/$10 per million token price. Anthropic says cost per task falls by up to 30% because the model uses fewer tokens. You can deploy it today via the Claude API, AWS, Google Cloud and Azure. The post Anthropic Releases Claude Sonnet 5.5: 70.6% on Terminal-Bench 4.0 at the Same $2/$10 Price appeared first on MarkTechPost .",
+      "published_at": "2026-09-29T04:20:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -794,35 +926,13 @@
       "body_preview": ""
     },
     {
-      "id": "5a924577cae636e729fa31d69400530f",
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "summary": "",
-      "published_at": "2026-09-28T20:39:33+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "018b574653a35fc00115793ceb80c4f2",
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "summary": "",
-      "published_at": "2026-09-28T19:33:57+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a5ec05e2dec4a823e128d8dde70e4577",
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "summary": "",
-      "published_at": "2026-09-28T19:21:59+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
+      "id": "afc3138aee531354e36a2ccbd3f97c62",
+      "title": "NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds",
+      "link": "https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/",
+      "summary": "NVIDIA has launched the Open Agent Safety Platform, an open reference design that enforces AI agent safety outside the agent itself. OpenShell, an Apache 2.0 runtime, sandboxes agents under YAML policies. Sentry, an out-of-band watchdog on BlueField-4 DPUs, can quarantine an agent that escapes its boundary in milliseconds. NVIDIA says over 100 organizations are working with the platform. The post NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds appeared first on MarkTechPost .",
+      "published_at": "2026-09-28T19:21:25+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -860,28 +970,6 @@
       "body_preview": ""
     },
     {
-      "id": "f23fabf4145865427c967afd0a822ced",
-      "title": "OpenAI’s AI agents need to catch up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
-      "published_at": "2026-09-28T18:45:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f1629370ec90cc29437eaa61a08472f6",
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers [&#8230;]",
-      "published_at": "2026-09-28T18:30:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "af000891bcf2b484637e32b87792623d",
       "title": "When can we say AI made a scientific discovery?",
       "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
@@ -915,6 +1003,17 @@
       "body_preview": ""
     },
     {
+      "id": "f1f9e32626a24e4bc681351d0ba639ff",
+      "title": "Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens",
+      "link": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/",
+      "summary": "Fireworks AI has released Ember-1, a post-trained Kimi K3 that learns to produce shorter reasoning traces instead of lowering reasoning effort. Fireworks reports about 40% fewer tokens, with output tokens per task falling from 49.3K to 29.9K in a production A/B test at an essentially unchanged score. Ember-1 is available now as an API-only Research Preview at Kimi K3 pricing. The post Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens appeared first on MarkTechPost .",
+      "published_at": "2026-09-28T07:22:33+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "368192eb5668dee9c3cd205801a2d662",
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
       "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
@@ -923,6 +1022,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "9838183dd8cd2197fc7124dbeb4f0ca2",
+      "title": "20 Agentic Use Cases of TypeSafe AI’s Jev",
+      "link": "https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/",
+      "summary": "TypeSafe AI's Jev skips text generation and returns typed decisions with calibrated probabilities. Input costs $0.042 per million tokens and output is free. We verified 20 agentic use cases, from model routing and tool-call gating to reranking and injection screening, and compared Jev with its closest open and LLM rivals. The post 20 Agentic Use Cases of TypeSafe AI&#8217;s Jev appeared first on MarkTechPost .",
+      "published_at": "2026-09-28T03:07:10+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1047,9 +1157,9 @@
       "body_preview": ""
     },
     {
-      "id": "668951742746f621b259e268d22ab925",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://openai.com/index/ringg",
+      "id": "113bd7078be54f4224b0a91245f83ed6",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "summary": "",
       "published_at": "2026-09-23T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1069,9 +1179,9 @@
       "body_preview": ""
     },
     {
-      "id": "78b1894424ffd029a533256504dd0fca",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "id": "668951742746f621b259e268d22ab925",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
       "summary": "",
       "published_at": "2026-09-23T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1080,9 +1190,9 @@
       "body_preview": ""
     },
     {
-      "id": "113bd7078be54f4224b0a91245f83ed6",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "id": "78b1894424ffd029a533256504dd0fca",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "summary": "",
       "published_at": "2026-09-23T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1540,50 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science program , which provides free credits to researchers working on high-impact scientific projects. Starting today, we are announcing a significant expansion of these efforts. We are opening 10,000 seats for s"
-    },
-    {
-      "id": "9e2952193ebef9b24bbf3cbbf04c8f90",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "summary": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source…",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
-    },
-    {
-      "id": "ff0d3111b8b01ad536f3a23d5956f676",
-      "title": "How Claude’s text watermark works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether…",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
-    },
-    {
-      "id": "2ba306006c3971074f5aac01c35c81d7",
-      "title": "Improving Fable 5's biology safeguards",
-      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to…",
-      "published_at": "2026-08-07T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
-    },
-    {
-      "id": "6c472be9947730dd861b28c5195a4d78",
-      "title": "Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
