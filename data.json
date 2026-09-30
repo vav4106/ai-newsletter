@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-09-30T18:39:26.678253+00:00",
+  "generated_at": "2026-09-30T22:35:37.718808+00:00",
   "articles": [
+    {
+      "id": "814e7b59c77be5f0c723ebf71099588f",
+      "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
+      "link": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
+      "summary": "",
+      "published_at": "2026-09-30T22:06:30+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cb65808501fd013e5a4f8fd20bc35596",
+      "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense",
+      "link": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
+      "summary": "Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today. The post Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense appeared first on MarkTechPost .",
+      "published_at": "2026-09-30T21:30:08+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dd662ee68679cc510f2c5d024d0ffa8e",
+      "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+      "link": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+      "summary": "OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of Astra's token prices. It costs $2 input and $10 output per million tokens, and cached input drops to $0.10. It is available now through the OpenAI API, ChatGPT Work and Codex. The post OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra&#8217;s Token Price appeared first on MarkTechPost .",
+      "published_at": "2026-09-30T21:09:24+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d9fc49c10267403531b40be1417ea0f9",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "summary": "",
+      "published_at": "2026-09-30T21:07:40+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c268eb9429f5416f49531b2dcd6e79d9",
+      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at [&#8230;]",
+      "published_at": "2026-09-30T20:41:41+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8ce5e6df1c55d9405b694a08e517c2cf",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "published_at": "2026-09-30T20:01:45+00:00",
+      "source": "Google DeepMind",
+      "category": "research",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "1e6f023e93a21b73c963d77e7c5531c2",
+      "title": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer",
+      "link": "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
+      "summary": "",
+      "published_at": "2026-09-30T19:12:30+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d9afe6ea51ec1c83a3dfa73f9b9d46cb",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "summary": "",
+      "published_at": "2026-09-30T19:00:57+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "96ccebbc6966e6c8b074db6078c6e5cb",
       "title": "AI voice startup ElevenLabs doubles valuation to $22B",
@@ -27,7 +115,7 @@
       "id": "dad659e5117479161959e086566f5338",
       "title": "The AI Tamagotchis are coming",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetite for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]",
+      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]",
       "published_at": "2026-09-30T18:07:38+00:00",
       "source": "The Verge AI",
       "category": "consumer",
@@ -805,17 +893,6 @@
       "body_preview": ""
     },
     {
-      "id": "f581c664302c5f2878658e53843b30a0",
-      "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
-      "link": "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/",
-      "summary": "",
-      "published_at": "2026-09-29T18:10:34+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e84796a0e5a7175917945e780e50808c",
       "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes",
       "link": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
@@ -838,55 +915,11 @@
       "body_preview": ""
     },
     {
-      "id": "a44bcec1470c46dd5a1179171428c2f5",
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' [&#8230;]",
-      "published_at": "2026-09-29T17:35:03+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e816dd189c66f92ff7a1c6c2ba5f6dd7",
-      "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-      "link": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
-      "summary": "",
-      "published_at": "2026-09-29T17:23:22+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5e086aa761d487e4641e95ff4ab8ee06",
       "title": "AI-powered app maker Wabi pivots to a messaging experience",
       "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
       "summary": "",
       "published_at": "2026-09-29T17:20:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a82275d405639ccc2ca08af114acc117",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "summary": "",
-      "published_at": "2026-09-29T17:17:15+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9b2371fd9a734525f8bbc72d83399dbc",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "summary": "",
-      "published_at": "2026-09-29T17:15:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -964,28 +997,6 @@
       "link": "https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-and-apis/",
       "summary": "H Company has released Holo4, a family of generalist computer-use models for AI agents. One set of weights clicks and types on screens. It also writes code and calls MCP or API tools. Holo4 ships in 2 sizes: Holo4 27B (dense) and Holo4 35B-A3B (Mixture of Experts, 3B active). Both serve a 256K context on [&#8230;] The post H Company Releases Holo4: Open-Weight Computer-Use Models That Click, Code and Call Tools Across Desktop, Web, Android and APIs appeared first on MarkTechPost .",
       "published_at": "2026-09-29T07:38:13+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "70263609fbb5940a797c8335333ee56a",
-      "title": "Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak",
-      "link": "https://www.marktechpost.com/2026/09/28/alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex-voice-model-trained-to-think-act-and-decide-when-to-speak/",
-      "summary": "Alibaba's Qwen team released Qwen-Audio-3.1-Realtime, a full-duplex voice model trained to reason, call tools and decide when to speak. On a τ-Voice adaptation, task success rises to 82.0% from 78.4%. Replies to background speech drop from 73% to 13%. It is available now as an API on QwenCloud. The post Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak appeared first on MarkTechPost .",
-      "published_at": "2026-09-29T04:58:15+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c8fa3ba9024b59387012f81bcd713e70",
-      "title": "Anthropic Releases Claude Sonnet 5.5: 70.6% on Terminal-Bench 4.0 at the Same $2/$10 Price",
-      "link": "https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/",
-      "summary": "Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It scores 70.6% on Terminal-Bench 4.0 and lands within 2 points of Opus 5.5 on GDPval-AA. It also generates output 30%+ faster than Sonnet 5 and keeps the same $2/$10 per million token price. Anthropic says cost per task falls by up to 30% because the model uses fewer tokens. You can deploy it today via the Claude API, AWS, Google Cloud and Azure. The post Anthropic Releases Claude Sonnet 5.5: 70.6% on Terminal-Bench 4.0 at the Same $2/$10 Price appeared first on MarkTechPost .",
-      "published_at": "2026-09-29T04:20:59+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1578,12 +1589,12 @@
       "id": "8a9fa33a28cf586bbcd2bcea1ec22ea7",
       "title": "Introducing the Life Sciences Verification Program",
       "link": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "summary": "Today, we are introducing the Life Sciences Verification Program (LSVP), which gives life science professionals access to our Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work. We have already onboarded dozens of organizations through an early-access program, and are now opening applications to the broader life science community ( apply here…",
+      "summary": "Today, we are introducing the Life Sciences Verification Program (LSVP), which gives life science professionals access to our Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work. We have already onboarded dozens of organizations through an early-access program, and are now opening applications to the broader life science community ( join…",
       "published_at": "2026-09-17T00:00:00+00:00",
       "source": "Anthropic News",
       "category": "company",
       "importance": "high",
-      "body_preview": "Today, we are introducing the Life Sciences Verification Program (LSVP), which gives life science professionals access to our Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work. We have already onboarded dozens of organizations through an early-access program, and are now opening applications to the broader life science community ( apply here ). The program is launching in beta, initially for teams and institutions. We will continue to improve the program and expand access to individual Pro and Max plans over time. The LSVP is designed to "
+      "body_preview": "Today, we are introducing the Life Sciences Verification Program (LSVP), which gives life science professionals access to our Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work. We have already onboarded dozens of organizations through an early-access program, and are now opening applications to the broader life science community ( join waitlist here ). The program is launching in beta, initially for teams and institutions. We will continue to improve the program and expand access to individual Pro and Max plans over time. The LSVP is desi"
     },
     {
       "id": "29ab5877ede78d1b9a42b8e3d328dc29",
@@ -1639,17 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
-    },
-    {
-      "id": "ff0d3111b8b01ad536f3a23d5956f676",
-      "title": "How Claude’s text watermark works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether…",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
     }
   ],
   "milestones": []
