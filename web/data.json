@@ -1,6 +1,226 @@
 {
-  "generated_at": "2026-09-30T13:51:14.355819+00:00",
+  "generated_at": "2026-09-30T18:39:26.678253+00:00",
   "articles": [
+    {
+      "id": "96ccebbc6966e6c8b074db6078c6e5cb",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "summary": "",
+      "published_at": "2026-09-30T18:23:57+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "22d4a48141b8f30a171e02aaa1583056",
+      "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats",
+      "link": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/",
+      "summary": "",
+      "published_at": "2026-09-30T18:16:04+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dad659e5117479161959e086566f5338",
+      "title": "The AI Tamagotchis are coming",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetite for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]",
+      "published_at": "2026-09-30T18:07:38+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "98170100eb01291d77c9d165aba30776",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "summary": "",
+      "published_at": "2026-09-30T17:45:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4f3a1ecf3529e944146c32584fea9197",
+      "title": "The ugly economics of consumer AI",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "summary": "",
+      "published_at": "2026-09-30T17:24:45+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "63e04a847c4aeb621ac9cdb32a15f7e9",
+      "title": "Meta dodges billions in US taxes by calling its AI data centers experiments",
+      "link": "https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/",
+      "summary": "",
+      "published_at": "2026-09-30T17:22:34+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d01ca86ed8a8590ac0f5bd2c954f4467",
+      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [&#8230;]",
+      "published_at": "2026-09-30T17:15:49+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5c71198befd816589bbbe9b1ede3f8ed",
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "summary": "",
+      "published_at": "2026-09-30T16:24:23+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8a2bacb54bf7108c001f663d9aec339d",
+      "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+      "link": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
+      "summary": "",
+      "published_at": "2026-09-30T16:20:04+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "85879d5a598d8b25dd6fb87ca5e78980",
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "summary": "",
+      "published_at": "2026-09-30T16:00:24+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5f21a9cf01c563748c125a0dd18f1c15",
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "summary": "",
+      "published_at": "2026-09-30T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f69cfca92eba120e122ce311ee439f5b",
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "summary": "",
+      "published_at": "2026-09-30T15:56:28+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9ba00dfd9f55b491ec0ce21b7a57ce50",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans [&#8230;]",
+      "published_at": "2026-09-30T15:18:49+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cd9a3e21e7e6036368fa7cb076b0315b",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "",
+      "published_at": "2026-09-30T15:03:07+00:00",
+      "source": "Google DeepMind",
+      "category": "research",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "539ab87b46d839fcb2dbc5c15d9eb86a",
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic. Digiday first reported on the pilot program, [&#8230;]",
+      "published_at": "2026-09-30T14:51:49+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0989b21cc68630734e347275562374df",
+      "title": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
+      "link": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/",
+      "summary": "",
+      "published_at": "2026-09-30T14:37:24+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e1c4cc69e3d3ed85cb29d97ee053a52a",
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-09-30T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "41f983941465d03dddf9b1ecd87d7457",
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new [&#8230;]",
+      "published_at": "2026-09-30T14:30:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "55f8ba16801846fcc68c45edc202ed97",
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "summary": "",
+      "published_at": "2026-09-30T14:27:11+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8988dc5fbbd873f564c355ebf4c80ed7",
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+      "summary": "",
+      "published_at": "2026-09-30T14:15:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "e16f75203a55c394021002c35c5df140",
       "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
@@ -46,6 +266,17 @@
       "body_preview": ""
     },
     {
+      "id": "ac5631de052ca7b9ad16971485720729",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "summary": "",
+      "published_at": "2026-09-30T10:30:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "967428f15e4981f562cafe6e149cd394",
       "title": "Google is paying almost no publishers almost nothing for content used in AI answers",
       "link": "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/",
@@ -54,6 +285,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "213656d438048725d298307794d01c02",
+      "title": "Helping small businesses put AI to work",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "summary": "",
+      "published_at": "2026-09-30T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -442,6 +684,17 @@
       "body_preview": ""
     },
     {
+      "id": "6d6518170245f0c76a25d2dfee4468e7",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "link": "https://huggingface.co/blog/open-tts-leaderboard",
+      "summary": "",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "b77c3580ca74ffe6f149caaa44edaadd",
       "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
       "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
@@ -640,116 +893,6 @@
       "body_preview": ""
     },
     {
-      "id": "b609c77cd5e2cecf688e99e9927594ff",
-      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "summary": "",
-      "published_at": "2026-09-29T17:15:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "528e11664284051e25c8618292d00301",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "summary": "",
-      "published_at": "2026-09-29T17:15:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "74fe688d939d02afa1d09b55fda6e713",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [&#8230;]",
-      "published_at": "2026-09-29T17:15:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6f11906bec0fcf60fda91375cfeeb9f5",
-      "title": "OpenAI launches always-on Dots agents to rival Meta's Muse",
-      "link": "https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse/",
-      "summary": "",
-      "published_at": "2026-09-29T17:14:45+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e430e46ad0ac19b1ef8b483f2a474fe9",
-      "title": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
-      "link": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/",
-      "summary": "",
-      "published_at": "2026-09-29T17:14:41+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c01916d6c05e5bbc94dcd13fe6561292",
-      "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
-      "link": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
-      "summary": "",
-      "published_at": "2026-09-29T17:14:27+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "904bfb14e81cf27a124b638640eacc1a",
-      "title": "AMD buys AI world model startup World Labs for $8.2 billion",
-      "link": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/",
-      "summary": "",
-      "published_at": "2026-09-29T17:13:51+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a50879655992713ca78ce9ae13c6d39d",
-      "title": "Protesters gather at OpenAI’s DevDay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to sponsor a rally outside [&#8230;]",
-      "published_at": "2026-09-29T17:12:27+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "254defd8e3ccebd0f20fb2963b902a68",
-      "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "summary": "",
-      "published_at": "2026-09-29T16:55:56+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7b43399f1a3425438fccf7b79b02f8f6",
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "summary": "It&#8217;s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse. However, unlike Muse, which is available for free, [&#8230;]",
-      "published_at": "2026-09-29T16:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6d28d3fc4335a049ec84de7830121e59",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
@@ -761,50 +904,6 @@
       "body_preview": ""
     },
     {
-      "id": "5c9f06a39b681dc9a48bc5053ced36cb",
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "summary": "",
-      "published_at": "2026-09-29T15:12:07+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "38104222e9cc687a5605b3c92438ef3a",
-      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch [&#8230;]",
-      "published_at": "2026-09-29T14:08:21+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "21f356596f728012977329236b32a167",
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "summary": "",
-      "published_at": "2026-09-29T13:53:01+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6bcde1d6ab1d7b8745f39fc75d9aead6",
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "summary": "",
-      "published_at": "2026-09-29T13:47:30+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "9449644a110c392ba2074c9335bcf1ae",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
@@ -812,39 +911,6 @@
       "published_at": "2026-09-29T13:07:00+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f4fdcf4bb9d4aed6a1ab380595e5ca01",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "summary": "",
-      "published_at": "2026-09-29T12:45:05+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e48d119f6fad03b6c6b483d319a3fde2",
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "summary": "",
-      "published_at": "2026-09-29T12:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "da192cc539ab909cb5caa01affe57a3a",
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with [&#8230;]",
-      "published_at": "2026-09-29T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -904,17 +970,6 @@
       "body_preview": ""
     },
     {
-      "id": "3352e1a62345ca14a8bdff4c5cf93e51",
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "summary": "",
-      "published_at": "2026-09-29T05:13:43+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "70263609fbb5940a797c8335333ee56a",
       "title": "Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak",
       "link": "https://www.marktechpost.com/2026/09/28/alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex-voice-model-trained-to-think-act-and-decide-when-to-speak/",
@@ -933,17 +988,6 @@
       "published_at": "2026-09-29T04:20:59+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "19102d3aefc2698ed474705cb5aeb123",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "summary": "",
-      "published_at": "2026-09-29T00:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -970,9 +1014,9 @@
       "body_preview": ""
     },
     {
-      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -981,9 +1025,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -1168,20 +1212,9 @@
       "body_preview": ""
     },
     {
-      "id": "113bd7078be54f4224b0a91245f83ed6",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "914792e1f3387f89997d252fabbf4091",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "id": "78b1894424ffd029a533256504dd0fca",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "summary": "",
       "published_at": "2026-09-23T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1201,9 +1234,20 @@
       "body_preview": ""
     },
     {
-      "id": "78b1894424ffd029a533256504dd0fca",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "id": "113bd7078be54f4224b0a91245f83ed6",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "914792e1f3387f89997d252fabbf4091",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "summary": "",
       "published_at": "2026-09-23T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1366,9 +1410,9 @@
       "body_preview": ""
     },
     {
-      "id": "079c217c94aeb350aa98701f0f24d009",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "id": "438598559de8531a8d81241123ab25cc",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "summary": "",
       "published_at": "2026-09-21T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1377,9 +1421,9 @@
       "body_preview": ""
     },
     {
-      "id": "438598559de8531a8d81241123ab25cc",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "id": "079c217c94aeb350aa98701f0f24d009",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "summary": "",
       "published_at": "2026-09-21T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1542,28 +1586,6 @@
       "body_preview": "Today, we are introducing the Life Sciences Verification Program (LSVP), which gives life science professionals access to our Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work. We have already onboarded dozens of organizations through an early-access program, and are now opening applications to the broader life science community ( apply here ). The program is launching in beta, initially for teams and institutions. We will continue to improve the program and expand access to individual Pro and Max plans over time. The LSVP is designed to "
     },
     {
-      "id": "894c52716b7954b1aa80a58907b34c06",
-      "title": "Our framework for reporting model misalignment",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework",
-      "summary": "",
-      "published_at": "2026-09-16T17:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "517b7abc8755bca6864486d964594770",
-      "title": "Helping older adults use AI in everyday life",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "summary": "",
-      "published_at": "2026-09-16T16:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "29ab5877ede78d1b9a42b8e3d328dc29",
       "title": "Developing Enterprise Frontier Safeguards with our customers",
       "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
@@ -1628,28 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
-    },
-    {
-      "id": "2ba306006c3971074f5aac01c35c81d7",
-      "title": "Improving Fable 5's biology safeguards",
-      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to…",
-      "published_at": "2026-08-07T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
-    },
-    {
-      "id": "6c472be9947730dd861b28c5195a4d78",
-      "title": "Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
