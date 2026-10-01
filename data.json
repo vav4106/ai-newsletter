@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-01T19:50:52.228553+00:00",
+  "generated_at": "2026-10-01T23:31:37.233504+00:00",
   "articles": [
+    {
+      "id": "d91871fc7adde461ed371efd8d9aefbf",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "summary": "",
+      "published_at": "2026-10-01T21:08:11+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "030df3b67eb002f4cb1fc50142ccf7b3",
       "title": "Google’s new Guided Vision feature can help you read the fine print",
@@ -24,8 +35,8 @@
       "body_preview": ""
     },
     {
-      "id": "9977997858a48f8ca855ca555c7442c9",
-      "title": "Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground",
+      "id": "7d01b4c10b36f27242d90a722eb80484",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
       "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
       "summary": "",
       "published_at": "2026-10-01T19:18:03+00:00",
@@ -629,6 +640,17 @@
       "body_preview": ""
     },
     {
+      "id": "0a78eba0c195fd46187cf6db16832a4f",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "link": "https://openai.com/index/the-den-family-social",
+      "summary": "",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "11c0edb572afb06e188ba0c8dca4b173",
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
       "link": "https://www.anthropic.com/news/barclays-scales-claude",
@@ -838,17 +860,6 @@
       "body_preview": ""
     },
     {
-      "id": "5f21a9cf01c563748c125a0dd18f1c15",
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "summary": "",
-      "published_at": "2026-09-30T16:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "9ba00dfd9f55b491ec0ce21b7a57ce50",
       "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
@@ -1014,9 +1025,9 @@
       "body_preview": ""
     },
     {
-      "id": "6eb530af650a68c5f128e874c46ec106",
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
+      "id": "d1517ea2f2a29007dca93a51e75a1196",
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
       "summary": "",
       "published_at": "2026-09-29T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1025,9 +1036,9 @@
       "body_preview": ""
     },
     {
-      "id": "d1517ea2f2a29007dca93a51e75a1196",
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "id": "6eb530af650a68c5f128e874c46ec106",
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
       "summary": "",
       "published_at": "2026-09-29T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1058,9 +1069,9 @@
       "body_preview": ""
     },
     {
-      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -1069,9 +1080,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -1256,9 +1267,9 @@
       "body_preview": ""
     },
     {
-      "id": "668951742746f621b259e268d22ab925",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://openai.com/index/ringg",
+      "id": "914792e1f3387f89997d252fabbf4091",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "summary": "",
       "published_at": "2026-09-23T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1278,9 +1289,9 @@
       "body_preview": ""
     },
     {
-      "id": "914792e1f3387f89997d252fabbf4091",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "id": "78b1894424ffd029a533256504dd0fca",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "summary": "",
       "published_at": "2026-09-23T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1289,9 +1300,9 @@
       "body_preview": ""
     },
     {
-      "id": "78b1894424ffd029a533256504dd0fca",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "id": "668951742746f621b259e268d22ab925",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
       "summary": "",
       "published_at": "2026-09-23T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1454,9 +1465,9 @@
       "body_preview": ""
     },
     {
-      "id": "438598559de8531a8d81241123ab25cc",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "id": "079c217c94aeb350aa98701f0f24d009",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "summary": "",
       "published_at": "2026-09-21T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1465,9 +1476,9 @@
       "body_preview": ""
     },
     {
-      "id": "079c217c94aeb350aa98701f0f24d009",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "id": "438598559de8531a8d81241123ab25cc",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "summary": "",
       "published_at": "2026-09-21T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1584,17 +1595,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We're partnering with Accenture on independent evaluation of frontier AI. This is an important step toward the commitment, made in our CEO’s essay “We Must Pace the Frontier,” to embed evaluators within Anthropic. The partnership will be led by Faculty, Accenture’s specialist AI business, and will include evaluating and red-teaming models, conducting alignment assessments, and testing model safeguards. Accenture helps businesses and governments deploy AI across many industries. Their understanding of how enterprises use AI in practice informs their safety approach, and they will bring that per"
-    },
-    {
-      "id": "f6a487e8559ad4f0599703cc6e32739b",
-      "title": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "summary": "UN System Data Commons Data webpage",
-      "published_at": "2026-09-17T20:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
     },
     {
       "id": "8a9fa33a28cf586bbcd2bcea1ec22ea7",
