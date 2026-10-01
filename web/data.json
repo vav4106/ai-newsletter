@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-10-01T07:31:46.533255+00:00",
+  "generated_at": "2026-10-01T14:44:22.100385+00:00",
   "articles": [
+    {
+      "id": "7b3f0510db225467f30709b35b8a84f4",
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we [&#8230;]",
+      "published_at": "2026-10-01T14:36:50+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a9e57026defd1634ea71e6d73fb5474b",
+      "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
+      "link": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/",
+      "summary": "",
+      "published_at": "2026-10-01T14:26:54+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bd26c917a29748433365b83c3d94aba3",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "summary": "",
+      "published_at": "2026-10-01T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0f238987820a8b73bc74e7ed32819bf0",
+      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world&#8217;s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of [&#8230;]",
+      "published_at": "2026-10-01T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "23b61a2fad6952c6deb4c8193c1a8bd2",
+      "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
+      "link": "https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/",
+      "summary": "",
+      "published_at": "2026-10-01T13:19:33+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d06f28e71905ef6fe8e8c07307b299d5",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "summary": "",
+      "published_at": "2026-10-01T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dd470a449281b4633998ace1892ff309",
+      "title": "AI beats Stratego's greatest player, ending one of the last human strongholds in board games",
+      "link": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/",
+      "summary": "",
+      "published_at": "2026-10-01T12:58:02+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3c4ef46fc9b37c01cf3e1f87ecf76d52",
+      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+      "link": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
+      "summary": "",
+      "published_at": "2026-10-01T12:05:49+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e44475b305ee955835b589380111c323",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "summary": "",
+      "published_at": "2026-10-01T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "3dfa6d8b8328bc8451973e0b3b5807b3",
       "title": "NVIDIA Releases Kumo Tabular: Open Tabular Foundation Models That Predict New Rows in a Single Forward Pass",
@@ -365,6 +464,17 @@
       "body_preview": ""
     },
     {
+      "id": "11c0edb572afb06e188ba0c8dca4b173",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "link": "https://www.anthropic.com/news/barclays-scales-claude",
+      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations. Barclays is extending Claude across the bank to accelerate software development, modernize legacy systems, and improve operational efficiency. As part of this rollout, Barclays expects Claude Code adoption to reach 50% of its…",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations. Barclays is extending Claude across the bank to accelerate software development, modernize legacy systems, and improve operational efficiency. As part of this rollout, Barclays expects Claude Code adoption to reach 50% of its developer population by the end of 2026, rising to a majority of software engineers in 2027. Barclays builds with Claude to better serve customers Integrating AI across a large, complex, and highly reg"
+    },
+    {
       "id": "38aabd329887b32b1c51e78d01fb2c58",
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
@@ -706,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "f44256c1d9e77e421106f0f2b056d072",
-      "title": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
-      "link": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
-      "summary": "",
-      "published_at": "2026-09-30T11:05:05+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6c1119e62a7278c284f6c253719f56ff",
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
       "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
@@ -739,17 +838,6 @@
       "body_preview": ""
     },
     {
-      "id": "967428f15e4981f562cafe6e149cd394",
-      "title": "Google is paying almost no publishers almost nothing for content used in AI answers",
-      "link": "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/",
-      "summary": "",
-      "published_at": "2026-09-30T10:17:15+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "213656d438048725d298307794d01c02",
       "title": "Helping small businesses put AI to work",
       "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
@@ -758,17 +846,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d35858e707a1a8a0a296efb21bfa65af",
-      "title": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
-      "link": "https://the-decoder.com/trump-and-tech-ceos-sign-an-ai-code-of-conduct-thats-only-morally-binding/",
-      "summary": "",
-      "published_at": "2026-09-30T09:46:10+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -805,17 +882,6 @@
       "body_preview": ""
     },
     {
-      "id": "921aa16bf10faecc789da5739dcb08d9",
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
-      "published_at": "2026-09-30T00:19:13+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6d6518170245f0c76a25d2dfee4468e7",
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "link": "https://huggingface.co/blog/open-tts-leaderboard",
@@ -838,17 +904,6 @@
       "body_preview": ""
     },
     {
-      "id": "a34cb85c512fcc68e88a9eb87126013a",
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said [&#8230;]",
-      "published_at": "2026-09-29T22:25:45+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "eb94cb20dbe24fd7c9872aa4e4c89a0b",
       "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
       "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
@@ -867,50 +922,6 @@
       "published_at": "2026-09-29T21:47:09+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "aea0c89fb8761a1f118fd344eb3ed879",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "summary": "",
-      "published_at": "2026-09-29T20:15:47+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6daecdaec35fd10aecedf4c340930302",
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "summary": "",
-      "published_at": "2026-09-29T19:52:37+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8b9d6e7b91ccf18fa203cfc89bdd5e53",
-      "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
-      "link": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
-      "summary": "",
-      "published_at": "2026-09-29T19:24:12+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a55e6b65e42f449cebc190837ccdf295",
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "summary": "",
-      "published_at": "2026-09-29T18:35:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1553,17 +1564,6 @@
       "body_preview": ""
     },
     {
-      "id": "9ad72d98e5a8e8be2c9dd3a0e3bbd55a",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "summary": "",
-      "published_at": "2026-09-17T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "8a9fa33a28cf586bbcd2bcea1ec22ea7",
       "title": "Introducing the Life Sciences Verification Program",
       "link": "https://www.anthropic.com/news/life-sciences-verification-program",
@@ -1641,15 +1641,15 @@
       "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
     },
     {
-      "id": "2ba306006c3971074f5aac01c35c81d7",
-      "title": "Improving Fable 5's biology safeguards",
-      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to…",
-      "published_at": "2026-08-07T00:00:00+00:00",
+      "id": "6c472be9947730dd861b28c5195a4d78",
+      "title": "Responsible Scaling Policy",
+      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
+      "published_at": "",
       "source": "Anthropic News",
       "category": "company",
       "importance": "high",
-      "body_preview": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. 1 Fable 5 will thus be able to assist with a wider range of biology tasks. In practice, users should see far fewer fallbacks on everyday health and educational questions—for example, interpreting lab results, understanding symptoms, an"
+      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
