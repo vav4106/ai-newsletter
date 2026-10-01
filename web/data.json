@@ -1,6 +1,171 @@
 {
-  "generated_at": "2026-10-01T14:44:22.100385+00:00",
+  "generated_at": "2026-10-01T19:50:52.228553+00:00",
   "articles": [
+    {
+      "id": "030df3b67eb002f4cb1fc50142ccf7b3",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around [&#8230;]",
+      "published_at": "2026-10-01T19:47:51+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "92891621f3d41303ad8c30f87414ea19",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "summary": "",
+      "published_at": "2026-10-01T19:21:53+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9977997858a48f8ca855ca555c7442c9",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground",
+      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "summary": "",
+      "published_at": "2026-10-01T19:18:03+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5bb6b21ad3e49921dafe90a4ba30bc5b",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "summary": "",
+      "published_at": "2026-10-01T18:14:42+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ce2c17cc9c124ab8af9b12ccbac7d05d",
+      "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
+      "link": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
+      "summary": "",
+      "published_at": "2026-10-01T18:03:40+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c8af0667057705487a69c2453c7ac390",
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "summary": "",
+      "published_at": "2026-10-01T17:50:19+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e73298ba7a527380e7114f0b894660d0",
+      "title": "Ideogram says its new model can edit part of an image without messing up the rest",
+      "link": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
+      "summary": "",
+      "published_at": "2026-10-01T17:33:03+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b21feba031800b4b8ac7a8c22474d2e9",
+      "title": "Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI",
+      "link": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
+      "summary": "Cohere has released Embed 5, a new embedding model family. It targets enterprise search, RAG, and agentic retrieval. The model family ships in 2 tiers. Embed 5 Pro targets maximum retrieval quality. Embed 5 Fast targets latency and cost on the live query path. Both accept text, images, and fused text plus image inputs. Both [&#8230;] The post Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI appeared first on MarkTechPost .",
+      "published_at": "2026-10-01T17:13:12+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dc0d183c0ba98bf5fd406bd8d4609a6f",
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC [&#8230;]",
+      "published_at": "2026-10-01T17:12:21+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "827c3927c0968265f53ae99a53ed78d2",
+      "title": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement",
+      "summary": "",
+      "published_at": "2026-10-01T17:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "be86777f4f94bc1b5297ced1ee665166",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "summary": "",
+      "published_at": "2026-10-01T16:49:22+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ad694d6b87576bd2bb21f07e5a5f7a45",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "summary": "",
+      "published_at": "2026-10-01T16:44:35+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "703e7abb9b1d75927e4f14957e53381b",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "summary": "",
+      "published_at": "2026-10-01T16:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "ab39cf465cdfcc08350e2bf199de5313",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "summary": "",
+      "published_at": "2026-10-01T15:12:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "246f6279981ce34125ebe90060f15ab2",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "link": "https://huggingface.co/blog/allenai/olmocore3",
+      "summary": "",
+      "published_at": "2026-10-01T15:01:43+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "7b3f0510db225467f30709b35b8a84f4",
       "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
@@ -662,17 +827,6 @@
       "body_preview": ""
     },
     {
-      "id": "8a2bacb54bf7108c001f663d9aec339d",
-      "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-      "link": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
-      "summary": "",
-      "published_at": "2026-09-30T16:20:04+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "85879d5a598d8b25dd6fb87ca5e78980",
       "title": "DoorDash launches an AI agent you can text to order food",
       "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
@@ -689,17 +843,6 @@
       "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
       "summary": "",
       "published_at": "2026-09-30T16:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f69cfca92eba120e122ce311ee439f5b",
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-      "summary": "",
-      "published_at": "2026-09-30T15:56:28+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -735,83 +878,6 @@
       "published_at": "2026-09-30T14:51:49+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0989b21cc68630734e347275562374df",
-      "title": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
-      "link": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/",
-      "summary": "",
-      "published_at": "2026-09-30T14:37:24+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e1c4cc69e3d3ed85cb29d97ee053a52a",
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "summary": "",
-      "published_at": "2026-09-30T14:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "41f983941465d03dddf9b1ecd87d7457",
-      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new [&#8230;]",
-      "published_at": "2026-09-30T14:30:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "55f8ba16801846fcc68c45edc202ed97",
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "summary": "",
-      "published_at": "2026-09-30T14:27:11+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8988dc5fbbd873f564c355ebf4c80ed7",
-      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-      "summary": "",
-      "published_at": "2026-09-30T14:15:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e16f75203a55c394021002c35c5df140",
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
-      "published_at": "2026-09-30T12:24:32+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5145a55c5baeac5b0cc59442dc6ef328",
-      "title": "Airbnb adds AI search, more social features",
-      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "summary": "",
-      "published_at": "2026-09-30T12:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -893,28 +959,6 @@
       "body_preview": ""
     },
     {
-      "id": "b77c3580ca74ffe6f149caaa44edaadd",
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "summary": "",
-      "published_at": "2026-09-29T23:30:55+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "eb94cb20dbe24fd7c9872aa4e4c89a0b",
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "summary": "",
-      "published_at": "2026-09-29T22:20:59+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "a2729277fea4d4c763681a5cf5ed5400",
       "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
       "link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
@@ -931,17 +975,6 @@
       "link": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
       "summary": "OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents powered by GPT-6 Astra. Each dot gets its own cloud computer and browser. It works across 4,000+ apps through ChatGPT plugins and keeps going after you log off. Is it deployable today? Yes, as a managed product. Dots are rolling out in [&#8230;] The post OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers appeared first on MarkTechPost .",
       "published_at": "2026-09-29T18:30:13+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e84796a0e5a7175917945e780e50808c",
-      "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes",
-      "link": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
-      "summary": "Nebius and NVIDIA are running the 2026 Physical AI Awards for startups with products in the field. Five category winners each get $150,000 in compute credits, joint promotion, executive mentorship, and seats at an executive dinner. Applications close October 25. The post Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes appeared first on MarkTechPost .",
-      "published_at": "2026-09-29T17:48:10+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -981,9 +1014,9 @@
       "body_preview": ""
     },
     {
-      "id": "d1517ea2f2a29007dca93a51e75a1196",
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "id": "6eb530af650a68c5f128e874c46ec106",
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
       "summary": "",
       "published_at": "2026-09-29T10:00:00+00:00",
       "source": "OpenAI News",
@@ -992,9 +1025,9 @@
       "body_preview": ""
     },
     {
-      "id": "6eb530af650a68c5f128e874c46ec106",
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
+      "id": "d1517ea2f2a29007dca93a51e75a1196",
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
       "summary": "",
       "published_at": "2026-09-29T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1025,9 +1058,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -1036,9 +1069,9 @@
       "body_preview": ""
     },
     {
-      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -1223,17 +1256,6 @@
       "body_preview": ""
     },
     {
-      "id": "78b1894424ffd029a533256504dd0fca",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "summary": "",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "668951742746f621b259e268d22ab925",
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
       "link": "https://openai.com/index/ringg",
@@ -1259,6 +1281,17 @@
       "id": "914792e1f3387f89997d252fabbf4091",
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "summary": "",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "78b1894424ffd029a533256504dd0fca",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "summary": "",
       "published_at": "2026-09-23T12:00:00+00:00",
       "source": "OpenAI News",
@@ -1617,39 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science program , which provides free credits to researchers working on high-impact scientific projects. Starting today, we are announcing a significant expansion of these efforts. We are opening 10,000 seats for s"
-    },
-    {
-      "id": "9e2952193ebef9b24bbf3cbbf04c8f90",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "summary": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source…",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
-    },
-    {
-      "id": "ff0d3111b8b01ad536f3a23d5956f676",
-      "title": "How Claude’s text watermark works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether…",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change. To summarize: We use a method of watermarking that does not have any practical impact on the quality or content of Claude’s outputs; The d"
-    },
-    {
-      "id": "6c472be9947730dd861b28c5195a4d78",
-      "title": "Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
