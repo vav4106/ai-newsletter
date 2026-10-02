@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-02T19:55:44.564187+00:00",
+  "generated_at": "2026-10-02T23:22:30.807071+00:00",
   "articles": [
+    {
+      "id": "efaf74fcada6863cd69860c9956e915c",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "summary": "",
+      "published_at": "2026-10-02T21:09:14+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bc1a3307fce9b4dd964e37cb884f679c",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
+      "published_at": "2026-10-02T21:08:37+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fe4c85e762e91c67f77d4b60d21dffea",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
+      "published_at": "2026-10-02T20:08:40+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c66a8ba13a394ef4a298182cdb221cdc",
+      "title": "AI music generator Suno can now create spoken audio with matching background music",
+      "link": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
+      "summary": "",
+      "published_at": "2026-10-02T20:07:36+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "e1bec3806b4c88604e27b53f6725b76b",
       "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
@@ -882,28 +926,6 @@
       "body_preview": ""
     },
     {
-      "id": "7b3f0510db225467f30709b35b8a84f4",
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we [&#8230;]",
-      "published_at": "2026-10-01T14:36:50+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a9e57026defd1634ea71e6d73fb5474b",
-      "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
-      "link": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/",
-      "summary": "",
-      "published_at": "2026-10-01T14:26:54+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "bd26c917a29748433365b83c3d94aba3",
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
       "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
@@ -915,33 +937,11 @@
       "body_preview": ""
     },
     {
-      "id": "0f238987820a8b73bc74e7ed32819bf0",
-      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world&#8217;s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of [&#8230;]",
-      "published_at": "2026-10-01T14:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "d06f28e71905ef6fe8e8c07307b299d5",
       "title": "Hearing tech startup Legato launches its AI hearing glasses",
       "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
       "summary": "",
       "published_at": "2026-10-01T13:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e44475b305ee955835b589380111c323",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "summary": "",
-      "published_at": "2026-10-01T12:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
