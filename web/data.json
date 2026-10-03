@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-02T23:22:30.807071+00:00",
+  "generated_at": "2026-10-03T02:08:54.248486+00:00",
   "articles": [
+    {
+      "id": "c248df2d7d103a5b1311ed0df8f478a2",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "summary": "",
+      "published_at": "2026-10-03T00:45:39+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "efaf74fcada6863cd69860c9956e915c",
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -931,17 +942,6 @@
       "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
       "summary": "",
       "published_at": "2026-10-01T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d06f28e71905ef6fe8e8c07307b299d5",
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "summary": "",
-      "published_at": "2026-10-01T13:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
