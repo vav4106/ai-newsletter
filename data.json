@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-03T08:00:46.409808+00:00",
+  "generated_at": "2026-10-03T13:07:20.862620+00:00",
   "articles": [
+    {
+      "id": "91d7ecb49ce21bea5befa8bf350d8f0c",
+      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
+      "link": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
+      "summary": "",
+      "published_at": "2026-10-03T10:21:23+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a5200390b202095c626e5b625e022f2a",
+      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+      "link": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
+      "summary": "",
+      "published_at": "2026-10-03T09:19:23+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cd735633d0c9572ab16875b4717b2887",
+      "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
+      "link": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
+      "summary": "",
+      "published_at": "2026-10-03T08:31:04+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0a75b0d17a2025fd96826388b97583ea",
+      "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
+      "link": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+      "summary": "",
+      "published_at": "2026-10-03T08:06:35+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "8659385af61ebbc2b0f91351d37d0790",
       "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
@@ -398,28 +442,6 @@
       "body_preview": ""
     },
     {
-      "id": "c89e36f0c54f615ec5d9af21e60f4b10",
-      "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
-      "link": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
-      "summary": "",
-      "published_at": "2026-10-02T09:20:39+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b0a6b0b5405255934dba04455f6c6c59",
-      "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
-      "link": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/",
-      "summary": "",
-      "published_at": "2026-10-02T09:09:21+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "14e3c9a9f47a182690a053a0ced29e26",
       "title": "Don’t be fooled—LLMs don’t reason",
       "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
@@ -428,17 +450,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d0e76460081fd065ae5c0a614dc6c536",
-      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-      "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
-      "summary": "",
-      "published_at": "2026-10-02T07:44:44+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -558,17 +569,6 @@
       "summary": "",
       "published_at": "2026-10-01T18:14:42+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ce2c17cc9c124ab8af9b12ccbac7d05d",
-      "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
-      "link": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
-      "summary": "",
-      "published_at": "2026-10-01T18:03:40+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
