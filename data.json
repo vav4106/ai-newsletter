@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-04T07:27:16.984445+00:00",
+  "generated_at": "2026-10-04T13:21:25.925649+00:00",
   "articles": [
+    {
+      "id": "d3b81c3cdb91f75f41fb5d165aa54c37",
+      "title": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
+      "link": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
+      "summary": "",
+      "published_at": "2026-10-04T12:40:37+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d75b6ba4aae81bd64070c7b709b5d9e5",
+      "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+      "link": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
+      "summary": "",
+      "published_at": "2026-10-04T10:10:12+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5ef4d93c25b05baaae6d6e4d468d2a3f",
+      "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
+      "link": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
+      "summary": "",
+      "published_at": "2026-10-04T08:47:52+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a0cf3f449f681e47696c875be0304f56",
+      "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+      "link": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
+      "summary": "Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's Rekor log and the binaries are reproducibly buildable, so central differential privacy can be checked externally. Gboard already uses it for English and Japanese next-word prediction. The post Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy appeared first on MarkTechPost .",
+      "published_at": "2026-10-04T07:29:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5da66b12d06bb45419a28210e65d9820",
+      "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+      "link": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/",
+      "summary": "",
+      "published_at": "2026-10-04T07:28:54+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8816e102517d8a33b5e991a87708e511",
+      "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
+      "link": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
+      "summary": "Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token context and per-request reasoning effort, and its Apache 2.0 FP8 weights run on a single B200 or H200. The post Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters appeared first on MarkTechPost .",
+      "published_at": "2026-10-04T07:01:04+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "072ff857c8ad373f5264bab83ce915b1",
       "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
@@ -167,28 +233,6 @@
       "body_preview": ""
     },
     {
-      "id": "0a75b0d17a2025fd96826388b97583ea",
-      "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
-      "link": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
-      "summary": "",
-      "published_at": "2026-10-03T08:06:35+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8659385af61ebbc2b0f91351d37d0790",
-      "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
-      "link": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
-      "summary": "",
-      "published_at": "2026-10-03T07:12:09+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "a5a129af5b0c30b5bfd2d59c982dcb35",
       "title": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
       "link": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
@@ -284,28 +328,6 @@
       "published_at": "2026-10-02T20:08:40+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c66a8ba13a394ef4a298182cdb221cdc",
-      "title": "AI music generator Suno can now create spoken audio with matching background music",
-      "link": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
-      "summary": "",
-      "published_at": "2026-10-02T20:07:36+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e1bec3806b4c88604e27b53f6725b76b",
-      "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
-      "link": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
-      "summary": "",
-      "published_at": "2026-10-02T19:41:05+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -442,17 +464,6 @@
       "body_preview": ""
     },
     {
-      "id": "0881aac33ca56bd43c5bda5217843b6c",
-      "title": "Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks",
-      "link": "https://www.marktechpost.com/2026/10/02/datalab-introduces-omniextractbench-to-fix-bias-and-opacity-in-extraction-benchmarks/",
-      "summary": "Content-based row matching, 6 per-value verdicts and a null rule make OmniExtractBench an extraction benchmark anyone can audit. The post Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks appeared first on MarkTechPost .",
-      "published_at": "2026-10-02T15:23:35+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "024b363f63bbc7f5265438539c42c1ca",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "link": "https://huggingface.co/blog/allenai/astabrief",
@@ -538,17 +549,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0eece07862662af4c42519a698ee5c9c",
-      "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
-      "link": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
-      "summary": "AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores 0.723 on the JevBench public set, which makes it a fast local option for routing, tool selection and guardrails in AI agents. The post AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms appeared first on MarkTechPost .",
-      "published_at": "2026-10-02T06:35:00+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
