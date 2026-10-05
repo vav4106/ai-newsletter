@@ -1,6 +1,259 @@
 {
-  "generated_at": "2026-10-05T08:55:29.183432+00:00",
+  "generated_at": "2026-10-05T17:31:24.683580+00:00",
   "articles": [
+    {
+      "id": "2eebc0db0ff33642737d6d68296ac8c5",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "summary": "",
+      "published_at": "2026-10-05T17:29:22+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cef88ebac461483ed28fa321d540e427",
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic. The interruption came [&#8230;]",
+      "published_at": "2026-10-05T16:55:42+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2c62caebc2b6dcefa2a9f599ad0a6783",
+      "title": "Sam Altman says ‘some bad things&#8217; will happen but AI is totally worth it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI, [&#8230;]",
+      "published_at": "2026-10-05T16:44:21+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1b27e1fe54b769b06e98bfdbaf535f9e",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "summary": "",
+      "published_at": "2026-10-05T16:43:35+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8d3bec0fabcc4a22e61f56c04a4dd7c0",
+      "title": "Most Americans want AI development to slow down or stop entirely, new poll finds",
+      "link": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/",
+      "summary": "",
+      "published_at": "2026-10-05T16:37:08+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5c013564e803484d9415efa3af803ec6",
+      "title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
+      "link": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/",
+      "summary": "",
+      "published_at": "2026-10-05T16:00:12+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "247c5acb942f7110954ffeeb3d8fb4dd",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+      "published_at": "2026-10-05T15:47:52+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "1f660ab1fdbc42136d41b612c39bdfff",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "summary": "",
+      "published_at": "2026-10-05T15:14:24+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "513466985439b39b910e0f64413305fc",
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "summary": "",
+      "published_at": "2026-10-05T15:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "6c1065502b723ef46970aaa365db35ba",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-10-05T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f8c7d726ba98e9d9f6e1511c544de202",
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "summary": "",
+      "published_at": "2026-10-05T14:35:09+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c1376d09fd235f6b578d6b0e71b994db",
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-10-05T14:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4271ba158053374d580e68d9de6346af",
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech industry at this moment in [&#8230;]",
+      "published_at": "2026-10-05T14:30:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f5c324a9330b486a0795d496334304ae",
+      "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
+      "link": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
+      "summary": "",
+      "published_at": "2026-10-05T14:12:50+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4bde38de9a5bf7ddb44768a2180f8eca",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-10-05T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a6d880176ef7483d93adece7eb45a079",
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features [&#8230;]",
+      "published_at": "2026-10-05T13:47:14+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "870e155cc41b4c40ed42d7fe73259812",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
+      "published_at": "2026-10-05T13:29:32+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "68c7a52a6f72a8785be6b3649e18c158",
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's [&#8230;]",
+      "published_at": "2026-10-05T13:09:48+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "122004a303141cdcd11f15582d9c95b3",
+      "title": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
+      "link": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/",
+      "summary": "",
+      "published_at": "2026-10-05T12:37:32+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dfe63c1b1da19a0a1e630e8c9ecf8233",
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "summary": "",
+      "published_at": "2026-10-05T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8498e4abf0d02b2742d9c2c9fcb4e437",
+      "title": "AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds",
+      "link": "https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/",
+      "summary": "",
+      "published_at": "2026-10-05T11:46:18+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f214efe038e44c535b7f6c44fa69adf9",
+      "title": "Building advertising for the way people use AI",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "summary": "",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "c7a83cedcee584508713ecdfe4ca945f",
+      "title": "Our minds aren’t equipped to handle AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, [&#8230;]",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "4fee6efc64fe84b91634ef247a5b26fa",
       "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
@@ -32,6 +285,17 @@
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d0eb7816ee979e58a3aca8e76fdf7c08",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -552,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "f6d7ded7124b970c985d4469cfdcc074",
-      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
-      "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
-      "summary": "",
-      "published_at": "2026-10-03T18:56:30+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6a11fa57811585df4b8483525cb9c8bc",
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
@@ -607,67 +860,12 @@
       "body_preview": ""
     },
     {
-      "id": "0074f42fcce277b93f7bfff63245c440",
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]",
-      "published_at": "2026-10-03T14:31:56+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1f364b43a078ddd494d941db4e7b5d7c",
-      "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
-      "link": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
-      "summary": "",
-      "published_at": "2026-10-03T14:28:51+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8d5fa83ee2a64ea033e765dc0e600473",
-      "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
-      "link": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
-      "summary": "",
-      "published_at": "2026-10-03T14:01:14+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "617e0ae720482e432aca8874c43b654b",
       "title": "All the AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "summary": "",
       "published_at": "2026-10-03T14:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "91d7ecb49ce21bea5befa8bf350d8f0c",
-      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
-      "link": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
-      "summary": "",
-      "published_at": "2026-10-03T10:21:23+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a5200390b202095c626e5b625e022f2a",
-      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
-      "link": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
-      "summary": "",
-      "published_at": "2026-10-03T09:19:23+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -717,28 +915,6 @@
       "body_preview": ""
     },
     {
-      "id": "bc1a3307fce9b4dd964e37cb884f679c",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
-      "published_at": "2026-10-02T21:08:37+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "fe4c85e762e91c67f77d4b60d21dffea",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
-      "published_at": "2026-10-02T20:08:40+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "feada6f0e0b6df5af3c8bdaf60ee63e0",
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
@@ -761,17 +937,6 @@
       "body_preview": ""
     },
     {
-      "id": "7a79eeba26c086ac7e70b8ae72fa27a5",
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
-      "published_at": "2026-10-02T18:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "eeedf18b1be08fe9dc991825b074e371",
       "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
       "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
@@ -788,39 +953,6 @@
       "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
       "summary": "",
       "published_at": "2026-10-02T17:48:16+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3af185d8db44b61b0849e7c4e149fec4",
-      "title": "Breaking up (with Elon Musk) is hard to do",
-      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted [&#8230;]",
-      "published_at": "2026-10-02T17:37:36+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "cfea5d53a304bc62a91c721bd6218210",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "summary": "",
-      "published_at": "2026-10-02T17:32:05+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "52ef56baa6fa7034b5f63ae8670260b9",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "summary": "",
-      "published_at": "2026-10-02T17:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -849,17 +981,6 @@
       "body_preview": ""
     },
     {
-      "id": "b971f4e6700786f86ae44dfb505c9dc2",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "summary": "",
-      "published_at": "2026-10-02T15:39:41+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "024b363f63bbc7f5265438539c42c1ca",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "link": "https://huggingface.co/blog/allenai/astabrief",
@@ -879,39 +1000,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "b08d1b46805183be6e99fc10636614f6",
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "summary": "",
-      "published_at": "2026-10-02T14:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f4115b720483cfbc8e7c0ef89f22d0db",
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "summary": "",
-      "published_at": "2026-10-02T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1b8d562fc99e8c482d5693093b04cd49",
-      "title": "AI hallucinations are making entitled customers even worse",
-      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to [&#8230;]",
-      "published_at": "2026-10-02T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -957,39 +1045,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "The first-of-its-kind Academy trains Frontier Deployed Engineers using the same standard of skills as Anthropic’s own engineers, starting with cohorts from Accenture, Bain, Capgemini, Commonwealth Bank of Australia, Deloitte, McKinsey, Morgan Stanley, Novo Nordisk and others. Today we are launching Claude Frontier Academy to solve one of the most pressing issues in AI implementation: talent. Backed by a $100 million commitment, Anthropic aims to train 10,000 Frontier Deployed Engineers (FDEs) by the end of 2027. Engineers from Accenture, Bain, Capgemini, Commonwealth Bank of Australia, Deloitt"
-    },
-    {
-      "id": "d91871fc7adde461ed371efd8d9aefbf",
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "summary": "",
-      "published_at": "2026-10-01T21:08:11+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "92891621f3d41303ad8c30f87414ea19",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "summary": "",
-      "published_at": "2026-10-01T19:21:53+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7d01b4c10b36f27242d90a722eb80484",
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "summary": "",
-      "published_at": "2026-10-01T19:18:03+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
     },
     {
       "id": "827c3927c0968265f53ae99a53ed78d2",
@@ -1234,33 +1289,11 @@
       "body_preview": ""
     },
     {
-      "id": "166915895dc80b46afede783aa90d658",
-      "title": "Who’s liable when AI agents go rogue?",
-      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
-      "published_at": "2026-09-28T08:06:22+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "368192eb5668dee9c3cd205801a2d662",
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
       "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "summary": "",
       "published_at": "2026-09-28T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1a18edac8fb773213e4b6645e7d73e63",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "summary": "",
-      "published_at": "2026-09-28T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
@@ -1278,6 +1311,28 @@
       "body_preview": ""
     },
     {
+      "id": "1a18edac8fb773213e4b6645e7d73e63",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "40ef0721693616a61c9f15cc32e4de48",
+      "title": "Welcome RL Environments to the hub",
+      "link": "https://huggingface.co/blog/rl-environments",
+      "summary": "",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "dd857c05774146b1ac24ad82cb06b02d",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "link": "https://openai.com/index/proaction",
@@ -1285,17 +1340,6 @@
       "published_at": "2026-09-25T19:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "5cdc0a493cbe6856a51e3f89fe830f57",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&#8230;",
-      "published_at": "2026-09-25T09:16:25+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
       "importance": "high",
       "body_preview": ""
     },
@@ -1377,17 +1421,6 @@
       "body_preview": ""
     },
     {
-      "id": "113bd7078be54f4224b0a91245f83ed6",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "668951742746f621b259e268d22ab925",
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
       "link": "https://openai.com/index/ringg",
@@ -1421,6 +1454,17 @@
       "body_preview": ""
     },
     {
+      "id": "113bd7078be54f4224b0a91245f83ed6",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "846e17754e8d9d38bf9253df385c9d82",
       "title": "Introducing MentalHealthBench",
       "link": "https://openai.com/index/introducing-mentalhealthbench",
@@ -1428,17 +1472,6 @@
       "published_at": "2026-09-23T10:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "3ad81303743f010249717f5eed6d5006",
-      "title": "The AI Hype Index: AI loves cheating",
-      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
-      "published_at": "2026-09-23T09:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
       "importance": "high",
       "body_preview": ""
     },
@@ -1561,39 +1594,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "079c217c94aeb350aa98701f0f24d009",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "summary": "",
-      "published_at": "2026-09-21T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "438598559de8531a8d81241123ab25cc",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "summary": "",
-      "published_at": "2026-09-21T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f5530371a24cba0893b744629c5f9da2",
-      "title": "Building standards for the next phase of AI",
-      "link": "https://openai.com/index/building-standards-next-phase-ai",
-      "summary": "",
-      "published_at": "2026-09-21T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     },
     {
