@@ -1,6 +1,369 @@
 {
-  "generated_at": "2026-10-05T02:10:21.031252+00:00",
+  "generated_at": "2026-10-05T08:55:29.183432+00:00",
   "articles": [
+    {
+      "id": "4fee6efc64fe84b91634ef247a5b26fa",
+      "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
+      "link": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+      "summary": "One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%. The post Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade appeared first on MarkTechPost .",
+      "published_at": "2026-10-05T08:10:37+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1dc86b735289975119488ad8d9e03c13",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+      "published_at": "2026-10-05T08:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "031d0986408161d4eb9520c2d78ac55f",
+      "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
+      "link": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+      "summary": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source. The post The Story of Qwen: Alibaba&#8217;s AI Models From 7B to 2.4T appeared first on MarkTechPost .",
+      "published_at": "2026-10-05T04:10:34+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e9a4b5ad51cb724a5b7d7dbf9da1d44a",
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "link": "https://arxiv.org/abs/2610.02260",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "d2e6f383e1191b597feea14f5e035f31",
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "link": "https://arxiv.org/abs/2610.02267",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "fcb7e6d1e1bceffe6fc1e19ae653dfdd",
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "link": "https://arxiv.org/abs/2610.02281",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "7977cd39255de21d10879e82b13486dd",
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "link": "https://arxiv.org/abs/2610.02300",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "8c06f0019061670b997b4fd477360917",
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "link": "https://arxiv.org/abs/2610.02330",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "4abc742f821b99f17aec85c0848f812b",
+      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+      "link": "https://arxiv.org/abs/2610.02331",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "72841223aa0d9d40c881b927291ec7e2",
+      "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
+      "link": "https://arxiv.org/abs/2610.02342",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "6eed8122c8db5e6b3aa3b69b2de8f950",
+      "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+      "link": "https://arxiv.org/abs/2610.02351",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "0bddf8730502022e4a325c4dbf364ad3",
+      "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
+      "link": "https://arxiv.org/abs/2610.02372",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "61ff56281871897235e5cb07d0933679",
+      "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
+      "link": "https://arxiv.org/abs/2610.02378",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "ace8cd0e34dd32a9965d14098e906a41",
+      "title": "FlashSinkhorn 2: Block-Sparse Entropic Optimal Transport",
+      "link": "https://arxiv.org/abs/2610.02395",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "12fd02111fb159b003652c613d3c1a07",
+      "title": "When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge",
+      "link": "https://arxiv.org/abs/2610.02405",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "b4da52f10a59ffa9f0df4d5a6e0af1ad",
+      "title": "Reinforcement Learning Techniques for the Optimization of Target Polarization in Nuclear Physics Scattering Experiments",
+      "link": "https://arxiv.org/abs/2610.02452",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "429fd4ba0809abfc3ad393d5f0e5f6a8",
+      "title": "Tropical Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2610.02478",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "ce1d50d5a139390cc35ed446c3007fd9",
+      "title": "MEA: A Reward-Driven Multi-Agent System for Faithful Model Explanations",
+      "link": "https://arxiv.org/abs/2610.02480",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "a7c7eb339b091a23d976417d1db865d3",
+      "title": "What Does a Token Cost? A Mixture-of-Agents Measurement of Sufficient Per-Token Compute",
+      "link": "https://arxiv.org/abs/2610.02491",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "d820cc4677b60f821f0c9a6c516e06dc",
+      "title": "Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement",
+      "link": "https://arxiv.org/abs/2610.02492",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "a89b634982755c9d24cd069384f7150c",
+      "title": "\"I just assumed that it would translate\": examining MT risk awareness among healthcare staff with abbreviations as a use case",
+      "link": "https://arxiv.org/abs/2610.02496",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "2f3f18b13a3cbac862ee084cc372565a",
+      "title": "HXAI: Hierarchical Privacy-Preserving Explainable AI in Distributed Energy Systems",
+      "link": "https://arxiv.org/abs/2610.02504",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "afdba8cf1dac45d956137d75530f01c9",
+      "title": "World Action Modeling with Progressive Visual Planning",
+      "link": "https://arxiv.org/abs/2610.02508",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "8bf141cf97e3402f20f2b83f2ff7054b",
+      "title": "On-Premises Multi-Course RAG Tutoring for Business Education: Hardware-Software Trade-offs in a Campus AI Tutor",
+      "link": "https://arxiv.org/abs/2610.02510",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "edbf6f7e84ad1995a57720fff5abc88e",
+      "title": "Hypothesis-guided discovery of cognitive algorithms via program refinement",
+      "link": "https://arxiv.org/abs/2610.02523",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "5b742111954500e6d0d81a8ccde521be",
+      "title": "Learning What to Investigate Next: Meta-Reasoning for Long-Horizon Research Agents",
+      "link": "https://arxiv.org/abs/2610.02525",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "de3f660e0121099091a5f0433ca2ed3f",
+      "title": "How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling",
+      "link": "https://arxiv.org/abs/2610.02542",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "ab08587cd95e56543fa3288024de805e",
+      "title": "How to Have a Sensitive Debate: An Instance-Optimal Protocol for AI Debate",
+      "link": "https://arxiv.org/abs/2610.02557",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "e6b9307fc647efaac5758a25bbe95bfd",
+      "title": "Mitigating Social Sycophancy via Pluralistic Preference Optimization",
+      "link": "https://arxiv.org/abs/2610.02568",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "161d9edd90cfd5a0cac5d70bf508cbad",
+      "title": "Answering clinicians' questions over trial evidence tables with verifiable, feedback-driven language models",
+      "link": "https://arxiv.org/abs/2610.02576",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "e34ef857810c8c72a3fb8ed059c30253",
+      "title": "Labels Override Definitions in Jev-Style Typed Decision Models",
+      "link": "https://arxiv.org/abs/2610.02586",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "225247cd46149b146c05500a785b1d6d",
+      "title": "Open-Endedness Bench: Measuring Epistemic Process from Agent Records",
+      "link": "https://arxiv.org/abs/2610.02588",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
+    {
+      "id": "4496cbbeb98b82221dbae7b171cf9874",
+      "title": "TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods",
+      "link": "https://arxiv.org/abs/2610.02599",
+      "summary": "",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "importance": "low",
+      "body_preview": ""
+    },
     {
       "id": "2db730b92fd1b1aeb323ee6cf53aa333",
       "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
@@ -326,28 +689,6 @@
       "link": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
       "summary": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna for full isolation, or Claude, Gemini or GPT models through hybrid setups. Optional Premium Packages extend Bob to Java, IBM i and IBM Z modernization. The post IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code appeared first on MarkTechPost .",
       "published_at": "2026-10-03T06:55:15+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1c7e07e0b43846506784cf142ce6ea9c",
-      "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
-      "link": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
-      "summary": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user. The post Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models appeared first on MarkTechPost .",
-      "published_at": "2026-10-03T05:37:18+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "be4d160a6c3d7e24f0274de7b0727a5f",
-      "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
-      "link": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
-      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with continuous language detection and costs $0.54 per hour during the introductory period. It is available now in public preview on Microsoft Foundry. The post Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis appeared first on MarkTechPost .",
-      "published_at": "2026-10-03T05:09:53+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1179,17 +1520,6 @@
       "body_preview": ""
     },
     {
-      "id": "d7059a5aa4b948bb4e414004cdbfd452",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
-      "published_at": "2026-09-22T11:04:51+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "e81afb53570c64b478f9e2f607617aec",
       "title": "Priorities and principles for effective third party assessments",
       "link": "https://openai.com/index/priorities-principles-third-party-assessments",
@@ -1267,17 +1597,6 @@
       "body_preview": ""
     },
     {
-      "id": "f3439edbcd253b2261ed2bd4dfae57be",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "summary": "",
-      "published_at": "2026-09-21T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "57ccdac4f95533be4b8872bd26a1a433",
       "title": "Partnering with Accenture on embedded evaluation",
       "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
@@ -1331,39 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging from routine drug discovery experiments to laser calibration on a quantum computer. The development of MHS began as a collaboration between Anthropic and HHMI Janelia Research Campus . It typically tak"
-    },
-    {
-      "id": "a29afbdafd152488bb4e0168fa909242",
-      "title": "Expanding our support for scientists",
-      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "summary": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science…",
-      "published_at": "2026-08-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science program , which provides free credits to researchers working on high-impact scientific projects. Starting today, we are announcing a significant expansion of these efforts. We are opening 10,000 seats for s"
-    },
-    {
-      "id": "9e2952193ebef9b24bbf3cbbf04c8f90",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "summary": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source…",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing. The program will provide direct funding, access to our models, and technical support to grantees building open-source evaluations that help the AI industry measure how our models affect those who use them. Grantees will work fully independently, and will publish their work as open-source projects that any developer can make use of. AI systems have become central to how many people work, learn, and solve problems. They’ve also become conversational partners and can be sources of emotion"
-    },
-    {
-      "id": "6c472be9947730dd861b28c5195a4d78",
-      "title": "Responsible Scaling Policy",
-      "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "summary": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems. This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintaining our commitment not to train or deploy models unless we have implemented adequate safeguards. Key improvements include new capability thresholds to indicate when we will upgrade our safeguards, refined processes for evaluating model capabilities and the adequacy of our safeguards (inspired by safe"
     }
   ],
   "milestones": []
