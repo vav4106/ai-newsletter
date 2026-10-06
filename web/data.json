@@ -1,6 +1,171 @@
 {
-  "generated_at": "2026-10-06T10:07:21.879461+00:00",
+  "generated_at": "2026-10-06T16:43:22.518675+00:00",
   "articles": [
+    {
+      "id": "e97be5d81a2203b200daef51481deb08",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "summary": "",
+      "published_at": "2026-10-06T16:35:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "333e6e3b7c11b918c3e6858e7199d61a",
+      "title": "We can’t just change the definition of ‘recording’",
+      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+      "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras [&#8230;]",
+      "published_at": "2026-10-06T16:29:44+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bed45d0c9fe68b1305a06889aa0f3acc",
+      "title": "Insurers brace for millions in claims as AI agents spin out of control",
+      "link": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
+      "summary": "",
+      "published_at": "2026-10-06T16:06:46+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f271b7c21d70a5569cb9de65f2cd5e5e",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "summary": "",
+      "published_at": "2026-10-06T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "32af34534fd1d2a3d7a9ce3d2b68cee7",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "summary": "",
+      "published_at": "2026-10-06T15:25:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0868ccc602862d93351c1fa6da673e31",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "summary": "",
+      "published_at": "2026-10-06T14:33:16+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4cf68ac787ebbda8bd83fc41edd024ff",
+      "title": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work",
+      "link": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/",
+      "summary": "",
+      "published_at": "2026-10-06T14:18:08+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "17f8a84330708443dfcf3c50d199b767",
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "summary": "",
+      "published_at": "2026-10-06T14:00:49+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "416bd9ac36b8de15fba4e885100c1f63",
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "summary": "",
+      "published_at": "2026-10-06T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ba5bacc0ccd1123e76711345eabf20ff",
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a [&#8230;]",
+      "published_at": "2026-10-06T13:19:01+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7d43c0ba270a880d963a250c4fa1b939",
+      "title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best",
+      "link": "https://the-decoder.com/south-korea-bets-3-49-billion-on-building-a-homegrown-frontier-ai-model-to-rival-chinas-best/",
+      "summary": "",
+      "published_at": "2026-10-06T12:54:31+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "912d15f70e5c26f930c5088829589da1",
+      "title": "Reflection's Beam becomes the most capable open-weight model built outside China",
+      "link": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/",
+      "summary": "",
+      "published_at": "2026-10-06T12:11:22+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a4c20b13a1f78db36a7e15a684192bc2",
+      "title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
+      "link": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/",
+      "summary": "",
+      "published_at": "2026-10-06T11:43:42+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7aa34fe8b7d0fe64b1faea7238ddec0d",
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The [&#8230;]",
+      "published_at": "2026-10-06T10:53:11+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c662317d1d56aef1b6fa5eb4505a150a",
+      "title": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
+      "link": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/",
+      "summary": "",
+      "published_at": "2026-10-06T10:50:18+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "22a0a62a3128792d797c7063ae87eeb2",
       "title": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
@@ -585,28 +750,6 @@
       "body_preview": ""
     },
     {
-      "id": "8d3bec0fabcc4a22e61f56c04a4dd7c0",
-      "title": "Most Americans want AI development to slow down or stop entirely, new poll finds",
-      "link": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/",
-      "summary": "",
-      "published_at": "2026-10-05T16:37:08+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5c013564e803484d9415efa3af803ec6",
-      "title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
-      "link": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/",
-      "summary": "",
-      "published_at": "2026-10-05T16:00:12+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "247c5acb942f7110954ffeeb3d8fb4dd",
       "title": "Connecting AI agents to enterprise knowledge",
       "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
@@ -673,28 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "4271ba158053374d580e68d9de6346af",
-      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech industry at this moment in [&#8230;]",
-      "published_at": "2026-10-05T14:30:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f5c324a9330b486a0795d496334304ae",
-      "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
-      "link": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
-      "summary": "",
-      "published_at": "2026-10-05T14:12:50+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "4bde38de9a5bf7ddb44768a2180f8eca",
       "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
@@ -702,17 +823,6 @@
       "published_at": "2026-10-05T14:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a6d880176ef7483d93adece7eb45a079",
-      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features [&#8230;]",
-      "published_at": "2026-10-05T13:47:14+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -728,45 +838,12 @@
       "body_preview": ""
     },
     {
-      "id": "68c7a52a6f72a8785be6b3649e18c158",
-      "title": "OpenAI is sticking more ads in ChatGPT",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's [&#8230;]",
-      "published_at": "2026-10-05T13:09:48+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "122004a303141cdcd11f15582d9c95b3",
-      "title": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
-      "link": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/",
-      "summary": "",
-      "published_at": "2026-10-05T12:37:32+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "dfe63c1b1da19a0a1e630e8c9ecf8233",
       "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
       "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
       "summary": "",
       "published_at": "2026-10-05T12:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8498e4abf0d02b2742d9c2c9fcb4e437",
-      "title": "AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds",
-      "link": "https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/",
-      "summary": "",
-      "published_at": "2026-10-05T11:46:18+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -849,50 +926,6 @@
       "body_preview": ""
     },
     {
-      "id": "ac168cd54a9c74ffd8d843f98604ac0e",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "summary": "",
-      "published_at": "2026-10-04T20:31:07+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ff19976575df88e632f1fc09d0773cdd",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "summary": "",
-      "published_at": "2026-10-04T20:08:34+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0dc103e45312ae61e8cf4ee1c6da4f69",
-      "title": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
-      "link": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
-      "summary": "",
-      "published_at": "2026-10-04T17:41:58+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f8076687b936ce645f07a4916afd4d8e",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "summary": "",
-      "published_at": "2026-10-04T15:15:10+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "a0cf3f449f681e47696c875be0304f56",
       "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
       "link": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
@@ -911,39 +944,6 @@
       "published_at": "2026-10-03T22:56:48+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6a11fa57811585df4b8483525cb9c8bc",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "summary": "",
-      "published_at": "2026-10-03T18:43:57+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d9e663f10af5816cca3cda77748843fe",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "summary": "",
-      "published_at": "2026-10-03T16:30:01+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "617e0ae720482e432aca8874c43b654b",
-      "title": "All the AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "",
-      "published_at": "2026-10-03T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1536,17 +1536,6 @@
       "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "summary": "",
       "published_at": "2026-09-22T18:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "6058140e5c50ed726b39cc60532c20c1",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "summary": "",
-      "published_at": "2026-09-22T12:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
