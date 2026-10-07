@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-07T19:35:00.697749+00:00",
+  "generated_at": "2026-10-07T23:45:50.630703+00:00",
   "articles": [
+    {
+      "id": "4a6e71b46410bf82a2018cc855b1cfaf",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "",
+      "published_at": "2026-10-07T20:48:45+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "12c680f5d712d231da56e4002443e029",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "summary": "",
+      "published_at": "2026-10-07T20:22:37+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a1143057aaffd6dee2970d5055c89c13",
       "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
@@ -266,9 +288,9 @@
       "body_preview": ""
     },
     {
-      "id": "c562fd3ce1a2d5870b9521b1fe726e47",
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "id": "b6cab7cd594637c5a56cd6658220dca8",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
       "summary": "",
       "published_at": "2026-10-07T14:00:00+00:00",
       "source": "TechCrunch AI",
@@ -277,9 +299,9 @@
       "body_preview": ""
     },
     {
-      "id": "b6cab7cd594637c5a56cd6658220dca8",
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "id": "c562fd3ce1a2d5870b9521b1fe726e47",
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
       "summary": "",
       "published_at": "2026-10-07T14:00:00+00:00",
       "source": "TechCrunch AI",
@@ -893,28 +915,6 @@
       "body_preview": ""
     },
     {
-      "id": "32af34534fd1d2a3d7a9ce3d2b68cee7",
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "summary": "",
-      "published_at": "2026-10-06T15:25:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0868ccc602862d93351c1fa6da673e31",
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "summary": "",
-      "published_at": "2026-10-06T14:33:16+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c3498c464b6ebe279740d9afa089beb6",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "link": "https://openai.com/index/jump-trading",
@@ -1355,9 +1355,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -1366,9 +1366,9 @@
       "body_preview": ""
     },
     {
-      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
