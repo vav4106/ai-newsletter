@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-10-07T06:31:27.672062+00:00",
+  "generated_at": "2026-10-07T13:49:38.913804+00:00",
   "articles": [
+    {
+      "id": "08c61fa759eb1ffd6f21b5a2f4a42080",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "summary": "",
+      "published_at": "2026-10-07T12:45:31+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3cbe1ca4f6d204edc1c14777a5db65b0",
+      "title": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations",
+      "link": "https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/",
+      "summary": "",
+      "published_at": "2026-10-07T12:34:34+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "03061848384de4553af4e92afee3c19a",
+      "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
+      "link": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/",
+      "summary": "",
+      "published_at": "2026-10-07T12:05:20+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ebf5e19506348a6769afe6322d252f03",
+      "title": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "summary": "Overview of Playground",
+      "published_at": "2026-10-07T12:00:00+00:00",
+      "source": "Google AI Blog",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "898da264c5e82ac652de1e99d600625e",
+      "title": "AI could upend food delivery",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites [&#8230;]",
+      "published_at": "2026-10-07T12:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8352780bc9004915c32cc3bb098b432b",
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen [&#8230;]",
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f2113fc4334c3b62c8a828bfcf771860",
+      "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
+      "link": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
+      "summary": "",
+      "published_at": "2026-10-07T08:54:43+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fc0dfc07094582c1ac05742a9528814b",
+      "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
+      "link": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
+      "summary": "Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0. The post Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day appeared first on MarkTechPost .",
+      "published_at": "2026-10-07T06:29:14+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "9e990699ac625b1f35ca15c2daba46b9",
       "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
@@ -618,17 +706,6 @@
       "body_preview": ""
     },
     {
-      "id": "912d15f70e5c26f930c5088829589da1",
-      "title": "Reflection's Beam becomes the most capable open-weight model built outside China",
-      "link": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/",
-      "summary": "",
-      "published_at": "2026-10-06T12:11:22+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c3498c464b6ebe279740d9afa089beb6",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "link": "https://openai.com/index/jump-trading",
@@ -651,17 +728,6 @@
       "body_preview": ""
     },
     {
-      "id": "a4c20b13a1f78db36a7e15a684192bc2",
-      "title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
-      "link": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/",
-      "summary": "",
-      "published_at": "2026-10-06T11:43:42+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "7aa34fe8b7d0fe64b1faea7238ddec0d",
       "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
       "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
@@ -669,17 +735,6 @@
       "published_at": "2026-10-06T10:53:11+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c662317d1d56aef1b6fa5eb4505a150a",
-      "title": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-      "link": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/",
-      "summary": "",
-      "published_at": "2026-10-06T10:50:18+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -706,17 +761,6 @@
       "body_preview": ""
     },
     {
-      "id": "a966a6e7149786338f2a8011c2adf90d",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "summary": "",
-      "published_at": "2026-10-06T06:44:39+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e547b158f37e02cee6c078013b06ac1a",
       "title": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields",
       "link": "https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/",
@@ -728,15 +772,15 @@
       "body_preview": ""
     },
     {
-      "id": "82ea64d7ba87776d2546f84a81e7de7a",
-      "title": "Expanding the Cyber Verification Program",
+      "id": "63e00f519d36700d96e8acb8129033b3",
+      "title": "Expanding the Cyber Verification",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
-      "summary": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. The program now consists of three access tiers, which allow security teams to apply for the level of access that best suits their work. Each tier includes access to our most capable models,…",
+      "summary": "Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. Features Sep 22, 2026 The Situation Report A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic of Congo. World health organizations are usin",
       "published_at": "2026-10-06T00:00:00+00:00",
       "source": "Anthropic News",
       "category": "company",
       "importance": "high",
-      "body_preview": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. The program now consists of three access tiers, which allow security teams to apply for the level of access that best suits their work. Each tier includes access to our most capable models, including Claude Opus 5.5, Claude Sonnet 5.5, Claude Mythos 5.1, and new models moving forward. Interested customers can apply here . Cybersecurity is inherently dual use: the same capabilities that enable a "
+      "body_preview": ""
     },
     {
       "id": "671d4e4fc7597f7c3b839ac139ad403a",
@@ -860,17 +904,6 @@
       "body_preview": ""
     },
     {
-      "id": "f2f76bf658cf50b1b91104de105adedf",
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
-      "published_at": "2026-10-05T18:08:39+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2eebc0db0ff33642737d6d68296ac8c5",
       "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
       "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
@@ -878,17 +911,6 @@
       "published_at": "2026-10-05T17:29:22+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "cef88ebac461483ed28fa321d540e427",
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic. The interruption came [&#8230;]",
-      "published_at": "2026-10-05T16:55:42+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -978,17 +1000,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "031d0986408161d4eb9520c2d78ac55f",
-      "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
-      "link": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
-      "summary": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source. The post The Story of Qwen: Alibaba&#8217;s AI Models From 7B to 2.4T appeared first on MarkTechPost .",
-      "published_at": "2026-10-05T04:10:34+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1206,17 +1217,6 @@
       "link": "https://huggingface.co/blog/open-tts-leaderboard",
       "summary": "",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6d28d3fc4335a049ec84de7830121e59",
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "summary": "",
-      "published_at": "2026-09-29T15:30:38+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
@@ -1472,72 +1472,6 @@
       "published_at": "2026-09-23T15:25:14+00:00",
       "source": "Google DeepMind",
       "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0c97ea828652bcc95b0c072ef9af6f74",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "summary": "",
-      "published_at": "2026-09-23T13:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "914792e1f3387f89997d252fabbf4091",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "summary": "",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "113bd7078be54f4224b0a91245f83ed6",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "668951742746f621b259e268d22ab925",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://openai.com/index/ringg",
-      "summary": "",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "78b1894424ffd029a533256504dd0fca",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "summary": "",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "846e17754e8d9d38bf9253df385c9d82",
-      "title": "Introducing MentalHealthBench",
-      "link": "https://openai.com/index/introducing-mentalhealthbench",
-      "summary": "",
-      "published_at": "2026-09-23T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
       "importance": "high",
       "body_preview": ""
     },
