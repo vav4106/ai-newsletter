@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-07T23:45:50.630703+00:00",
+  "generated_at": "2026-10-08T02:58:33.471611+00:00",
   "articles": [
+    {
+      "id": "c3650b08a0215e525e2324a3d0327f04",
+      "title": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
+      "link": "https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/",
+      "summary": "Unsloth's October 6 security overview explains how Studio checks code, weights, packages and tools before anything runs. Custom model code is scanned and approval is bound to its fingerprint. Flagged weight files are blocked in the load path, package-content findings fail CI, and tools run in probed OS sandboxes. Here is what each checkpoint decides, and what it does not cover. The post What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs appeared first on MarkTechPost .",
+      "published_at": "2026-10-08T01:49:11+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "4a6e71b46410bf82a2018cc855b1cfaf",
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
@@ -9,6 +20,17 @@
       "published_at": "2026-10-07T20:48:45+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "36fc60f1d4c3acf17f782ea1fad1e8cd",
+      "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
+      "link": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+      "summary": "Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld. The post Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens appeared first on MarkTechPost .",
+      "published_at": "2026-10-07T20:38:30+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -420,9 +442,9 @@
       "body_preview": ""
     },
     {
-      "id": "9e990699ac625b1f35ca15c2daba46b9",
-      "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
-      "link": "https://arxiv.org/abs/2610.03872",
+      "id": "d9209394facbfa1088603cba2df09ad1",
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "link": "https://arxiv.org/abs/2610.06910",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -431,9 +453,9 @@
       "body_preview": ""
     },
     {
-      "id": "d9782cb63dba30d21a07e4fe72dd2df6",
-      "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
-      "link": "https://arxiv.org/abs/2610.03888",
+      "id": "8e793a8ef913c22f1daf72abebb72959",
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "link": "https://arxiv.org/abs/2610.06914",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -442,9 +464,9 @@
       "body_preview": ""
     },
     {
-      "id": "30b3929bb4ed35ff6dfa2b6afab27c1c",
-      "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
-      "link": "https://arxiv.org/abs/2610.03894",
+      "id": "9d2596dfa928f5f7516472fe7a6e0fdd",
+      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "link": "https://arxiv.org/abs/2610.06917",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -453,9 +475,9 @@
       "body_preview": ""
     },
     {
-      "id": "caf60e15fb451241289bd848ccc6e78d",
-      "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
-      "link": "https://arxiv.org/abs/2610.03934",
+      "id": "80503af6bb82c20ff6866618d2959853",
+      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+      "link": "https://arxiv.org/abs/2610.06919",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -464,9 +486,9 @@
       "body_preview": ""
     },
     {
-      "id": "5eea6abe7d10bd5d75f783459daa949b",
-      "title": "MLLMs Fail to Refuse when Using Tools Agentically",
-      "link": "https://arxiv.org/abs/2610.03938",
+      "id": "7162ddcb110992030e5c9f9b4dd4ddff",
+      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+      "link": "https://arxiv.org/abs/2610.06923",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -475,9 +497,9 @@
       "body_preview": ""
     },
     {
-      "id": "78bde4afd9b8cc2e0d0a933330400bc1",
-      "title": "Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom",
-      "link": "https://arxiv.org/abs/2610.03948",
+      "id": "457170b1bfa9d2d47b0388e76a4b2042",
+      "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+      "link": "https://arxiv.org/abs/2610.06928",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -486,9 +508,9 @@
       "body_preview": ""
     },
     {
-      "id": "eedc11441c86220f8154c4e662a36df5",
-      "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
-      "link": "https://arxiv.org/abs/2610.03959",
+      "id": "55721404d045ba70a167dc887168c359",
+      "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+      "link": "https://arxiv.org/abs/2610.06964",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -497,9 +519,9 @@
       "body_preview": ""
     },
     {
-      "id": "a63dc7afaa47b8e8958aeff40352a467",
-      "title": "ROAR: Unifying Runs across Heterogeneous AI-Driven Research Systems",
-      "link": "https://arxiv.org/abs/2610.03966",
+      "id": "18e4ab01e4f745a8db23ddcc04bcb523",
+      "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+      "link": "https://arxiv.org/abs/2610.06971",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -508,9 +530,9 @@
       "body_preview": ""
     },
     {
-      "id": "5680dcdd73461e7a676cfdd2c5fd26f6",
-      "title": "Teaching Agents to Code Reliably",
-      "link": "https://arxiv.org/abs/2610.03984",
+      "id": "991bbf6818ad19383eb670f2a8a2d51d",
+      "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+      "link": "https://arxiv.org/abs/2610.06986",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -519,9 +541,9 @@
       "body_preview": ""
     },
     {
-      "id": "91dc633b23a02549721c4b9af1a5e631",
-      "title": "Behavioral History Outperforms Descriptions of the Person for LLM Synthetic Personas",
-      "link": "https://arxiv.org/abs/2610.03998",
+      "id": "1c3fc0495d9013c9e4ffe04e4a6286f2",
+      "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
+      "link": "https://arxiv.org/abs/2610.06992",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -530,9 +552,9 @@
       "body_preview": ""
     },
     {
-      "id": "a566ca63eb63f7285a24343542c67558",
-      "title": "SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown",
-      "link": "https://arxiv.org/abs/2610.04008",
+      "id": "d5f30220563e65006d34dc4bd9e01634",
+      "title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
+      "link": "https://arxiv.org/abs/2610.06995",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -541,9 +563,9 @@
       "body_preview": ""
     },
     {
-      "id": "331d0a7819d95d847cdc3fc9f22d438a",
-      "title": "Exploration-Preserving Policy Optimization",
-      "link": "https://arxiv.org/abs/2610.04011",
+      "id": "1d21ad9180ca8f9e0bef0e71141a3126",
+      "title": "Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents",
+      "link": "https://arxiv.org/abs/2610.07004",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -552,9 +574,9 @@
       "body_preview": ""
     },
     {
-      "id": "3d6a4bfaada33be3c1b015ac51584694",
-      "title": "Beyond the Parameter Monolith: Reconstructive Memories, Executable Skills, and Residual Assembly for Language Models",
-      "link": "https://arxiv.org/abs/2610.04012",
+      "id": "e7f4283f562193e8d15ef219fcc0eb07",
+      "title": "When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models",
+      "link": "https://arxiv.org/abs/2610.07018",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -563,9 +585,9 @@
       "body_preview": ""
     },
     {
-      "id": "b3d3dbc9f7f69fa4617202cc43785a84",
-      "title": "A Quantitative Analysis of Graph Representation Strategies for Cyber Attack Detection",
-      "link": "https://arxiv.org/abs/2610.04019",
+      "id": "37fee9f2f1ccf47047ed292877b437a3",
+      "title": "Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment",
+      "link": "https://arxiv.org/abs/2610.07023",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -574,9 +596,9 @@
       "body_preview": ""
     },
     {
-      "id": "eb9e7dda79bdc28eea111e0a8069f16f",
-      "title": "The Reported Engagement with AI Level (REAL) Rating: A Framework for Disclosing Human-AI Collaboration",
-      "link": "https://arxiv.org/abs/2610.04021",
+      "id": "468810f01eae436b0d0a2de8cf5237e6",
+      "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+      "link": "https://arxiv.org/abs/2610.07026",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -585,9 +607,9 @@
       "body_preview": ""
     },
     {
-      "id": "40ac9a09f5cc8f4656ddd6b981b66d4c",
-      "title": "Agent Policy-Value Audit: Separating Transition Composition from Event Selection in Financial LLM Agents",
-      "link": "https://arxiv.org/abs/2610.04040",
+      "id": "ad2bf89389d41b224b3c6b3147caf27c",
+      "title": "JIVEAdapter: A Multi-Task Additive Low-Rank Adapter via Joint and Individual Variation Explained (JIVE)",
+      "link": "https://arxiv.org/abs/2610.07036",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -596,9 +618,9 @@
       "body_preview": ""
     },
     {
-      "id": "5ca7a0b5cd31322934991d3ded18eba6",
-      "title": "The Cost of a Hop: Benchmarking NLIP and A2A",
-      "link": "https://arxiv.org/abs/2610.04053",
+      "id": "3d31157839d89e82aaf3dc4ea7a20dbe",
+      "title": "Inference-Time Projection for Physically Valid Biomolecular Diffusion Models",
+      "link": "https://arxiv.org/abs/2610.07037",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -607,9 +629,9 @@
       "body_preview": ""
     },
     {
-      "id": "ca30e5fdb80db844c450586bcdd829f5",
-      "title": "Discrete Diffusion for Large Graph Generation via Structural Candidate Restriction",
-      "link": "https://arxiv.org/abs/2610.04056",
+      "id": "583d15859a3d603e021e78799ab93f00",
+      "title": "CuratorMAS: Automating Dataset Curation via Multi-Agent Orchestration",
+      "link": "https://arxiv.org/abs/2610.07075",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -618,9 +640,9 @@
       "body_preview": ""
     },
     {
-      "id": "dc84ebcf3d31f650dc6b1f831b8ce71c",
-      "title": "Reinforcement Learning with Comparative Evidence for Social Intelligence",
-      "link": "https://arxiv.org/abs/2610.04072",
+      "id": "4dfc4a84cd150828af0554961ba0d6ad",
+      "title": "Smart Content Ingestion for Generative AI Workloads",
+      "link": "https://arxiv.org/abs/2610.07091",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -629,9 +651,9 @@
       "body_preview": ""
     },
     {
-      "id": "4e2af8e1ce16a673d5723da8c18e3274",
-      "title": "Self-Propagating Misalignment in LLM Agents, and Why Auditing or Disabling Memory Is Not Enough",
-      "link": "https://arxiv.org/abs/2610.04083",
+      "id": "ea801283be342e3ecffa5e5dfad2d8b1",
+      "title": "Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach",
+      "link": "https://arxiv.org/abs/2610.07093",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -640,9 +662,9 @@
       "body_preview": ""
     },
     {
-      "id": "70642fcefe27d1125854a86df2393b8b",
-      "title": "Towards Safer Autonomous Driving in an Open World: A Dual-Process Approach",
-      "link": "https://arxiv.org/abs/2610.04088",
+      "id": "5ecb71eced8420f46507c8e30952d133",
+      "title": "Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course",
+      "link": "https://arxiv.org/abs/2610.07097",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -651,9 +673,9 @@
       "body_preview": ""
     },
     {
-      "id": "f7576818c45778616312084d53aaac62",
-      "title": "The Independence Prior of SAEs Fragments Visual Concepts",
-      "link": "https://arxiv.org/abs/2610.04112",
+      "id": "a4c5f01fe23bbfd260463ef6607cdb9a",
+      "title": "When to Remember, When to Abstain: Category-Conditioned Retention for Reliable Agent Memory",
+      "link": "https://arxiv.org/abs/2610.07100",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -662,9 +684,9 @@
       "body_preview": ""
     },
     {
-      "id": "82576d285152e227674f5afde428b003",
-      "title": "CUAWright: A Minimal Unified Interface for Digital Agents",
-      "link": "https://arxiv.org/abs/2610.04116",
+      "id": "a51ffca418bc78b146f5b8b56f648f7b",
+      "title": "AMBER: Training Long-Horizon Web Agents through Append-Only Memory",
+      "link": "https://arxiv.org/abs/2610.07118",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -673,9 +695,9 @@
       "body_preview": ""
     },
     {
-      "id": "0116635d8e9ce1d44357351812f6c1a4",
-      "title": "InvestigationWorlds: An Agentic Environment for Legal Investigation",
-      "link": "https://arxiv.org/abs/2610.04129",
+      "id": "1b95fd61800ed3639294fb4229fd7b43",
+      "title": "Is this machine playing?",
+      "link": "https://arxiv.org/abs/2610.07130",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -684,9 +706,9 @@
       "body_preview": ""
     },
     {
-      "id": "556dbe758a9f516cf919b99c7c697f02",
-      "title": "Auditing Pairwise Equivalence Judgments: Self-Critique Effects and Diversity Measurement in Multi-Agent Hypothesis Generation",
-      "link": "https://arxiv.org/abs/2610.04133",
+      "id": "b7c342a43e47020f7e33421d4b5e68e9",
+      "title": "Sim-to-Real Transfer of Vision-Language Navigation in Continuous Environments Using an Ackermann-Steered Mobile Robot",
+      "link": "https://arxiv.org/abs/2610.07192",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -695,9 +717,9 @@
       "body_preview": ""
     },
     {
-      "id": "398b7b6edf316e6c8c9b2ea40df99a12",
-      "title": "Agentic Cognitive Depth: Operational Criteria for Evaluating LLM Agents",
-      "link": "https://arxiv.org/abs/2610.04168",
+      "id": "ef6851dea6d0aa90c61d18953d6835f2",
+      "title": "Energy-Conditioned Noise Schedule and Whitening for Spectral Diffusion",
+      "link": "https://arxiv.org/abs/2610.07206",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -706,9 +728,9 @@
       "body_preview": ""
     },
     {
-      "id": "5372575df61b8d715d9e309f4ab99d5a",
-      "title": "SHarP: Saliency-based Pruning of Agent Harnesses",
-      "link": "https://arxiv.org/abs/2610.04178",
+      "id": "2ea2aab3386cb06be5610f82930b1516",
+      "title": "Cascadia: Resident 975B MoE Inference on Eleven AI PCs",
+      "link": "https://arxiv.org/abs/2610.07219",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -717,9 +739,9 @@
       "body_preview": ""
     },
     {
-      "id": "93a3c7941d8cbc662a58ae0fca334622",
-      "title": "Language Model Activations Inhabit Privileged Error-Correcting Basins",
-      "link": "https://arxiv.org/abs/2610.04183",
+      "id": "9409362d581290c3ca5e5c4f7dd55cb5",
+      "title": "SPECTRUM: Proximal Spectral Modulation for Looped Self-Distillation",
+      "link": "https://arxiv.org/abs/2610.07237",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -728,9 +750,9 @@
       "body_preview": ""
     },
     {
-      "id": "23386eca8b7df436c13ce69ce6a40f14",
-      "title": "EvalResearchBench: Can AI Agents Design Their Own Evaluations?",
-      "link": "https://arxiv.org/abs/2610.04184",
+      "id": "aec6aee274662dc3de397e5b55281f0d",
+      "title": "Can Semantic Geometry Teach an AI Judgement?",
+      "link": "https://arxiv.org/abs/2610.07249",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -739,9 +761,9 @@
       "body_preview": ""
     },
     {
-      "id": "15221ddffe38360dadc0f50ba82beeab",
-      "title": "Agentic AI with Structured CoT for Enhancing AI's Spatial Intelligence: Visualization and Reasoning of Rotation",
-      "link": "https://arxiv.org/abs/2610.04188",
+      "id": "b4296d86d9b4745056fb21266c72f220",
+      "title": "Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation",
+      "link": "https://arxiv.org/abs/2610.07250",
       "summary": "",
       "published_at": "2026-10-07T04:00:00+00:00",
       "source": "arXiv cs.AI",
@@ -986,28 +1008,6 @@
       "link": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
       "summary": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%. The post Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode appeared first on MarkTechPost .",
       "published_at": "2026-10-05T22:51:05+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f1798e118f571953fdda9654e3029baa",
-      "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
-      "link": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
-      "summary": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, behavior cloning, and temporal ensembling. The post Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID appeared first on MarkTechPost .",
-      "published_at": "2026-10-05T21:41:14+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1dcf42e13cf73bd136527f88270ca05c",
-      "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
-      "link": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
-      "summary": "Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026. The post Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads appeared first on MarkTechPost .",
-      "published_at": "2026-10-05T21:04:20+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1289,6 +1289,17 @@
       "body_preview": ""
     },
     {
+      "id": "d1517ea2f2a29007dca93a51e75a1196",
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "",
+      "published_at": "2026-09-29T17:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "9449644a110c392ba2074c9335bcf1ae",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
@@ -1314,17 +1325,6 @@
       "id": "6eb530af650a68c5f128e874c46ec106",
       "title": "DevDay 2026 Recap",
       "link": "https://openai.com/index/devday-2026-recap",
-      "summary": "",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d1517ea2f2a29007dca93a51e75a1196",
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
       "summary": "",
       "published_at": "2026-09-29T10:00:00+00:00",
       "source": "OpenAI News",
