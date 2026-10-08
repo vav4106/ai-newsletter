@@ -1,6 +1,182 @@
 {
-  "generated_at": "2026-10-08T09:53:05.721025+00:00",
+  "generated_at": "2026-10-08T17:02:32.035886+00:00",
   "articles": [
+    {
+      "id": "417be5b314e0e94a928bd3731645b6bc",
+      "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
+      "link": "https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/",
+      "summary": "JetBrains released Mellum2.1, an Apache 2.0, 12B mixture-of-experts thinking model with 2.5B active parameters. RL in real repositories lifted its SWE-bench Verified score from 2.0 to 47.0. The post JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents appeared first on MarkTechPost .",
+      "published_at": "2026-10-08T16:17:35+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "17d1e962d25e439e2355c3caba9e5b51",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "summary": "",
+      "published_at": "2026-10-08T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4bf15255d60bd0782a23c8dabc864406",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "summary": "",
+      "published_at": "2026-10-08T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7b073c80981a0f76db1d17805d38605f",
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model. Similar to AI note-taking apps like Granola and Wispr Flow, Foresight summarizes [&#8230;]",
+      "published_at": "2026-10-08T15:27:30+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4f9e4f592fbd939da6acf0532d93bbef",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "summary": "",
+      "published_at": "2026-10-08T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e72c8776293734f71016b717ca31e279",
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and assign it tasks from a single interface. [&#8230;]",
+      "published_at": "2026-10-08T14:28:03+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9a295a5cb99e79a3b5fdb93d952a2adb",
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+      "summary": "",
+      "published_at": "2026-10-08T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8de60dcd209a3b978421b4d7c7a74c8d",
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "summary": "",
+      "published_at": "2026-10-08T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0a8eaf3f730301c98539b60f6d070106",
+      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+      "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mini sales earlier [&#8230;]",
+      "published_at": "2026-10-08T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fd1a117b358d594a8c815df38daa1543",
+      "title": "Artificial is a wicked satire that also sticks to the facts",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+      "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get [&#8230;]",
+      "published_at": "2026-10-08T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5309df10e4bee43fea2128517217c8bc",
+      "title": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
+      "link": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/",
+      "summary": "",
+      "published_at": "2026-10-08T13:52:54+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e946e199108b9cc77e713f989a902230",
+      "title": "Google releases a new local-first Granola competitor",
+      "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "summary": "",
+      "published_at": "2026-10-08T13:28:39+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d487267e650d6166c94978be9b8c410b",
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "summary": "",
+      "published_at": "2026-10-08T13:20:32+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "607daa4bcfc89876780027fd9ab90747",
+      "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "link": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
+      "summary": "",
+      "published_at": "2026-10-08T13:01:01+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e30bf1637468bdbf5974540c91b6e8f9",
+      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+      "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+      "summary": "",
+      "published_at": "2026-10-08T10:30:23+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bca88a10bb721cb8095a956d92f9b68a",
+      "title": "Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
+      "link": "https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/",
+      "summary": "",
+      "published_at": "2026-10-08T09:57:42+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "b9bf5d79045601a9a9885f5821dc1af1",
       "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
@@ -409,6 +585,28 @@
       "body_preview": ""
     },
     {
+      "id": "3a75df0a506fe3f1752d683cd59566ec",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "summary": "",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "46db1efcbba451577ef9e97ecbf62729",
+      "title": "Building on our commitment to American scientific discovery",
+      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "summary": "Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission , a federal initiative to accelerate scientific and technological discovery through AI. The funding will go toward making Claude available to more than 15 agencies that are part of the mission, including NASA, the National Institutes of Health, and the National…",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission , a federal initiative to accelerate scientific and technological discovery through AI. The funding will go toward making Claude available to more than 15 agencies that are part of the mission, including NASA, the National Institutes of Health, and the National Science Foundation. We first announced our partnership with the US Department of Energy (DOE) and the Genesis Mission last December . Since then, we have worked with DOE to bring Claude to scientists acr"
+    },
+    {
       "id": "4a6e71b46410bf82a2018cc855b1cfaf",
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
       "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
@@ -464,13 +662,13 @@
       "body_preview": ""
     },
     {
-      "id": "e30bf1637468bdbf5974540c91b6e8f9",
-      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
-      "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
-      "summary": "",
-      "published_at": "2026-10-07T18:49:23+00:00",
-      "source": "The Decoder",
-      "category": "industry",
+      "id": "366a2932d8c6585bf77689d0decd948b",
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN just announced the 1,615 applications [&#8230;]",
+      "published_at": "2026-10-07T18:46:16+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -607,17 +805,6 @@
       "body_preview": ""
     },
     {
-      "id": "baeeab67a4f4eaaac1dbffa187e7ad91",
-      "title": "Muse launches on the iPad",
-      "link": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-      "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a [&#8230;]",
-      "published_at": "2026-10-07T15:37:23+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "17b1b0ea786db7cdd34417b0b1a8e113",
       "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
       "link": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/",
@@ -658,17 +845,6 @@
       "published_at": "2026-10-07T14:41:38+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "47e3c90fd7c03b6ab82e22dbfcb61f37",
-      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. [&#8230;]",
-      "published_at": "2026-10-07T14:40:52+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -728,6 +904,17 @@
       "body_preview": ""
     },
     {
+      "id": "98a4ae99773de9851746ac4172f1f56b",
+      "title": "Introducing Falcon ASR",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "summary": "",
+      "published_at": "2026-10-07T13:21:03+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "08c61fa759eb1ffd6f21b5a2f4a42080",
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
@@ -735,28 +922,6 @@
       "published_at": "2026-10-07T12:45:31+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3cbe1ca4f6d204edc1c14777a5db65b0",
-      "title": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations",
-      "link": "https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/",
-      "summary": "",
-      "published_at": "2026-10-07T12:34:34+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "03061848384de4553af4e92afee3c19a",
-      "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
-      "link": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/",
-      "summary": "",
-      "published_at": "2026-10-07T12:05:20+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -780,39 +945,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "898da264c5e82ac652de1e99d600625e",
-      "title": "AI could upend food delivery",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites [&#8230;]",
-      "published_at": "2026-10-07T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8352780bc9004915c32cc3bb098b432b",
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen [&#8230;]",
-      "published_at": "2026-10-07T09:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f2113fc4334c3b62c8a828bfcf771860",
-      "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
-      "link": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
-      "summary": "",
-      "published_at": "2026-10-07T08:54:43+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -860,50 +992,6 @@
       "body_preview": ""
     },
     {
-      "id": "da4e8581d2fa73b3092c5fa13d4c1630",
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
-      "published_at": "2026-10-06T23:26:38+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0852746b2976128d3853699738284e3c",
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "summary": "",
-      "published_at": "2026-10-06T22:34:03+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5fde7bc23ab750d4ca535304c80058ce",
-      "title": "How AI decision models could change content moderation",
-      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "summary": "",
-      "published_at": "2026-10-06T20:35:20+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "08c8364b0c4e68fc6b1bdd14262c72a7",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "summary": "",
-      "published_at": "2026-10-06T20:00:30+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "bcb0bc78016b5dee923686b706274590",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
@@ -912,17 +1000,6 @@
       "source": "Google DeepMind",
       "category": "research",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "cec1badbeca69ce8556d50a06b8624d4",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "summary": "",
-      "published_at": "2026-10-06T19:56:50+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -937,39 +1014,6 @@
       "body_preview": ""
     },
     {
-      "id": "f7ce05895ab6c1de9635191a3a51a6d4",
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "summary": "",
-      "published_at": "2026-10-06T18:22:45+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f7114ca8f2f5d6c319aa91259041ef0d",
-      "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
-      "link": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
-      "summary": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026. The post Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model appeared first on MarkTechPost .",
-      "published_at": "2026-10-06T17:30:46+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e97be5d81a2203b200daef51481deb08",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "summary": "",
-      "published_at": "2026-10-06T16:35:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "74a742687748b2057fd3ded17e1fcf91",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "link": "https://openai.com/index/atlassian-partnership",
@@ -978,17 +1022,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f271b7c21d70a5569cb9de65f2cd5e5e",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "summary": "",
-      "published_at": "2026-10-06T16:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1311,17 +1344,6 @@
       "body_preview": ""
     },
     {
-      "id": "d1517ea2f2a29007dca93a51e75a1196",
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "summary": "",
-      "published_at": "2026-09-29T17:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "9449644a110c392ba2074c9335bcf1ae",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
@@ -1340,6 +1362,17 @@
       "published_at": "2026-09-29T10:43:45+00:00",
       "source": "MIT Technology Review AI",
       "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "d1517ea2f2a29007dca93a51e75a1196",
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
       "importance": "high",
       "body_preview": ""
     },
@@ -1366,9 +1399,9 @@
       "body_preview": ""
     },
     {
-      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -1377,9 +1410,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -1421,9 +1454,9 @@
       "body_preview": ""
     },
     {
-      "id": "83bae0db82a5433c08540c5f78afa770",
-      "title": "Are you a Codex Original?",
-      "link": "https://openai.com/form/codex-originals",
+      "id": "1a18edac8fb773213e4b6645e7d73e63",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
       "summary": "",
       "published_at": "2026-09-28T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1432,9 +1465,9 @@
       "body_preview": ""
     },
     {
-      "id": "1a18edac8fb773213e4b6645e7d73e63",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "id": "83bae0db82a5433c08540c5f78afa770",
+      "title": "Are you a Codex Original?",
+      "link": "https://openai.com/form/codex-originals",
       "summary": "",
       "published_at": "2026-09-28T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1472,17 +1505,6 @@
       "published_at": "2026-09-25T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "8f964e95ad5b8675a788a2b1a5607003",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "summary": "",
-      "published_at": "2026-09-24T16:20:39+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
       "importance": "high",
       "body_preview": ""
     },
@@ -1551,17 +1573,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging from routine drug discovery experiments to laser calibration on a quantum computer. The development of MHS began as a collaboration between Anthropic and HHMI Janelia Research Campus . It typically tak"
-    },
-    {
-      "id": "a29afbdafd152488bb4e0168fa909242",
-      "title": "Expanding our support for scientists",
-      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "summary": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science…",
-      "published_at": "2026-08-27T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "As Claude becomes increasingly capable at scientific research, we are focusing on building products and programs to support the research community. In June, we launched Claude Science , a product that integrates the tools that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. We have also continued to broaden our AI for Science program , which provides free credits to researchers working on high-impact scientific projects. Starting today, we are announcing a significant expansion of these efforts. We are opening 10,000 seats for s"
     },
     {
       "id": "6c472be9947730dd861b28c5195a4d78",
