@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-08T22:00:23.740875+00:00",
+  "generated_at": "2026-10-09T01:46:18.854750+00:00",
   "articles": [
+    {
+      "id": "1d9af70d756a2ca8a3281e326f477e9f",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+      "published_at": "2026-10-09T00:08:24+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "e5c6d1ba8cba5fa16d679ca87a558241",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's [&#8230;]",
+      "published_at": "2026-10-08T21:53:51+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "fe7f660649f7b8504b631d5f1918f91f",
       "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
@@ -335,6 +357,17 @@
       "id": "595ea23f05b3118ac44958f4cee7fe58",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "link": "https://openai.com/index/pollo-ai",
+      "summary": "",
+      "published_at": "2026-10-08T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "f2a7cd03c27115f663cbab2bac80c6ce",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "link": "https://openai.com/index/legalon-halves-codex-costs",
       "summary": "",
       "published_at": "2026-10-08T12:00:00+00:00",
       "source": "OpenAI News",
@@ -783,6 +816,17 @@
       "body_preview": ""
     },
     {
+      "id": "93ce90f24616540ea2733c244876d927",
+      "title": "The model that didn't exist, so you made it yourself",
+      "link": "https://huggingface.co/blog/building-with-ml-intern",
+      "summary": "",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "1084e2fa6b8ae60b763d163294576804",
       "title": "2026 Usage Policy update",
       "link": "https://www.anthropic.com/news/2026-usage-policy-update",
@@ -867,17 +911,6 @@
       "published_at": "2026-10-07T19:06:40+00:00",
       "source": "The Decoder",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "366a2932d8c6585bf77689d0decd948b",
-      "title": "It appears .agent and .agi are about to be the hot new domains",
-      "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
-      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN just announced the 1,615 applications [&#8230;]",
-      "published_at": "2026-10-07T18:46:16+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1399,20 +1432,9 @@
       "body_preview": ""
     },
     {
-      "id": "af13017f80abb637531e8b98a25c8b00",
-      "title": "Making AI an asset, not an expense",
-      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
-      "published_at": "2026-09-29T10:43:45+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "6eb530af650a68c5f128e874c46ec106",
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
+      "id": "d1517ea2f2a29007dca93a51e75a1196",
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
       "summary": "",
       "published_at": "2026-09-29T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1421,9 +1443,9 @@
       "body_preview": ""
     },
     {
-      "id": "d1517ea2f2a29007dca93a51e75a1196",
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "id": "6eb530af650a68c5f128e874c46ec106",
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
       "summary": "",
       "published_at": "2026-09-29T10:00:00+00:00",
       "source": "OpenAI News",
@@ -1443,9 +1465,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -1454,9 +1476,9 @@
       "body_preview": ""
     },
     {
-      "id": "f6c86e1d06c01e5c9efa6120c0edef45",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "id": "1d9d80d9994ce6c7d2b25cbed134d8ea",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
       "summary": "",
       "published_at": "2026-09-28T19:00:00+00:00",
       "source": "OpenAI News",
@@ -1536,17 +1558,6 @@
       "link": "https://openai.com/index/proaction",
       "summary": "",
       "published_at": "2026-09-25T19:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "7ba4cbbe0eed75769e47d701c5b8a3b0",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "link": "https://openai.com/index/wayfair",
-      "summary": "",
-      "published_at": "2026-09-25T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
