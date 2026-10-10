@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-10T04:19:52.815069+00:00",
+  "generated_at": "2026-10-10T10:40:44.969135+00:00",
   "articles": [
+    {
+      "id": "0b899f363c7af11cfe5705a0ae89b172",
+      "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+      "link": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
+      "summary": "",
+      "published_at": "2026-10-10T10:16:26+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "579b3b282a7609a8553072a6b1382b04",
+      "title": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+      "link": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/",
+      "summary": "",
+      "published_at": "2026-10-10T08:59:49+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4b981b21c5d91908b653179d4d80d749",
+      "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+      "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+      "summary": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&#8217;s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A [&#8230;] The post Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model appeared first on MarkTechPost .",
+      "published_at": "2026-10-10T06:03:09+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ef6a33efc0f175adfc4a48c434cf4507",
+      "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+      "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+      "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost .",
+      "published_at": "2026-10-10T04:51:34+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "4b3a93bdbdcee217ad654e21e319ec5b",
       "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
@@ -783,17 +827,6 @@
       "body_preview": ""
     },
     {
-      "id": "8f69e5b2fcedebd73442c109aadd0282",
-      "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-      "link": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
-      "summary": "",
-      "published_at": "2026-10-08T18:17:07+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e08e974f295de374d3414776b50b5dab",
       "title": "Anthropic changes usage policy to ban model abuse and election interference",
       "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
@@ -893,17 +926,6 @@
       "body_preview": ""
     },
     {
-      "id": "5309df10e4bee43fea2128517217c8bc",
-      "title": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
-      "link": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/",
-      "summary": "",
-      "published_at": "2026-10-08T13:52:54+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "595ea23f05b3118ac44958f4cee7fe58",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "link": "https://openai.com/index/pollo-ai",
@@ -967,28 +989,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "3fa63ae3d7239eb2f00d5a197f00970c",
-      "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA",
-      "link": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/",
-      "summary": "Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host. The post Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA appeared first on MarkTechPost .",
-      "published_at": "2026-10-08T05:39:09+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c3650b08a0215e525e2324a3d0327f04",
-      "title": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
-      "link": "https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/",
-      "summary": "Unsloth's October 6 security overview explains how Studio checks code, weights, packages and tools before anything runs. Custom model code is scanned and approval is bound to its fingerprint. Flagged weight files are blocked in the load path, package-content findings fail CI, and tools run in probed OS sandboxes. Here is what each checkpoint decides, and what it does not cover. The post What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs appeared first on MarkTechPost .",
-      "published_at": "2026-10-08T01:49:11+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
