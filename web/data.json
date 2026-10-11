@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:55:20.922824+00:00",
+  "generated_at": "2026-10-11T01:23:12.653262+00:00",
   "articles": [
     {
       "id": "b977a1cb72e0efffd550949ed76add96",
@@ -9,6 +9,17 @@
       "published_at": "2026-10-10T22:10:17+00:00",
       "source": "The Verge AI",
       "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a85faeb0847a2de6fb280bb67a200bb5",
+      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+      "summary": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system. The post Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors appeared first on MarkTechPost .",
+      "published_at": "2026-10-10T22:02:18+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -967,17 +978,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1c376e0c077933590c6fadfac676efd4",
-      "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
-      "link": "https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/",
-      "summary": "Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules. For developers, it is quite simple message: swap a base URL, [&#8230;] The post Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference appeared first on MarkTechPost .",
-      "published_at": "2026-10-08T08:53:34+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
