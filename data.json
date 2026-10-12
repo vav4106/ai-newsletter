@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-10-12T08:02:09.525196+00:00",
+  "generated_at": "2026-10-12T17:46:04.583712+00:00",
   "articles": [
+    {
+      "id": "7feec22ef995320ca3174f811f01c8e6",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "summary": "",
+      "published_at": "2026-10-12T17:19:14+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5657cfbc2b11ccdc462437409f501bbf",
+      "title": "Meta has some Wonder Full new AI models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [&#8230;]",
+      "published_at": "2026-10-12T17:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "eeeca29f0b82937be735b0f6079ef06d",
+      "title": "Clearing chat history helps AI agents find better solutions",
+      "link": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
+      "summary": "",
+      "published_at": "2026-10-12T16:10:00+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d07fe4ba80a61b57503331585479eaac",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "summary": "",
+      "published_at": "2026-10-12T15:31:19+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "85ec437827ab8ae3bb70070fc960cf51",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "summary": "",
+      "published_at": "2026-10-12T15:27:59+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2f85bd4f7748d0d1631bdcd7ad95b179",
+      "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
+      "link": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+      "summary": "",
+      "published_at": "2026-10-12T15:24:03+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "26a340e1bcbded1c4c58628767e6126b",
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "summary": "",
+      "published_at": "2026-10-12T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "752792a697061654fb19cf6cbd3e8ac5",
+      "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
+      "link": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
+      "summary": "",
+      "published_at": "2026-10-12T13:14:54+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "65e0fc77e2113c70cf5f2b5b090003fe",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will [&#8230;]",
+      "published_at": "2026-10-12T13:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "484f7e8d7fd80e1f6de7b787ca6e38fa",
+      "title": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
+      "link": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
+      "summary": "",
+      "published_at": "2026-10-12T12:51:21+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4578e49ecac6cfe5db8be95b9dce2fa7",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "summary": "",
+      "published_at": "2026-10-12T12:47:59+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bf383855fc33167d7d9bf31560d73add",
+      "title": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+      "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
+      "summary": "",
+      "published_at": "2026-10-12T09:35:54+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6a2394b06a2e387311d5a5f039c8d61a",
+      "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+      "link": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+      "summary": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing. The post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing appeared first on MarkTechPost .",
+      "published_at": "2026-10-12T08:20:49+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "767b02f7bb099fdbf61582ba0cef114e",
       "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
@@ -486,17 +629,6 @@
       "body_preview": ""
     },
     {
-      "id": "a6ba200eaf0935c85f8fd2132bd7362e",
-      "title": "Odyssey-3 is a new generative world model that you can try for free",
-      "link": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
-      "summary": "",
-      "published_at": "2026-10-11T07:48:01+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "74a1e005c7b84d049ef15d2f3cf12174",
       "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
       "link": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
@@ -574,34 +706,12 @@
       "body_preview": ""
     },
     {
-      "id": "ebed81d2926a2761d6f5da37096f4b42",
-      "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
-      "link": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/",
-      "summary": "",
-      "published_at": "2026-10-10T15:15:40+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "15cc94acabfe73e615b86c1dc607ee61",
       "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
       "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
       "summary": "",
       "published_at": "2026-10-10T15:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "683e8af71e579d2ab4dc7fd1c903b66d",
-      "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
-      "link": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/",
-      "summary": "",
-      "published_at": "2026-10-10T14:57:33+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -629,17 +739,6 @@
       "body_preview": ""
     },
     {
-      "id": "6cb0b1449c71312ad4426fa12bab45c2",
-      "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-      "link": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
-      "summary": "",
-      "published_at": "2026-10-10T13:03:59+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3f08911e9933d61c64cd97779956fd69",
       "title": "AI agent makers are promising privacy — will they deliver?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
@@ -647,17 +746,6 @@
       "published_at": "2026-10-10T13:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9c83cd2ba659e024f9c71c05a95251a6",
-      "title": "Few people pay for AI, but those who do spend big",
-      "link": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/",
-      "summary": "",
-      "published_at": "2026-10-10T10:54:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -684,8 +772,8 @@
       "body_preview": ""
     },
     {
-      "id": "eaca4cfe84f4b2ad4df03405aba7cdf8",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "id": "e5af6e4db82707d949e7646ae8811cad",
+      "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "summary": "",
       "published_at": "2026-10-10T00:18:32+00:00",
@@ -728,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "bb063926f0b0a120b17b9ff8fa79f399",
-      "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
-      "link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
-      "summary": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared first on MarkTechPost .",
-      "published_at": "2026-10-09T20:05:07+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c4e4c23a0b116fc26f610e35465dddb5",
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
       "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
@@ -755,17 +832,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
       "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
       "published_at": "2026-10-09T19:09:44+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9d37b80df30a27f0feb11dd14daad121",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]",
-      "published_at": "2026-10-09T18:06:57+00:00",
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
@@ -816,17 +882,6 @@
       "body_preview": ""
     },
     {
-      "id": "8e454319db1fc6b8d602587f371b7b22",
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "summary": "",
-      "published_at": "2026-10-09T15:43:33+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6609c94c75937399296b4a64098daf9b",
       "title": "Impactful scheduling for GPU clusters",
       "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
@@ -834,28 +889,6 @@
       "published_at": "2026-10-09T15:20:29+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0994a463c11ef0ab85337d7ff9e0ba06",
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
-      "published_at": "2026-10-09T14:25:43+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "eb301ff0c7862ccb906baf0415b6240a",
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "summary": "",
-      "published_at": "2026-10-09T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -901,39 +934,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "fe7f660649f7b8504b631d5f1918f91f",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "summary": "",
-      "published_at": "2026-10-08T21:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5bd65c6d8990045cbf87431bb3d080dc",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "summary": "",
-      "published_at": "2026-10-08T20:04:26+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b4f1fc6d7d975830739d9cd23f6ea17a",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "summary": "",
-      "published_at": "2026-10-08T18:20:32+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1517,17 +1517,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1e340eca08da2f03010a6245f2a7cb58",
-      "title": "Holo4: powering generalist computer-use agents",
-      "link": "https://huggingface.co/blog/Hcompany/holo4",
-      "summary": "",
-      "published_at": "2026-09-28T09:44:05+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     },
     {
