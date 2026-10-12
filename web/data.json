@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-11T22:34:15.656317+00:00",
+  "generated_at": "2026-10-12T01:42:08.700403+00:00",
   "articles": [
+    {
+      "id": "60fb6ac302c9d4077a63defae7fdee08",
+      "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
+      "link": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
+      "summary": "Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. The post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text appeared first on MarkTechPost .",
+      "published_at": "2026-10-11T23:15:52+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "b95a1a80fb51af87dfcd9fb73d444343",
       "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
@@ -549,17 +560,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "4ab09cbcc4007bf9174ae444837cb72b",
-      "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
-      "link": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
-      "summary": "Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is [&#8230;] The post Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work appeared first on MarkTechPost .",
-      "published_at": "2026-10-09T06:47:56+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1209,39 +1209,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "83bae0db82a5433c08540c5f78afa770",
-      "title": "Are you a Codex Original?",
-      "link": "https://openai.com/form/codex-originals",
-      "summary": "",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1a18edac8fb773213e4b6645e7d73e63",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "summary": "",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "40ef0721693616a61c9f15cc32e4de48",
-      "title": "Welcome RL Environments to the hub",
-      "link": "https://huggingface.co/blog/rl-environments",
-      "summary": "",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     },
     {
