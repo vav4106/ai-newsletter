@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-13T03:54:51.116550+00:00",
+  "generated_at": "2026-10-13T11:14:29.286795+00:00",
   "articles": [
+    {
+      "id": "f6466e9d1a4a3718e52855a1b9aa2974",
+      "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
+      "link": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
+      "summary": "",
+      "published_at": "2026-10-13T11:06:46+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "db76f9b149637f27b28e8f16498438d0",
+      "title": "Anthropic study warns that small AI models could soon replicate across everyday devices",
+      "link": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
+      "summary": "",
+      "published_at": "2026-10-13T10:33:28+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "69cac3470114b359b0112d8a38eddaf6",
+      "title": "Character.AI files for bankruptcy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing [&#8230;]",
+      "published_at": "2026-10-13T10:32:23+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "83a2348d12d5c6b8aebe74de33d96a68",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the&#8230;",
+      "published_at": "2026-10-13T10:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "4ac7e898baa3e4c4a1a8e76b28875af9",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "e91507e53e2397590f936f01f61d6650",
+      "title": "Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB",
+      "link": "https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/",
+      "summary": "Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. Access is by application. The post Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB appeared first on MarkTechPost .",
+      "published_at": "2026-10-13T08:19:54+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "04956874d9de01117f715696f29d6f2d",
       "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
@@ -200,336 +266,6 @@
       "body_preview": ""
     },
     {
-      "id": "767b02f7bb099fdbf61582ba0cef114e",
-      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-      "link": "https://arxiv.org/abs/2610.12493",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "84063b28a36fb19bead038b3af213fee",
-      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-      "link": "https://arxiv.org/abs/2610.12536",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "04a604d87c6b85470ff9dc97c8672bb2",
-      "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-      "link": "https://arxiv.org/abs/2610.12542",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "66c0528c561272172ba35e45977e4315",
-      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-      "link": "https://arxiv.org/abs/2610.12593",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "84f82faf6404bc4089f37c5e857740b9",
-      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-      "link": "https://arxiv.org/abs/2610.12596",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "44fec28c57861d4aecd95075051d93cc",
-      "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
-      "link": "https://arxiv.org/abs/2610.12598",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "845aa0f8bba495315e94eaafc1debfdb",
-      "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
-      "link": "https://arxiv.org/abs/2610.12655",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "6bad24c2a7ef2f0daaf471d3430dd8e4",
-      "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
-      "link": "https://arxiv.org/abs/2610.12659",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "064444e669516662e4593fdc24a49e1a",
-      "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
-      "link": "https://arxiv.org/abs/2610.12762",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "762ee77979f72ee12b56e1f114529e14",
-      "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
-      "link": "https://arxiv.org/abs/2610.12781",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "1eac819d0e03b2b9c8b2d2a319a0cc95",
-      "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
-      "link": "https://arxiv.org/abs/2610.12789",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "998f70822a3f3f58e82aec97ba49850d",
-      "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
-      "link": "https://arxiv.org/abs/2610.12813",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "b4e19a558bac69433cdc5fc3683acf83",
-      "title": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
-      "link": "https://arxiv.org/abs/2610.12822",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "81c3a5eeb52d6fd71741e0399c94df28",
-      "title": "Neural networks are more modular than single neurons suggest",
-      "link": "https://arxiv.org/abs/2610.12842",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "adfee90aacf1c263948349c7a0423a11",
-      "title": "Towards Defining, Measuring, and Leveraging Creativity in AI Applications",
-      "link": "https://arxiv.org/abs/2610.12845",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "fabd23f20cd47b67b6e36512bd837310",
-      "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
-      "link": "https://arxiv.org/abs/2610.12855",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "e6c510e42c5be0e13c329b4bf6325d7e",
-      "title": "Collaborative Theory of Mind: Learning to Self-Revise by Anticipating User Responses",
-      "link": "https://arxiv.org/abs/2610.12872",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "a560d611642051472a020d8e513632b6",
-      "title": "One-Step Text Generation by Seq-Drifting",
-      "link": "https://arxiv.org/abs/2610.12879",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "ce226143ad31f559b07f36dbf5ea76d1",
-      "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
-      "link": "https://arxiv.org/abs/2610.12881",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "0f9d69b7479c3d80cf77093e28ab9f03",
-      "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
-      "link": "https://arxiv.org/abs/2610.12914",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "ede1fc7a8533468046473e181fd92f84",
-      "title": "DeFiRank: Federated Pairwise Ranking for Governance in Decentralized Financial Networks",
-      "link": "https://arxiv.org/abs/2610.12916",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "21d52ab3a82434e13a714d68d20c6a89",
-      "title": "AI-Mediation in Retail Markets: Revenue Effects and Assortment Optimization",
-      "link": "https://arxiv.org/abs/2610.12917",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "074a03415b009fd53ebaf402729a22df",
-      "title": "Teaching neural decoders with language",
-      "link": "https://arxiv.org/abs/2610.12921",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "dc582f7cd1bcbfd328a751da2c788c8d",
-      "title": "Collaborative Learning and Reasoning over Model Slices",
-      "link": "https://arxiv.org/abs/2610.12927",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "20ef5dd934bda2c3d8c2c4badd262a18",
-      "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training",
-      "link": "https://arxiv.org/abs/2610.12933",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "40ba765304256fb90b3780914d9cbcc3",
-      "title": "MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation",
-      "link": "https://arxiv.org/abs/2610.12954",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "38ca0404b99f5731d9a7ab2c57324dbe",
-      "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
-      "link": "https://arxiv.org/abs/2610.12975",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "6fc8749f5c920faabff9e2eb79c6ad5c",
-      "title": "Beyond Semantic IDs: Finite-Beam Reachability and Continuous-Query Generation in Generative Recommendation",
-      "link": "https://arxiv.org/abs/2610.12977",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "2fb16101b3f687faeae1c2bff34b1827",
-      "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
-      "link": "https://arxiv.org/abs/2610.12984",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
-      "id": "57f887f68af3ea11964e162ea0a72758",
-      "title": "Benchmarking Embedding Geometries and Clustering Algorithms for Unsupervised Patent Claim Classification",
-      "link": "https://arxiv.org/abs/2610.12997",
-      "summary": "",
-      "published_at": "2026-10-12T04:00:00+00:00",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "importance": "low",
-      "body_preview": ""
-    },
-    {
       "id": "6cca897628f5a77a5aace8b7a0836cf9",
       "title": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
       "link": "https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/",
@@ -629,17 +365,6 @@
       "body_preview": ""
     },
     {
-      "id": "a627ddd54c2170fd08d51cc3f94f7dc9",
-      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
-      "link": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
-      "summary": "",
-      "published_at": "2026-10-11T13:44:32+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ef5aab9f1287114263d53c8176d6e7f4",
       "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
@@ -647,17 +372,6 @@
       "published_at": "2026-10-11T11:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d2dfa340651ad353061e2dc00aebaaee",
-      "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
-      "link": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/",
-      "summary": "",
-      "published_at": "2026-10-11T09:49:59+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -794,17 +508,6 @@
       "body_preview": ""
     },
     {
-      "id": "ef6a33efc0f175adfc4a48c434cf4507",
-      "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
-      "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
-      "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost .",
-      "published_at": "2026-10-10T04:51:34+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e5af6e4db82707d949e7646ae8811cad",
       "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -845,17 +548,6 @@
       "published_at": "2026-10-09T19:36:56+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2321234d1135e3aa772a203f3e2af62b",
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
-      "published_at": "2026-10-09T19:09:44+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1278,17 +970,6 @@
       "body_preview": ""
     },
     {
-      "id": "394ed1aa7b76d7e71f2b01c93abc5391",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
-      "published_at": "2026-10-02T15:49:04+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "b88661c4c47f80ccb46b4a4ac5c29526",
       "title": "The latest AI news we announced in September 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
@@ -1296,17 +977,6 @@
       "published_at": "2026-10-02T15:00:00+00:00",
       "source": "Google AI Blog",
       "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "14e3c9a9f47a182690a053a0ced29e26",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
-      "published_at": "2026-10-02T08:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
       "importance": "high",
       "body_preview": ""
     },
@@ -1451,28 +1121,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6eb530af650a68c5f128e874c46ec106",
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
-      "summary": "",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d1517ea2f2a29007dca93a51e75a1196",
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "summary": "",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     },
     {
