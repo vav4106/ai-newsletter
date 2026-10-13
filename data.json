@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:46:48.907715+00:00",
+  "generated_at": "2026-10-13T03:54:51.116550+00:00",
   "articles": [
     {
       "id": "04956874d9de01117f715696f29d6f2d",
@@ -1470,17 +1470,6 @@
       "link": "https://openai.com/index/introducing-gpt-6-1-sol",
       "summary": "",
       "published_at": "2026-09-29T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "28f5748170094db31a0662fbd731bf9c",
-      "title": "Introducing dots",
-      "link": "https://openai.com/index/introducing-dots",
-      "summary": "",
-      "published_at": "2026-09-29T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
