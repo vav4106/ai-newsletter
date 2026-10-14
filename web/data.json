@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-14T06:24:19.963487+00:00",
+  "generated_at": "2026-10-14T12:10:27.567099+00:00",
   "articles": [
+    {
+      "id": "f5b51fac35308055386b90f4774e74e1",
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "summary": "",
+      "published_at": "2026-10-14T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dc174b0819b275dd1bb2ff45dea19a68",
+      "title": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
+      "link": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
+      "summary": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment. The post 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked appeared first on MarkTechPost .",
+      "published_at": "2026-10-14T08:57:28+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dc8979812ae9f7e318ce84b56d2d0ddd",
+      "title": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
+      "link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
+      "summary": "Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max. The post Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents appeared first on MarkTechPost .",
+      "published_at": "2026-10-14T07:50:40+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "c3341f2d94081de76b24c3489ac6b367",
       "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
@@ -352,6 +385,28 @@
       "category": "research",
       "importance": "high",
       "body_preview": ""
+    },
+    {
+      "id": "b7a4a0b295db29343f9d7d04e22b78e6",
+      "title": "The EU’s next chapter in AI is agentic",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "summary": "",
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "b5eda368e4fb61d837f9e3a4a88f2013",
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "link": "https://www.anthropic.com/news/singapore-office-opening",
+      "summary": "Today, we are expanding our Asia-Pacific operations by opening a new office in Singapore—our fifth in the region—and signing a Memorandum of Understanding (MOU) with the Singapore Ministry of Digital Development and Information. Singapore is one of our most active markets anywhere in the world, and Claude is already powering Singaporean business and government services used by millions of people…",
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Today, we are expanding our Asia-Pacific operations by opening a new office in Singapore—our fifth in the region—and signing a Memorandum of Understanding (MOU) with the Singapore Ministry of Digital Development and Information. Singapore is one of our most active markets anywhere in the world, and Claude is already powering Singaporean business and government services used by millions of people every day, like GovTech Singapore, Grab, and DBS. Our growing local team will ensure these organizations and many more stay on the frontier with safe, capable AI. “We’re committed to Singapore for the "
     },
     {
       "id": "7f5a0fb9cab1762ab9604e671e485437",
@@ -915,17 +970,6 @@
       "body_preview": ""
     },
     {
-      "id": "d07fe4ba80a61b57503331585479eaac",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "summary": "",
-      "published_at": "2026-10-12T15:31:19+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6a2394b06a2e387311d5a5f039c8d61a",
       "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
       "link": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
@@ -953,28 +997,6 @@
       "link": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
       "summary": "Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. The post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text appeared first on MarkTechPost .",
       "published_at": "2026-10-11T23:15:52+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b95a1a80fb51af87dfcd9fb73d444343",
-      "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
-      "link": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
-      "summary": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text. The post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared first on MarkTechPost .",
-      "published_at": "2026-10-11T21:43:41+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "74a1e005c7b84d049ef15d2f3cf12174",
-      "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
-      "link": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
-      "summary": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. The post OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context appeared first on MarkTechPost .",
-      "published_at": "2026-10-11T06:20:21+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1476,28 +1498,6 @@
       "body_preview": ""
     },
     {
-      "id": "ac5631de052ca7b9ad16971485720729",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "summary": "",
-      "published_at": "2026-09-30T10:30:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "213656d438048725d298307794d01c02",
-      "title": "Helping small businesses put AI to work",
-      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "summary": "",
-      "published_at": "2026-09-30T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "3fe439cab51fb81031de698c7052a4f0",
       "title": "Science Claude discovers a novel enzyme system with CRISPR-like repeats",
       "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -1529,17 +1529,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Today, we are introducing the Life Sciences Verification Program (LSVP), which gives life science professionals access to our Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work. We have already onboarded dozens of organizations through an early-access program, and are now opening applications to the broader life science community ( join waitlist here ). The program is launching in beta, initially for teams and institutions. We will continue to improve the program and expand access to individual Pro and Max plans over time. The LSVP is desi"
-    },
-    {
-      "id": "29ab5877ede78d1b9a42b8e3d328dc29",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "summary": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers…",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, tele"
     },
     {
       "id": "6c472be9947730dd861b28c5195a4d78",
