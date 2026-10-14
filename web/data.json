@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-14T20:36:13.568502+00:00",
+  "generated_at": "2026-10-14T23:24:18.640134+00:00",
   "articles": [
+    {
+      "id": "ba562bb4c8b3e79ff68569e560c31bea",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "summary": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the [&#8230;]",
+      "published_at": "2026-10-14T22:53:31+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "39c1f8f7b9a0ca03c9ead80d7b5e702c",
+      "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
+      "link": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
+      "summary": "Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open weights under a revenue-capped community license. The post Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model appeared first on MarkTechPost .",
+      "published_at": "2026-10-14T22:52:17+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "eb1a8c9a915d8a40e6fc85bc42bc53ab",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "summary": "",
+      "published_at": "2026-10-14T21:30:33+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d335df044c755851425b6adc87784e6c",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&#8230;]",
+      "published_at": "2026-10-14T21:11:28+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "af10d55f9b5eab16ca5af8961e5ff9cc",
       "title": "Google says self-improving AI isn't anywhere close",
@@ -156,17 +200,6 @@
       "body_preview": ""
     },
     {
-      "id": "dae4886904fd823e53e4d109ca379acc",
-      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-      "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain. Welcome to the unsettling world of AI worms, where, [&#8230;]",
-      "published_at": "2026-10-14T15:19:02+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "17e6d101b73f6f5e8a60c9c3d3bbe48d",
       "title": "Deezer will soon let you filter out AI-generated music",
       "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
@@ -229,17 +262,6 @@
       "published_at": "2026-10-14T14:24:34+00:00",
       "source": "The Decoder",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b382735016b3403609092fde52fabbb5",
-      "title": "Epic&#8217;s new games launcher is ‘vibe coded’",
-      "link": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-      "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe coded.\" \"Programming is hard,\" Epic says in [&#8230;]",
-      "published_at": "2026-10-14T13:55:02+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -324,6 +346,17 @@
       "id": "fb041fe999a56ffbfa17238afcf70125",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "link": "https://openai.com/index/third-moment-research",
+      "summary": "",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "da6bc6318bd430998e083b3474d37b78",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "link": "https://openai.com/index/block-ai-powered-security",
       "summary": "",
       "published_at": "2026-10-14T07:00:00+00:00",
       "source": "OpenAI News",
@@ -698,12 +731,12 @@
       "id": "89b595576a5a21bf47a997c69e8110f1",
       "title": "Preparing for the 2026 US midterms",
       "link": "https://www.anthropic.com/news/2026-us-midterms",
-      "summary": "Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information. Below, we outline how we’ve built on that work and continued to strengthen our election safeguards ahead of this year’s US midterms. How people use Claude for elections and politics Our goal is for Claude to…",
+      "summary": "Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information. Below, we outline how we've built on that work and continued to strengthen our election safeguards ahead of this year’s US midterms. How people use Claude for elections and politics Our goal is for Claude to…",
       "published_at": "2026-10-14T00:00:00+00:00",
       "source": "Anthropic News",
       "category": "company",
       "importance": "high",
-      "body_preview": "Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information. Below, we outline how we’ve built on that work and continued to strengthen our election safeguards ahead of this year’s US midterms. How people use Claude for elections and politics Our goal is for Claude to be a useful tool for political conversations, while preventing election-related abuse. That starts with understanding how people actually use Claude in these contexts. To do this, we used Anthropic In"
+      "body_preview": "Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information. Below, we outline how we've built on that work and continued to strengthen our election safeguards ahead of this year’s US midterms. How people use Claude for elections and politics Our goal is for Claude to be a useful tool for political conversations, while preventing election-related abuse. That starts with understanding how people actually use Claude in these contexts. To do this, we used Anthropic In"
     },
     {
       "id": "b5eda368e4fb61d837f9e3a4a88f2013",
@@ -959,17 +992,6 @@
       "body_preview": ""
     },
     {
-      "id": "307bef85d51b49b3dd8c3da3584eef3f",
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "summary": "",
-      "published_at": "2026-10-13T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5fac54416e4a61d0af336c41c76891c2",
       "title": "Higgsfield takes AI video from 1 minute to over 10",
       "link": "https://openai.com/index/higgsfield-longer-videos-voice",
@@ -1041,17 +1063,6 @@
       "link": "https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/",
       "summary": "TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not yet available. The post TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER appeared first on MarkTechPost .",
       "published_at": "2026-10-12T03:16:09+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "60fb6ac302c9d4077a63defae7fdee08",
-      "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
-      "link": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
-      "summary": "Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. The post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text appeared first on MarkTechPost .",
-      "published_at": "2026-10-11T23:15:52+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
