@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-14T23:24:18.640134+00:00",
+  "generated_at": "2026-10-15T01:36:05.876727+00:00",
   "articles": [
+    {
+      "id": "df8b60a738213dd9cf22a244d5690801",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "summary": "",
+      "published_at": "2026-10-15T01:01:32+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ce3756619d9ffb94ba2e2a430b4360c8",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "summary": "",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "35d1285b88811113cae6f91dcda2bbb3",
+      "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
+      "link": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
+      "summary": "Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language. The post Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers appeared first on MarkTechPost .",
+      "published_at": "2026-10-14T23:37:25+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "ba562bb4c8b3e79ff68569e560c31bea",
       "title": "McKinsey is making job applicants spar with a fake AI client",
@@ -926,28 +959,6 @@
       "body_preview": ""
     },
     {
-      "id": "b2a54208d84433b853695bbd2c6e1d0d",
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "summary": "",
-      "published_at": "2026-10-13T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1daea262562f1b703098b5f06f9cdd7d",
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "summary": "",
-      "published_at": "2026-10-13T16:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0fe392017e4715065dabe6d05a731cb3",
       "title": "Gemini 4 Argon for Robotics",
       "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
@@ -1052,17 +1063,6 @@
       "link": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
       "summary": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing. The post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing appeared first on MarkTechPost .",
       "published_at": "2026-10-12T08:20:49+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6cca897628f5a77a5aace8b7a0836cf9",
-      "title": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
-      "link": "https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/",
-      "summary": "TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not yet available. The post TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER appeared first on MarkTechPost .",
-      "published_at": "2026-10-12T03:16:09+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1503,17 +1503,6 @@
       "link": "https://openai.com/index/albertsons-reimagining-retail",
       "summary": "",
       "published_at": "2026-10-01T16:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0a78eba0c195fd46187cf6db16832a4f",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "link": "https://openai.com/index/the-den-family-social",
-      "summary": "",
-      "published_at": "2026-10-01T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
