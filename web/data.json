@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-16T09:40:47.516880+00:00",
+  "generated_at": "2026-10-16T14:17:38.704808+00:00",
   "articles": [
+    {
+      "id": "449ef0843f96396003aec84d8aa3856f",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+      "published_at": "2026-10-16T14:02:40+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "740be4944d65ecd00cfa167402bb380d",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "summary": "",
+      "published_at": "2026-10-16T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e665361951d916aa7f3705ff5ff6e1a1",
+      "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
+      "link": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/",
+      "summary": "",
+      "published_at": "2026-10-16T13:48:08+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a0e6d6b20244805c5059467e6e01db2d",
+      "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
+      "link": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/",
+      "summary": "",
+      "published_at": "2026-10-16T13:15:09+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6df48957153f59b2650a06389a5b79d5",
+      "title": "Anthropic gives METR inside access to audit its AI models and safety practices",
+      "link": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/",
+      "summary": "",
+      "published_at": "2026-10-16T13:11:55+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3c23af2ce95af1e36ca7a5853910d64f",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "summary": "",
+      "published_at": "2026-10-16T12:55:09+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "49b8e5d95aa7677af2f36648fe346e1f",
       "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
@@ -365,6 +431,17 @@
       "body_preview": ""
     },
     {
+      "id": "fd416dd65f3f58483c07a554a0257a5f",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "link": "https://huggingface.co/blog/reflection-beam",
+      "summary": "",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "281837195c9f96cf5a3f4a9cf493e546",
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
       "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
@@ -684,17 +761,6 @@
       "body_preview": ""
     },
     {
-      "id": "bf9e1ab6316f5382b73a09f39d24b561",
-      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-      "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-      "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the creator and media spaces for his work investigating [&#8230;]",
-      "published_at": "2026-10-15T14:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6740ddd91b4a6798a0bf8ed13d00a787",
       "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
       "link": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
@@ -871,17 +937,6 @@
       "body_preview": ""
     },
     {
-      "id": "af10d55f9b5eab16ca5af8961e5ff9cc",
-      "title": "Google says self-improving AI isn't anywhere close",
-      "link": "https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/",
-      "summary": "",
-      "published_at": "2026-10-14T19:18:44+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "68926fdba072d0dd23e4c280bdc81f22",
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
       "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
@@ -893,34 +948,12 @@
       "body_preview": ""
     },
     {
-      "id": "818fba37aeb23efd198e55346592979d",
-      "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
-      "link": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/",
-      "summary": "",
-      "published_at": "2026-10-14T18:07:37+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "084cb896348c6aab0bce520ec33314e7",
       "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
       "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
       "summary": "",
       "published_at": "2026-10-14T18:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d67338d7a85513a1b9deb8c8118c9f95",
-      "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
-      "link": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/",
-      "summary": "",
-      "published_at": "2026-10-14T16:14:16+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -953,28 +986,6 @@
       "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
       "summary": "",
       "published_at": "2026-10-14T15:13:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "64fa9f554ec4e9055b35b8c6ae4696f8",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "summary": "",
-      "published_at": "2026-10-14T15:08:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1b41dd41d4134da11d257d5b6f320fe7",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "summary": "",
-      "published_at": "2026-10-14T15:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
