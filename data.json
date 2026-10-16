@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-16T18:06:11.892088+00:00",
+  "generated_at": "2026-10-16T20:58:12.790563+00:00",
   "articles": [
+    {
+      "id": "8500de37966ae3091a599dbcd9bbd379",
+      "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
+      "link": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+      "summary": "",
+      "published_at": "2026-10-16T18:10:27+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9940ab233b0b82a662e815ea261b299c",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
+      "published_at": "2026-10-16T18:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
     {
       "id": "dd779c39e481f2f66315d88c1d586508",
       "title": "India becomes the latest country to report rogue AI agent activity",
@@ -13,9 +35,9 @@
       "body_preview": ""
     },
     {
-      "id": "af9df6a7084c82f05a6aa141a52af98f",
-      "title": "China tightens export controls on open-weight models and 23 key AI technologies",
-      "link": "https://the-decoder.com/china-tightens-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+      "id": "be5028ae152a978ce234622fb0cb657a",
+      "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+      "link": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
       "summary": "",
       "published_at": "2026-10-16T17:42:47+00:00",
       "source": "The Decoder",
@@ -530,6 +552,17 @@
       "body_preview": ""
     },
     {
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "fd416dd65f3f58483c07a554a0257a5f",
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "link": "https://huggingface.co/blog/reflection-beam",
@@ -769,17 +802,6 @@
       "source": "Google DeepMind",
       "category": "research",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "5db3d0f74fb5e9798b18cf029caefbc8",
-      "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
-      "link": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/",
-      "summary": "",
-      "published_at": "2026-10-15T15:27:25+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1190,17 +1212,6 @@
       "body_preview": ""
     },
     {
-      "id": "665382fd9efc50b223bcf647604b6d2f",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "summary": "",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "link": "https://openai.com/index/sophos",
@@ -1212,13 +1223,13 @@
       "body_preview": ""
     },
     {
-      "id": "1d9af70d756a2ca8a3281e326f477e9f",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
-      "published_at": "2026-10-09T00:08:24+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
+      "id": "665382fd9efc50b223bcf647604b6d2f",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "summary": "",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
       "importance": "high",
       "body_preview": ""
     },
