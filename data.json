@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-16T20:58:12.790563+00:00",
+  "generated_at": "2026-10-16T23:13:11.626790+00:00",
   "articles": [
+    {
+      "id": "c1709326b6aca7ce010666dc2516d56d",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "",
+      "published_at": "2026-10-16T21:22:28+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "8500de37966ae3091a599dbcd9bbd379",
       "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
@@ -920,17 +931,6 @@
       "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
       "summary": "",
       "published_at": "2026-10-15T04:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "df8b60a738213dd9cf22a244d5690801",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "summary": "",
-      "published_at": "2026-10-15T01:01:32+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
