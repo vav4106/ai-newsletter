@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-15T22:31:33.133725+00:00",
+  "generated_at": "2026-10-16T00:41:08.983947+00:00",
   "articles": [
+    {
+      "id": "281837195c9f96cf5a3f4a9cf493e546",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "summary": "",
+      "published_at": "2026-10-15T23:44:56+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "70d9bcac2817235101c7f31fb352a9d7",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
+      "published_at": "2026-10-15T22:43:23+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "33d5afba447b637983ae5fb8c647a19b",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]",
+      "published_at": "2026-10-15T22:35:55+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "b1e4b19b6959e34e2abe5d3a37f3124e",
       "title": "The tech backlash is now in theaters",
@@ -321,17 +354,6 @@
       "body_preview": ""
     },
     {
-      "id": "85ba08ca6006a590be20152278c05aa6",
-      "title": "Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
-      "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier [&#8230;]",
-      "published_at": "2026-10-15T13:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ea091b1c82f8abb21878f52f3edf73df",
       "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
       "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
@@ -343,17 +365,6 @@
       "body_preview": ""
     },
     {
-      "id": "88d191685457de23c44048abfaeaf7c8",
-      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-      "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-      "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And [&#8230;]",
-      "published_at": "2026-10-15T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1002aa4855aeb0414df9119f50ba95ec",
       "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
       "link": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
@@ -361,17 +372,6 @@
       "published_at": "2026-10-15T09:50:43+00:00",
       "source": "The Decoder",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "208b1605c9de2a9ddbfcde3aab7c79a0",
-      "title": "Apertus 1.5 Release Notes",
-      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "summary": "",
-      "published_at": "2026-10-15T09:08:45+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
       "importance": "medium",
       "body_preview": ""
     },
@@ -750,6 +750,17 @@
       "body_preview": ""
     },
     {
+      "id": "761e3df8ed879aea578418e42ca77843",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "summary": "",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "420b8650819d1649ac9f692912a8efec",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "link": "https://huggingface.co/blog/meta-muse-spark-open",
@@ -931,17 +942,6 @@
       "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
       "summary": "",
       "published_at": "2026-10-14T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "56b7ed3a1f746f7e5104237d3431bb8a",
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "summary": "",
-      "published_at": "2026-10-14T14:30:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1168,9 +1168,9 @@
       "body_preview": ""
     },
     {
-      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
+      "id": "665382fd9efc50b223bcf647604b6d2f",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
       "summary": "",
       "published_at": "2026-10-09T07:00:00+00:00",
       "source": "OpenAI News",
@@ -1179,9 +1179,9 @@
       "body_preview": ""
     },
     {
-      "id": "665382fd9efc50b223bcf647604b6d2f",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
+      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
       "summary": "",
       "published_at": "2026-10-09T07:00:00+00:00",
       "source": "OpenAI News",
@@ -1550,17 +1550,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "deae4947564c70825e67de5e8b074234",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "link": "https://openai.com/index/chatham-financial",
-      "summary": "",
-      "published_at": "2026-10-02T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     },
     {
