@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-16T05:04:19.476925+00:00",
+  "generated_at": "2026-10-16T09:40:47.516880+00:00",
   "articles": [
+    {
+      "id": "49b8e5d95aa7677af2f36648fe346e1f",
+      "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
+      "link": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
+      "summary": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index appeared first on MarkTechPost .",
+      "published_at": "2026-10-16T06:26:41+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "14f803480bb45364b11a8082ce7f668c",
       "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
@@ -997,17 +1008,6 @@
       "link": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
       "summary": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment. The post 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked appeared first on MarkTechPost .",
       "published_at": "2026-10-14T08:57:28+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "dc8979812ae9f7e318ce84b56d2d0ddd",
-      "title": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
-      "link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
-      "summary": "Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max. The post Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents appeared first on MarkTechPost .",
-      "published_at": "2026-10-14T07:50:40+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
