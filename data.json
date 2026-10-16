@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-10-16T14:17:38.704808+00:00",
+  "generated_at": "2026-10-16T18:06:11.892088+00:00",
   "articles": [
+    {
+      "id": "dd779c39e481f2f66315d88c1d586508",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "",
+      "published_at": "2026-10-16T17:52:24+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "af9df6a7084c82f05a6aa141a52af98f",
+      "title": "China tightens export controls on open-weight models and 23 key AI technologies",
+      "link": "https://the-decoder.com/china-tightens-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+      "summary": "",
+      "published_at": "2026-10-16T17:42:47+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3f3ee82a7678d37c86cc260039262b75",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "",
+      "published_at": "2026-10-16T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6089e79c8b77ce0656bd1f1dc5614495",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "summary": "",
+      "published_at": "2026-10-16T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "94ce6dfc7ace47ba36fa0c52df37bcc9",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary": "",
+      "published_at": "2026-10-16T16:01:37+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c641513a9ba75391e569db732cfe3b0b",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "summary": "",
+      "published_at": "2026-10-16T15:33:49+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5533143be5c93c127c566abdc24d992a",
+      "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
+      "link": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
+      "summary": "",
+      "published_at": "2026-10-16T15:03:46+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c1d590aff1a587937800bb19740f97e9",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [&#8230;]",
+      "published_at": "2026-10-16T15:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b5ed32737d60bcbf5f80df55f012c01e",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "summary": "",
+      "published_at": "2026-10-16T14:26:51+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "449ef0843f96396003aec84d8aa3856f",
       "title": "Meta’s new terms may allow it to train AI on news sites for free",
@@ -684,17 +783,6 @@
       "body_preview": ""
     },
     {
-      "id": "eefc3e9b314c4d09a9feadc158537802",
-      "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
-      "link": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
-      "summary": "",
-      "published_at": "2026-10-15T15:24:15+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "d53d14193b3902b4bc2900abf2bc4bb5",
       "title": "AI agents are coming to Rivian’s cars",
       "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
@@ -739,17 +827,6 @@
       "body_preview": ""
     },
     {
-      "id": "6156cc631cbdcc5a09631d9bd5c050ad",
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the song \"Single [&#8230;]",
-      "published_at": "2026-10-15T14:03:42+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c868f1f97b5f1c39a7af437305ae09eb",
       "title": "TechCrunch Disrupt 2026: Last day",
       "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
@@ -789,17 +866,6 @@
       "summary": "",
       "published_at": "2026-10-15T12:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1002aa4855aeb0414df9119f50ba95ec",
-      "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
-      "link": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-      "summary": "",
-      "published_at": "2026-10-15T09:50:43+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -882,17 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "ce3756619d9ffb94ba2e2a430b4360c8",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "summary": "",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1d1bc8c11cea9501856f01a2ad169e00",
       "title": "An update on independent evaluators",
       "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
@@ -926,39 +981,6 @@
       "body_preview": ""
     },
     {
-      "id": "eb1a8c9a915d8a40e6fc85bc42bc53ab",
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "summary": "",
-      "published_at": "2026-10-14T21:30:33+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "68926fdba072d0dd23e4c280bdc81f22",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "summary": "",
-      "published_at": "2026-10-14T18:23:46+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "084cb896348c6aab0bce520ec33314e7",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "summary": "",
-      "published_at": "2026-10-14T18:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "28841cf1581d5a21ea7de9426b077d79",
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "link": "https://huggingface.co/blog/allenai/hiro-acev2",
@@ -966,28 +988,6 @@
       "published_at": "2026-10-14T16:12:42+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "17e6d101b73f6f5e8a60c9c3d3bbe48d",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "summary": "",
-      "published_at": "2026-10-14T15:16:04+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1d3f25ee1bfed96619de85cee6ae0044",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "summary": "",
-      "published_at": "2026-10-14T15:13:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1528,28 +1528,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ba4440266f6d4d3fe2537c893b6811c5",
-      "title": "A model guide for the GPT-6 family",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "summary": "",
-      "published_at": "2026-10-02T16:15:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "b88661c4c47f80ccb46b4a4ac5c29526",
-      "title": "The latest AI news we announced in September 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "summary": "A video showing the September AI updates",
-      "published_at": "2026-10-02T15:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     },
     {
