@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-17T18:37:22.011258+00:00",
+  "generated_at": "2026-10-17T20:54:27.219485+00:00",
   "articles": [
+    {
+      "id": "c9318f778e22a02ccf14927467d85647",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "",
+      "published_at": "2026-10-17T20:21:19+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b2297e25ba053fa8e47edeb40f1d2351",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "",
+      "published_at": "2026-10-17T18:48:08+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2ccbb58711739a26f6990d6aa4ea870f",
       "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
@@ -449,17 +471,6 @@
       "published_at": "2026-10-17T00:09:12+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c1709326b6aca7ce010666dc2516d56d",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "",
-      "published_at": "2026-10-16T21:22:28+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -977,17 +988,6 @@
       "published_at": "2026-10-15T05:45:03+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "168462268071b7ef1ebeb5ca8a0ea027",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "summary": "",
-      "published_at": "2026-10-15T04:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
