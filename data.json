@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-17T13:11:03.096242+00:00",
+  "generated_at": "2026-10-17T16:25:46.994240+00:00",
   "articles": [
+    {
+      "id": "2ccbb58711739a26f6990d6aa4ea870f",
+      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
+      "link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+      "summary": "",
+      "published_at": "2026-10-17T15:36:11+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2ae4368ab1904ce0174205d857973dc8",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]",
+      "published_at": "2026-10-17T15:04:36+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b4c512dd831074adc84377d1bd330a10",
+      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
+      "link": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
+      "summary": "",
+      "published_at": "2026-10-17T14:42:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "3852b72f4882be33d44fc968ec6c8454",
       "title": "Websites are closing their doors to AI agents",
@@ -607,17 +640,6 @@
       "body_preview": ""
     },
     {
-      "id": "6df48957153f59b2650a06389a5b79d5",
-      "title": "Anthropic gives METR inside access to audit its AI models and safety practices",
-      "link": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/",
-      "summary": "",
-      "published_at": "2026-10-16T13:11:55+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3c23af2ce95af1e36ca7a5853910d64f",
       "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
       "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
@@ -662,9 +684,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d670f55b7e8bf7faa686f3d10acc953",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "514f3439f36679a193291ac295aa6ed5",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -673,9 +695,9 @@
       "body_preview": ""
     },
     {
-      "id": "514f3439f36679a193291ac295aa6ed5",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -838,17 +860,6 @@
       "body_preview": ""
     },
     {
-      "id": "16cc026e61980842da1e973acd944b92",
-      "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
-      "link": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
-      "summary": "",
-      "published_at": "2026-10-15T18:34:32+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b9e785302cb70c4c64171fd9b1fd9784",
       "title": "Meta and Apple team up to make Muse AI models run better on Macs",
       "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
@@ -867,17 +878,6 @@
       "published_at": "2026-10-15T18:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "34384366cd3eb36b3409357ede009b53",
-      "title": "Friends don&#8217;t let friends feed their data to AI agents",
-      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
-      "published_at": "2026-10-15T16:21:45+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1234,9 +1234,9 @@
       "body_preview": ""
     },
     {
-      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
+      "id": "665382fd9efc50b223bcf647604b6d2f",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
       "summary": "",
       "published_at": "2026-10-09T07:00:00+00:00",
       "source": "OpenAI News",
@@ -1245,9 +1245,9 @@
       "body_preview": ""
     },
     {
-      "id": "665382fd9efc50b223bcf647604b6d2f",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
+      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
       "summary": "",
       "published_at": "2026-10-09T07:00:00+00:00",
       "source": "OpenAI News",
