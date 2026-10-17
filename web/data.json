@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-17T05:40:38.359175+00:00",
+  "generated_at": "2026-10-17T09:39:57.759579+00:00",
   "articles": [
+    {
+      "id": "d2820150ea05b7783570b161e04d93c4",
+      "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
+      "link": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
+      "summary": "",
+      "published_at": "2026-10-17T09:00:26+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d8fb3b24bc25c7baa6aa02693516a605",
+      "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
+      "link": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
+      "summary": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS&#8217;s Strands Labs and independent developers. [&#8230;] The post 20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026 appeared first on MarkTechPost .",
+      "published_at": "2026-10-17T07:26:39+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "258f79fc9bc2e0e33b521ace1bc4ce14",
+      "title": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context",
+      "link": "https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/",
+      "summary": "StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up to 1M tokens of context. For developers, this is [&#8230;] The post StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context appeared first on MarkTechPost .",
+      "published_at": "2026-10-17T06:29:55+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "14f803480bb45364b11a8082ce7f668c",
       "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
@@ -827,17 +860,6 @@
       "body_preview": ""
     },
     {
-      "id": "58cb021d9f2b1bea517250e5ffb62057",
-      "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
-      "link": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
-      "summary": "",
-      "published_at": "2026-10-15T16:09:44+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "11bd3f22d465daf9fd01d58d91148df7",
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -1012,28 +1034,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Last month, we committed to stronger independent, third-party assessment of our models and safety practices. We also signed the White House Accord on Super Intelligence, in which companies pledged to partner with independent external auditors or evaluators. Today, we’re announcing that we’ve started to give employee-like access to a team from METR , a nonprofit that evaluates frontier AI models. METR will publish the results of its risk assessments. Over the past year, we’ve worked with METR on several reviews of our Risk Reports . We’re also working with SecureBio and Accenture as evaluators,"
-    },
-    {
-      "id": "35d1285b88811113cae6f91dcda2bbb3",
-      "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
-      "link": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
-      "summary": "Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language. The post Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers appeared first on MarkTechPost .",
-      "published_at": "2026-10-14T23:37:25+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "39c1f8f7b9a0ca03c9ead80d7b5e702c",
-      "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
-      "link": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
-      "summary": "Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open weights under a revenue-capped community license. The post Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model appeared first on MarkTechPost .",
-      "published_at": "2026-10-14T22:52:17+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
     },
     {
       "id": "28841cf1581d5a21ea7de9426b077d79",
