@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-17T20:54:27.219485+00:00",
+  "generated_at": "2026-10-17T22:44:44.759214+00:00",
   "articles": [
+    {
+      "id": "afe21660ae90909d979f941ccacad9af",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "",
+      "published_at": "2026-10-17T21:31:32+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4c4ea2f3da6af5cb661dba6295d250bc",
+      "title": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
+      "link": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
+      "summary": "Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution benchmarks, only models about twice its size beat it. All weights are live on [&#8230;] The post Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation appeared first on MarkTechPost .",
+      "published_at": "2026-10-17T20:22:11+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "c9318f778e22a02ccf14927467d85647",
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
@@ -13,8 +35,8 @@
       "body_preview": ""
     },
     {
-      "id": "b2297e25ba053fa8e47edeb40f1d2351",
-      "title": "Replit is no longer working with Anthropic, CEO says",
+      "id": "57454e28492d132d929f6934d9e843b0",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "summary": "",
       "published_at": "2026-10-17T18:48:08+00:00",
@@ -967,28 +989,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "ea091b1c82f8abb21878f52f3edf73df",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "summary": "",
-      "published_at": "2026-10-15T12:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e37a71e8834752d0cb3c82868b890598",
-      "title": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
-      "link": "https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/",
-      "summary": "TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens. The post TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context appeared first on MarkTechPost .",
-      "published_at": "2026-10-15T05:45:03+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
