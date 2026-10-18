@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-18T18:51:54.517991+00:00",
+  "generated_at": "2026-10-18T21:08:15.302777+00:00",
   "articles": [
+    {
+      "id": "e329fd58dac191c90aa4d131455627e7",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "",
+      "published_at": "2026-10-18T20:37:40+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2d33e396d4081c24701db2aa807ac6ea",
       "title": "A woman was arrested in Philly for blocking a delivery robot",
@@ -9,6 +20,17 @@
       "published_at": "2026-10-18T18:28:10+00:00",
       "source": "The Verge AI",
       "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1f0dd2f19414b9db102fba2e6bd514ba",
+      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+      "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish, a web infrastructure [&#8230;] The post TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web appeared first on MarkTechPost .",
+      "published_at": "2026-10-18T18:20:28+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -431,17 +453,6 @@
       "body_preview": ""
     },
     {
-      "id": "f2d990a5af40c18c49c87a95368b5f96",
-      "title": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
-      "link": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
-      "summary": "Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. The post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared first on MarkTechPost .",
-      "published_at": "2026-10-16T02:26:04+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "dbddeae3481ec3e86d92e4658395cd47",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
@@ -645,17 +656,6 @@
       "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
       "summary": "",
       "published_at": "2026-10-15T15:02:36+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1c24b2048aa6cb50fa1f30393b54386d",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "summary": "",
-      "published_at": "2026-10-15T14:29:33+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
