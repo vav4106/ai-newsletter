@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-18T16:33:30.339175+00:00",
+  "generated_at": "2026-10-18T18:51:54.517991+00:00",
   "articles": [
+    {
+      "id": "2d33e396d4081c24701db2aa807ac6ea",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]",
+      "published_at": "2026-10-18T18:28:10+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3f7d63c2320f8006a2678cd6d788fe58",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "",
+      "published_at": "2026-10-18T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "775f3cd8e61b6c8dbd799644e36375b0",
       "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
@@ -99,6 +121,17 @@
       "category": "research",
       "importance": "medium",
       "body_preview": ""
+    },
+    {
+      "id": "1cb6528f14c9c715e9198a90d45412e3",
+      "title": "Investing in the public benefit",
+      "link": "https://www.anthropic.com/news/public-benefit-fund",
+      "summary": "Today, we’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Subject to stockholder approval, 5% of Anthropic’s shares will be committed today, with an additional 2% added at the board’s discretion for every 50% increase in the company’s value above a set baseline. As a public benefit…",
+      "published_at": "2026-10-18T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Today, we’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Subject to stockholder approval, 5% of Anthropic’s shares will be committed today, with an additional 2% added at the board’s discretion for every 50% increase in the company’s value above a set baseline. As a public benefit corporation, most of our work in pursuit of our mission takes place inside the company: research relevant to AI safety and interpretability; applied biomedical research; discounts on Claude for nonprofits"
     },
     {
       "id": "afe21660ae90909d979f941ccacad9af",
@@ -585,17 +618,6 @@
       "body_preview": ""
     },
     {
-      "id": "b9e785302cb70c4c64171fd9b1fd9784",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [&#8230;]",
-      "published_at": "2026-10-15T18:15:36+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6d8f1adb6e54b4feb6c42a72b9564d64",
       "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
       "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
@@ -634,17 +656,6 @@
       "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
       "summary": "",
       "published_at": "2026-10-15T14:29:33+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c868f1f97b5f1c39a7af437305ae09eb",
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "summary": "",
-      "published_at": "2026-10-15T14:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1243,17 +1254,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations. Barclays is extending Claude across the bank to accelerate software development, modernize legacy systems, and improve operational efficiency. As part of this rollout, Barclays expects Claude Code adoption to reach 50% of its developer population by the end of 2026, rising to a majority of software engineers in 2027. Barclays builds with Claude to better serve customers Integrating AI across a large, complex, and highly reg"
-    },
-    {
-      "id": "3fe439cab51fb81031de698c7052a4f0",
-      "title": "Science Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "summary": "We’re introducing a new life sciences research group and laboratory at Anthropic. Our focus is on fundamental biology research using Claude: exploring datasets of DNA to identify uncharacterized protein families, generating hypotheses at scale, and testing them through experiments in the lab. This post introduces the team behind this work and shares early results in which Claude discovered a…",
-      "published_at": "2026-09-23T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "We’re introducing a new life sciences research group and laboratory at Anthropic. Our focus is on fundamental biology research using Claude: exploring datasets of DNA to identify uncharacterized protein families, generating hypotheses at scale, and testing them through experiments in the lab. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR, with only high-level direction from our scientists. Many discoveries that have revolutionized biology and medicine started with a scientist notici"
     },
     {
       "id": "6c472be9947730dd861b28c5195a4d78",
