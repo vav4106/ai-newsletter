@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-18T09:09:36.818311+00:00",
+  "generated_at": "2026-10-18T13:13:19.784562+00:00",
   "articles": [
+    {
+      "id": "e917fad3ae1ca6891471cf6155149664",
+      "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+      "link": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+      "summary": "",
+      "published_at": "2026-10-18T12:39:51+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8058ddc2e618fd96ce87d119ca1f6ab3",
+      "title": "Two German courts now hold Google liable for what its AI overviews say",
+      "link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "summary": "",
+      "published_at": "2026-10-18T10:52:39+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1af87ff6be5455d2cd7e73d181415c8c",
+      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+      "link": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/",
+      "summary": "",
+      "published_at": "2026-10-18T09:11:29+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "d50671affa176be45b7e8b09385a3513",
       "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
@@ -9,6 +42,17 @@
       "published_at": "2026-10-18T08:49:41+00:00",
       "source": "The Decoder",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9ff2a401058932595be1b556562b0260",
+      "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+      "link": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+      "summary": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on MarkTechPost .",
+      "published_at": "2026-10-18T08:15:04+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -222,17 +266,6 @@
       "body_preview": ""
     },
     {
-      "id": "8500de37966ae3091a599dbcd9bbd379",
-      "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
-      "link": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
-      "summary": "",
-      "published_at": "2026-10-16T18:10:27+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "9940ab233b0b82a662e815ea261b299c",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -250,17 +283,6 @@
       "summary": "",
       "published_at": "2026-10-16T17:52:24+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "be5028ae152a978ce234622fb0cb657a",
-      "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
-      "link": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
-      "summary": "",
-      "published_at": "2026-10-16T17:42:47+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -305,17 +327,6 @@
       "summary": "",
       "published_at": "2026-10-16T15:33:49+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5533143be5c93c127c566abdc24d992a",
-      "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
-      "link": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
-      "summary": "",
-      "published_at": "2026-10-16T15:03:46+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -537,17 +548,6 @@
       "published_at": "2026-10-15T19:55:25+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a2183973087490ad008879596400b06b",
-      "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
-      "link": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
-      "summary": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on MarkTechPost .",
-      "published_at": "2026-10-15T19:53:50+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
