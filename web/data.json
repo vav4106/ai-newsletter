@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:44:44.759214+00:00",
+  "generated_at": "2026-10-18T00:23:02.736784+00:00",
   "articles": [
     {
       "id": "afe21660ae90909d979f941ccacad9af",
@@ -1550,17 +1550,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "6509c723b01a96107f30a4b89ac64e5c",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "summary": "",
-      "published_at": "2026-10-03T22:56:48+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     },
     {
