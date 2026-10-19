@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-10-19T12:57:05.367331+00:00",
+  "generated_at": "2026-10-19T18:55:14.028199+00:00",
   "articles": [
+    {
+      "id": "1fb0afc6e4efad5829f63841e2ddabd6",
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "summary": "",
+      "published_at": "2026-10-19T18:49:04+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5a563d9a651e6398bbbfc5d730559921",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "summary": "",
+      "published_at": "2026-10-19T18:37:27+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1d94faf9d0cf392138309d0a0b0b39c3",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
+      "published_at": "2026-10-19T18:22:47+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "5a1c4cdc03cf54a0b68360cf63fe530e",
+      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
+      "link": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+      "summary": "",
+      "published_at": "2026-10-19T18:22:30+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4a21d4d996fe64c36494da249b82f38f",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;",
+      "published_at": "2026-10-19T17:45:55+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "0f4f07688ad1a2f3dd3fab3dfb8bcd7f",
+      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
+      "link": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
+      "summary": "",
+      "published_at": "2026-10-19T17:36:26+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5e80c3278c9d773b9306b7ed7b8ad7b8",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "summary": "",
+      "published_at": "2026-10-19T16:13:22+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dcc9042d9598f31c2f2856bb01eecf17",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "summary": "",
+      "published_at": "2026-10-19T15:37:09+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8058ddc2e618fd96ce87d119ca1f6ab3",
+      "title": "Two German courts now hold Google liable for what its AI overviews say",
+      "link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "summary": "",
+      "published_at": "2026-10-19T14:54:39+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "04a6d28404dfde8c1c7defe44294eefb",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming [&#8230;]",
+      "published_at": "2026-10-19T14:30:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ed156f3e62b0eaa9ffaa19a2f1040cc5",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [&#8230;]",
+      "published_at": "2026-10-19T13:58:41+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "f769a0c1f1fe3976b27f583d71391882",
       "title": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
@@ -8,6 +129,28 @@
       "summary": "",
       "published_at": "2026-10-19T12:51:12+00:00",
       "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3fb8584fdb1d512987d37d71be03bfcb",
+      "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
+      "link": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+      "summary": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared first on MarkTechPost .",
+      "published_at": "2026-10-19T12:37:58+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "232bd61c1e190d589df30833e792e2b3",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "summary": "",
+      "published_at": "2026-10-19T12:30:00+00:00",
+      "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -112,8 +255,8 @@
       "body_preview": ""
     },
     {
-      "id": "3f7d63c2320f8006a2678cd6d788fe58",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "id": "bb7170a3fef86c7aa634e4bd2af26802",
+      "title": "Disney agrees to hire the majority of Character AI’s workforce",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "summary": "",
       "published_at": "2026-10-18T16:30:00+00:00",
@@ -139,17 +282,6 @@
       "link": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
       "summary": "",
       "published_at": "2026-10-18T12:39:51+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8058ddc2e618fd96ce87d119ca1f6ab3",
-      "title": "Two German courts now hold Google liable for what its AI overviews say",
-      "link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
-      "summary": "",
-      "published_at": "2026-10-18T10:52:39+00:00",
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
@@ -185,17 +317,6 @@
       "published_at": "2026-10-18T08:15:04+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "27cca87484fef0f0678ba6461ac4304d",
-      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
-      "link": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
-      "summary": "",
-      "published_at": "2026-10-18T08:15:04+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -277,17 +398,6 @@
       "body_preview": ""
     },
     {
-      "id": "2ccbb58711739a26f6990d6aa4ea870f",
-      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
-      "link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
-      "summary": "",
-      "published_at": "2026-10-17T15:36:11+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2ae4368ab1904ce0174205d857973dc8",
       "title": "Meta removes language that may have allowed it to scrape news sites",
       "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
@@ -326,17 +436,6 @@
       "link": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
       "summary": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS&#8217;s Strands Labs and independent developers. [&#8230;] The post 20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026 appeared first on MarkTechPost .",
       "published_at": "2026-10-17T07:26:39+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "258f79fc9bc2e0e33b521ace1bc4ce14",
-      "title": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context",
-      "link": "https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/",
-      "summary": "StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up to 1M tokens of context. For developers, this is [&#8230;] The post StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context appeared first on MarkTechPost .",
-      "published_at": "2026-10-17T06:29:55+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -552,28 +651,6 @@
       "body_preview": ""
     },
     {
-      "id": "b1e4b19b6959e34e2abe5d3a37f3124e",
-      "title": "The tech backlash is now in theaters",
-      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can [&#8230;]",
-      "published_at": "2026-10-15T21:39:52+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5d20c1a03bbac5e8c6aca33dca3d43b6",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or [&#8230;]",
-      "published_at": "2026-10-15T21:09:33+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f7cb24b3b219ab9b26ff50c4b80eb60b",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
@@ -596,28 +673,6 @@
       "body_preview": ""
     },
     {
-      "id": "d7809269ab9235a234494620ed94fa56",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "summary": "",
-      "published_at": "2026-10-15T19:55:25+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d27b26ec4fabc8ddff71d1b8a6d091e7",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "summary": "",
-      "published_at": "2026-10-15T19:14:26+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "7ddef110008164729345b05b831d14da",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
@@ -629,28 +684,6 @@
       "body_preview": ""
     },
     {
-      "id": "ba6f43ce73a602affa0b740c01a00e49",
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "summary": "",
-      "published_at": "2026-10-15T18:56:46+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6d8f1adb6e54b4feb6c42a72b9564d64",
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "summary": "",
-      "published_at": "2026-10-15T18:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "11bd3f22d465daf9fd01d58d91148df7",
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -659,17 +692,6 @@
       "source": "Google DeepMind",
       "category": "research",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d53d14193b3902b4bc2900abf2bc4bb5",
-      "title": "AI agents are coming to Rivian’s cars",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "summary": "",
-      "published_at": "2026-10-15T15:02:36+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1188,39 +1210,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. The program now consists of three access tiers, which allow security teams to apply for the level of access that best suits their work. Each tier includes access to our most capable models, including Claude Opus 5.5, Claude Sonnet 5.5, Claude Mythos 5.1, and new models moving forward. Interested customers can apply here . Cybersecurity is inherently dual use: the same capabilities that enable a "
-    },
-    {
-      "id": "247c5acb942f7110954ffeeb3d8fb4dd",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
-      "published_at": "2026-10-05T15:47:52+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "513466985439b39b910e0f64413305fc",
-      "title": "Our approach to EU text provenance rules",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "summary": "",
-      "published_at": "2026-10-05T15:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "870e155cc41b4c40ed42d7fe73259812",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
-      "published_at": "2026-10-05T13:29:32+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
     },
     {
       "id": "bdf8fe75944a2e4e6d7ed8a7c0c170d7",
