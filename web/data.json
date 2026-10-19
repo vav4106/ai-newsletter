@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-10-19T18:55:14.028199+00:00",
+  "generated_at": "2026-10-19T22:40:59.744284+00:00",
   "articles": [
+    {
+      "id": "af60561dda5e4fe8cea9e6b561cbde39",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "summary": "",
+      "published_at": "2026-10-19T22:04:28+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "886ba7521fa52be511b3a6697bb0bc3b",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
+      "published_at": "2026-10-19T21:28:20+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8e3365af9925cc1b8ecba0ead261569c",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "summary": "",
+      "published_at": "2026-10-19T20:09:24+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8eff58eb736cd9f29b2fc7c6d310fb3a",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "summary": "",
+      "published_at": "2026-10-19T19:28:34+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e87fa10226ac4a2b8ab65eedf9649b89",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "summary": "",
+      "published_at": "2026-10-19T19:00:12+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "1fb0afc6e4efad5829f63841e2ddabd6",
       "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
@@ -27,7 +82,7 @@
       "id": "1d94faf9d0cf392138309d0a0b0b39c3",
       "title": "Making the internet better for AI agents might make it worse for everyone else",
       "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
       "published_at": "2026-10-19T18:22:47+00:00",
       "source": "MIT Technology Review AI",
       "category": "analysis",
@@ -156,6 +211,17 @@
       "body_preview": ""
     },
     {
+      "id": "f7a4ab491b8875564390d40410ea2e96",
+      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "summary": "",
+      "published_at": "2026-10-19T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "aeed6ed45c70e9dfe91ba54e3c01a2ab",
       "title": "Democrats think cracking down on AI could give them an edge",
       "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
@@ -218,6 +284,17 @@
       "published_at": "2026-10-19T01:18:17+00:00",
       "source": "MarkTechPost",
       "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "44fa26f96a95439040107934665bd904",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "link": "https://huggingface.co/blog/hf-torchneuron",
+      "summary": "",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
       "importance": "medium",
       "body_preview": ""
     },
@@ -552,28 +629,6 @@
       "body_preview": ""
     },
     {
-      "id": "740be4944d65ecd00cfa167402bb380d",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "summary": "",
-      "published_at": "2026-10-16T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3c23af2ce95af1e36ca7a5853910d64f",
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "summary": "",
-      "published_at": "2026-10-16T12:55:09+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "dbddeae3481ec3e86d92e4658395cd47",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
@@ -585,9 +640,9 @@
       "body_preview": ""
     },
     {
-      "id": "514f3439f36679a193291ac295aa6ed5",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -596,9 +651,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d670f55b7e8bf7faa686f3d10acc953",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "514f3439f36679a193291ac295aa6ed5",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -618,33 +673,11 @@
       "body_preview": ""
     },
     {
-      "id": "281837195c9f96cf5a3f4a9cf493e546",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "summary": "",
-      "published_at": "2026-10-15T23:44:56+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "70d9bcac2817235101c7f31fb352a9d7",
       "title": "ChatGPT can peek at your Chrome tabs now",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
       "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
       "published_at": "2026-10-15T22:43:23+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "33d5afba447b637983ae5fb8c647a19b",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]",
-      "published_at": "2026-10-15T22:35:55+00:00",
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
@@ -658,17 +691,6 @@
       "published_at": "2026-10-15T20:34:01+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "888e0272aa6283f18253ff4c775f3586",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "summary": "",
-      "published_at": "2026-10-15T20:04:53+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
