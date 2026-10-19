@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-10-19T06:03:02.216493+00:00",
+  "generated_at": "2026-10-19T12:57:05.367331+00:00",
   "articles": [
+    {
+      "id": "f769a0c1f1fe3976b27f583d71391882",
+      "title": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
+      "link": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
+      "summary": "",
+      "published_at": "2026-10-19T12:51:12+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "aeed6ed45c70e9dfe91ba54e3c01a2ab",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That [&#8230;]",
+      "published_at": "2026-10-19T12:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "590e9cac6d071e0d5f2b050a7187659c",
+      "title": "The neocloud shakeout is coming, and Nvidia has the most to lose",
+      "link": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/",
+      "summary": "",
+      "published_at": "2026-10-19T11:33:36+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3ba59ff35ae99fcd8667871aa5f09e78",
+      "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
+      "link": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/",
+      "summary": "",
+      "published_at": "2026-10-19T11:19:12+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "48bcfb6742b9beba3074c31dd1ac80fc",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;",
+      "published_at": "2026-10-19T09:08:05+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
     {
       "id": "3d08d73b42a0311d05f8d876f100f3ec",
       "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
@@ -244,17 +299,6 @@
       "body_preview": ""
     },
     {
-      "id": "b4c512dd831074adc84377d1bd330a10",
-      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
-      "link": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
-      "summary": "",
-      "published_at": "2026-10-17T14:42:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3852b72f4882be33d44fc968ec6c8454",
       "title": "Websites are closing their doors to AI agents",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
@@ -262,28 +306,6 @@
       "published_at": "2026-10-17T13:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6a93e88e8472ce24d5cfb93889186605",
-      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
-      "link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
-      "summary": "",
-      "published_at": "2026-10-17T10:33:28+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "17f5bb95f9263e8105033db4cec98d8e",
-      "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
-      "link": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/",
-      "summary": "",
-      "published_at": "2026-10-17T09:54:36+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -574,17 +596,6 @@
       "body_preview": ""
     },
     {
-      "id": "73e6778b8183dde227065c3e0dd685c2",
-      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said [&#8230;]",
-      "published_at": "2026-10-15T19:57:16+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "d7809269ab9235a234494620ed94fa56",
       "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
       "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
@@ -670,6 +681,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "208b1605c9de2a9ddbfcde3aab7c79a0",
+      "title": "Apertus 1.5 Release Notes",
+      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "summary": "",
+      "published_at": "2026-10-15T09:08:45+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1195,28 +1217,6 @@
       "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
       "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
       "published_at": "2026-10-05T13:29:32+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f214efe038e44c535b7f6c44fa69adf9",
-      "title": "Building advertising for the way people use AI",
-      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "summary": "",
-      "published_at": "2026-10-05T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1dc86b735289975119488ad8d9e03c13",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
-      "published_at": "2026-10-05T08:00:00+00:00",
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
