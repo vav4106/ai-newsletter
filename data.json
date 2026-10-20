@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-19T22:40:59.744284+00:00",
+  "generated_at": "2026-10-20T01:17:44.376436+00:00",
   "articles": [
+    {
+      "id": "e8fa10ae1d75979c5eb615957d6fd775",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "summary": "",
+      "published_at": "2026-10-19T23:39:38+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b66008ee16675dc6a3a8999ca0aabce8",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "summary": "",
+      "published_at": "2026-10-19T22:49:27+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "af60561dda5e4fe8cea9e6b561cbde39",
       "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
@@ -9,6 +31,17 @@
       "published_at": "2026-10-19T22:04:28+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "02dde20a0b499c722b39d8b7c1ba2ccd",
+      "title": "The fossil fuel comeback is here",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the [&#8230;]",
+      "published_at": "2026-10-19T21:48:01+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -211,8 +244,8 @@
       "body_preview": ""
     },
     {
-      "id": "f7a4ab491b8875564390d40410ea2e96",
-      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "id": "4cfdacba2cebff3cc84908e4e9abc4a8",
+      "title": "Advancing coding in low‑resource programming languages",
       "link": "https://openai.com/index/low-resource-programming-languages",
       "summary": "",
       "published_at": "2026-10-19T12:00:00+00:00",
@@ -585,17 +618,6 @@
       "body_preview": ""
     },
     {
-      "id": "c641513a9ba75391e569db732cfe3b0b",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "summary": "",
-      "published_at": "2026-10-16T15:33:49+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c1d590aff1a587937800bb19740f97e9",
       "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
       "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
@@ -603,17 +625,6 @@
       "published_at": "2026-10-16T15:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b5ed32737d60bcbf5f80df55f012c01e",
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "summary": "",
-      "published_at": "2026-10-16T14:26:51+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -669,17 +680,6 @@
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "70d9bcac2817235101c7f31fb352a9d7",
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
-      "published_at": "2026-10-15T22:43:23+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
