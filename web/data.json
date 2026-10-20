@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-20T19:37:32.119403+00:00",
+  "generated_at": "2026-10-20T22:36:53.339898+00:00",
   "articles": [
+    {
+      "id": "976a19d8d2244ac89b8274e367030cc8",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "summary": "",
+      "published_at": "2026-10-20T22:24:02+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "80aaf5987c7b3e97115832e9ae0062de",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "summary": "",
+      "published_at": "2026-10-20T21:25:22+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a06f67d3b5b35bcb554b8cd66d0ab41e",
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "summary": "",
+      "published_at": "2026-10-20T20:40:41+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c3aae276e2135fdc4fef56623dbd2328",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "summary": "",
+      "published_at": "2026-10-20T20:35:10+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "27097ee581011662517502a23a414993",
       "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
@@ -838,39 +882,6 @@
       "body_preview": ""
     },
     {
-      "id": "e87fa10226ac4a2b8ab65eedf9649b89",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "summary": "",
-      "published_at": "2026-10-19T19:00:12+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1fb0afc6e4efad5829f63841e2ddabd6",
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "summary": "",
-      "published_at": "2026-10-19T18:49:04+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5a563d9a651e6398bbbfc5d730559921",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "summary": "",
-      "published_at": "2026-10-19T18:37:27+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1d94faf9d0cf392138309d0a0b0b39c3",
       "title": "Making the internet better for AI agents might make it worse for everyone else",
       "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
@@ -910,17 +921,6 @@
       "summary": "",
       "published_at": "2026-10-19T17:36:26+00:00",
       "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5e80c3278c9d773b9306b7ed7b8ad7b8",
-      "title": "People are using AI to make their smart TVs dumb again",
-      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "summary": "",
-      "published_at": "2026-10-19T16:13:22+00:00",
-      "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -1498,17 +1498,6 @@
       "body_preview": ""
     },
     {
-      "id": "bcb0bc78016b5dee923686b706274590",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "published_at": "2026-10-06T19:57:04+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "63e00f519d36700d96e8acb8129033b3",
       "title": "Expanding the Cyber Verification",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
@@ -1650,6 +1639,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Oct 8, 2026 Oct 8, 2026 Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securi"
+    },
+    {
+      "id": "1084e2fa6b8ae60b763d163294576804",
+      "title": "2026 Usage Policy update",
+      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "summary": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers. We're publishing a new version of the policy today. In this post, we summarize the changes we’ve made. Most of the updates in the latest version are intended to clarify existing rules. In the year since our last refresh, Claude has taken on…",
+      "published_at": "",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers. We're publishing a new version of the policy today. In this post, we summarize the changes we’ve made. Most of the updates in the latest version are intended to clarify existing rules. In the year since our last refresh, Claude has taken on longer, more independent work. This update provides new examples that show how our rules apply to Claude’s new capabilities. It draws on new patterns of misuse in influence operations, weapons development,"
     }
   ],
   "milestones": []
