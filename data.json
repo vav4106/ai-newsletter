@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-10-20T11:24:38.220840+00:00",
+  "generated_at": "2026-10-20T15:42:27.313221+00:00",
   "articles": [
+    {
+      "id": "2fdc8dc03633608b22a3fe261c2064a7",
+      "title": "The new economics of enterprise AI",
+      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
+      "published_at": "2026-10-20T15:20:25+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "6fe722b68e772d6e49a7bca247b4ad33",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "summary": "",
+      "published_at": "2026-10-20T15:19:48+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d4a91ba64e4d5968a9098f871f4cd5eb",
+      "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
+      "link": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+      "summary": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only. The post DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash appeared first on MarkTechPost .",
+      "published_at": "2026-10-20T14:31:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dc5772c95a3273d88172a934a94450e0",
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday, which says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and [&#8230;]",
+      "published_at": "2026-10-20T14:18:37+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cc4ca37d70ed90e8a6d3eb27bda3db0e",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "summary": "",
+      "published_at": "2026-10-20T14:13:32+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ad3e2fc6f2d0b8b53471c1241b73d888",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "summary": "",
+      "published_at": "2026-10-20T13:07:24+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0ee94fa6587037a097519e90c355c8ba",
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a [&#8230;]",
+      "published_at": "2026-10-20T13:06:44+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "78c8679e046473ba731f4931f19f7258",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "summary": "",
+      "published_at": "2026-10-20T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bf4f73b79365bc9a24a27f99bd1d7424",
+      "title": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+      "link": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
+      "summary": "",
+      "published_at": "2026-10-20T12:32:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "04efe646c99da3d4d3b74ef7a5a555dc",
+      "title": "Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs",
+      "link": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/",
+      "summary": "",
+      "published_at": "2026-10-20T12:04:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c164a396f61a1f9ab09e868483b9f73d",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;",
+      "published_at": "2026-10-20T12:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "0f77bf11aaf809ffebc6ad3b7f0293f9",
+      "title": "US bans Deepseek technology across federal civilian agencies",
+      "link": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
+      "summary": "",
+      "published_at": "2026-10-20T11:34:54+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "f4c668098fa254172a91f7df957d8bf3",
       "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
@@ -420,6 +552,28 @@
       "body_preview": ""
     },
     {
+      "id": "7daf89d4e3fd87a93ea28e10a8224b63",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "link": "https://huggingface.co/blog/hf-torchtpu",
+      "summary": "",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "abbaa41268799053cd72350bdf60566a",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "summary": "",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "71164f00d64113b9a014d83f73e954b1",
       "title": "MPS in PyTorch 2.15",
       "link": "https://huggingface.co/blog/mps-pytorch-2-15",
@@ -478,7 +632,7 @@
       "id": "886ba7521fa52be511b3a6697bb0bc3b",
       "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
       "published_at": "2026-10-19T21:28:20+00:00",
       "source": "The Verge AI",
       "category": "consumer",
@@ -552,6 +706,17 @@
       "body_preview": ""
     },
     {
+      "id": "5a1c4cdc03cf54a0b68360cf63fe530e",
+      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
+      "link": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+      "summary": "",
+      "published_at": "2026-10-19T18:22:30+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "4a21d4d996fe64c36494da249b82f38f",
       "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
       "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
@@ -560,6 +725,17 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "0f4f07688ad1a2f3dd3fab3dfb8bcd7f",
+      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
+      "link": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
+      "summary": "",
+      "published_at": "2026-10-19T17:36:26+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -585,6 +761,17 @@
       "body_preview": ""
     },
     {
+      "id": "8058ddc2e618fd96ce87d119ca1f6ab3",
+      "title": "Two German courts now hold Google liable for what its AI overviews say",
+      "link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "summary": "",
+      "published_at": "2026-10-19T14:54:39+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "04a6d28404dfde8c1c7defe44294eefb",
       "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
       "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
@@ -603,6 +790,17 @@
       "published_at": "2026-10-19T13:58:41+00:00",
       "source": "The Verge AI",
       "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f769a0c1f1fe3976b27f583d71391882",
+      "title": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
+      "link": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
+      "summary": "",
+      "published_at": "2026-10-19T12:51:12+00:00",
+      "source": "The Decoder",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -647,6 +845,28 @@
       "published_at": "2026-10-19T12:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "590e9cac6d071e0d5f2b050a7187659c",
+      "title": "The neocloud shakeout is coming, and Nvidia has the most to lose",
+      "link": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/",
+      "summary": "",
+      "published_at": "2026-10-19T11:33:36+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3ba59ff35ae99fcd8667871aa5f09e78",
+      "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
+      "link": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/",
+      "summary": "",
+      "published_at": "2026-10-19T11:19:12+00:00",
+      "source": "The Decoder",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -739,22 +959,22 @@
       "body_preview": ""
     },
     {
+      "id": "775f3cd8e61b6c8dbd799644e36375b0",
+      "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "link": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+      "summary": "",
+      "published_at": "2026-10-18T13:22:26+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "9ff2a401058932595be1b556562b0260",
       "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
       "link": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
       "summary": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on MarkTechPost .",
       "published_at": "2026-10-18T08:15:04+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5cb3dfe301cd1cdef51b187afd16bb8f",
-      "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
-      "link": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
-      "summary": "In this tutorial, we implement Structured Data Models, NVIDIA&#8217;s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and KumoRelational for whole relational databases, and each of them answers by in-context learning: we [&#8230;] The post How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models appeared first on MarkTechPost .",
-      "published_at": "2026-10-18T05:56:05+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -777,28 +997,6 @@
       "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "summary": "",
       "published_at": "2026-10-17T21:31:32+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c9318f778e22a02ccf14927467d85647",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "summary": "",
-      "published_at": "2026-10-17T20:21:19+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "57454e28492d132d929f6934d9e843b0",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "",
-      "published_at": "2026-10-17T18:48:08+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -846,39 +1044,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "dd779c39e481f2f66315d88c1d586508",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "summary": "",
-      "published_at": "2026-10-16T17:52:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c1d590aff1a587937800bb19740f97e9",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [&#8230;]",
-      "published_at": "2026-10-16T15:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "449ef0843f96396003aec84d8aa3856f",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
-      "published_at": "2026-10-16T14:02:40+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1278,28 +1443,6 @@
       "body_preview": ""
     },
     {
-      "id": "0ef706cc6f3a41e9dacbcab70a6658fe",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
-      "published_at": "2026-10-08T09:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "a609dff09526034fb328f1197a6f13fa",
-      "title": "Building a safer path to autonomous industrial AI",
-      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
-      "published_at": "2026-10-08T08:17:32+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "3a75df0a506fe3f1752d683cd59566ec",
       "title": "Disrupting AI-enabled “false front” operations",
       "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
@@ -1426,28 +1569,6 @@
       "link": "https://openai.com/index/atlassian-partnership",
       "summary": "",
       "published_at": "2026-10-06T16:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "c3498c464b6ebe279740d9afa089beb6",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "link": "https://openai.com/index/jump-trading",
-      "summary": "",
-      "published_at": "2026-10-06T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "e169566049280ff8a5cf8e97512969a2",
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "summary": "",
-      "published_at": "2026-10-06T12:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
