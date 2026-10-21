@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-20T22:36:53.339898+00:00",
+  "generated_at": "2026-10-21T00:51:54.696997+00:00",
   "articles": [
+    {
+      "id": "e286873d50cde41ae98e5a7642e3e16c",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+      "published_at": "2026-10-20T23:04:19+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "23be46a590e0c88ac1ac4011ba9e97a1",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "summary": "",
+      "published_at": "2026-10-20T23:01:23+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "976a19d8d2244ac89b8274e367030cc8",
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
@@ -9,6 +31,17 @@
       "published_at": "2026-10-20T22:24:02+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9c2f04d9819eee1dc83e71b65829119c",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [&#8230;]",
+      "published_at": "2026-10-20T22:11:34+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -871,17 +904,6 @@
       "body_preview": ""
     },
     {
-      "id": "8eff58eb736cd9f29b2fc7c6d310fb3a",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "summary": "",
-      "published_at": "2026-10-19T19:28:34+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1d94faf9d0cf392138309d0a0b0b39c3",
       "title": "Making the internet better for AI agents might make it worse for everyone else",
       "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
@@ -1025,17 +1047,6 @@
       "body_preview": ""
     },
     {
-      "id": "2d33e396d4081c24701db2aa807ac6ea",
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]",
-      "published_at": "2026-10-18T18:28:10+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1f0dd2f19414b9db102fba2e6bd514ba",
       "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
       "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
@@ -1043,17 +1054,6 @@
       "published_at": "2026-10-18T18:20:28+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2ae4368ab1904ce0174205d857973dc8",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]",
-      "published_at": "2026-10-17T15:04:36+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1487,17 +1487,6 @@
       "body_preview": ""
     },
     {
-      "id": "0af3c869db2d70d9551f7e592053add5",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://openai.com/index/gpt-6-for-everyone",
-      "summary": "",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "63e00f519d36700d96e8acb8129033b3",
       "title": "Expanding the Cyber Verification",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
@@ -1650,6 +1639,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers. We're publishing a new version of the policy today. In this post, we summarize the changes we’ve made. Most of the updates in the latest version are intended to clarify existing rules. In the year since our last refresh, Claude has taken on longer, more independent work. This update provides new examples that show how our rules apply to Claude’s new capabilities. It draws on new patterns of misuse in influence operations, weapons development,"
+    },
+    {
+      "id": "46db1efcbba451577ef9e97ecbf62729",
+      "title": "Building on our commitment to American scientific discovery",
+      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "summary": "Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission , a federal initiative to accelerate scientific and technological discovery through AI. The funding will go toward making Claude available to more than 15 agencies that are part of the mission, including NASA, the National Institutes of Health, and the National…",
+      "published_at": "",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission , a federal initiative to accelerate scientific and technological discovery through AI. The funding will go toward making Claude available to more than 15 agencies that are part of the mission, including NASA, the National Institutes of Health, and the National Science Foundation. We first announced our partnership with the US Department of Energy (DOE) and the Genesis Mission last December . Since then, we have worked with DOE to bring Claude to scientists acr"
     }
   ],
   "milestones": []
