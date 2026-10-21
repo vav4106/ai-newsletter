@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-21T15:26:38.388336+00:00",
+  "generated_at": "2026-10-21T19:26:24.599147+00:00",
   "articles": [
+    {
+      "id": "e1b4c253902a921254d171253c1d0c8d",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "summary": "",
+      "published_at": "2026-10-21T18:26:30+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c27f9164a73556239a300f1568d740f7",
+      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
+      "link": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/",
+      "summary": "",
+      "published_at": "2026-10-21T17:44:22+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2c9832e7f2fed87b31f06ab545772902",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "summary": "",
+      "published_at": "2026-10-21T17:35:36+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5d68364634f90af6e836238eb6c2c920",
+      "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
+      "link": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/",
+      "summary": "",
+      "published_at": "2026-10-21T17:10:46+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "eaff548044f5d1e621fd6dfbc812a4c4",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "summary": "",
+      "published_at": "2026-10-21T17:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "e51ea00d8fd7b6c4c8e9781ff03caf1d",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "summary": "",
+      "published_at": "2026-10-21T16:04:43+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a4b4a93b2b7b1889b54b01ec29d61856",
       "title": "Conversational Gemini navigation comes to Apple CarPlay",
@@ -98,17 +164,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "bdd1f573dfc4e754438417f594331c8f",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "summary": "",
-      "published_at": "2026-10-21T12:51:24+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -552,6 +607,17 @@
       "body_preview": ""
     },
     {
+      "id": "15b5b8d929f2d09a85fff14440268293",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "link": "https://openai.com/index/empowering-cyber-defenders",
+      "summary": "",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "e286873d50cde41ae98e5a7642e3e16c",
       "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
@@ -640,17 +706,6 @@
       "body_preview": ""
     },
     {
-      "id": "fa90a93f880c4fb0ae02cddcce78782f",
-      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
-      "link": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
-      "summary": "",
-      "published_at": "2026-10-20T18:56:15+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b63155bfc7ff30cf966b9fd9e3173d62",
       "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
       "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
@@ -690,17 +745,6 @@
       "summary": "",
       "published_at": "2026-10-20T17:55:12+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "212dd905aa469260c37ad1eb77aaa441",
-      "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
-      "link": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
-      "summary": "",
-      "published_at": "2026-10-20T17:17:55+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -1179,9 +1223,9 @@
       "body_preview": ""
     },
     {
-      "id": "514f3439f36679a193291ac295aa6ed5",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1190,9 +1234,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d670f55b7e8bf7faa686f3d10acc953",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "514f3439f36679a193291ac295aa6ed5",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1454,9 +1498,9 @@
       "body_preview": ""
     },
     {
-      "id": "665382fd9efc50b223bcf647604b6d2f",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
+      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
       "summary": "",
       "published_at": "2026-10-09T07:00:00+00:00",
       "source": "OpenAI News",
@@ -1465,9 +1509,9 @@
       "body_preview": ""
     },
     {
-      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
+      "id": "665382fd9efc50b223bcf647604b6d2f",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
       "summary": "",
       "published_at": "2026-10-09T07:00:00+00:00",
       "source": "OpenAI News",
@@ -1545,12 +1589,12 @@
       "id": "971c7d74960cee7e47bdf9b004148b2d",
       "title": "Announcements",
       "link": "https://www.anthropic.com/news/announcements",
-      "summary": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Oct 18, 2026 Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as…",
+      "summary": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. Oct 21, 2026 Oct 21, 2026 Physicist Christopher Stubbs joins…",
       "published_at": "",
       "source": "Anthropic News",
       "category": "company",
       "importance": "high",
-      "body_preview": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Oct 18, 2026 Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the c"
+      "body_preview": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. Oct 21, 2026 Oct 21, 2026 Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust "
     },
     {
       "id": "7a2d67d6348cd049a5ef68556f9ee532",
@@ -1564,15 +1608,15 @@
       "body_preview": "The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. Sep 21, 2026 Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. The Situation Report A rare Ebola strain is spreading in the DRC"
     },
     {
-      "id": "bc917b7f9dd0d296a43bc4bac549d85a",
-      "title": "Product",
-      "link": "https://www.anthropic.com/news/product",
-      "summary": "Ask Claude about the Anthropic Economic Index We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore real data about AI and work. Jul 22, 2026 Jul 22, 2026 Ask Claude about the Anthropic Economic Index We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore real data about AI and work. Ask Claude about the Anthropic…",
+      "id": "96ab72911be0756f890f5ce6e52007cb",
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security and arms control. “I am honored to join Anthropic’s Long-Term Benefit Trust and…",
       "published_at": "",
       "source": "Anthropic News",
       "category": "company",
       "importance": "high",
-      "body_preview": "Ask Claude about the Anthropic Economic Index We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore real data about AI and work. Jul 22, 2026 Jul 22, 2026 Ask Claude about the Anthropic Economic Index We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore real data about AI and work. Ask Claude about the Anthropic Economic Index We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore real data about AI and work. Ask Claude about the Anthropic Economic Index We're launching the Anth"
+      "body_preview": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security and arms control. “I am honored to join Anthropic’s Long-Term Benefit Trust and to help the company deliver on its public benefit mission,” said Stubbs. “I use AI tools in my research every day and see what they make possible, and as an educator I have confronted some of the hard"
     },
     {
       "id": "1d1bc8c11cea9501856f01a2ad169e00",
@@ -1606,50 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Chapter 01 : Connecting people to trusted sources Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information. Below, we outline how we've built on that work and continued to strengthen our election safeguards ahead of this year’s US midterms. How people use Claude for elections and politics Our goal is for Claude to be a useful tool for political conversations, while preventing election-related abuse. That starts with understanding how people actually use Claude i"
-    },
-    {
-      "id": "4b3c899892410f9218ac3da315cbed6b",
-      "title": "Safeguards",
-      "link": "https://www.anthropic.com/news/safeguards",
-      "summary": "Preparing for the 2026 US midterms Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms. Oct 14, 2026 Oct 14, 2026 Preparing for the 2026 US midterms Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Preparing for the 2026 US midterms Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms. Oct 14, 2026 Oct 14, 2026 Preparing for the 2026 US midterms Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms. Preparing for the 2026 US midterms Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safegua"
-    },
-    {
-      "id": "b5eda368e4fb61d837f9e3a4a88f2013",
-      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "link": "https://www.anthropic.com/news/singapore-office-opening",
-      "summary": "Today, we are expanding our Asia-Pacific operations by opening a new office in Singapore—our fifth in the region—and signing a Memorandum of Understanding (MOU) with the Singapore Ministry of Digital Development and Information. Singapore is one of our most active markets anywhere in the world, and Claude is already powering Singaporean business and government services used by millions of people…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today, we are expanding our Asia-Pacific operations by opening a new office in Singapore—our fifth in the region—and signing a Memorandum of Understanding (MOU) with the Singapore Ministry of Digital Development and Information. Singapore is one of our most active markets anywhere in the world, and Claude is already powering Singaporean business and government services used by millions of people every day, like GovTech Singapore, Grab, and DBS. Our growing local team will ensure these organizations and many more stay on the frontier with safe, capable AI. “We’re committed to Singapore for the "
-    },
-    {
-      "id": "acb47f5e857d2c627360de631f5862c8",
-      "title": "Strengthening our defenses against distillation attacks",
-      "link": "https://www.anthropic.com/news/distillation-defenses",
-      "summary": "In recent months, we’ve made substantial progress on reducing the effectiveness of distillation attacks on Claude using new methods, as we outline in this blog. Early evidence suggests that these methods have reduced the amount of data harvested by distillers by around 90 to 99%. Distillation attacks are covert, industrial-scale campaigns to extract the capabilities of one model and replicate…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "In recent months, we’ve made substantial progress on reducing the effectiveness of distillation attacks on Claude using new methods, as we outline in this blog. Early evidence suggests that these methods have reduced the amount of data harvested by distillers by around 90 to 99%. Distillation attacks are covert, industrial-scale campaigns to extract the capabilities of one model and replicate them in another, without the authorization of the original model’s developers. They are often conducted using networks of fraudulent accounts. These attacks allow companies to mimic frontier capabilities "
-    },
-    {
-      "id": "2f48f026f79a64f5649c47bc8b818d04",
-      "title": "Introducing the Anthropic Cyber Mission",
-      "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "summary": "Chapter 01 : Defending critical infrastructure Today we’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. The Cyber Mission is a new effort to support defenders with tools, research, and resources to secure their software and systems. We’re starting with two areas: Critical infrastructure: Starting with securing the operational…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Chapter 01 : Defending critical infrastructure Today we’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. The Cyber Mission is a new effort to support defenders with tools, research, and resources to secure their software and systems. We’re starting with two areas: Critical infrastructure: Starting with securing the operational technology behind power grids, water systems, and transportation networks, and protecting government systems. Today, we’re introducing the Critical Infrastructure Defense Program (CIDP), which brings frontier m"
     }
   ],
   "milestones": []
