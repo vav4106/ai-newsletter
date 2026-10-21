@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-21T05:29:01.885983+00:00",
+  "generated_at": "2026-10-21T10:25:56.612785+00:00",
   "articles": [
+    {
+      "id": "dd7c09dd4a6ff100926fc9c37a70dc08",
+      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+      "link": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
+      "summary": "",
+      "published_at": "2026-10-21T08:37:06+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "807c24bcc5404c3dcaf185a08a367634",
+      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+      "link": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
+      "summary": "",
+      "published_at": "2026-10-21T08:32:54+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cc33d6e863ee1a267b2bbca0ae5c940a",
+      "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
+      "link": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
+      "summary": "Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis. The post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared first on MarkTechPost .",
+      "published_at": "2026-10-21T06:03:12+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "833eacb8ec2e37721752f13cd74c49e2",
+      "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
+      "link": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
+      "summary": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs. The post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets appeared first on MarkTechPost .",
+      "published_at": "2026-10-21T04:33:40+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "9a5367974f2a61233a80602858e0826c",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -937,17 +981,6 @@
       "body_preview": ""
     },
     {
-      "id": "5a1c4cdc03cf54a0b68360cf63fe530e",
-      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
-      "link": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
-      "summary": "",
-      "published_at": "2026-10-19T18:22:30+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "4a21d4d996fe64c36494da249b82f38f",
       "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
       "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
@@ -956,17 +989,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0f4f07688ad1a2f3dd3fab3dfb8bcd7f",
-      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
-      "link": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
-      "summary": "",
-      "published_at": "2026-10-19T17:36:26+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1047,17 +1069,6 @@
       "body_preview": ""
     },
     {
-      "id": "b78d312bc84d6af676fd542f6788d8fe",
-      "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
-      "link": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
-      "summary": "Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3 appeared first on MarkTechPost .",
-      "published_at": "2026-10-19T01:18:17+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "44fa26f96a95439040107934665bd904",
       "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "link": "https://huggingface.co/blog/hf-torchneuron",
@@ -1065,17 +1076,6 @@
       "published_at": "2026-10-19T00:00:00+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1f0dd2f19414b9db102fba2e6bd514ba",
-      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
-      "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
-      "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish, a web infrastructure [&#8230;] The post TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web appeared first on MarkTechPost .",
-      "published_at": "2026-10-18T18:20:28+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1509,17 +1509,6 @@
       "body_preview": ""
     },
     {
-      "id": "51f0206000f4e65fa3aea956ac74fe7f",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "link": "https://openai.com/index/radisson",
-      "summary": "",
-      "published_at": "2026-10-07T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "63e00f519d36700d96e8acb8129033b3",
       "title": "Expanding the Cyber Verification",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
@@ -1650,6 +1639,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Oct 8, 2026 Oct 8, 2026 Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securi"
+    },
+    {
+      "id": "1084e2fa6b8ae60b763d163294576804",
+      "title": "2026 Usage Policy update",
+      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "summary": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers. We're publishing a new version of the policy today. In this post, we summarize the changes we’ve made. Most of the updates in the latest version are intended to clarify existing rules. In the year since our last refresh, Claude has taken on…",
+      "published_at": "",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers. We're publishing a new version of the policy today. In this post, we summarize the changes we’ve made. Most of the updates in the latest version are intended to clarify existing rules. In the year since our last refresh, Claude has taken on longer, more independent work. This update provides new examples that show how our rules apply to Claude’s new capabilities. It draws on new patterns of misuse in influence operations, weapons development,"
     }
   ],
   "milestones": []
