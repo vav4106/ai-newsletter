@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-10-21T10:25:56.612785+00:00",
+  "generated_at": "2026-10-21T15:26:38.388336+00:00",
   "articles": [
+    {
+      "id": "a4b4a93b2b7b1889b54b01ec29d61856",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring [&#8230;]",
+      "published_at": "2026-10-21T15:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c9d3e93bb4ed6a882cc141aa467c8662",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "summary": "",
+      "published_at": "2026-10-21T14:58:18+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c8295e1ce7e9f88306761775996fd8bf",
+      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+      "link": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
+      "summary": "",
+      "published_at": "2026-10-21T14:45:45+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "192e9f1e371beb3ca36e4c02d87dd2cb",
+      "title": "Mistral and Nvidia want to speed up industrial design with physics AI",
+      "link": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/",
+      "summary": "",
+      "published_at": "2026-10-21T14:40:51+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b2968b1428c6f26a0aea6c28748899c9",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "summary": "",
+      "published_at": "2026-10-21T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3d461821a6fdaf30cc0f74b3d8c2e24b",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [&#8230;]",
+      "published_at": "2026-10-21T13:57:43+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "212bc21b94b2ab081bcb3e5b843ed5c1",
+      "title": "Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days",
+      "link": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/",
+      "summary": "",
+      "published_at": "2026-10-21T13:42:05+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0ff73db45258214cd46d901564984003",
+      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
+      "link": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
+      "summary": "",
+      "published_at": "2026-10-21T13:04:19+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "469a88c567fe08814707d34a4db84650",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "summary": "",
+      "published_at": "2026-10-21T13:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "bdd1f573dfc4e754438417f594331c8f",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "summary": "",
+      "published_at": "2026-10-21T12:51:24+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0fe2c0fc8d0b55a349fab4cfa2f76a20",
+      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
+      "link": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/",
+      "summary": "",
+      "published_at": "2026-10-21T12:34:57+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cf0f1bb4e58347dede6aa2acb25ae26d",
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "",
+      "published_at": "2026-10-21T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
     {
       "id": "dd7c09dd4a6ff100926fc9c37a70dc08",
       "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
@@ -24,6 +156,28 @@
       "body_preview": ""
     },
     {
+      "id": "b808587321ee2a78b66bb9e377546df1",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "summary": "",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "87c8c5cecc154fc8b71b1a63ac9b2256",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "summary": "",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "cc33d6e863ee1a267b2bbca0ae5c940a",
       "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
       "link": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
@@ -32,6 +186,17 @@
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "66326d2d233522b7de859faf13781216",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "summary": "",
+      "published_at": "2026-10-21T04:50:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -508,17 +673,6 @@
       "body_preview": ""
     },
     {
-      "id": "51874337c2101c06f80801627c6d051e",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "summary": "",
-      "published_at": "2026-10-20T18:17:47+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "27fe0208dc61a3e16932fa6906afb852",
       "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
       "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
@@ -558,28 +712,6 @@
       "summary": "",
       "published_at": "2026-10-20T17:12:48+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ebc64ae429b0321f2936fde4c1fd2510",
-      "title": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
-      "link": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/",
-      "summary": "",
-      "published_at": "2026-10-20T17:00:59+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "63bfc5c06a8a4b6053397cc87146a6e8",
-      "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
-      "link": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
-      "summary": "",
-      "published_at": "2026-10-20T16:40:29+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -717,28 +849,6 @@
       "body_preview": ""
     },
     {
-      "id": "bf4f73b79365bc9a24a27f99bd1d7424",
-      "title": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
-      "link": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
-      "summary": "",
-      "published_at": "2026-10-20T12:32:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "04efe646c99da3d4d3b74ef7a5a555dc",
-      "title": "Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs",
-      "link": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/",
-      "summary": "",
-      "published_at": "2026-10-20T12:04:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c164a396f61a1f9ab09e868483b9f73d",
       "title": "AI adoption by industry shows what other sectors can learn",
       "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
@@ -747,17 +857,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0f77bf11aaf809ffebc6ad3b7f0293f9",
-      "title": "US bans Deepseek technology across federal civilian agencies",
-      "link": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
-      "summary": "",
-      "published_at": "2026-10-20T11:34:54+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -937,17 +1036,6 @@
       "body_preview": ""
     },
     {
-      "id": "af60561dda5e4fe8cea9e6b561cbde39",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "summary": "",
-      "published_at": "2026-10-19T22:04:28+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "02dde20a0b499c722b39d8b7c1ba2ccd",
       "title": "The fossil fuel comeback is here",
       "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
@@ -1003,17 +1091,6 @@
       "body_preview": ""
     },
     {
-      "id": "ed156f3e62b0eaa9ffaa19a2f1040cc5",
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [&#8230;]",
-      "published_at": "2026-10-19T13:58:41+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3fb8584fdb1d512987d37d71be03bfcb",
       "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
       "link": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
@@ -1033,17 +1110,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "aeed6ed45c70e9dfe91ba54e3c01a2ab",
-      "title": "Democrats think cracking down on AI could give them an edge",
-      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That [&#8230;]",
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1088,7 +1154,7 @@
       "source": "Anthropic News",
       "category": "company",
       "importance": "high",
-      "body_preview": "Today, we’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Subject to stockholder approval, 5% of Anthropic’s shares will be committed today, with an additional 2% added at the board’s discretion for every 50% increase in the company’s value above a set baseline. As a public benefit corporation, most of our work in pursuit of our mission takes place inside the company: research relevant to AI safety and interpretability; applied biomedical research; discounts on Claude for nonprofits"
+      "body_preview": "Today, we’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity with a structure that increases the stake as the company grows. Subject to stockholder approval, 5% of Anthropic’s shares will be committed today, with an additional 2% added at the board’s discretion for every 50% increase in the company’s value above a set baseline. As a public benefit corporation, most of our work in pursuit of our mission takes place inside the company: research relevant to AI safety and interpretability; applied biomedical research; discounts on Claude f"
     },
     {
       "id": "13f8c740c8aa623f549766afb464f2d5",
@@ -1113,9 +1179,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d670f55b7e8bf7faa686f3d10acc953",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "514f3439f36679a193291ac295aa6ed5",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1124,9 +1190,9 @@
       "body_preview": ""
     },
     {
-      "id": "514f3439f36679a193291ac295aa6ed5",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1140,17 +1206,6 @@
       "link": "https://huggingface.co/blog/reflection-beam",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f7cb24b3b219ab9b26ff50c4b80eb60b",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "summary": "",
-      "published_at": "2026-10-15T20:34:01+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
@@ -1476,39 +1531,6 @@
       "body_preview": ""
     },
     {
-      "id": "98a4ae99773de9851746ac4172f1f56b",
-      "title": "Introducing Falcon ASR",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "summary": "",
-      "published_at": "2026-10-07T13:21:03+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "28b787a262347d0e8db7b2019e2ce661",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "link": "https://openai.com/index/teens-learn-and-plan",
-      "summary": "",
-      "published_at": "2026-10-07T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "ebf5e19506348a6769afe6322d252f03",
-      "title": "Introducing Playground: Create and play custom games",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "summary": "Overview of Playground",
-      "published_at": "2026-10-07T12:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "63e00f519d36700d96e8acb8129033b3",
       "title": "Expanding the Cyber Verification",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
@@ -1628,28 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Chapter 01 : Defending critical infrastructure Today we’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. The Cyber Mission is a new effort to support defenders with tools, research, and resources to secure their software and systems. We’re starting with two areas: Critical infrastructure: Starting with securing the operational technology behind power grids, water systems, and transportation networks, and protecting government systems. Today, we’re introducing the Critical Infrastructure Defense Program (CIDP), which brings frontier m"
-    },
-    {
-      "id": "45918ec2cb481bbc210391dd7624f6b2",
-      "title": "Security",
-      "link": "https://www.anthropic.com/news/security",
-      "summary": "Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Oct 8, 2026 Oct 8, 2026 Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Introducing the Anthropic Cyber Mission We’re launching the Anthropic…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Oct 8, 2026 Oct 8, 2026 Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on. Introducing the Anthropic Cyber Mission We’re launching the Anthropic Cyber Mission, a long-term commitment to securi"
-    },
-    {
-      "id": "1084e2fa6b8ae60b763d163294576804",
-      "title": "2026 Usage Policy update",
-      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "summary": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers. We're publishing a new version of the policy today. In this post, we summarize the changes we’ve made. Most of the updates in the latest version are intended to clarify existing rules. In the year since our last refresh, Claude has taken on…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers. We're publishing a new version of the policy today. In this post, we summarize the changes we’ve made. Most of the updates in the latest version are intended to clarify existing rules. In the year since our last refresh, Claude has taken on longer, more independent work. This update provides new examples that show how our rules apply to Claude’s new capabilities. It draws on new patterns of misuse in influence operations, weapons development,"
     }
   ],
   "milestones": []
