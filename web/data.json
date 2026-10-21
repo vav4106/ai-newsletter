@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-21T19:26:24.599147+00:00",
+  "generated_at": "2026-10-21T22:33:10.342225+00:00",
   "articles": [
+    {
+      "id": "9cdbb959dde7494939be14565690df13",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "summary": "",
+      "published_at": "2026-10-21T21:16:20+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "351de5ee923c25f80ddf1e0cab2dc0f0",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "summary": "",
+      "published_at": "2026-10-21T21:14:19+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6535cfa7162f36e7720a56f0a0fe06c4",
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "summary": "",
+      "published_at": "2026-10-21T21:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "c3712ffc30200f1c5e1afe5cebc44219",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "summary": "",
+      "published_at": "2026-10-21T20:27:41+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8f967ebe41b24abb52d2e03b83dd8c11",
+      "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
+      "link": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
+      "summary": "",
+      "published_at": "2026-10-21T19:45:01+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c52b93f9c52345e43806ca5c4a42e939",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "summary": "",
+      "published_at": "2026-10-21T19:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "e1b4c253902a921254d171253c1d0c8d",
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
@@ -695,17 +761,6 @@
       "body_preview": ""
     },
     {
-      "id": "27097ee581011662517502a23a414993",
-      "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
-      "link": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
-      "summary": "",
-      "published_at": "2026-10-20T19:03:15+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b63155bfc7ff30cf966b9fd9e3173d62",
       "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
       "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
@@ -915,17 +970,6 @@
       "body_preview": ""
     },
     {
-      "id": "69033068a8404d4ab3779a2568c401ba",
-      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "summary": "",
-      "published_at": "2026-10-20T11:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "597cff20549951b175943c9771cfae6c",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "link": "https://openai.com/index/ted-taylor-restaurant",
@@ -992,17 +1036,6 @@
       "body_preview": ""
     },
     {
-      "id": "12f62b73e947273e655f1eea7d79a76b",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "summary": "",
-      "published_at": "2026-10-20T01:27:03+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c6514e7720203c0fd269f0e4f29e951f",
       "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
       "link": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
@@ -1054,28 +1087,6 @@
       "published_at": "2026-10-20T00:00:00+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7ddc270eaebee298d2ae532b50165cf0",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "summary": "",
-      "published_at": "2026-10-19T23:39:38+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b66008ee16675dc6a3a8999ca0aabce8",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "summary": "",
-      "published_at": "2026-10-19T22:49:27+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1223,9 +1234,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d670f55b7e8bf7faa686f3d10acc953",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "514f3439f36679a193291ac295aa6ed5",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1234,9 +1245,9 @@
       "body_preview": ""
     },
     {
-      "id": "514f3439f36679a193291ac295aa6ed5",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1498,9 +1509,9 @@
       "body_preview": ""
     },
     {
-      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
+      "id": "665382fd9efc50b223bcf647604b6d2f",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
       "summary": "",
       "published_at": "2026-10-09T07:00:00+00:00",
       "source": "OpenAI News",
@@ -1509,9 +1520,9 @@
       "body_preview": ""
     },
     {
-      "id": "665382fd9efc50b223bcf647604b6d2f",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
+      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
       "summary": "",
       "published_at": "2026-10-09T07:00:00+00:00",
       "source": "OpenAI News",
@@ -1639,17 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "An update on independent evaluators To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face. Oct 15, 2026 Oct 15, 2026 An update on independent evaluators To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face. An update on independent eva"
-    },
-    {
-      "id": "89b595576a5a21bf47a997c69e8110f1",
-      "title": "Preparing for the 2026 US midterms",
-      "link": "https://www.anthropic.com/news/2026-us-midterms",
-      "summary": "Chapter 01 : Connecting people to trusted sources Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information. Below, we outline how we've built on that work and continued to strengthen our election safeguards ahead of this year’s US midterms. How people use Claude…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Chapter 01 : Connecting people to trusted sources Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information. Below, we outline how we've built on that work and continued to strengthen our election safeguards ahead of this year’s US midterms. How people use Claude for elections and politics Our goal is for Claude to be a useful tool for political conversations, while preventing election-related abuse. That starts with understanding how people actually use Claude i"
     }
   ],
   "milestones": []
