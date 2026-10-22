@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-10-22T19:25:57.174281+00:00",
+  "generated_at": "2026-10-22T22:31:59.900920+00:00",
   "articles": [
+    {
+      "id": "1a70cbfec32c1a2cc09b722db856df42",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "summary": "",
+      "published_at": "2026-10-22T22:24:34+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b5355effe43ce11706ec150787a7d18c",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "",
+      "published_at": "2026-10-22T22:08:24+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9af1617149ca8c0e11abb610eba3c03c",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
+      "published_at": "2026-10-22T21:51:25+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7d4fee361441993caa52df26b2829783",
+      "title": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+      "published_at": "2026-10-22T21:17:29+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "917b35a9948947fa32288a65fa134eed",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
+      "published_at": "2026-10-22T20:32:05+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c21db6f4c837fef6422d8a6a542333bc",
+      "title": "Meta turns Muse sharing back on",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+      "published_at": "2026-10-22T20:24:04+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dc6870ebf00dab2dc33c39aaf25c3057",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which [&#8230;]",
+      "published_at": "2026-10-22T19:45:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "d5871d68e16c0123a6f0641ae9415685",
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -13,9 +90,31 @@
       "body_preview": ""
     },
     {
+      "id": "0c0a18daf806060e6f87978d8ea02c56",
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
+      "summary": "",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "89badf91b444c3712f6fdc87dae9e4e4",
       "title": "Canva releases its first image generation model",
       "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e8d6cf372cfde07ed182ee05b58b4626",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "summary": "",
       "published_at": "2026-10-22T19:00:00+00:00",
       "source": "TechCrunch AI",
@@ -222,17 +321,6 @@
       "body_preview": ""
     },
     {
-      "id": "2e74281266b67febcb3863b4de76737d",
-      "title": "PHP: The three little letters wreaking havoc across the web",
-      "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-      "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporarily shut down after the [&#8230;]",
-      "published_at": "2026-10-22T15:12:27+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1d1ed2ef4ca24381ce060cc97cfa48ef",
       "title": "Spotify’s current AI bet is about being the music service that agents choose",
       "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
@@ -266,17 +354,6 @@
       "body_preview": ""
     },
     {
-      "id": "c5c7f73d78a3c3e7c04ae363ffb51d5d",
-      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-      "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is [&#8230;]",
-      "published_at": "2026-10-22T14:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b888a9b5a97ce54d380216fde8bd9f6e",
       "title": "Claude Duet app is Anthropic’s bet on agents",
       "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
@@ -306,28 +383,6 @@
       "published_at": "2026-10-22T13:11:13+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5fec329b8cf7748a922d510de3f5d4de",
-      "title": "1Password lets AI agents use your passwords without seeing them",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it [&#8230;]",
-      "published_at": "2026-10-22T13:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "68e7e5bf7511f86a5495e2eb78cec0a5",
-      "title": "AI agents are ready to shop. Some retailers are wary",
-      "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the [&#8230;]",
-      "published_at": "2026-10-22T12:30:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1102,28 +1157,6 @@
       "body_preview": ""
     },
     {
-      "id": "23be46a590e0c88ac1ac4011ba9e97a1",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "",
-      "published_at": "2026-10-20T23:01:23+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "976a19d8d2244ac89b8274e367030cc8",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "summary": "",
-      "published_at": "2026-10-20T22:24:02+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2fdc8dc03633608b22a3fe261c2064a7",
       "title": "The new economics of enterprise AI",
       "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
@@ -1296,17 +1329,6 @@
       "published_at": "2026-10-16T19:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "9940ab233b0b82a662e815ea261b299c",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
-      "published_at": "2026-10-16T18:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
       "importance": "high",
       "body_preview": ""
     },
@@ -1553,9 +1575,9 @@
       "body_preview": ""
     },
     {
-      "id": "665382fd9efc50b223bcf647604b6d2f",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
+      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
       "summary": "",
       "published_at": "2026-10-09T07:00:00+00:00",
       "source": "OpenAI News",
@@ -1564,9 +1586,9 @@
       "body_preview": ""
     },
     {
-      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
+      "id": "665382fd9efc50b223bcf647604b6d2f",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
       "summary": "",
       "published_at": "2026-10-09T07:00:00+00:00",
       "source": "OpenAI News",
@@ -1589,12 +1611,12 @@
       "id": "971c7d74960cee7e47bdf9b004148b2d",
       "title": "Announcements",
       "link": "https://www.anthropic.com/news/announcements",
-      "summary": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. Oct 21, 2026 Oct 21, 2026 Physicist Christopher Stubbs joins…",
+      "summary": "Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Oct 22, 2026 Oct 22, 2026 Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Open call for guest investigators in the life…",
       "published_at": "",
       "source": "Anthropic News",
       "category": "company",
       "importance": "high",
-      "body_preview": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. Oct 21, 2026 Oct 21, 2026 Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust "
+      "body_preview": "Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Oct 22, 2026 Oct 22, 2026 Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Open call for guest investigators in the life sciences Today, we’re inviting members of "
     },
     {
       "id": "7a2d67d6348cd049a5ef68556f9ee532",
@@ -1628,28 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Oct 22, 2026 Oct 22, 2026 Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, includi"
-    },
-    {
-      "id": "96ab72911be0756f890f5ce6e52007cb",
-      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-      "link": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security and arms control. “I am honored to join Anthropic’s Long-Term Benefit Trust and…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security and arms control. “I am honored to join Anthropic’s Long-Term Benefit Trust and to help the company deliver on its public benefit mission,” said Stubbs. “I use AI tools in my research every day and see what they make possible, and as an educator I have confronted some of the hard"
-    },
-    {
-      "id": "1d1bc8c11cea9501856f01a2ad169e00",
-      "title": "An update on independent evaluators",
-      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "summary": "Chapter 01 : Why we work with independent evaluators Last month, we committed to stronger independent, third-party assessment of our models and safety practices. We also signed the White House Accord on Super Intelligence, in which companies pledged to partner with independent external auditors or evaluators. Today, we’re announcing that we’ve started to give employee-like access to a team from…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Chapter 01 : Why we work with independent evaluators Last month, we committed to stronger independent, third-party assessment of our models and safety practices. We also signed the White House Accord on Super Intelligence, in which companies pledged to partner with independent external auditors or evaluators. Today, we’re announcing that we’ve started to give employee-like access to a team from METR , a nonprofit that evaluates frontier AI models. METR will publish the results of its risk assessments. Over the past year, we’ve worked with METR on several reviews of our Risk Reports . We’re als"
     }
   ],
   "milestones": []
