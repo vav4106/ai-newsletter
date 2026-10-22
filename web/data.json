@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-10-22T05:33:38.990683+00:00",
+  "generated_at": "2026-10-22T10:34:40.522079+00:00",
   "articles": [
+    {
+      "id": "fda5afad1421492a14050d8aa086933a",
+      "title": "OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months",
+      "link": "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/",
+      "summary": "",
+      "published_at": "2026-10-22T10:01:53+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "662a45d831c749e6e73a56873f27280b",
+      "title": "Making the case for context-aware AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "79821b003cd9a6e8cecadf74a3b3c333",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;",
+      "published_at": "2026-10-22T08:41:18+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "4dc512d8a5770295b01248f82157df4a",
+      "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+      "link": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+      "summary": "",
+      "published_at": "2026-10-22T08:35:22+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a2d7bf463503fa4f43f900a017bbc432",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "summary": "",
+      "published_at": "2026-10-22T07:51:31+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "98639411958e4f32a4a64aaac06ab3e9",
+      "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
+      "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
+      "summary": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models. The post IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation appeared first on MarkTechPost .",
+      "published_at": "2026-10-22T07:00:56+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "afc212b8aa84f481c01d6ba6d5516d67",
+      "title": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
+      "link": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
+      "summary": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens. The post Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method appeared first on MarkTechPost .",
+      "published_at": "2026-10-22T04:56:31+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "cc8075af1bb65a69bc74f2e5503dba0c",
       "title": "A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU",
@@ -706,28 +783,6 @@
       "body_preview": ""
     },
     {
-      "id": "dd7c09dd4a6ff100926fc9c37a70dc08",
-      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
-      "link": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
-      "summary": "",
-      "published_at": "2026-10-21T08:37:06+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "807c24bcc5404c3dcaf185a08a367634",
-      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
-      "link": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
-      "summary": "",
-      "published_at": "2026-10-21T08:32:54+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b808587321ee2a78b66bb9e377546df1",
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
@@ -1003,17 +1058,6 @@
       "body_preview": ""
     },
     {
-      "id": "6fe722b68e772d6e49a7bca247b4ad33",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "summary": "",
-      "published_at": "2026-10-20T15:19:48+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "d4a91ba64e4d5968a9098f871f4cd5eb",
       "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
       "link": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
@@ -1077,28 +1121,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "cdd340087f03dd4227b2a61a783bb27d",
-      "title": "Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks",
-      "link": "https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/",
-      "summary": "Exa 3.0 is a search API upgrade from Exa. It adds a larger embedding model, Exa Lite at $4 per 1,000 requests, and Dynamic Highlights, and leads 8 benchmarks Exa ran itself. The post Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks appeared first on MarkTechPost .",
-      "published_at": "2026-10-20T08:12:21+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f5ef1ae9185dae1a864976ee87d2a4ba",
-      "title": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
-      "link": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
-      "summary": "Cloudflare has previewed Clairic, a System One extraction model on Workers AI that returns typed values with confidence scores in one forward pass. It costs $0.10 per million input tokens and charges nothing for output. The post Cloudflare Releases Clairic, a System One Extraction Model on Workers AI appeared first on MarkTechPost .",
-      "published_at": "2026-10-20T07:45:41+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1492,28 +1514,6 @@
       "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the&#8230;",
       "published_at": "2026-10-13T10:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "4ac7e898baa3e4c4a1a8e76b28875af9",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
-      "published_at": "2026-10-13T09:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "9d42f6cfcaad2226ad973d7e90d953f2",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
-      "published_at": "2026-10-09T09:00:00+00:00",
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
