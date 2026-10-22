@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-10-22T10:34:40.522079+00:00",
+  "generated_at": "2026-10-22T15:34:56.903660+00:00",
   "articles": [
+    {
+      "id": "1d1ed2ef4ca24381ce060cc97cfa48ef",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "summary": "",
+      "published_at": "2026-10-22T15:03:58+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9082fb8b85066b173a761532f90dd00e",
+      "title": "Recursive shows first result of its AI-driven research process with Flint",
+      "link": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
+      "summary": "",
+      "published_at": "2026-10-22T14:40:16+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6c4109f7ae4c8020661d5492160d3873",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "summary": "",
+      "published_at": "2026-10-22T14:30:24+00:00",
+      "source": "Google DeepMind",
+      "category": "research",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "b888a9b5a97ce54d380216fde8bd9f6e",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "summary": "",
+      "published_at": "2026-10-22T13:53:26+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "315463fdb2f98fc2879e58fbeaeb0bbe",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "summary": "",
+      "published_at": "2026-10-22T13:26:52+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "256fa00a3074763ab0803ef833a0f71a",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "summary": "",
+      "published_at": "2026-10-22T13:11:13+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "63f542ccc9a25a2b48cd41c222176ad9",
+      "title": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+      "link": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
+      "summary": "",
+      "published_at": "2026-10-22T11:30:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c8d984f73a47269e042907ac868eeb37",
+      "title": "Eiliko maker says it&#8217;s hiring an ‘&#8217;independent security firm’ after Verge report on its insecure robots",
+      "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security [&#8230;]",
+      "published_at": "2026-10-22T11:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "fda5afad1421492a14050d8aa086933a",
       "title": "OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months",
@@ -65,6 +153,17 @@
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c7c698190d650ea5a649da55bed2c669",
+      "title": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "summary": "",
+      "published_at": "2026-10-22T06:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -739,17 +838,6 @@
       "body_preview": ""
     },
     {
-      "id": "0ff73db45258214cd46d901564984003",
-      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
-      "link": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
-      "summary": "",
-      "published_at": "2026-10-21T13:04:19+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "469a88c567fe08814707d34a4db84650",
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
@@ -758,17 +846,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0fe2c0fc8d0b55a349fab4cfa2f76a20",
-      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
-      "link": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/",
-      "summary": "",
-      "published_at": "2026-10-21T12:34:57+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -992,28 +1069,6 @@
       "body_preview": ""
     },
     {
-      "id": "ce62f215552939537189a0ca6785c498",
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "summary": "",
-      "published_at": "2026-10-20T17:12:48+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "20525133c9e3781ca627cbaef5d069c8",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "summary": "",
-      "published_at": "2026-10-20T16:20:06+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "dfbbb25dd4dded9e011df108ae526737",
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "link": "https://huggingface.co/blog/allenai/fairstress",
@@ -1021,17 +1076,6 @@
       "published_at": "2026-10-20T16:09:19+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f0c0871e0da6f95d989c81b82c752788",
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "summary": "",
-      "published_at": "2026-10-20T16:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1065,28 +1109,6 @@
       "published_at": "2026-10-20T14:31:59+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "dc5772c95a3273d88172a934a94450e0",
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-      "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and [&#8230;]",
-      "published_at": "2026-10-20T14:18:37+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "cc4ca37d70ed90e8a6d3eb27bda3db0e",
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "summary": "",
-      "published_at": "2026-10-20T14:13:32+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1547,28 +1569,6 @@
       "link": "https://openai.com/index/oracle",
       "summary": "",
       "published_at": "2026-10-08T16:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "595ea23f05b3118ac44958f4cee7fe58",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://openai.com/index/pollo-ai",
-      "summary": "",
-      "published_at": "2026-10-08T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f2a7cd03c27115f663cbab2bac80c6ce",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "summary": "",
-      "published_at": "2026-10-08T12:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
