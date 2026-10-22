@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-10-21T22:33:10.342225+00:00",
+  "generated_at": "2026-10-22T00:52:04.265563+00:00",
   "articles": [
+    {
+      "id": "6fb40563ea5c21c1ec7a1919c09504a1",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "summary": "",
+      "published_at": "2026-10-21T22:51:22+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5c55875c9582c6339b659057e57b74bc",
+      "title": "Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params",
+      "link": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
+      "summary": "Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro. The post Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params appeared first on MarkTechPost .",
+      "published_at": "2026-10-21T22:39:41+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9eaa9a5e251befbac37daed70129d5fa",
+      "title": "Data centers could erase decades of air quality gains",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [&#8230;]",
+      "published_at": "2026-10-21T22:33:44+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a56c8948f5a3b17103eac99c645d564b",
+      "title": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
+      "link": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
+      "summary": "Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop. The post Vercel Open-Sources durable-harness for Crash-Proof Coding Agents appeared first on MarkTechPost .",
+      "published_at": "2026-10-21T22:15:39+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4e3dc50bb977d2c6ca64467b179b7acb",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, [&#8230;]",
+      "published_at": "2026-10-21T21:30:02+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "9cdbb959dde7494939be14565690df13",
       "title": "TechCrunch Founder Summit 2026: Everything you need to know",
@@ -46,6 +101,17 @@
       "body_preview": ""
     },
     {
+      "id": "5d8be94c6e8f08d2e5337b0fb5d6de43",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [&#8230;]",
+      "published_at": "2026-10-21T19:53:20+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "8f967ebe41b24abb52d2e03b83dd8c11",
       "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
       "link": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
@@ -68,6 +134,17 @@
       "body_preview": ""
     },
     {
+      "id": "8c0ecd2a710dae5d8b1c19b6cb5d2149",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which [&#8230;]",
+      "published_at": "2026-10-21T19:30:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "e1b4c253902a921254d171253c1d0c8d",
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
       "link": "https://huggingface.co/blog/nvidia/kumo-relational",
@@ -75,6 +152,17 @@
       "published_at": "2026-10-21T18:26:30+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b4fa935f945c88d73bf886af6371ad0a",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "summary": "",
+      "published_at": "2026-10-21T17:59:12+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -97,6 +185,17 @@
       "published_at": "2026-10-21T17:35:36+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2d76cc0f57655e689d9d1d47a728174a",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "summary": "",
+      "published_at": "2026-10-21T17:18:27+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -673,6 +772,17 @@
       "body_preview": ""
     },
     {
+      "id": "a954b40d57659fcc5a7806768645405b",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "summary": "",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "15b5b8d929f2d09a85fff14440268293",
       "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
       "link": "https://openai.com/index/empowering-cyber-defenders",
@@ -915,39 +1025,6 @@
       "body_preview": ""
     },
     {
-      "id": "ad3e2fc6f2d0b8b53471c1241b73d888",
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "summary": "",
-      "published_at": "2026-10-20T13:07:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0ee94fa6587037a097519e90c355c8ba",
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-      "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a [&#8230;]",
-      "published_at": "2026-10-20T13:06:44+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "78c8679e046473ba731f4931f19f7258",
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "summary": "",
-      "published_at": "2026-10-20T13:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c164a396f61a1f9ab09e868483b9f73d",
       "title": "AI adoption by industry shows what other sectors can learn",
       "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
@@ -956,17 +1033,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "54ed18e822db9a5ed2dff83b4d820f3e",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "summary": "",
-      "published_at": "2026-10-20T11:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1091,28 +1157,6 @@
       "body_preview": ""
     },
     {
-      "id": "02dde20a0b499c722b39d8b7c1ba2ccd",
-      "title": "The fossil fuel comeback is here",
-      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the [&#8230;]",
-      "published_at": "2026-10-19T21:48:01+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "886ba7521fa52be511b3a6697bb0bc3b",
-      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
-      "published_at": "2026-10-19T21:28:20+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1d94faf9d0cf392138309d0a0b0b39c3",
       "title": "Making the internet better for AI agents might make it worse for everyone else",
       "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
@@ -1135,28 +1179,6 @@
       "body_preview": ""
     },
     {
-      "id": "04a6d28404dfde8c1c7defe44294eefb",
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming [&#8230;]",
-      "published_at": "2026-10-19T14:30:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3fb8584fdb1d512987d37d71be03bfcb",
-      "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
-      "link": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
-      "summary": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared first on MarkTechPost .",
-      "published_at": "2026-10-19T12:37:58+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "4cfdacba2cebff3cc84908e4e9abc4a8",
       "title": "Advancing coding in low‑resource programming languages",
       "link": "https://openai.com/index/low-resource-programming-languages",
@@ -1176,17 +1198,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "3d08d73b42a0311d05f8d876f100f3ec",
-      "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
-      "link": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
-      "summary": "NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment. The post NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration appeared first on MarkTechPost .",
-      "published_at": "2026-10-19T03:19:18+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1234,9 +1245,9 @@
       "body_preview": ""
     },
     {
-      "id": "514f3439f36679a193291ac295aa6ed5",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1245,9 +1256,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d670f55b7e8bf7faa686f3d10acc953",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "514f3439f36679a193291ac295aa6ed5",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1564,28 +1575,6 @@
       "body_preview": ""
     },
     {
-      "id": "3a75df0a506fe3f1752d683cd59566ec",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "summary": "",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "93ce90f24616540ea2733c244876d927",
-      "title": "The model that didn't exist, so you made it yourself",
-      "link": "https://huggingface.co/blog/building-with-ml-intern",
-      "summary": "",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "63e00f519d36700d96e8acb8129033b3",
       "title": "Expanding the Cyber Verification",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
@@ -1650,6 +1639,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": "An update on independent evaluators To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face. Oct 15, 2026 Oct 15, 2026 An update on independent evaluators To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face. An update on independent eva"
+    },
+    {
+      "id": "89b595576a5a21bf47a997c69e8110f1",
+      "title": "Preparing for the 2026 US midterms",
+      "link": "https://www.anthropic.com/news/2026-us-midterms",
+      "summary": "Chapter 01 : Connecting people to trusted sources Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information. Below, we outline how we've built on that work and continued to strengthen our election safeguards ahead of this year’s US midterms. How people use Claude…",
+      "published_at": "",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Chapter 01 : Connecting people to trusted sources Earlier this year, we shared an update on our election safeguards , which described how we measure and prevent political bias, detect misuse, and direct people to accurate voting information. Below, we outline how we've built on that work and continued to strengthen our election safeguards ahead of this year’s US midterms. How people use Claude for elections and politics Our goal is for Claude to be a useful tool for political conversations, while preventing election-related abuse. That starts with understanding how people actually use Claude i"
     }
   ],
   "milestones": []
