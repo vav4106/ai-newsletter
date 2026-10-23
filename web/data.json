@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-23T19:20:10.529176+00:00",
+  "generated_at": "2026-10-23T22:19:30.576011+00:00",
   "articles": [
+    {
+      "id": "ee036c45d624cccaef874aa8cc01f321",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "summary": "",
+      "published_at": "2026-10-23T21:59:19+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "83a647f2e646060938e1c9cbc87cf890",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
+      "published_at": "2026-10-23T21:11:07+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2ee5df1a41da37f0325d00598a2626fe",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between [&#8230;]",
+      "published_at": "2026-10-23T19:32:39+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "77306f2f102958de2d8c3fd9e5c14945",
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
@@ -142,6 +175,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5436a28808656995e4540be1bb0620ac",
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "summary": "",
+      "published_at": "2026-10-23T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -662,17 +706,6 @@
       "body_preview": ""
     },
     {
-      "id": "e8d6cf372cfde07ed182ee05b58b4626",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "summary": "",
-      "published_at": "2026-10-22T19:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "89badf91b444c3712f6fdc87dae9e4e4",
       "title": "Canva releases its first image generation model",
       "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
@@ -684,13 +717,13 @@
       "body_preview": ""
     },
     {
-      "id": "4ea6f7c3f481a9ff1f855a4a4c07ea5a",
-      "title": "Discord now formats Markdown previews right",
-      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects [&#8230;]",
-      "published_at": "2026-10-22T18:58:19+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
+      "id": "e8d6cf372cfde07ed182ee05b58b4626",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -724,17 +757,6 @@
       "published_at": "2026-10-22T18:26:02+00:00",
       "source": "The Decoder",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3f09ff2c9832d5df60044e5a0b702d9b",
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
-      "published_at": "2026-10-22T18:15:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1030,17 +1052,6 @@
       "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
       "summary": "",
       "published_at": "2026-10-21T20:27:41+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c52b93f9c52345e43806ca5c4a42e939",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "summary": "",
-      "published_at": "2026-10-21T19:30:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1639,17 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. Sep 21, 2026 Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. The Situation Report A rare Ebola strain is spreading in the DRC"
-    },
-    {
-      "id": "7d71cba3faed6392361af8cb9b3dd076",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "summary": "Today, we’re donating Agent Skills , the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF). More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Agent interoperability through simplicity A skill is a folder containing a SKILL.md…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today, we’re donating Agent Skills , the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF). More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Agent interoperability through simplicity A skill is a folder containing a SKILL.md file that teaches an agent a specific task or domain, along with any scripts or reference material it needs. We developed skills while working on Claude Code. It handled general knowledge work well, bu"
     }
   ],
   "milestones": []
