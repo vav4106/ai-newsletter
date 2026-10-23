@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-22T22:31:59.900920+00:00",
+  "generated_at": "2026-10-23T00:54:02.389452+00:00",
   "articles": [
+    {
+      "id": "d6ef8fe333084f216bcbfeed922b6855",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "summary": "",
+      "published_at": "2026-10-23T00:45:37+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "1a70cbfec32c1a2cc09b722db856df42",
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -1058,17 +1069,6 @@
       "body_preview": ""
     },
     {
-      "id": "b2968b1428c6f26a0aea6c28748899c9",
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "summary": "",
-      "published_at": "2026-10-21T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "469a88c567fe08814707d34a4db84650",
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
@@ -1333,9 +1333,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d670f55b7e8bf7faa686f3d10acc953",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "514f3439f36679a193291ac295aa6ed5",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1344,9 +1344,9 @@
       "body_preview": ""
     },
     {
-      "id": "514f3439f36679a193291ac295aa6ed5",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
