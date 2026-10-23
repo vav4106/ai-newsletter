@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-23T10:28:13.431067+00:00",
+  "generated_at": "2026-10-23T15:19:54.282579+00:00",
   "articles": [
+    {
+      "id": "3c935047013980921f9ad899288129e4",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow [&#8230;]",
+      "published_at": "2026-10-23T14:47:41+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5505350bca4f5b3de6c45e6d47efa2de",
+      "title": "Retro gaming is being overrun with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as [&#8230;]",
+      "published_at": "2026-10-23T12:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c092fd8b06da948308350499fdc6ed1e",
+      "title": "Canva launches Craft, its first in-house image model",
+      "link": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
+      "summary": "",
+      "published_at": "2026-10-23T11:36:30+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8375f7a799d7e7213cc49231860f1761",
+      "title": "Anthropic's Claude now writes code and proves it safe automatically",
+      "link": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
+      "summary": "",
+      "published_at": "2026-10-23T11:32:19+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "1315bc94963813de7286891692acecbe",
       "title": "OpenAI lowers valuation target, raises up to $30 billion",
@@ -409,6 +453,17 @@
       "body_preview": ""
     },
     {
+      "id": "6ae117612b8cf953ed9b29c25e1751f7",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "summary": "",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "1a70cbfec32c1a2cc09b722db856df42",
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
@@ -673,17 +728,6 @@
       "body_preview": ""
     },
     {
-      "id": "c18913577f861184e26ffc72e2dc9259",
-      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-      "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-      "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a [&#8230;]",
-      "published_at": "2026-10-22T16:16:15+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "74a5fedc4ab50db7529b7cf0595b34b9",
       "title": "A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing",
       "link": "https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/",
@@ -713,17 +757,6 @@
       "published_at": "2026-10-22T16:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "636d34600faf2e9de079f039a9680649",
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [&#8230;]",
-      "published_at": "2026-10-22T15:50:30+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -981,17 +1014,6 @@
       "body_preview": ""
     },
     {
-      "id": "8f967ebe41b24abb52d2e03b83dd8c11",
-      "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
-      "link": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
-      "summary": "",
-      "published_at": "2026-10-21T19:45:01+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c52b93f9c52345e43806ca5c4a42e939",
       "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
       "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
@@ -1020,17 +1042,6 @@
       "summary": "",
       "published_at": "2026-10-21T17:59:12+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c27f9164a73556239a300f1568d740f7",
-      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
-      "link": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/",
-      "summary": "",
-      "published_at": "2026-10-21T17:44:22+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -1639,17 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Oct 22, 2026 Oct 22, 2026 Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, includi"
-    },
-    {
-      "id": "cf3f769e64ffafc97f86f3040ac2be6c",
-      "title": "Open call for guest investigators in the life sciences",
-      "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects. We’re looking for proposals from principal investigators and their research groups at academic institutions, nonprofits, or government labs who want to use Claude to investigate key questions in causal human biology, structural and computational molecular biology, medicinal chemistry, drug…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects. We’re looking for proposals from principal investigators and their research groups at academic institutions, nonprofits, or government labs who want to use Claude to investigate key questions in causal human biology, structural and computational molecular biology, medicinal chemistry, drug discovery, and clinical science. You can submit a proposal for a project here . Over 8–12 weeks, guest investigators will work directly with Anthropic researchers on a problem of interest and produce th"
     }
   ],
   "milestones": []
