@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-23T05:31:47.076616+00:00",
+  "generated_at": "2026-10-23T10:28:13.431067+00:00",
   "articles": [
+    {
+      "id": "1315bc94963813de7286891692acecbe",
+      "title": "OpenAI lowers valuation target, raises up to $30 billion",
+      "link": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+      "summary": "",
+      "published_at": "2026-10-23T09:49:38+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "26d6fa26523d460c9ba25a315586bd4a",
+      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+      "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic Search Architecture for Production AI Agents appeared first on MarkTechPost .",
+      "published_at": "2026-10-23T08:58:47+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4eee9d667605b2297123ff85793306c0",
+      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+      "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+      "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent appeared first on MarkTechPost .",
+      "published_at": "2026-10-23T06:05:10+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1c5e595e600937a02cad4f2664b60fc7",
+      "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+      "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+      "summary": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on MarkTechPost .",
+      "published_at": "2026-10-23T05:28:21+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a7ea52b47e15829a05b7351b6e0b664f",
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -351,6 +395,17 @@
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5cb7d7b9d40347b26cc096fa9bfba158",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "summary": "",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -849,17 +904,6 @@
       "body_preview": ""
     },
     {
-      "id": "43530e2f8372cb9f0b52909ae026c553",
-      "title": "NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels",
-      "link": "https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/",
-      "summary": "Discover NVIDIA Nsight Python, an open-source interface that allows developers to profile GPU kernels, analyze hardware metrics, evaluate cache and clock controls, and measure kernel fusion directly from Python code. The post NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels appeared first on MarkTechPost .",
-      "published_at": "2026-10-22T03:59:12+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "84a7aaa61b86469773298ad40b4d6374",
       "title": "Uber brings ChatGPT Work to all employees with OpenAI",
       "link": "https://openai.com/index/uber-chatgpt-work-rollout",
@@ -889,28 +933,6 @@
       "published_at": "2026-10-21T22:45:34+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5c55875c9582c6339b659057e57b74bc",
-      "title": "Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params",
-      "link": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
-      "summary": "Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro. The post Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params appeared first on MarkTechPost .",
-      "published_at": "2026-10-21T22:39:41+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a56c8948f5a3b17103eac99c645d564b",
-      "title": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
-      "link": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
-      "summary": "Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop. The post Vercel Open-Sources durable-harness for Crash-Proof Coding Agents appeared first on MarkTechPost .",
-      "published_at": "2026-10-21T22:15:39+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1021,17 +1043,6 @@
       "published_at": "2026-10-21T17:35:36+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5d68364634f90af6e836238eb6c2c920",
-      "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
-      "link": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/",
-      "summary": "",
-      "published_at": "2026-10-21T17:10:46+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1333,9 +1344,9 @@
       "body_preview": ""
     },
     {
-      "id": "514f3439f36679a193291ac295aa6ed5",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1344,9 +1355,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d670f55b7e8bf7faa686f3d10acc953",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "514f3439f36679a193291ac295aa6ed5",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1575,28 +1586,6 @@
       "body_preview": ""
     },
     {
-      "id": "665382fd9efc50b223bcf647604b6d2f",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "summary": "",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d04f0d58ab1788280d6d0ba6cb311f4b",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "summary": "",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "63e00f519d36700d96e8acb8129033b3",
       "title": "Expanding the Cyber Verification",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
@@ -1650,6 +1639,17 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Oct 22, 2026 Oct 22, 2026 Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, includi"
+    },
+    {
+      "id": "cf3f769e64ffafc97f86f3040ac2be6c",
+      "title": "Open call for guest investigators in the life sciences",
+      "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects. We’re looking for proposals from principal investigators and their research groups at academic institutions, nonprofits, or government labs who want to use Claude to investigate key questions in causal human biology, structural and computational molecular biology, medicinal chemistry, drug…",
+      "published_at": "",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects. We’re looking for proposals from principal investigators and their research groups at academic institutions, nonprofits, or government labs who want to use Claude to investigate key questions in causal human biology, structural and computational molecular biology, medicinal chemistry, drug discovery, and clinical science. You can submit a proposal for a project here . Over 8–12 weeks, guest investigators will work directly with Anthropic researchers on a problem of interest and produce th"
     }
   ],
   "milestones": []
