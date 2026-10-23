@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-10-23T15:19:54.282579+00:00",
+  "generated_at": "2026-10-23T19:20:10.529176+00:00",
   "articles": [
+    {
+      "id": "77306f2f102958de2d8c3fd9e5c14945",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "summary": "",
+      "published_at": "2026-10-23T19:06:23+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d2cdc834e02c091f0b4672f8d9f2577d",
+      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
+      "link": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
+      "summary": "",
+      "published_at": "2026-10-23T19:00:07+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "233bc9234eab2f8b93b73c3c8ace4b6b",
+      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
+      "link": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
+      "summary": "",
+      "published_at": "2026-10-23T18:00:32+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2dc3c70efbb1ecc4bd893939c5c34714",
+      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
+      "link": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/",
+      "summary": "",
+      "published_at": "2026-10-23T17:19:49+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8a7870e0fc07a7b429576918002839c4",
+      "title": "The iPhone Duo should have been an iPad",
+      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay [&#8230;]",
+      "published_at": "2026-10-23T17:00:18+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "17bf1e85b4852dc8fb7be5899a8d0315",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "summary": "",
+      "published_at": "2026-10-23T17:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "a1cecc6ad8f1b89d5d280d126ded05b2",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#8230;]",
+      "published_at": "2026-10-23T16:52:55+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b6566d387d4f8730bd5c9958198a0dee",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "link": "https://huggingface.co/blog/allenai/litpivot",
+      "summary": "",
+      "published_at": "2026-10-23T16:15:50+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4d99fbe289bf34a6fb136e9122ba8e6e",
+      "title": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
+      "link": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
+      "summary": "",
+      "published_at": "2026-10-23T15:42:18+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "3c935047013980921f9ad899288129e4",
       "title": "Meta delays new business terms after publisher pushback on AI scraping",
@@ -90,8 +189,8 @@
       "body_preview": ""
     },
     {
-      "id": "a7ea52b47e15829a05b7351b6e0b664f",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "id": "167cd8a06456e3434ef49015fedecf14",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "summary": "",
       "published_at": "2026-10-23T04:00:00+00:00",
@@ -640,17 +739,6 @@
       "body_preview": ""
     },
     {
-      "id": "022aea7af319775f38670df7b85dbcdb",
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human [&#8230;]",
-      "published_at": "2026-10-22T18:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f835008b28c87fc0b0512e5b004d8452",
       "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
       "link": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
@@ -669,17 +757,6 @@
       "published_at": "2026-10-22T17:33:25+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ac58cc5ed1b8e56e557e06da4ca65129",
-      "title": "Someone hacked the Switch 2 by using an old game and AI",
-      "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a [&#8230;]",
-      "published_at": "2026-10-22T17:21:31+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -739,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "2b2a763a455b184aceca5931c019a575",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "summary": "",
-      "published_at": "2026-10-22T16:11:31+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "604b94fea8a3edf937fc9f4ee33fa404",
       "title": "Uber puts all 30,000 employees on ChatGPT Work",
       "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
@@ -767,17 +833,6 @@
       "summary": "",
       "published_at": "2026-10-22T15:03:58+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9082fb8b85066b173a761532f90dd00e",
-      "title": "Recursive shows first result of its AI-driven research process with Flint",
-      "link": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
-      "summary": "",
-      "published_at": "2026-10-22T14:40:16+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -827,28 +882,6 @@
       "body_preview": ""
     },
     {
-      "id": "63f542ccc9a25a2b48cd41c222176ad9",
-      "title": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
-      "link": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
-      "summary": "",
-      "published_at": "2026-10-22T11:30:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "fda5afad1421492a14050d8aa086933a",
-      "title": "OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months",
-      "link": "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/",
-      "summary": "",
-      "published_at": "2026-10-22T10:01:53+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "662a45d831c749e6e73a56873f27280b",
       "title": "Making the case for context-aware AI",
       "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -868,17 +901,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "4dc512d8a5770295b01248f82157df4a",
-      "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
-      "link": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
-      "summary": "",
-      "published_at": "2026-10-22T08:35:22+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1032,17 +1054,6 @@
       "published_at": "2026-10-21T18:26:30+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b4fa935f945c88d73bf886af6371ad0a",
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "summary": "",
-      "published_at": "2026-10-21T17:59:12+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1639,17 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": "Today, we’re donating Agent Skills , the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF). More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Agent interoperability through simplicity A skill is a folder containing a SKILL.md file that teaches an agent a specific task or domain, along with any scripts or reference material it needs. We developed skills while working on Claude Code. It handled general knowledge work well, bu"
-    },
-    {
-      "id": "bc917b7f9dd0d296a43bc4bac549d85a",
-      "title": "Product",
-      "link": "https://www.anthropic.com/news/product",
-      "summary": "Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Oct 22, 2026 Oct 22, 2026 Donating Agent Skills…",
-      "published_at": "",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Oct 22, 2026 Oct 22, 2026 Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, includi"
     }
   ],
   "milestones": []
