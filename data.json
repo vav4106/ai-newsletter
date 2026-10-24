@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-24T13:26:56.019056+00:00",
+  "generated_at": "2026-10-24T16:46:10.893556+00:00",
   "articles": [
+    {
+      "id": "bb0639fc9cada9063547a34d00576fb0",
+      "title": "Block’s new voice model sounds eerily human",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary": "",
+      "published_at": "2026-10-24T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7c5f6e05999ca4b9c8d358a98b4359f0",
+      "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+      "link": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+      "summary": "",
+      "published_at": "2026-10-24T15:19:33+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "454c51f967dc228d5431d66cd9655086",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "",
+      "published_at": "2026-10-24T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ab0f4b9361f6594249a48a5a639cc9d7",
+      "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
+      "link": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/",
+      "summary": "",
+      "published_at": "2026-10-24T14:34:05+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e95632b8e6ba84baf7557ac526d37825",
+      "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+      "link": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
+      "summary": "",
+      "published_at": "2026-10-24T14:09:46+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "377c45ac2699a5219874ff5d5264bd2d",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "",
+      "published_at": "2026-10-24T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "21f48a2a08a3bbc097571f29583fb162",
       "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
@@ -255,17 +321,6 @@
       "body_preview": ""
     },
     {
-      "id": "8375f7a799d7e7213cc49231860f1761",
-      "title": "Anthropic's Claude now writes code and proves it safe automatically",
-      "link": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
-      "summary": "",
-      "published_at": "2026-10-23T11:32:19+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5436a28808656995e4540be1bb0620ac",
       "title": "Securing our frontier model training environment",
       "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
@@ -274,17 +329,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1315bc94963813de7286891692acecbe",
-      "title": "OpenAI lowers valuation target, raises up to $30 billion",
-      "link": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-      "summary": "",
-      "published_at": "2026-10-23T09:49:38+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -464,9 +508,9 @@
       "body_preview": ""
     },
     {
-      "id": "89badf91b444c3712f6fdc87dae9e4e4",
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "id": "e8d6cf372cfde07ed182ee05b58b4626",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "summary": "",
       "published_at": "2026-10-22T19:00:00+00:00",
       "source": "TechCrunch AI",
@@ -475,9 +519,9 @@
       "body_preview": ""
     },
     {
-      "id": "e8d6cf372cfde07ed182ee05b58b4626",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "id": "89badf91b444c3712f6fdc87dae9e4e4",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "summary": "",
       "published_at": "2026-10-22T19:00:00+00:00",
       "source": "TechCrunch AI",
@@ -503,17 +547,6 @@
       "summary": "",
       "published_at": "2026-10-22T18:43:53+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "003ce607ada114bbd85f95ed55297f8f",
-      "title": "Major US banks are locking out AI agents that log in with customer credentials",
-      "link": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
-      "summary": "",
-      "published_at": "2026-10-22T18:26:02+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -678,39 +711,6 @@
       "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "summary": "",
       "published_at": "2026-10-21T22:51:22+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "bd57282705fbf79a057cc4a4d692be36",
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "summary": "",
-      "published_at": "2026-10-21T22:45:34+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9cdbb959dde7494939be14565690df13",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "summary": "",
-      "published_at": "2026-10-21T21:16:20+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "351de5ee923c25f80ddf1e0cab2dc0f0",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "summary": "",
-      "published_at": "2026-10-21T21:14:19+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
