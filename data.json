@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-24T19:02:58.194280+00:00",
+  "generated_at": "2026-10-24T21:32:04.990490+00:00",
   "articles": [
+    {
+      "id": "2adf687fd06b300b503e50b81ee38ae5",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "",
+      "published_at": "2026-10-24T19:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "96bbed970a8268d42ab12d95ecf881e9",
       "title": "Pennsylvania will require labels on AI-generated ads",
@@ -703,17 +714,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "6fb40563ea5c21c1ec7a1919c09504a1",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "summary": "",
-      "published_at": "2026-10-21T22:51:22+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
