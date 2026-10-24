@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-23T22:19:30.576011+00:00",
+  "generated_at": "2026-10-24T00:47:05.210280+00:00",
   "articles": [
+    {
+      "id": "eaae8a6220848919bd5b8518bd48fffb",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "",
+      "published_at": "2026-10-23T23:05:49+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6be87762b77185815c10197ca8848954",
+      "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+      "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+      "summary": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost .",
+      "published_at": "2026-10-23T22:52:40+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "ee036c45d624cccaef874aa8cc01f321",
       "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -706,9 +728,9 @@
       "body_preview": ""
     },
     {
-      "id": "89badf91b444c3712f6fdc87dae9e4e4",
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "id": "e8d6cf372cfde07ed182ee05b58b4626",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "summary": "",
       "published_at": "2026-10-22T19:00:00+00:00",
       "source": "TechCrunch AI",
@@ -717,9 +739,9 @@
       "body_preview": ""
     },
     {
-      "id": "e8d6cf372cfde07ed182ee05b58b4626",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "id": "89badf91b444c3712f6fdc87dae9e4e4",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "summary": "",
       "published_at": "2026-10-22T19:00:00+00:00",
       "source": "TechCrunch AI",
@@ -970,17 +992,6 @@
       "body_preview": ""
     },
     {
-      "id": "cc8075af1bb65a69bc74f2e5503dba0c",
-      "title": "A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU",
-      "link": "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/",
-      "summary": "Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and speech-to-tool integration. The post A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU appeared first on MarkTechPost .",
-      "published_at": "2026-10-22T04:17:37+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "84a7aaa61b86469773298ad40b4d6374",
       "title": "Uber brings ChatGPT Work to all employees with OpenAI",
       "link": "https://openai.com/index/uber-chatgpt-work-rollout",
@@ -1044,17 +1055,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "c3712ffc30200f1c5e1afe5cebc44219",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "summary": "",
-      "published_at": "2026-10-21T20:27:41+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
