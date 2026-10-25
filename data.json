@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-25T16:02:03.303355+00:00",
+  "generated_at": "2026-10-25T18:56:23.938567+00:00",
   "articles": [
+    {
+      "id": "016d828738ce009d520bdedeaf382036",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "",
+      "published_at": "2026-10-25T16:57:32+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4815c31f4c1f54bb3723149722e7ca4e",
+      "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+      "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+      "summary": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0. The post Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time appeared first on MarkTechPost .",
+      "published_at": "2026-10-25T16:53:40+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "6e49256ff576192dfe8db6539228a604",
       "title": "The hottest AI wearables and gadgets you should know about",
@@ -321,17 +343,6 @@
       "body_preview": ""
     },
     {
-      "id": "6be87762b77185815c10197ca8848954",
-      "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
-      "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
-      "summary": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost .",
-      "published_at": "2026-10-23T22:52:40+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ee036c45d624cccaef874aa8cc01f321",
       "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
       "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
@@ -552,9 +563,9 @@
       "body_preview": ""
     },
     {
-      "id": "e8d6cf372cfde07ed182ee05b58b4626",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "id": "89badf91b444c3712f6fdc87dae9e4e4",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "summary": "",
       "published_at": "2026-10-22T19:00:00+00:00",
       "source": "TechCrunch AI",
@@ -563,9 +574,9 @@
       "body_preview": ""
     },
     {
-      "id": "89badf91b444c3712f6fdc87dae9e4e4",
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "id": "e8d6cf372cfde07ed182ee05b58b4626",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "summary": "",
       "published_at": "2026-10-22T19:00:00+00:00",
       "source": "TechCrunch AI",
@@ -645,17 +656,6 @@
       "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
       "summary": "",
       "published_at": "2026-10-22T13:53:26+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "315463fdb2f98fc2879e58fbeaeb0bbe",
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "summary": "",
-      "published_at": "2026-10-22T13:26:52+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
