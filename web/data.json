@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:38:50.272623+00:00",
+  "generated_at": "2026-10-25T01:34:42.010565+00:00",
   "articles": [
     {
       "id": "7ac499c49398cb73d2928d4e06b75193",
@@ -519,9 +519,9 @@
       "body_preview": ""
     },
     {
-      "id": "89badf91b444c3712f6fdc87dae9e4e4",
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "id": "e8d6cf372cfde07ed182ee05b58b4626",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "summary": "",
       "published_at": "2026-10-22T19:00:00+00:00",
       "source": "TechCrunch AI",
@@ -530,9 +530,9 @@
       "body_preview": ""
     },
     {
-      "id": "e8d6cf372cfde07ed182ee05b58b4626",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "id": "89badf91b444c3712f6fdc87dae9e4e4",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "summary": "",
       "published_at": "2026-10-22T19:00:00+00:00",
       "source": "TechCrunch AI",
