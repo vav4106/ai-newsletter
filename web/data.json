@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-10-25T06:44:39.319133+00:00",
+  "generated_at": "2026-10-25T12:02:12.710123+00:00",
   "articles": [
+    {
+      "id": "cfa5146a7db1b1f70da541583673095f",
+      "title": "Google’s AI search changes upended online publishing",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on [&#8230;]",
+      "published_at": "2026-10-25T12:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e1c78bb6f88eca2c3f10ecae6d137877",
+      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+      "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+      "summary": "",
+      "published_at": "2026-10-25T10:08:49+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a0efe65fe2007a5467a3d424eac9db63",
+      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
+      "link": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
+      "summary": "",
+      "published_at": "2026-10-25T09:37:46+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4210f0efc437a49e14002e4fbc81f577",
+      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+      "link": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+      "summary": "",
+      "published_at": "2026-10-25T09:12:10+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6cd4f5e8ebeffe66f7146c2b0e97cbcd",
+      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+      "link": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
+      "summary": "",
+      "published_at": "2026-10-25T08:09:32+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ed93762c1b18f529b7964dec849b2c2f",
+      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+      "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+      "summary": "",
+      "published_at": "2026-10-25T07:30:11+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c207cca36e81a4c78992794868eb603c",
+      "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
+      "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+      "summary": "",
+      "published_at": "2026-10-25T06:55:22+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "316bd9e5f2b5332710a2572bd634e3fe",
       "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
@@ -167,17 +244,6 @@
       "body_preview": ""
     },
     {
-      "id": "9af195aac69eda47afcf05a87414ef68",
-      "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
-      "link": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/",
-      "summary": "",
-      "published_at": "2026-10-24T09:21:39+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e5124e99fb8532d71b954cd4f207e88a",
       "title": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots",
       "link": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/",
@@ -266,39 +332,6 @@
       "body_preview": ""
     },
     {
-      "id": "d2cdc834e02c091f0b4672f8d9f2577d",
-      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
-      "link": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
-      "summary": "",
-      "published_at": "2026-10-23T19:00:07+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "233bc9234eab2f8b93b73c3c8ace4b6b",
-      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
-      "link": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
-      "summary": "",
-      "published_at": "2026-10-23T18:00:32+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2dc3c70efbb1ecc4bd893939c5c34714",
-      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
-      "link": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/",
-      "summary": "",
-      "published_at": "2026-10-23T17:19:49+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "8a7870e0fc07a7b429576918002839c4",
       "title": "The iPhone Duo should have been an iPad",
       "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
@@ -343,17 +376,6 @@
       "body_preview": ""
     },
     {
-      "id": "4d99fbe289bf34a6fb136e9122ba8e6e",
-      "title": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
-      "link": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
-      "summary": "",
-      "published_at": "2026-10-23T15:42:18+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3c935047013980921f9ad899288129e4",
       "title": "Meta delays new business terms after publisher pushback on AI scraping",
       "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
@@ -372,17 +394,6 @@
       "published_at": "2026-10-23T12:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c092fd8b06da948308350499fdc6ed1e",
-      "title": "Canva launches Craft, its first in-house image model",
-      "link": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
-      "summary": "",
-      "published_at": "2026-10-23T11:36:30+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -505,17 +516,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "917b35a9948947fa32288a65fa134eed",
-      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
-      "published_at": "2026-10-22T20:32:05+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
