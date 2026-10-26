@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-26T06:17:58.043303+00:00",
+  "generated_at": "2026-10-26T13:10:50.220128+00:00",
   "articles": [
+    {
+      "id": "4ff46adfb6acbc65f0d952e724c68215",
+      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
+      "link": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
+      "summary": "",
+      "published_at": "2026-10-26T09:49:33+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "aab2be4cd518030ddfe91f93b10db925",
+      "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
+      "link": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
+      "summary": "",
+      "published_at": "2026-10-26T09:18:15+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e1373b2d97d88c43830c966de27c8b86",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
+      "published_at": "2026-10-26T09:01:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "19e62e9703cb9958bfd6faed0be5e8c8",
+      "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+      "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
+      "summary": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang appeared first on MarkTechPost .",
+      "published_at": "2026-10-26T07:56:45+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "9ae09bf4d4f0999894f01e0fb14b18b9",
       "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
@@ -607,34 +651,12 @@
       "body_preview": ""
     },
     {
-      "id": "e95632b8e6ba84baf7557ac526d37825",
-      "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
-      "link": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
-      "summary": "",
-      "published_at": "2026-10-24T14:09:46+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "377c45ac2699a5219874ff5d5264bd2d",
       "title": "Here are the top AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "summary": "",
       "published_at": "2026-10-24T14:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "21f48a2a08a3bbc097571f29583fb162",
-      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "summary": "",
-      "published_at": "2026-10-24T11:12:36+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -656,17 +678,6 @@
       "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
       "summary": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows appeared first on MarkTechPost .",
       "published_at": "2026-10-24T10:29:31+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e5124e99fb8532d71b954cd4f207e88a",
-      "title": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots",
-      "link": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/",
-      "summary": "NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots appeared first on MarkTechPost .",
-      "published_at": "2026-10-24T03:56:29+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1333,17 +1344,6 @@
       "body_preview": ""
     },
     {
-      "id": "48bcfb6742b9beba3074c31dd1ac80fc",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;",
-      "published_at": "2026-10-19T09:08:05+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "44fa26f96a95439040107934665bd904",
       "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "link": "https://huggingface.co/blog/hf-torchneuron",
@@ -1633,12 +1633,12 @@
       "id": "971c7d74960cee7e47bdf9b004148b2d",
       "title": "Announcements",
       "link": "https://www.anthropic.com/news/announcements",
-      "summary": "Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Oct 22, 2026 Oct 22, 2026 Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Open call for guest investigators in the life…",
+      "summary": "Anthropic files S-1 with the SEC for proposed initial public offering Oct 26, 2026 Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Anthropic files S-1 with the SEC for proposed initial public offering Anthropic files S-1 with the SEC for proposed initial public offering Open call for guest investigators in the life sciences Today, we’re inviting members of the…",
       "published_at": "",
       "source": "Anthropic News",
       "category": "company",
       "importance": "high",
-      "body_preview": "Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Oct 22, 2026 Oct 22, 2026 Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Open call for guest investigators in the life sciences Today, we’re inviting members of "
+      "body_preview": "Anthropic files S-1 with the SEC for proposed initial public offering Oct 26, 2026 Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Anthropic files S-1 with the SEC for proposed initial public offering Anthropic files S-1 with the SEC for proposed initial public offering Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences community to apply to work with us on special projects. Oct 22, 2026 Oct 22, 2026 Open call for guest investigators in the life sciences Today, we’re inviting members of the life sciences "
     },
     {
       "id": "7a2d67d6348cd049a5ef68556f9ee532",
