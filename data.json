@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-26T19:14:46.162147+00:00",
+  "generated_at": "2026-10-26T23:09:11.107566+00:00",
   "articles": [
+    {
+      "id": "cc4c56c5633fe48daf4c4a66101d9b35",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "summary": "",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "d7758b55516418fba2fdfe93d9856432",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [&#8230;]",
+      "published_at": "2026-10-26T21:45:31+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dd2bad20ddf00b5adf7f4690106c936f",
+      "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+      "link": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+      "summary": "",
+      "published_at": "2026-10-26T20:30:55+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7e6da02f6d645165246e94b353ec49f5",
+      "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
+      "link": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/",
+      "summary": "",
+      "published_at": "2026-10-26T19:14:45+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "18311e26a8b33422c23493a7a16ff932",
       "title": "Researchers find six patterns that make AI text so exhausting to read",
@@ -123,6 +167,17 @@
       "body_preview": ""
     },
     {
+      "id": "c63062695aaf7ee46b9bb0c5903601cc",
+      "title": "Working with academic communities to build scientific understanding",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "summary": "",
+      "published_at": "2026-10-26T14:30:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "8b3d04db88438c5820012a43e216d0ee",
       "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
       "link": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
@@ -142,6 +197,17 @@
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7557cddeeebcf901a49e960e6ee2dc9c",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "summary": "",
+      "published_at": "2026-10-26T13:45:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -225,6 +291,17 @@
       "id": "f6578a6ab7dee0ef02382669e2088134",
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "summary": "",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "4dfece4c92c01ff1d60351504b5291fa",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "link": "https://openai.com/index/openai-cut-incident-investigation",
       "summary": "",
       "published_at": "2026-10-26T07:00:00+00:00",
       "source": "OpenAI News",
@@ -563,6 +640,17 @@
       "body_preview": ""
     },
     {
+      "id": "0d8e0117eee34ccdc72d7f57f3b7a71a",
+      "title": "Introducing GPT-6.1 Terra",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "summary": "",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "c16dd84335cb9c4f4ecc448246acb1ef",
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
@@ -695,28 +783,6 @@
       "body_preview": ""
     },
     {
-      "id": "6cd4f5e8ebeffe66f7146c2b0e97cbcd",
-      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
-      "link": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
-      "summary": "",
-      "published_at": "2026-10-25T08:09:32+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ed93762c1b18f529b7964dec849b2c2f",
-      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
-      "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
-      "summary": "",
-      "published_at": "2026-10-25T07:30:11+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "316bd9e5f2b5332710a2572bd634e3fe",
       "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
       "link": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
@@ -779,17 +845,6 @@
       "published_at": "2026-10-24T19:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "96bbed970a8268d42ab12d95ecf881e9",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as [&#8230;]",
-      "published_at": "2026-10-24T18:32:21+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1593,61 +1648,6 @@
       "published_at": "2026-10-13T19:43:07+00:00",
       "source": "Google DeepMind",
       "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "01873aa87b3910e87289cdeb0c4fba6e",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "summary": "",
-      "published_at": "2026-10-13T17:05:48+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0fe392017e4715065dabe6d05a731cb3",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "published_at": "2026-10-13T16:01:58+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "5789be10b4057fb534a465f50aec7294",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "published_at": "2026-10-13T16:01:52+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "a5af6c1bf437ce9e825865e1a3d68e5a",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "summary": "TBD",
-      "published_at": "2026-10-13T16:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "5fac54416e4a61d0af336c41c76891c2",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "summary": "",
-      "published_at": "2026-10-13T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
       "importance": "high",
       "body_preview": ""
     }
