@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-10-27T07:41:59.408588+00:00",
+  "generated_at": "2026-10-27T13:36:53.669528+00:00",
   "articles": [
+    {
+      "id": "efbd57631e9c7f53f8c21f122aa5a169",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "summary": "",
+      "published_at": "2026-10-27T13:32:57+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ae2d19521271986a40002fda6fc725a3",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "summary": "",
+      "published_at": "2026-10-27T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "70e9f8f71616f3f8de5505053318386c",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "summary": "",
+      "published_at": "2026-10-27T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b90f3a3363114d68ffb052d625961a21",
+      "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
+      "link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
+      "summary": "Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&#038;D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding. The post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context appeared first on MarkTechPost .",
+      "published_at": "2026-10-27T12:57:46+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "920cf9d1265cb6a186177e116fee1726",
+      "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+      "link": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+      "summary": "",
+      "published_at": "2026-10-27T12:37:24+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "495b3c9ded16fe9d32cb64f5436849bd",
+      "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+      "link": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
+      "summary": "",
+      "published_at": "2026-10-27T11:39:24+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e3f869ec28a0557d66c609960f2d752c",
+      "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+      "link": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
+      "summary": "",
+      "published_at": "2026-10-27T11:20:51+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "91d4cccd74c62107c514c57821ada3f7",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+      "published_at": "2026-10-27T11:19:18+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "9e902d56eed3a2fc3efc6fac90e8ca87",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "summary": "",
+      "published_at": "2026-10-27T11:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9176dd384b0244ac8cc72b50ca28c8bf",
+      "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+      "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+      "summary": "",
+      "published_at": "2026-10-27T10:09:26+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a61b290f2f89f2869011ebd82c127f73",
+      "title": "Data center backlash is uniting America",
+      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional [&#8230;]",
+      "published_at": "2026-10-27T10:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8c3295e3547be6f92787ddb047ee15f4",
+      "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
+      "link": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/",
+      "summary": "",
+      "published_at": "2026-10-27T09:58:16+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "52c2bcc6ecef7d24af3efb1b41fbda9f",
       "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
@@ -456,7 +588,7 @@
       "id": "acb4b6d06e8f58854e9e76282c53f2ab",
       "title": "Will the real Anthropic please stand up",
       "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
       "published_at": "2026-10-26T17:45:43+00:00",
       "source": "MIT Technology Review AI",
       "category": "analysis",
@@ -640,28 +772,6 @@
       "body_preview": ""
     },
     {
-      "id": "4ff46adfb6acbc65f0d952e724c68215",
-      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
-      "link": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
-      "summary": "",
-      "published_at": "2026-10-26T09:49:33+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "aab2be4cd518030ddfe91f93b10db925",
-      "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
-      "link": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
-      "summary": "",
-      "published_at": "2026-10-26T09:18:15+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e1373b2d97d88c43830c966de27c8b86",
       "title": "The focus on AI safety disasters ignores everyday harms",
       "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
@@ -794,66 +904,11 @@
       "body_preview": ""
     },
     {
-      "id": "cfa5146a7db1b1f70da541583673095f",
-      "title": "Google’s AI search changes upended online publishing",
-      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on [&#8230;]",
-      "published_at": "2026-10-25T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "61cf14be4e41bb44db5b48908e6b9d42",
       "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
       "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
       "summary": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company&#8217;s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 [&#8230;] The post Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner appeared first on MarkTechPost .",
       "published_at": "2026-10-25T11:32:29+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e1c78bb6f88eca2c3f10ecae6d137877",
-      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
-      "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
-      "summary": "",
-      "published_at": "2026-10-25T10:08:49+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a0efe65fe2007a5467a3d424eac9db63",
-      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
-      "link": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
-      "summary": "",
-      "published_at": "2026-10-25T09:37:46+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4210f0efc437a49e14002e4fbc81f577",
-      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-      "link": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
-      "summary": "",
-      "published_at": "2026-10-25T09:12:10+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "316bd9e5f2b5332710a2572bd634e3fe",
-      "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
-      "link": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
-      "summary": "Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to 1,024 agents on ProgramBench under a 6-hour budget. The post Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents appeared first on MarkTechPost .",
-      "published_at": "2026-10-25T03:32:59+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -981,28 +1036,6 @@
       "body_preview": ""
     },
     {
-      "id": "167cd8a06456e3434ef49015fedecf14",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "summary": "",
-      "published_at": "2026-10-23T04:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d6ef8fe333084f216bcbfeed922b6855",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "summary": "",
-      "published_at": "2026-10-23T00:45:37+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5cb7d7b9d40347b26cc096fa9bfba158",
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -1036,17 +1069,6 @@
       "body_preview": ""
     },
     {
-      "id": "b5355effe43ce11706ec150787a7d18c",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "summary": "",
-      "published_at": "2026-10-22T22:08:24+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "7d4fee361441993caa52df26b2829783",
       "title": "Designing an AI serving harness built to last",
       "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
@@ -1055,17 +1077,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d5871d68e16c0123a6f0641ae9415685",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "summary": "",
-      "published_at": "2026-10-22T19:07:09+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1410,17 +1421,6 @@
       "body_preview": ""
     },
     {
-      "id": "1d94faf9d0cf392138309d0a0b0b39c3",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
-      "published_at": "2026-10-19T18:22:47+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "4cfdacba2cebff3cc84908e4e9abc4a8",
       "title": "Advancing coding in low‑resource programming languages",
       "link": "https://openai.com/index/low-resource-programming-languages",
@@ -1465,9 +1465,9 @@
       "body_preview": ""
     },
     {
-      "id": "514f3439f36679a193291ac295aa6ed5",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1476,9 +1476,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d670f55b7e8bf7faa686f3d10acc953",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "514f3439f36679a193291ac295aa6ed5",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
