@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-27T18:55:23.972703+00:00",
+  "generated_at": "2026-10-27T22:43:31.005751+00:00",
   "articles": [
+    {
+      "id": "2021ccb24cbddbecfb2d850270b10fae",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "summary": "",
+      "published_at": "2026-10-27T21:44:34+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4109a26682cffdaafcaad8fe1cb1407f",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "summary": "",
+      "published_at": "2026-10-27T21:38:28+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "373bcdf352770c4c966fbc21c09732a9",
+      "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
+      "link": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+      "summary": "Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit. The post Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models appeared first on MarkTechPost .",
+      "published_at": "2026-10-27T21:08:02+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5aa59cd4800ef187cb56836b4d84d8f8",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+      "published_at": "2026-10-27T20:48:58+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "96dab43a010ab93d87c2497e1174816e",
+      "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
+      "link": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
+      "summary": "",
+      "published_at": "2026-10-27T19:45:49+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f477796511f10cac224032221dcf8011",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "summary": "",
+      "published_at": "2026-10-27T18:55:35+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "25fada17cc1b5411ef0e1f6128b71402",
       "title": "VisionQuest is what happens when AI really goes rogue",
@@ -673,6 +739,17 @@
       "body_preview": ""
     },
     {
+      "id": "5d928b21610114d6b0888d36287994b6",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "link": "https://openai.com/index/check-point-daybreak",
+      "summary": "",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "aa443b66afc3389614ee234bd930d056",
       "title": "OpenAI announces three big science discoveries and a new way to work with academics",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
@@ -728,17 +805,6 @@
       "body_preview": ""
     },
     {
-      "id": "18311e26a8b33422c23493a7a16ff932",
-      "title": "Researchers find six patterns that make AI text so exhausting to read",
-      "link": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/",
-      "summary": "",
-      "published_at": "2026-10-26T17:50:15+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "acb4b6d06e8f58854e9e76282c53f2ab",
       "title": "Will the real Anthropic please stand up",
       "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
@@ -755,17 +821,6 @@
       "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
       "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, [&#8230;]",
       "published_at": "2026-10-26T17:30:55+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1f47e49ee106abfaba38057f801a0a50",
-      "title": "Five weird details from Anthropic’s IPO filing",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to [&#8230;]",
-      "published_at": "2026-10-26T17:10:23+00:00",
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
@@ -915,10 +970,10 @@
       "body_preview": ""
     },
     {
-      "id": "e9f6fcfed702829fe3dc9dbfc707381c",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "id": "8ed89e752955c135eab5bfced41ed7a6",
+      "title": "Anthropic files S-1 with the",
       "link": "https://www.anthropic.com/news/s1-sec",
-      "summary": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Anthropic intends to list its Class A common stock on the Nasdaq Global Select Market under the symbol “ANT.” The number of shares of Class A common stock to be offered and the price range for the proposed…",
+      "summary": "SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
       "published_at": "2026-10-26T00:00:00+00:00",
       "source": "Anthropic News",
       "category": "company",
@@ -992,17 +1047,6 @@
       "body_preview": ""
     },
     {
-      "id": "61cf14be4e41bb44db5b48908e6b9d42",
-      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
-      "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
-      "summary": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company&#8217;s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 [&#8230;] The post Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner appeared first on MarkTechPost .",
-      "published_at": "2026-10-25T11:32:29+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "079b3875029d137d4f1bcb08e640fd48",
       "title": "Will AI expose the rickety infrastructure of the internet?",
       "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
@@ -1019,39 +1063,6 @@
       "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "summary": "",
       "published_at": "2026-10-24T19:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "bb0639fc9cada9063547a34d00576fb0",
-      "title": "Block’s new voice model sounds eerily human",
-      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "summary": "",
-      "published_at": "2026-10-24T16:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "454c51f967dc228d5431d66cd9655086",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "summary": "",
-      "published_at": "2026-10-24T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "377c45ac2699a5219874ff5d5264bd2d",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "",
-      "published_at": "2026-10-24T14:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1633,17 +1644,6 @@
       "id": "e13ade02ab347c14827443bacafcac7f",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "link": "https://openai.com/index/amp-beyond-coding",
-      "summary": "",
-      "published_at": "2026-10-14T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "3bf887658194d509aa56af45ca4c5bb5",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "link": "https://openai.com/index/sentinelone",
       "summary": "",
       "published_at": "2026-10-14T12:00:00+00:00",
       "source": "OpenAI News",
