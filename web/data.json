@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-26T23:09:11.107566+00:00",
+  "generated_at": "2026-10-27T02:01:49.218512+00:00",
   "articles": [
+    {
+      "id": "56b898f8f48562385b7a899628522507",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "summary": "",
+      "published_at": "2026-10-27T01:12:21+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "aa443b66afc3389614ee234bd930d056",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
+      "published_at": "2026-10-26T23:34:58+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "cc4c56c5633fe48daf4c4a66101d9b35",
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -816,17 +838,6 @@
       "body_preview": ""
     },
     {
-      "id": "7ac499c49398cb73d2928d4e06b75193",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
-      "published_at": "2026-10-24T21:29:12+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "079b3875029d137d4f1bcb08e640fd48",
       "title": "Will AI expose the rickety infrastructure of the internet?",
       "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
@@ -1061,17 +1072,6 @@
       "id": "e8d6cf372cfde07ed182ee05b58b4626",
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "summary": "",
-      "published_at": "2026-10-22T19:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "89badf91b444c3712f6fdc87dae9e4e4",
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "summary": "",
       "published_at": "2026-10-22T19:00:00+00:00",
       "source": "TechCrunch AI",
