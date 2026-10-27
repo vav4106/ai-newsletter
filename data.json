@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-10-27T13:36:53.669528+00:00",
+  "generated_at": "2026-10-27T18:55:23.972703+00:00",
   "articles": [
+    {
+      "id": "25fada17cc1b5411ef0e1f6128b71402",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
+      "published_at": "2026-10-27T17:30:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b57ca77d9d822675beb04433223ddbd0",
+      "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+      "link": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+      "summary": "",
+      "published_at": "2026-10-27T17:25:09+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4ec1798b7c0e1776c926feb3a9d11d82",
+      "title": "Build specialized multimodal models with LFM3",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "summary": "",
+      "published_at": "2026-10-27T17:16:52+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "206dba41cd2d9af4bf2c65d058e6fb73",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "summary": "",
+      "published_at": "2026-10-27T17:08:08+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "52bc762709ca14217074766cf99b1eae",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
+      "published_at": "2026-10-27T16:51:22+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4b2e0f11a635c3b388f2dcf1c170ffdb",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "summary": "",
+      "published_at": "2026-10-27T16:30:57+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "aa6960e6bc7dea79321256abd1ce1c8d",
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [&#8230;]",
+      "published_at": "2026-10-27T16:14:18+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5cc2840c660df7ac52f4081257b29546",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "link": "https://huggingface.co/blog/allenai/novelty-bench",
+      "summary": "",
+      "published_at": "2026-10-27T16:12:42+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "87e8827f56919c24a384863f5943ab53",
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "",
+      "published_at": "2026-10-27T16:01:38+00:00",
+      "source": "Google DeepMind",
+      "category": "research",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "6122f1b86fd12354f22a162a40ac51c0",
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
+      "published_at": "2026-10-27T16:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2dba8e9e3a2a5584ada4610466abe827",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "summary": "",
+      "published_at": "2026-10-27T14:59:09+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "99b058dd86f59dca90715934257bf87b",
+      "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+      "link": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+      "summary": "",
+      "published_at": "2026-10-27T13:55:24+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cedee77b4aae78b6a7098477506afff7",
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, [&#8230;]",
+      "published_at": "2026-10-27T13:50:51+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "efbd57631e9c7f53f8c21f122aa5a169",
       "title": "Japan internet giant GMO says hackers posted stolen customer data",
@@ -131,6 +274,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b91b44e5eff3d0785237a5cd36ca3a78",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "summary": "",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -607,17 +761,6 @@
       "body_preview": ""
     },
     {
-      "id": "a2997ffaf813437f93f4ef87d965ebab",
-      "title": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
-      "link": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/",
-      "summary": "",
-      "published_at": "2026-10-26T17:19:40+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1f47e49ee106abfaba38057f801a0a50",
       "title": "Five weird details from Anthropic’s IPO filing",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
@@ -673,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "0e570f6981e9e48ae9476287f58f0081",
-      "title": "Microsoft offers buyouts to 60,000 employees",
-      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another [&#8230;]",
-      "published_at": "2026-10-26T15:58:27+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "4f05c272309888427822d959a6f28cbc",
       "title": "Anthropic officially files for its public debut",
       "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
@@ -706,28 +838,6 @@
       "body_preview": ""
     },
     {
-      "id": "8b3d04db88438c5820012a43e216d0ee",
-      "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
-      "link": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
-      "summary": "",
-      "published_at": "2026-10-26T14:21:23+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9cd02f41c46510908d63e55c84da3990",
-      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-      "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the [&#8230;]",
-      "published_at": "2026-10-26T14:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "7557cddeeebcf901a49e960e6ee2dc9c",
       "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
       "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
@@ -736,28 +846,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1c827e8224a5c4622a34d3ad8bbc51f6",
-      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC [&#8230;]",
-      "published_at": "2026-10-26T13:32:49+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ac77e556e131f06b98f70d6a10af3a78",
-      "title": "Can AI help solve the COBOL code crisis?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' [&#8230;]",
-      "published_at": "2026-10-26T13:15:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -827,6 +915,17 @@
       "body_preview": ""
     },
     {
+      "id": "e9f6fcfed702829fe3dc9dbfc707381c",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "link": "https://www.anthropic.com/news/s1-sec",
+      "summary": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Anthropic intends to list its Class A common stock on the Nasdaq Global Select Market under the symbol “ANT.” The number of shares of Class A common stock to be offered and the price range for the proposed…",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "source": "Anthropic News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Anthropic intends to list its Class A common stock on the Nasdaq Global Select Market under the symbol “ANT.” The number of shares of Class A common stock to be offered and the price range for the proposed offering have not yet been determined. The proposed offering will be made only by means of a prospectus. Copies of the preliminary prospectus, when available, may be obtained from: Goldman Sachs & Co. L"
+    },
+    {
       "id": "c16dd84335cb9c4f4ecc448246acb1ef",
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
@@ -878,17 +977,6 @@
       "published_at": "2026-10-25T14:10:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4dc46ca3c38d82eba3f05c489f8f11c1",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source [&#8230;]",
-      "published_at": "2026-10-25T13:25:32+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -970,39 +1058,6 @@
       "body_preview": ""
     },
     {
-      "id": "5fe7f2d8ec3119ea1940e894672e920b",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "summary": "",
-      "published_at": "2026-10-23T23:05:49+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ee036c45d624cccaef874aa8cc01f321",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "summary": "",
-      "published_at": "2026-10-23T21:59:19+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "77306f2f102958de2d8c3fd9e5c14945",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "summary": "",
-      "published_at": "2026-10-23T19:06:23+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "17bf1e85b4852dc8fb7be5899a8d0315",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -1014,22 +1069,22 @@
       "body_preview": ""
     },
     {
-      "id": "b6566d387d4f8730bd5c9958198a0dee",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "link": "https://huggingface.co/blog/allenai/litpivot",
-      "summary": "",
-      "published_at": "2026-10-23T16:15:50+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5436a28808656995e4540be1bb0620ac",
       "title": "Securing our frontier model training environment",
       "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "summary": "",
       "published_at": "2026-10-23T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "d56a699d9d39bd18834aaf4f64e5148a",
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "link": "https://openai.com/index/anima",
+      "summary": "",
+      "published_at": "2026-10-23T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
@@ -1465,9 +1520,9 @@
       "body_preview": ""
     },
     {
-      "id": "1d670f55b7e8bf7faa686f3d10acc953",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "514f3439f36679a193291ac295aa6ed5",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1476,9 +1531,9 @@
       "body_preview": ""
     },
     {
-      "id": "514f3439f36679a193291ac295aa6ed5",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "1d670f55b7e8bf7faa686f3d10acc953",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1593,61 +1648,6 @@
       "published_at": "2026-10-14T12:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "fb041fe999a56ffbfa17238afcf70125",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "link": "https://openai.com/index/third-moment-research",
-      "summary": "",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "da6bc6318bd430998e083b3474d37b78",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "link": "https://openai.com/index/block-ai-powered-security",
-      "summary": "",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f5862f2de0bb7fd850666769bd9539ec",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "",
-      "published_at": "2026-10-14T02:00:14+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "b7a4a0b295db29343f9d7d04e22b78e6",
-      "title": "The EU’s next chapter in AI is agentic",
-      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "summary": "",
-      "published_at": "2026-10-14T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "69c9269264a1eeea4a56b438c12b6928",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "published_at": "2026-10-13T19:43:07+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
       "importance": "high",
       "body_preview": ""
     }
