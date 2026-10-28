@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-27T22:43:31.005751+00:00",
+  "generated_at": "2026-10-28T01:45:25.349042+00:00",
   "articles": [
+    {
+      "id": "7d2da31337f86b55d2f235ffdffcb595",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "summary": "",
+      "published_at": "2026-10-28T01:15:28+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "70aa6f134b27fda4f38a1d504461d429",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary": "",
+      "published_at": "2026-10-27T23:34:27+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0a19a041bed30fbda4ed59b51430313b",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "summary": "",
+      "published_at": "2026-10-27T22:55:41+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "236c10d4dfa860d51a19a0ed65a7e25d",
+      "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
+      "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+      "summary": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search. The post Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB appeared first on MarkTechPost .",
+      "published_at": "2026-10-27T21:54:37+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2021ccb24cbddbecfb2d850270b10fae",
       "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
@@ -175,6 +219,17 @@
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "19eb7077d7806b224f18ffa4818ff12e",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "summary": "",
+      "published_at": "2026-10-27T15:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -1025,50 +1080,6 @@
       "body_preview": ""
     },
     {
-      "id": "6e49256ff576192dfe8db6539228a604",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "summary": "",
-      "published_at": "2026-10-25T14:10:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5350913bf9b2912dda04a174541ed346",
-      "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
-      "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
-      "summary": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss. The post Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster appeared first on MarkTechPost .",
-      "published_at": "2026-10-25T12:12:18+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "079b3875029d137d4f1bcb08e640fd48",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "summary": "",
-      "published_at": "2026-10-24T20:15:33+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2adf687fd06b300b503e50b81ee38ae5",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "",
-      "published_at": "2026-10-24T19:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "17bf1e85b4852dc8fb7be5899a8d0315",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -1531,6 +1542,28 @@
       "body_preview": ""
     },
     {
+      "id": "a1366e2952525671138be6bc53a0fe51",
+      "title": "How Grupo Boticário uses AI to strengthen human connections",
+      "link": "https://openai.com/index/grupo-boticario",
+      "summary": "",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "5c2a3c183968e2930e94b31f35aa9735",
+      "title": "How Localiza reorganized work around generative AI",
+      "link": "https://openai.com/index/localiza-generative-ai",
+      "summary": "",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "514f3439f36679a193291ac295aa6ed5",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "link": "https://openai.com/index/benefit-street-partners",
@@ -1613,39 +1646,6 @@
       "link": "https://openai.com/index/sullivan-cromwell",
       "summary": "",
       "published_at": "2026-10-15T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "420b8650819d1649ac9f692912a8efec",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "link": "https://huggingface.co/blog/meta-muse-spark-open",
-      "summary": "",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "bc93efcf25d9e5ba16afb3e54e97aa26",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "link": "https://huggingface.co/blog/flux-3",
-      "summary": "",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e13ade02ab347c14827443bacafcac7f",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "summary": "",
-      "published_at": "2026-10-14T12:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
