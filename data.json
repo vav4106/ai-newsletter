@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-10-28T19:36:06.919867+00:00",
+  "generated_at": "2026-10-28T23:29:29.408783+00:00",
   "articles": [
+    {
+      "id": "46f5339302ae3a0906c1770651cf98f4",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and [&#8230;]",
+      "published_at": "2026-10-28T23:05:39+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "22a7502696046798397a9ad041ab95e0",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "summary": "",
+      "published_at": "2026-10-28T21:58:32+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7ee82348f77fb8ac25483de1afd3bd4e",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "summary": "",
+      "published_at": "2026-10-28T21:48:37+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0ca84ba30e133d118d9314ef0a54f0c4",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary": "",
+      "published_at": "2026-10-28T21:34:30+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "366ac714343602d8912ee219ec3ae2ec",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run [&#8230;]",
+      "published_at": "2026-10-28T21:34:04+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "160358ba39ce31f1cb3ee551b6fd64a4",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "summary": "",
+      "published_at": "2026-10-28T21:25:30+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9891d66181114ce81bbad649ae89ea4f",
+      "title": "Creating AI value with enterprise context",
+      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
+      "published_at": "2026-10-28T20:32:02+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "c84148fa4d534cc78ab58062e85e7ff0",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
+      "published_at": "2026-10-28T20:03:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "aa84f4fcb19ae31a5037c9f11553424b",
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
@@ -241,6 +329,17 @@
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bc734adb2a7e708f26244c91be106e3d",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "",
+      "published_at": "2026-10-28T13:15:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -794,17 +893,6 @@
       "body_preview": ""
     },
     {
-      "id": "25fada17cc1b5411ef0e1f6128b71402",
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
-      "published_at": "2026-10-27T17:30:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b57ca77d9d822675beb04433223ddbd0",
       "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
       "link": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
@@ -834,39 +922,6 @@
       "published_at": "2026-10-27T17:08:08+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "52bc762709ca14217074766cf99b1eae",
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
-      "published_at": "2026-10-27T16:51:22+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4b2e0f11a635c3b388f2dcf1c170ffdb",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "summary": "",
-      "published_at": "2026-10-27T16:30:57+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "aa6960e6bc7dea79321256abd1ce1c8d",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [&#8230;]",
-      "published_at": "2026-10-27T16:14:18+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -901,39 +956,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "2dba8e9e3a2a5584ada4610466abe827",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "summary": "",
-      "published_at": "2026-10-27T14:59:09+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "efbd57631e9c7f53f8c21f122aa5a169",
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "summary": "",
-      "published_at": "2026-10-27T13:32:57+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ae2d19521271986a40002fda6fc725a3",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "summary": "",
-      "published_at": "2026-10-27T13:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1454,17 +1476,6 @@
       "body_preview": ""
     },
     {
-      "id": "c164a396f61a1f9ab09e868483b9f73d",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;",
-      "published_at": "2026-10-20T12:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "597cff20549951b175943c9771cfae6c",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "link": "https://openai.com/index/ted-taylor-restaurant",
@@ -1575,9 +1586,9 @@
       "body_preview": ""
     },
     {
-      "id": "5c2a3c183968e2930e94b31f35aa9735",
-      "title": "How Localiza reorganized work around generative AI",
-      "link": "https://openai.com/index/localiza-generative-ai",
+      "id": "a1366e2952525671138be6bc53a0fe51",
+      "title": "How Grupo Boticário uses AI to strengthen human connections",
+      "link": "https://openai.com/index/grupo-boticario",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1586,9 +1597,9 @@
       "body_preview": ""
     },
     {
-      "id": "a1366e2952525671138be6bc53a0fe51",
-      "title": "How Grupo Boticário uses AI to strengthen human connections",
-      "link": "https://openai.com/index/grupo-boticario",
+      "id": "5c2a3c183968e2930e94b31f35aa9735",
+      "title": "How Localiza reorganized work around generative AI",
+      "link": "https://openai.com/index/localiza-generative-ai",
       "summary": "",
       "published_at": "2026-10-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1637,17 +1648,6 @@
       "published_at": "2026-10-15T19:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "11bd3f22d465daf9fd01d58d91148df7",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "",
-      "published_at": "2026-10-15T16:08:03+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
       "importance": "high",
       "body_preview": ""
     }
