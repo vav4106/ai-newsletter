@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-29T20:38:43.179486+00:00",
+  "generated_at": "2026-10-30T00:17:44.097543+00:00",
   "articles": [
+    {
+      "id": "6ddd7ce65b6168e47f3d2d6dd35ec6ab",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "summary": "",
+      "published_at": "2026-10-29T23:42:22+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bb30e6a0f8b0968a839affc446049637",
+      "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+      "link": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
+      "summary": "Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens. The post Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens appeared first on MarkTechPost .",
+      "published_at": "2026-10-29T21:20:29+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "5a9d27d39ef0c28b753d862ad51c0872",
       "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
@@ -926,17 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "413869745c5f4f3ce865d3669b4061c6",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "summary": "",
-      "published_at": "2026-10-28T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ea355fba72acf412e0121e8d0a538122",
       "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
       "link": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
@@ -1030,17 +1041,6 @@
       "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
       "summary": "Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside the simulation loop. The post Meet Google DeepMind&#8217;s Genie 4: Real-Time World Model With Native Audio appeared first on MarkTechPost .",
       "published_at": "2026-10-28T07:34:58+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "236c10d4dfa860d51a19a0ed65a7e25d",
-      "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
-      "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
-      "summary": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search. The post Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB appeared first on MarkTechPost .",
-      "published_at": "2026-10-27T21:54:37+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
