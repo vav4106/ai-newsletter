@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-10-30T11:47:05.867741+00:00",
+  "generated_at": "2026-10-30T17:15:23.651884+00:00",
   "articles": [
+    {
+      "id": "5ecf1f927fe6663aa7ab7e5ee0ee57f7",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "summary": "",
+      "published_at": "2026-10-30T16:03:45+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8138dbac2d618275a241fff3dd78aa23",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many [&#8230;]",
+      "published_at": "2026-10-30T14:58:06+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "00325cd42bb9d17ba9979dfd3ac376cc",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "summary": "",
+      "published_at": "2026-10-30T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1cec9d46b823e4fbd71beadca64a32cc",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "summary": "",
+      "published_at": "2026-10-30T13:54:25+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e017df82ba295ce8265e22b046d83ab2",
+      "title": "Silicon Valley wants you to invest in miracles",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, [&#8230;]",
+      "published_at": "2026-10-30T13:11:05+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6dde5058055eb994a33a7d6d0e155251",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, [&#8230;]",
+      "published_at": "2026-10-30T13:01:14+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0b0cf666939956b73b5d051236f6a613",
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "summary": "",
+      "published_at": "2026-10-30T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5bc6255344b0fb270bd57cb9df39b25d",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "summary": "",
+      "published_at": "2026-10-30T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2c7b3e8f9c0d829af5f6a4a6153d883a",
+      "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
+      "link": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
+      "summary": "",
+      "published_at": "2026-10-30T12:22:18+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "f16c5f0141a3e794a8f2f80c9d1bca1d",
       "title": "Maine’s data center revolt will decide who controls the Senate",
@@ -10,6 +109,17 @@
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "805b24649a3cade7aec9d3e17b9902c1",
+      "title": "Community safety report and new protections for teens",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "summary": "",
+      "published_at": "2026-10-30T09:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -706,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "1a46609d9414af8cc6e59be9471f0b64",
-      "title": "AI has come for Arizona’s water",
-      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one [&#8230;]",
-      "published_at": "2026-10-29T10:00:04+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1a6631599a133f690f53e7d02f390906",
       "title": "How we detect frontier model misalignment",
       "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
@@ -783,6 +882,17 @@
       "body_preview": ""
     },
     {
+      "id": "0c8c85013fe42ce888c380cc02507a6c",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "link": "https://openai.com/index/credit-saison",
+      "summary": "",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "190c04e6c13bc17b1751e546187ab6c3",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "link": "https://huggingface.co/blog/announcing-project-protostar",
@@ -816,17 +926,6 @@
       "body_preview": ""
     },
     {
-      "id": "46f5339302ae3a0906c1770651cf98f4",
-      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and [&#8230;]",
-      "published_at": "2026-10-28T23:05:39+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "22a7502696046798397a9ad041ab95e0",
       "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
       "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
@@ -849,39 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "0ca84ba30e133d118d9314ef0a54f0c4",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "summary": "",
-      "published_at": "2026-10-28T21:34:30+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "366ac714343602d8912ee219ec3ae2ec",
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run [&#8230;]",
-      "published_at": "2026-10-28T21:34:04+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "160358ba39ce31f1cb3ee551b6fd64a4",
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "summary": "",
-      "published_at": "2026-10-28T21:25:30+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "9891d66181114ce81bbad649ae89ea4f",
       "title": "Creating AI value with enterprise context",
       "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
@@ -893,45 +959,12 @@
       "body_preview": ""
     },
     {
-      "id": "aa84f4fcb19ae31a5037c9f11553424b",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "summary": "",
-      "published_at": "2026-10-28T19:19:58+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "db370c575df526e0f6ac63464afae67a",
       "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
       "link": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
       "summary": "",
       "published_at": "2026-10-28T19:17:58+00:00",
       "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "183bec0c740a545bb0b098f7e5d53736",
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "summary": "",
-      "published_at": "2026-10-28T19:05:46+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9b1cf80c78746524f6bc5a8dacafa92b",
-      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-      "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-      "summary": "",
-      "published_at": "2026-10-28T18:50:39+00:00",
-      "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -975,17 +1008,6 @@
       "link": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
       "summary": "",
       "published_at": "2026-10-28T16:59:59+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c4ab247926d7d814d1ff5732da84ea0f",
-      "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
-      "link": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
-      "summary": "",
-      "published_at": "2026-10-28T16:25:02+00:00",
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
@@ -1627,28 +1649,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1cb6528f14c9c715e9198a90d45412e3",
-      "title": "Investing in the public benefit",
-      "link": "https://www.anthropic.com/news/public-benefit-fund",
-      "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
-      "published_at": "2026-10-18T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today, we’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity with a structure that increases the stake as the company grows. Subject to stockholder approval, 5% of Anthropic’s shares will be committed today, with an additional 2% added at the board’s discretion for every 50% increase in the company’s value above a set baseline. As a public benefit corporation, most of our work in pursuit of our mission takes place inside the company: research relevant to AI safety and interpretability; applied biomedical research; discounts on Claude f"
-    },
-    {
-      "id": "13f8c740c8aa623f549766afb464f2d5",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "summary": "",
-      "published_at": "2026-10-16T19:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     }
   ],
