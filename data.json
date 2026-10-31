@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-30T21:31:53.108813+00:00",
+  "generated_at": "2026-10-31T01:00:39.141031+00:00",
   "articles": [
+    {
+      "id": "8ab6508baec9693d5fe539081c7551bd",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "summary": "",
+      "published_at": "2026-10-30T22:56:13+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "865987a0f1f0bcdf2cd60d28138fbb31",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]",
+      "published_at": "2026-10-30T22:32:53+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "de4180209ebd1e0f9c190371a523bf58",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "summary": "",
+      "published_at": "2026-10-30T21:54:34+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c7d196d19c136e5564e817a04ae3f8a6",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "",
+      "published_at": "2026-10-30T21:52:03+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "63477334ef42297e497d3f0c2b59be2b",
       "title": "Last-minute Halloween costumes for tech nerds",
@@ -673,6 +717,17 @@
       "body_preview": ""
     },
     {
+      "id": "1428fdfa2d3942f1ae2b42ad0d83d907",
+      "title": "Fair use benefits everyone",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "summary": "",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "38256cefbf7cac0a1b7da0f1a06d7c88",
       "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
@@ -761,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "88941a85d9d1e0c65531868a98cf3acb",
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in [&#8230;]",
-      "published_at": "2026-10-29T18:45:31+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1dac471517f7596245056445d527d387",
       "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
       "link": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
@@ -816,45 +860,12 @@
       "body_preview": ""
     },
     {
-      "id": "20244440bcbd33a1985a6533b0a50479",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "summary": "",
-      "published_at": "2026-10-29T16:42:32+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4f8311dd4b9a643eb0ab281506a1202c",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "summary": "",
-      "published_at": "2026-10-29T16:21:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6cf56cabdb7a91f1b4cb0b35268d8458",
       "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
       "link": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
       "summary": "",
       "published_at": "2026-10-29T15:25:27+00:00",
       "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3e312f5fa19298f1c7c113e5381923be",
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "summary": "",
-      "published_at": "2026-10-29T14:35:26+00:00",
-      "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -1638,17 +1649,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4cfdacba2cebff3cc84908e4e9abc4a8",
-      "title": "Advancing coding in low‑resource programming languages",
-      "link": "https://openai.com/index/low-resource-programming-languages",
-      "summary": "",
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     }
   ],
