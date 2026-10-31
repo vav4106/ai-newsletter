@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-31T20:40:11.217410+00:00",
+  "generated_at": "2026-10-31T23:43:18.763694+00:00",
   "articles": [
+    {
+      "id": "9d057cc2a88a4b7b4a3495f5797751d2",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "",
+      "published_at": "2026-10-31T21:41:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7d9eeaeb6c48954637b5c9bcf1f1e699",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "summary": "",
+      "published_at": "2026-10-31T21:36:07+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d979772f75edf76fabe4c8ce5079aac9",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "",
+      "published_at": "2026-10-31T21:17:03+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2e9aecf0237659892ff51bdeefd86fa4",
       "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
@@ -854,39 +887,6 @@
       "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
       "summary": "",
       "published_at": "2026-10-29T20:08:31+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "07d8893fffc915fb71946f72b81ad863",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "summary": "",
-      "published_at": "2026-10-29T20:05:47+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a991d2f388057a7f55da0e08126683c8",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "summary": "",
-      "published_at": "2026-10-29T19:56:19+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "be69df2987cc7c91469494382f90d562",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "summary": "",
-      "published_at": "2026-10-29T19:14:36+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
