@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-31T17:39:47.005672+00:00",
+  "generated_at": "2026-10-31T20:40:11.217410+00:00",
   "articles": [
+    {
+      "id": "2e9aecf0237659892ff51bdeefd86fa4",
+      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+      "link": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+      "summary": "",
+      "published_at": "2026-10-31T19:20:55+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "9634f29eb2fa9b08b923bd9fff6c2bc5",
       "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
@@ -734,17 +745,6 @@
       "summary": "",
       "published_at": "2026-10-30T13:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2c7b3e8f9c0d829af5f6a4a6153d883a",
-      "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
-      "link": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
-      "summary": "",
-      "published_at": "2026-10-30T12:22:18+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
