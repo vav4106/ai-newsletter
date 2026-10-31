@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-31T13:06:35.430326+00:00",
+  "generated_at": "2026-10-31T17:39:47.005672+00:00",
   "articles": [
+    {
+      "id": "9634f29eb2fa9b08b923bd9fff6c2bc5",
+      "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+      "link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+      "summary": "",
+      "published_at": "2026-10-31T16:38:37+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "02efa438d13a8bf52fc95849e8879909",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "",
+      "published_at": "2026-10-31T16:12:55+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a86f8caf0591433101a293bb0d1e92d6",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]",
+      "published_at": "2026-10-31T16:05:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d35d1850445b4c4d9afae86a31305130",
+      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+      "link": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+      "summary": "",
+      "published_at": "2026-10-31T15:06:14+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "dc50012a2be4e9394ffc3c504ae727b6",
       "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
@@ -739,17 +783,6 @@
       "body_preview": ""
     },
     {
-      "id": "ade4044023a04445c3f16a16e73066fc",
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger [&#8230;]",
-      "published_at": "2026-10-30T09:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "52521bc0135848c53386e925611e6737",
       "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
       "link": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
@@ -838,34 +871,12 @@
       "body_preview": ""
     },
     {
-      "id": "cb7c1c0d760d44b6897ddcca2716cc5c",
-      "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
-      "link": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
-      "summary": "",
-      "published_at": "2026-10-29T20:01:27+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "a991d2f388057a7f55da0e08126683c8",
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "summary": "",
       "published_at": "2026-10-29T19:56:19+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3548c6bc21e6c53bb89c5c07e630539c",
-      "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
-      "link": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
-      "summary": "",
-      "published_at": "2026-10-29T19:33:37+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -889,17 +900,6 @@
       "published_at": "2026-10-29T18:28:57+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "07ebbd78095425b621f4294a768a14bc",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "summary": "",
-      "published_at": "2026-10-29T17:54:38+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
