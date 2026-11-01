@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-11-01T09:40:01.366840+00:00",
+  "generated_at": "2026-11-01T16:20:29.295674+00:00",
   "articles": [
+    {
+      "id": "002454355633732a03adb62e8af72c14",
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "link": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "summary": "",
+      "published_at": "2026-11-01T14:56:44+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3485de7d5e7d4efdb07de9b2d41ece2f",
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "link": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+      "summary": "",
+      "published_at": "2026-11-01T14:36:49+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3a7118225a92b6d3f3902c28d54ef9da",
+      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+      "link": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+      "summary": "",
+      "published_at": "2026-11-01T12:33:01+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9f3e3cbf2a1854437a91b204cd058724",
+      "title": "OpenAI is steering ChatGPT users toward more paid usage",
+      "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+      "summary": "",
+      "published_at": "2026-11-01T12:05:04+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7312b0147e5473f77efff03eb9ee940a",
+      "title": "Google wants video AI to understand what people need as they work",
+      "link": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+      "summary": "",
+      "published_at": "2026-11-01T11:25:21+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "965dad2f2529c57cbcd101b090eed2fe",
+      "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+      "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+      "summary": "",
+      "published_at": "2026-11-01T09:51:06+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "56ef344ed0671b637940ec45021d3b29",
       "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
@@ -134,17 +200,6 @@
       "body_preview": ""
     },
     {
-      "id": "d721278c91bb8dd38ab744b764ab3a56",
-      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
-      "link": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
-      "summary": "",
-      "published_at": "2026-10-31T10:15:45+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e394f39053d2a81c0a42df842abd9328",
       "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
       "link": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
@@ -152,17 +207,6 @@
       "published_at": "2026-10-31T10:10:28+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f20a4cd4c56cc84d900475bc4776064f",
-      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
-      "link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
-      "summary": "",
-      "published_at": "2026-10-31T09:22:52+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -266,17 +310,6 @@
       "body_preview": ""
     },
     {
-      "id": "7aaadb1a84f4966930ede1b115685565",
-      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
-      "link": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
-      "summary": "",
-      "published_at": "2026-10-30T19:42:59+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b01dac52f0ef120cba85f23d379d101d",
       "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
       "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
@@ -284,17 +317,6 @@
       "published_at": "2026-10-30T18:21:38+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "eb327c84b6ca09a81021284ed035aa5c",
-      "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
-      "link": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
-      "summary": "",
-      "published_at": "2026-10-30T18:16:10+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -332,17 +354,6 @@
       "body_preview": ""
     },
     {
-      "id": "09b2ae84afa1620d2d93a93f83b2e680",
-      "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
-      "link": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
-      "summary": "",
-      "published_at": "2026-10-30T17:44:59+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ddfcf19ad5db23479e45bfab7b2b7433",
       "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
@@ -361,17 +372,6 @@
       "published_at": "2026-10-30T17:34:15+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9c7d8d54113db791fc06a527b2b3c81f",
-      "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-      "link": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-      "summary": "",
-      "published_at": "2026-10-30T17:15:24+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
