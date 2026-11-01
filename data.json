@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-01T20:36:09.797165+00:00",
+  "generated_at": "2026-11-01T23:51:33.591610+00:00",
   "articles": [
+    {
+      "id": "c8c33703c65a1bb3c58b9a579af31dd3",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "",
+      "published_at": "2026-11-01T21:55:23+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f11298fbdabb306234fe0e23a77434f9",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary": "",
+      "published_at": "2026-11-01T20:57:58+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "002454355633732a03adb62e8af72c14",
       "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
@@ -552,17 +574,6 @@
       "body_preview": ""
     },
     {
-      "id": "38256cefbf7cac0a1b7da0f1a06d7c88",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "summary": "",
-      "published_at": "2026-10-29T23:42:22+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "bb30e6a0f8b0968a839affc446049637",
       "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
       "link": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
@@ -570,17 +581,6 @@
       "published_at": "2026-10-29T21:20:29+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5a9d27d39ef0c28b753d862ad51c0872",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "summary": "",
-      "published_at": "2026-10-29T20:08:31+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
