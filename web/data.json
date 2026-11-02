@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:51:33.591610+00:00",
+  "generated_at": "2026-11-02T03:00:36.722760+00:00",
   "articles": [
     {
       "id": "c8c33703c65a1bb3c58b9a579af31dd3",
@@ -1330,17 +1330,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "44fa26f96a95439040107934665bd904",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "link": "https://huggingface.co/blog/hf-torchneuron",
-      "summary": "",
-      "published_at": "2026-10-19T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     },
     {
