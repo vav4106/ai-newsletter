@@ -1,6 +1,237 @@
 {
-  "generated_at": "2026-11-02T10:37:10.029846+00:00",
+  "generated_at": "2026-11-02T20:30:03.763842+00:00",
   "articles": [
+    {
+      "id": "8fea63b9ef5adf36c6fb017afbbe5248",
+      "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
+      "link": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+      "summary": "",
+      "published_at": "2026-11-02T20:00:03+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "db732eb023ae46e90ee09b9d7f89bb53",
+      "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
+      "link": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/",
+      "summary": "",
+      "published_at": "2026-11-02T19:43:51+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c28a961e0b609979d7315c4fc503412a",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "summary": "",
+      "published_at": "2026-11-02T19:19:17+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fc862b27eaec7feed2b2f95b9c1e7a83",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [&#8230;]",
+      "published_at": "2026-11-02T18:56:02+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4a025f93e9b140c96fa308860745044f",
+      "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
+      "link": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
+      "summary": "Deep Principle has released Hydrogen-1.0, an open-weight scientific model for chemistry, materials science and life sciences. It is built by post-training Z.ai&#8217;s GLM-5.3 on domain data, laboratory records and agent discovery trajectories. For developers, it offers open weights that report a FrontierScience-Research win over GPT-6-Astra. The weights ship under the MIT License. TL;DR What is [&#8230;] The post Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery appeared first on MarkTechPost .",
+      "published_at": "2026-11-02T18:41:41+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "18f4bf4dae1bd9b99169ec9657a61649",
+      "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
+      "link": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
+      "summary": "",
+      "published_at": "2026-11-02T18:15:39+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "019295188d503570ed1a948dec177611",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [&#8230;]",
+      "published_at": "2026-11-02T18:01:30+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a0a5395aa7a41becb1172144fb6141ac",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and [&#8230;]",
+      "published_at": "2026-11-02T17:51:19+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e7db4f177ee99b8eae130a5ff3a65373",
+      "title": "The latest AI news we announced in October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "summary": "Animated carousel of images from AI posts in October",
+      "published_at": "2026-11-02T17:45:00+00:00",
+      "source": "Google AI Blog",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "6ccf8427da5da7cf3305b36f359ac09b",
+      "title": "Raising the quality of insights in agentic analytics",
+      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
+      "published_at": "2026-11-02T17:00:00+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "a58371000d56886e9c63e103462633a6",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "summary": "",
+      "published_at": "2026-11-02T16:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3fc61b4d7955736041540685a38f293c",
+      "title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
+      "link": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
+      "summary": "",
+      "published_at": "2026-11-02T16:26:03+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2b90f61366f5719b0bc545d70c121948",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "summary": "",
+      "published_at": "2026-11-02T16:23:21+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d78f2d704fe8d50cf94de775f784cf85",
+      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
+      "link": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
+      "summary": "",
+      "published_at": "2026-11-02T15:42:27+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5fccaf1124cfa6a3ba56c670b8156a48",
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "summary": "",
+      "published_at": "2026-11-02T15:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "15d8aaf2fa248f311e5b1600d96fd1c7",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "summary": "",
+      "published_at": "2026-11-02T15:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0a2af73efa138a01e7348df1f8be65f3",
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "summary": "",
+      "published_at": "2026-11-02T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b70380ff742af458f912895ff8983b4e",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "summary": "",
+      "published_at": "2026-11-02T13:57:53+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cdd777ec3e28ab3acc3c73cde1ff5710",
+      "title": "Stop counting tokens, start counting what ships",
+      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+      "published_at": "2026-11-02T13:10:32+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "a02a8be6487b0b102acaebfe4180cb69",
+      "title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
+      "link": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
+      "summary": "",
+      "published_at": "2026-11-02T11:47:14+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2c71acdbc4f467170dde35a37ffb9669",
+      "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+      "link": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
+      "summary": "",
+      "published_at": "2026-11-02T10:47:59+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "df240fd896cc0a69b65106847313136d",
       "title": "The agentic web is here",
@@ -9,6 +240,17 @@
       "published_at": "2026-11-02T09:35:19+00:00",
       "source": "MIT Technology Review AI",
       "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "5bb7bdcc6cc1ea2035390c59756e8a00",
+      "title": "LifeVal",
+      "link": "https://openai.com/index/lifeval",
+      "summary": "",
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
       "importance": "high",
       "body_preview": ""
     },
@@ -365,6 +607,17 @@
       "body_preview": ""
     },
     {
+      "id": "6112058b9266f4c29b3757312fe95652",
+      "title": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
+      "summary": "",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "c8c33703c65a1bb3c58b9a579af31dd3",
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
@@ -420,39 +673,6 @@
       "body_preview": ""
     },
     {
-      "id": "9f3e3cbf2a1854437a91b204cd058724",
-      "title": "OpenAI is steering ChatGPT users toward more paid usage",
-      "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
-      "summary": "",
-      "published_at": "2026-11-01T12:05:04+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7312b0147e5473f77efff03eb9ee940a",
-      "title": "Google wants video AI to understand what people need as they work",
-      "link": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
-      "summary": "",
-      "published_at": "2026-11-01T11:25:21+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "965dad2f2529c57cbcd101b090eed2fe",
-      "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
-      "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
-      "summary": "",
-      "published_at": "2026-11-01T09:51:06+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "56ef344ed0671b637940ec45021d3b29",
       "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
       "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
@@ -471,6 +691,17 @@
       "published_at": "2026-11-01T07:47:17+00:00",
       "source": "MarkTechPost",
       "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "418cb91c5421b3ef355ba7638e14f547",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "summary": "",
+      "published_at": "2026-11-01T02:22:10+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -508,28 +739,6 @@
       "body_preview": ""
     },
     {
-      "id": "2e9aecf0237659892ff51bdeefd86fa4",
-      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
-      "link": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
-      "summary": "",
-      "published_at": "2026-10-31T19:20:55+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9634f29eb2fa9b08b923bd9fff6c2bc5",
-      "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
-      "link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
-      "summary": "",
-      "published_at": "2026-10-31T16:38:37+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "02efa438d13a8bf52fc95849e8879909",
       "title": "OpenAI reportedly lowers funding target for new round",
       "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
@@ -548,28 +757,6 @@
       "published_at": "2026-10-31T16:05:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d35d1850445b4c4d9afae86a31305130",
-      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
-      "link": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
-      "summary": "",
-      "published_at": "2026-10-31T15:06:14+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "dc50012a2be4e9394ffc3c504ae727b6",
-      "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
-      "link": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
-      "summary": "",
-      "published_at": "2026-10-31T10:43:58+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -761,28 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "2b8c3c7b92629d13f522eb5ec015cd73",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "summary": "",
-      "published_at": "2026-10-30T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5ecf1f927fe6663aa7ab7e5ee0ee57f7",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "summary": "",
-      "published_at": "2026-10-30T16:03:45+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "8138dbac2d618275a241fff3dd78aa23",
       "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
@@ -802,83 +967,6 @@
       "source": "Google DeepMind",
       "category": "research",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "00325cd42bb9d17ba9979dfd3ac376cc",
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "summary": "",
-      "published_at": "2026-10-30T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1cec9d46b823e4fbd71beadca64a32cc",
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "summary": "",
-      "published_at": "2026-10-30T13:54:25+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e017df82ba295ce8265e22b046d83ab2",
-      "title": "Silicon Valley wants you to invest in miracles",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, [&#8230;]",
-      "published_at": "2026-10-30T13:11:05+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6dde5058055eb994a33a7d6d0e155251",
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, [&#8230;]",
-      "published_at": "2026-10-30T13:01:14+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0b0cf666939956b73b5d051236f6a613",
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "summary": "",
-      "published_at": "2026-10-30T13:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5bc6255344b0fb270bd57cb9df39b25d",
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "summary": "",
-      "published_at": "2026-10-30T13:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f16c5f0141a3e794a8f2f80c9d1bca1d",
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, [&#8230;]",
-      "published_at": "2026-10-30T11:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -911,28 +999,6 @@
       "published_at": "2026-10-30T07:26:12+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0fa92552f4c9c1f95c05d8756a78c58e",
-      "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
-      "link": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
-      "summary": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic. The post Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model appeared first on MarkTechPost .",
-      "published_at": "2026-10-30T05:02:52+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8098548f2942e5621121ff9454c36594",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "summary": "",
-      "published_at": "2026-10-30T01:20:48+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1399,17 +1465,6 @@
       "body_preview": ""
     },
     {
-      "id": "41f7bd15f44e9df1a1e46eb4e0799993",
-      "title": "The Foundations of Scalable AI",
-      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
-      "published_at": "2026-10-22T18:48:04+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "6c4109f7ae4c8020661d5492160d3873",
       "title": "Beyond tree cover: mapping the world’s forest types",
       "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
@@ -1417,17 +1472,6 @@
       "published_at": "2026-10-22T14:30:24+00:00",
       "source": "Google DeepMind",
       "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "662a45d831c749e6e73a56873f27280b",
-      "title": "Making the case for context-aware AI",
-      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
-      "published_at": "2026-10-22T10:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
       "importance": "high",
       "body_preview": ""
     },
@@ -1605,50 +1649,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1e5f532bb2489532a29e97d79f970d64",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "link": "https://openai.com/index/terminal-x",
-      "summary": "",
-      "published_at": "2026-10-20T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "b43b65b9fb2da9a3fce876f23c3a1ee4",
-      "title": "OpenAI acquires Orchestra Bio",
-      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "summary": "",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "7daf89d4e3fd87a93ea28e10a8224b63",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "link": "https://huggingface.co/blog/hf-torchtpu",
-      "summary": "",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "abbaa41268799053cd72350bdf60566a",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "summary": "",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     }
   ],
