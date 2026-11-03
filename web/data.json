@@ -1,6 +1,171 @@
 {
-  "generated_at": "2026-11-03T17:29:19.825462+00:00",
+  "generated_at": "2026-11-03T22:27:05.897446+00:00",
   "articles": [
+    {
+      "id": "e441fd4df6f3ccc1e8f4235a54bd4893",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "summary": "",
+      "published_at": "2026-11-03T22:19:53+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9de03fa1577206301baa1ddc0ee39bdf",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "summary": "",
+      "published_at": "2026-11-03T21:43:08+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a82c057804bb0533c758207c4e9cae70",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "summary": "",
+      "published_at": "2026-11-03T21:05:55+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9472f118a162965c56007e99fe1b757c",
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved [&#8230;]",
+      "published_at": "2026-11-03T21:01:07+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2d56e5005f44873e3757c85782cd42df",
+      "title": "NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%",
+      "link": "https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/",
+      "summary": "NVIDIA shows how 3 stacked optimizations speed up MoE inference on a single DGX Spark. On Ant Group inclusionAI's 124B Ling-3.0-flash, GSM8K decode throughput rose 42.5% with no detectable accuracy change. The post NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5% appeared first on MarkTechPost .",
+      "published_at": "2026-11-03T20:28:22+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4aa60233b80685990f4b054439f8bf43",
+      "title": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents",
+      "link": "https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/",
+      "summary": "Soniox has released Soniox STT v6, the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent&#8217;s own voice. The release ships as stt-rt-v6 for streaming and stt-async-v6 [&#8230;] The post Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents appeared first on MarkTechPost .",
+      "published_at": "2026-11-03T20:18:22+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e6a1d05aa6973b5b057078a57745fe05",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [&#8230;]",
+      "published_at": "2026-11-03T20:16:17+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cda47a0f4d43b7527e10d0b04e193550",
+      "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+      "link": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+      "summary": "",
+      "published_at": "2026-11-03T20:15:45+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "62ae23b9f202dc5ca0c1dfb4c0750ab4",
+      "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+      "link": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+      "summary": "",
+      "published_at": "2026-11-03T19:41:43+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "19fb7136790c96dfee7b7109ff0f33b1",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary": "",
+      "published_at": "2026-11-03T19:34:43+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d2d016121febdb9204196e98a6d933e0",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "summary": "",
+      "published_at": "2026-11-03T18:42:16+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8c20f22f7d171da363ea6bcccabf459e",
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 [&#8230;]",
+      "published_at": "2026-11-03T18:31:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fb1afabd49260c6e04c9a96bb38e8432",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said [&#8230;]",
+      "published_at": "2026-11-03T18:30:42+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "799c9dda4a8c0ceddc85552e01f60235",
+      "title": "Indie games are missing launch dates because Steam is backed up",
+      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in [&#8230;]",
+      "published_at": "2026-11-03T18:14:50+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a712ff108c0fc7b2006a2d16b5d36ad4",
+      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+      "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show [&#8230;]",
+      "published_at": "2026-11-03T18:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "0a0bbfc63f6b392c539c50bb02f20dc5",
       "title": "StateBench: Testing how language models track state changes over long documents",
@@ -178,6 +343,17 @@
       "body_preview": ""
     },
     {
+      "id": "5a274aa547fa2bf7ab65a80b8f02c25d",
+      "title": "Accelerating engineering for the physical world",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "summary": "",
+      "published_at": "2026-11-03T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "d923bbfec0661820f864dd9564151d06",
       "title": "Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market",
       "link": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/",
@@ -219,6 +395,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "016948f29c89b51ff6661b52a3bdbd06",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "link": "https://openai.com/index/cisco-cyber",
+      "summary": "",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -651,6 +838,17 @@
       "body_preview": ""
     },
     {
+      "id": "90be539c0ef883858f9ebe1aefc8a645",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "summary": "",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "c4bdbdd938bf5a9d6bbb893f19b33464",
       "title": "CWE-bench v2: More coverage, quality, and transparency",
       "link": "https://huggingface.co/blog/cwe-bench",
@@ -706,17 +904,6 @@
       "body_preview": ""
     },
     {
-      "id": "db732eb023ae46e90ee09b9d7f89bb53",
-      "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
-      "link": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/",
-      "summary": "",
-      "published_at": "2026-11-02T19:43:51+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "888e6dbf5e7a9655f6158925a59355cc",
       "title": "Web host Squarespace lays off 19% of its employees",
       "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
@@ -739,17 +926,6 @@
       "body_preview": ""
     },
     {
-      "id": "fc862b27eaec7feed2b2f95b9c1e7a83",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [&#8230;]",
-      "published_at": "2026-11-02T18:56:02+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "4a025f93e9b140c96fa308860745044f",
       "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
       "link": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
@@ -757,28 +933,6 @@
       "published_at": "2026-11-02T18:41:41+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "18f4bf4dae1bd9b99169ec9657a61649",
-      "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
-      "link": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
-      "summary": "",
-      "published_at": "2026-11-02T18:15:39+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "019295188d503570ed1a948dec177611",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [&#8230;]",
-      "published_at": "2026-11-02T18:01:30+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -802,17 +956,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "a0a5395aa7a41becb1172144fb6141ac",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and [&#8230;]",
-      "published_at": "2026-11-02T17:51:19+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -879,39 +1022,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "15d8aaf2fa248f311e5b1600d96fd1c7",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "summary": "",
-      "published_at": "2026-11-02T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0a2af73efa138a01e7348df1f8be65f3",
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "summary": "",
-      "published_at": "2026-11-02T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b70380ff742af458f912895ff8983b4e",
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "summary": "",
-      "published_at": "2026-11-02T13:57:53+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -992,28 +1102,6 @@
       "body_preview": ""
     },
     {
-      "id": "c8c33703c65a1bb3c58b9a579af31dd3",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "summary": "",
-      "published_at": "2026-11-01T21:55:23+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f11298fbdabb306234fe0e23a77434f9",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "summary": "",
-      "published_at": "2026-11-01T20:57:58+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "56ef344ed0671b637940ec45021d3b29",
       "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
       "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
@@ -1032,61 +1120,6 @@
       "published_at": "2026-11-01T07:47:17+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a86f8caf0591433101a293bb0d1e92d6",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]",
-      "published_at": "2026-10-31T16:05:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "dfc29971c58d67f3e2b9a23ee5353dd1",
-      "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
-      "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
-      "summary": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task. The post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode appeared first on MarkTechPost .",
-      "published_at": "2026-10-31T10:38:14+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e394f39053d2a81c0a42df842abd9328",
-      "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
-      "link": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
-      "summary": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTechPost .",
-      "published_at": "2026-10-31T10:10:28+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "865987a0f1f0bcdf2cd60d28138fbb31",
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]",
-      "published_at": "2026-10-30T22:32:53+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8f84da5894a0b5835dee0911942ace67",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [&#8230;]",
-      "published_at": "2026-10-30T20:48:43+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1256,6 +1289,17 @@
       "body_preview": ""
     },
     {
+      "id": "64139a9aa7fbda52e30462ab9c6abf96",
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "link": "https://openai.com/ads/customers/evernote",
+      "summary": "",
+      "published_at": "2026-10-28T19:40:49+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "5c486cb558b480128be560b5b8de117f",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -1388,6 +1432,17 @@
       "body_preview": ""
     },
     {
+      "id": "0d8e0117eee34ccdc72d7f57f3b7a71a",
+      "title": "Introducing GPT-6.1 Terra",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "summary": "",
+      "published_at": "2026-10-26T18:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "acb4b6d06e8f58854e9e76282c53f2ab",
       "title": "Will the real Anthropic please stand up",
       "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
@@ -1459,17 +1514,6 @@
       "link": "https://openai.com/index/openai-cut-incident-investigation",
       "summary": "",
       "published_at": "2026-10-26T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0d8e0117eee34ccdc72d7f57f3b7a71a",
-      "title": "Introducing GPT-6.1 Terra",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "summary": "",
-      "published_at": "2026-10-26T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
@@ -1602,50 +1646,6 @@
       "link": "https://openai.com/index/broad-access-through-consistent-standards",
       "summary": "",
       "published_at": "2026-10-21T21:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "2c9832e7f2fed87b31f06ab545772902",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "summary": "",
-      "published_at": "2026-10-21T17:35:36+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "eaff548044f5d1e621fd6dfbc812a4c4",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "link": "https://openai.com/index/att-legal",
-      "summary": "",
-      "published_at": "2026-10-21T17:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "e51ea00d8fd7b6c4c8e9781ff03caf1d",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "summary": "",
-      "published_at": "2026-10-21T16:04:43+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "469a88c567fe08814707d34a4db84650",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "summary": "",
-      "published_at": "2026-10-21T13:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
