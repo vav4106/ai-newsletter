@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-11-02T20:30:03.763842+00:00",
+  "generated_at": "2026-11-03T02:32:24.078173+00:00",
   "articles": [
+    {
+      "id": "1ded8394408073fd82ec85ba5d678e49",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "summary": "",
+      "published_at": "2026-11-03T01:49:52+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7b3f20ced2685b94fd6dc97c6048fc77",
+      "title": "The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering",
+      "link": "https://www.marktechpost.com/2026/11/02/letter-letterpress-1-growth-engineering-coding-agent/",
+      "summary": "Letter has released the beta of Letterpress-1, a coding agent, harness and IDE for growth engineering. It reads a git-based site and its market, then opens pull requests for SEO, GEO and conversion work. The post The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering appeared first on MarkTechPost .",
+      "published_at": "2026-11-03T00:43:03+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d1e2424bbf0168a11d9f99d5d7e4e403",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "",
+      "published_at": "2026-11-03T00:35:52+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7118143b23dd796d4f6bfff9420942af",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "summary": "",
+      "published_at": "2026-11-02T23:13:53+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2c9f2ce70c20c2119e3dc974709fe8af",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "",
+      "published_at": "2026-11-02T22:14:50+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "8fea63b9ef5adf36c6fb017afbbe5248",
       "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
@@ -24,6 +79,17 @@
       "body_preview": ""
     },
     {
+      "id": "888e6dbf5e7a9655f6158925a59355cc",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "summary": "",
+      "published_at": "2026-11-02T19:25:59+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "c28a961e0b609979d7315c4fc503412a",
       "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
@@ -38,7 +104,7 @@
       "id": "fc862b27eaec7feed2b2f95b9c1e7a83",
       "title": "Anthropic clamps down on Claude’s AI video game clones",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [&#8230;]",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [&#8230;]",
       "published_at": "2026-11-02T18:56:02+00:00",
       "source": "The Verge AI",
       "category": "consumer",
@@ -153,6 +219,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1fc9ab0e18c78f0c97ac6e4a5c176d33",
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "summary": "",
+      "published_at": "2026-11-02T15:30:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -618,6 +695,17 @@
       "body_preview": ""
     },
     {
+      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "summary": "",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "c8c33703c65a1bb3c58b9a579af31dd3",
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
@@ -816,50 +904,6 @@
       "body_preview": ""
     },
     {
-      "id": "de4180209ebd1e0f9c190371a523bf58",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "summary": "",
-      "published_at": "2026-10-30T21:54:34+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c7d196d19c136e5564e817a04ae3f8a6",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "summary": "",
-      "published_at": "2026-10-30T21:52:03+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "63477334ef42297e497d3f0c2b59be2b",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "summary": "",
-      "published_at": "2026-10-30T21:26:59+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "be085dbaafbe45a8d07b9176dcc2adfb",
-      "title": "Cracks are emerging in the AI spending boom",
-      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "summary": "",
-      "published_at": "2026-10-30T21:17:40+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "8f84da5894a0b5835dee0911942ace67",
       "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
@@ -911,17 +955,6 @@
       "published_at": "2026-10-30T17:53:37+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4de7dc325148534aefa9a4f4b0a7d36b",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "summary": "",
-      "published_at": "2026-10-30T17:47:12+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -989,17 +1022,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "52521bc0135848c53386e925611e6737",
-      "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
-      "link": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
-      "summary": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89. The post Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost appeared first on MarkTechPost .",
-      "published_at": "2026-10-30T07:26:12+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1624,28 +1646,6 @@
       "link": "https://openai.com/index/cloudflare-cyber",
       "summary": "",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "15b5b8d929f2d09a85fff14440268293",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "link": "https://openai.com/index/empowering-cyber-defenders",
-      "summary": "",
-      "published_at": "2026-10-21T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "597cff20549951b175943c9771cfae6c",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "link": "https://openai.com/index/ted-taylor-restaurant",
-      "summary": "",
-      "published_at": "2026-10-20T10:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
