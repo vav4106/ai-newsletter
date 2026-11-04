@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-11-03T22:27:05.897446+00:00",
+  "generated_at": "2026-11-04T02:30:55.379533+00:00",
   "articles": [
+    {
+      "id": "ebd203f6294e52cf24a69c5c765ff177",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent [&#8230;]",
+      "published_at": "2026-11-04T00:42:10+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2e636776aa07de539a39881bcaa23946",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
+      "published_at": "2026-11-03T23:37:45+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d12a3e4792ee154a03b2474805ef2a54",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary": "",
+      "published_at": "2026-11-03T22:41:03+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "e441fd4df6f3ccc1e8f4235a54bd4893",
       "title": "Data centers are turning to old jet engines as the wait for power grows",
@@ -9,6 +42,17 @@
       "published_at": "2026-11-03T22:19:53+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "48ab4acc98f0b746e51b7d6fdba2903b",
+      "title": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
+      "link": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+      "summary": "Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/second on 1 H100, with 19 MB proofs. The post Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights appeared first on MarkTechPost .",
+      "published_at": "2026-11-03T22:08:22+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -266,17 +310,6 @@
       "body_preview": ""
     },
     {
-      "id": "cf275fd457672fc68f5f9610baf43d83",
-      "title": "Apple is all in on AI — its own and everyone else&#8217;s",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a [&#8230;]",
-      "published_at": "2026-11-03T15:24:51+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "72d02599d1577eec8b0a28d595ec82f2",
       "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
       "link": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
@@ -288,19 +321,8 @@
       "body_preview": ""
     },
     {
-      "id": "bd1ee522167b52bfac3d4c520e0b73c3",
-      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing [&#8230;]",
-      "published_at": "2026-11-03T15:00:44+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a760c6107a19bdf01ba3cd39b2daa805",
-      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "id": "bb2ef4b12b996f5a577021161997872d",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
       "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
       "summary": "",
       "published_at": "2026-11-03T14:30:00+00:00",
@@ -937,9 +959,9 @@
       "body_preview": ""
     },
     {
-      "id": "82db1028dfd337585e6dafda3aa2379d",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "id": "d80d42b3532652bb62fc5179994d7101",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "summary": "",
       "published_at": "2026-11-02T18:00:00+00:00",
       "source": "OpenAI News",
@@ -948,9 +970,9 @@
       "body_preview": ""
     },
     {
-      "id": "d80d42b3532652bb62fc5179994d7101",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "id": "82db1028dfd337585e6dafda3aa2379d",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "summary": "",
       "published_at": "2026-11-02T18:00:00+00:00",
       "source": "OpenAI News",
@@ -986,17 +1008,6 @@
       "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
       "summary": "",
       "published_at": "2026-11-02T16:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2b90f61366f5719b0bc545d70c121948",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "summary": "",
-      "published_at": "2026-11-02T16:23:21+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1080,9 +1091,9 @@
       "body_preview": ""
     },
     {
-      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "id": "6112058b9266f4c29b3757312fe95652",
+      "title": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1091,9 +1102,9 @@
       "body_preview": ""
     },
     {
-      "id": "6112058b9266f4c29b3757312fe95652",
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
+      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1107,17 +1118,6 @@
       "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
       "summary": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared first on MarkTechPost .",
       "published_at": "2026-11-01T08:10:07+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "654495bff30831f36bc0f6d9dbfaa8d7",
-      "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
-      "link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
-      "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent appeared first on MarkTechPost .",
-      "published_at": "2026-11-01T07:47:17+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
