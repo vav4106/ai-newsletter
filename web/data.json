@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-11-04T22:49:57.096555+00:00",
+  "generated_at": "2026-11-05T02:52:23.359003+00:00",
   "articles": [
     {
-      "id": "69dca907139a2e2f838163f28b435637",
-      "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
+      "id": "3716e2fe3ff80ab8501d998f4e573bc4",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "summary": "",
+      "published_at": "2026-11-05T01:26:22+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1006d387aeba75ceef7d0f6e4f69404b",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "summary": "",
+      "published_at": "2026-11-05T01:02:14+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8b2ec42fb246f2becab645ce2686b2d7",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
       "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
       "summary": "",
       "published_at": "2026-11-04T22:45:09+00:00",
@@ -20,6 +42,17 @@
       "published_at": "2026-11-04T22:42:15+00:00",
       "source": "The Verge AI",
       "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "196e2fda0e4e29da16e494fc97e71daf",
+      "title": "webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500",
+      "link": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/",
+      "summary": "webAI released TwIL-8B, an 8.8B reasoning model post-trained from IBM Granite 4.2 8B. It posts 98.2 on MATH-500 and 81.6 on LiveCodeBench, but trails similar-size models on knowledge benchmarks. The post webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500 appeared first on MarkTechPost .",
+      "published_at": "2026-11-04T22:25:05+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -75,6 +108,17 @@
       "published_at": "2026-11-04T21:10:56+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c68d400c6fa7807675a40495a79f3df8",
+      "title": "Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1",
+      "link": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
+      "summary": "Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models up to 15x its size. The post Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1 appeared first on MarkTechPost .",
+      "published_at": "2026-11-04T21:01:06+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -728,6 +772,17 @@
       "body_preview": ""
     },
     {
+      "id": "1dde3dc6b4cca97ff168c041e6b8ff22",
+      "title": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "summary": "",
+      "published_at": "2026-11-04T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "f4b4d2bc547c4aacd5f047c27b1bfe51",
       "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
       "link": "https://openai.com/index/devrev-enterprise-self-service",
@@ -900,28 +955,6 @@
       "published_at": "2026-11-03T16:35:36+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "291b6028ecabf0310f80de97533e1bb0",
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "summary": "",
-      "published_at": "2026-11-03T16:30:34+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c3ab2396cda4610eea81b312fae0734b",
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "summary": "",
-      "published_at": "2026-11-03T15:38:27+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1157,31 +1190,9 @@
       "body_preview": ""
     },
     {
-      "id": "5cf0a79f14796150dfb56746f12fe2e2",
-      "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
-      "link": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
-      "summary": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API. The post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared first on MarkTechPost .",
-      "published_at": "2026-11-02T07:47:12+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "cb924062b7dcc8a9079e09e08b5f984f",
-      "title": "Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA",
-      "link": "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/",
-      "summary": "qwenGPU compiles a 4-lane SIMT GPU into Qwen3.5-2B as 45 untrained layers. The model writes every step of real CUDA launches itself, using Gated DeltaNet state as registers and memory. The post Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA appeared first on MarkTechPost .",
-      "published_at": "2026-11-02T07:28:29+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6112058b9266f4c29b3757312fe95652",
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
+      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1190,9 +1201,9 @@
       "body_preview": ""
     },
     {
-      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "id": "6112058b9266f4c29b3757312fe95652",
+      "title": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1635,17 +1646,6 @@
       "link": "https://huggingface.co/blog/torch-neuronx-model-support",
       "summary": "",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1a70cbfec32c1a2cc09b722db856df42",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "summary": "",
-      "published_at": "2026-10-22T22:24:34+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
