@@ -1,6 +1,237 @@
 {
-  "generated_at": "2026-11-05T09:59:15.501489+00:00",
+  "generated_at": "2026-11-05T17:50:33.875497+00:00",
   "articles": [
+    {
+      "id": "0e410b64edbb1c8fcadeca8a1b1869d1",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "published_at": "2026-11-05T17:05:16+00:00",
+      "source": "Google DeepMind",
+      "category": "research",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "2fe16161e1b5c718856fa1a6e192d06e",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "source": "Google AI Blog",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "443c5f89820c1f4884ee56ef20811cba",
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on [&#8230;]",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4181ac95baa9149c3a95f5e5d68862b0",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around [&#8230;]",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "44f364650e24735566aeeaaadc0cb265",
+      "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
+      "link": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
+      "summary": "",
+      "published_at": "2026-11-05T16:46:24+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "42782c98e653f52b7013f29c5aeb9a74",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "summary": "",
+      "published_at": "2026-11-05T16:16:45+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "28537bbc4d358a65751ad560504bb1d2",
+      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
+      "link": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
+      "summary": "",
+      "published_at": "2026-11-05T16:06:31+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2ac6a2a873ddc109727411542d5d9e1f",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "summary": "",
+      "published_at": "2026-11-05T15:19:05+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f87240ae6817dd0910e7d6e4dc28c44a",
+      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+      "link": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+      "summary": "",
+      "published_at": "2026-11-05T15:01:09+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "93eecd397d92b67f47f135435349c105",
+      "title": "The hidden supply chain costs of the AI boom",
+      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through [&#8230;]",
+      "published_at": "2026-11-05T15:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "78aca66780ae732842df144d80c29f7d",
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months [&#8230;]",
+      "published_at": "2026-11-05T15:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0afe4639db663424a95321c3584a9ad3",
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "summary": "",
+      "published_at": "2026-11-05T14:42:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a6d4e4f2a4742a43ad00915d9730561a",
+      "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
+      "link": "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/",
+      "summary": "",
+      "published_at": "2026-11-05T14:37:46+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ecda104de9fba21580f8e098fa129a65",
+      "title": "Anthropic reverses course and pays for news content for the first time",
+      "link": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
+      "summary": "",
+      "published_at": "2026-11-05T14:09:05+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "426874d64dd8f9b76e9210ebbd31a08d",
+      "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
+      "link": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
+      "summary": "",
+      "published_at": "2026-11-05T14:08:22+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dfc7c6a0a046b6a0d16c3a4e728c13df",
+      "title": "Apple slashes internal AI budgets, with deeper cuts still planned",
+      "link": "https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/",
+      "summary": "",
+      "published_at": "2026-11-05T14:03:14+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e8bb2650d30d698b3e6cfdd91eef2f7b",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "summary": "",
+      "published_at": "2026-11-05T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1f8368f0ecfd7824f0681cc73fed98ed",
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "summary": "",
+      "published_at": "2026-11-05T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5e061e620c21e5740e95ac43450b9dc5",
+      "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
+      "link": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/",
+      "summary": "",
+      "published_at": "2026-11-05T12:20:35+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "223aee3290efe8ba66c8def042310e5d",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "summary": "",
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ba823f8938a18a23f5d9bdb95408eae7",
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also [&#8230;]",
+      "published_at": "2026-11-05T10:45:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "68846a8bdbe46a7cea800701acd0f6b1",
       "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
@@ -365,6 +596,17 @@
       "body_preview": ""
     },
     {
+      "id": "089b62adf300ac5a4aba05a7b1581e60",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "summary": "",
+      "published_at": "2026-11-05T02:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "3716e2fe3ff80ab8501d998f4e573bc4",
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
@@ -383,6 +625,17 @@
       "published_at": "2026-11-05T01:02:14+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dc0f955d7bdafbaa6d254cd5a0ed8fe4",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "link": "https://huggingface.co/blog/phonon-tts",
+      "summary": "",
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
       "importance": "medium",
       "body_preview": ""
     },
@@ -563,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "9c88541866b14494c0b42a476ebe3c6d",
-      "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
-      "link": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
-      "summary": "",
-      "published_at": "2026-11-04T18:41:03+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "d3702afe5d70d04f3b53d0e68ec4189c",
       "title": "Nothing teases a screen-free AI device ahead of launch next month",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
@@ -589,17 +831,6 @@
       "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
       "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
       "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and [&#8230;]",
-      "published_at": "2026-11-04T18:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1ad53214260a3fed60ac12ab404fc035",
-      "title": "ChatGPT will now make you animated GIFs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single [&#8230;]",
       "published_at": "2026-11-04T18:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
@@ -629,17 +860,6 @@
       "body_preview": ""
     },
     {
-      "id": "28d79e1a217422b3e9a66357968872d2",
-      "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
-      "link": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
-      "summary": "",
-      "published_at": "2026-11-04T16:42:52+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3140a274caac5a16ae65d6d6751c5506",
       "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
       "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
@@ -647,61 +867,6 @@
       "published_at": "2026-11-04T16:17:22+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "52b88f9e4abf9a45e91435753a768159",
-      "title": "Data centers lost the midterms",
-      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [&#8230;]",
-      "published_at": "2026-11-04T16:05:39+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f7b6e3cd6aabad899ab260860caefb68",
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during [&#8230;]",
-      "published_at": "2026-11-04T15:58:45+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "67dc961990cbbff75aa9f84bb09f5d2a",
-      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
-      "link": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
-      "summary": "",
-      "published_at": "2026-11-04T15:44:44+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "214d2fdaaf9b7343c8e76f84c3b014e9",
-      "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
-      "link": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
-      "summary": "",
-      "published_at": "2026-11-04T15:23:49+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "93d14f269f13a8760e2d7fbf8eb84262",
-      "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it [&#8230;]",
-      "published_at": "2026-11-04T14:46:01+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -736,39 +901,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f51336282631cc93b0388f4345735fa5",
-      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads [&#8230;]",
-      "published_at": "2026-11-04T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a78ce45153d47a7b6b1a9fbbc6a8a5df",
-      "title": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
-      "link": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/",
-      "summary": "",
-      "published_at": "2026-11-04T10:45:54+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1b172369fee26676c9bb5a274ac64f46",
-      "title": "Schools that turn off Google's AI will lose search too starting in 2027",
-      "link": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
-      "summary": "",
-      "published_at": "2026-11-04T10:06:23+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -838,17 +970,6 @@
       "body_preview": ""
     },
     {
-      "id": "e441fd4df6f3ccc1e8f4235a54bd4893",
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "summary": "",
-      "published_at": "2026-11-03T22:19:53+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "48ab4acc98f0b746e51b7d6fdba2903b",
       "title": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
       "link": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
@@ -856,28 +977,6 @@
       "published_at": "2026-11-03T22:08:22+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9de03fa1577206301baa1ddc0ee39bdf",
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "summary": "",
-      "published_at": "2026-11-03T21:43:08+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a82c057804bb0533c758207c4e9cae70",
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "summary": "",
-      "published_at": "2026-11-03T21:05:55+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -904,50 +1003,6 @@
       "body_preview": ""
     },
     {
-      "id": "cda47a0f4d43b7527e10d0b04e193550",
-      "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
-      "link": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
-      "summary": "",
-      "published_at": "2026-11-03T20:15:45+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "62ae23b9f202dc5ca0c1dfb4c0750ab4",
-      "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
-      "link": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
-      "summary": "",
-      "published_at": "2026-11-03T19:41:43+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "19fb7136790c96dfee7b7109ff0f33b1",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "summary": "",
-      "published_at": "2026-11-03T19:34:43+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d2d016121febdb9204196e98a6d933e0",
-      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "summary": "",
-      "published_at": "2026-11-03T18:42:16+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0a0bbfc63f6b392c539c50bb02f20dc5",
       "title": "StateBench: Testing how language models track state changes over long documents",
       "link": "https://huggingface.co/blog/allenai/statebench",
@@ -955,17 +1010,6 @@
       "published_at": "2026-11-03T17:15:21+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "12b516be9ff92883531390d4c195de4e",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "summary": "",
-      "published_at": "2026-11-03T17:07:01+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1091,9 +1135,9 @@
       "body_preview": ""
     },
     {
-      "id": "82db1028dfd337585e6dafda3aa2379d",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "id": "d80d42b3532652bb62fc5179994d7101",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "summary": "",
       "published_at": "2026-11-02T18:00:00+00:00",
       "source": "OpenAI News",
@@ -1102,9 +1146,9 @@
       "body_preview": ""
     },
     {
-      "id": "d80d42b3532652bb62fc5179994d7101",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "id": "82db1028dfd337585e6dafda3aa2379d",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "summary": "",
       "published_at": "2026-11-02T18:00:00+00:00",
       "source": "OpenAI News",
@@ -1190,9 +1234,9 @@
       "body_preview": ""
     },
     {
-      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "id": "6112058b9266f4c29b3757312fe95652",
+      "title": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1201,9 +1245,9 @@
       "body_preview": ""
     },
     {
-      "id": "6112058b9266f4c29b3757312fe95652",
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
+      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1605,50 +1649,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "5436a28808656995e4540be1bb0620ac",
-      "title": "Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "summary": "",
-      "published_at": "2026-10-23T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d56a699d9d39bd18834aaf4f64e5148a",
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "link": "https://openai.com/index/anima",
-      "summary": "",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "5cb7d7b9d40347b26cc096fa9bfba158",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "summary": "",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "6ae117612b8cf953ed9b29c25e1751f7",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "summary": "",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     }
   ],
