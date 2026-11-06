@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-11-05T22:56:10.877550+00:00",
+  "generated_at": "2026-11-06T02:57:01.529881+00:00",
   "articles": [
+    {
+      "id": "8838df6dd8cf4c0ce008337bc146299a",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [&#8230;]",
+      "published_at": "2026-11-06T00:37:56+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d8178f2aed08a64a957aa800f85b76cd",
+      "title": "Airbnb is working on an AI travel agent",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",
+      "published_at": "2026-11-06T00:06:12+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2c4bee14501557fc16311a2fae0d9eb2",
+      "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+      "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+      "summary": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. The post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost .",
+      "published_at": "2026-11-05T22:58:21+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "7229499df55f5f785d38dc11a0b18f83",
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -43,6 +76,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "502429bada677ce0275ad963ad3e02c7",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "summary": "",
+      "published_at": "2026-11-05T20:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -174,6 +218,17 @@
       "published_at": "2026-11-05T17:05:16+00:00",
       "source": "Google DeepMind",
       "category": "research",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "68fa84f7a29142f26ba4fa8df57ca5a1",
+      "title": "Australian universities are creating AI-native graduates",
+      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "summary": "",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
       "importance": "high",
       "body_preview": ""
     },
@@ -376,17 +431,6 @@
       "body_preview": ""
     },
     {
-      "id": "ba823f8938a18a23f5d9bdb95408eae7",
-      "title": "Big Tech’s big AI buildout will not end until someone stops it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also [&#8230;]",
-      "published_at": "2026-11-05T10:45:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "ffb76c69df56e50678e6905dc3e37ad7",
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "link": "https://openai.com/index/introducing-gpt-6-cyber",
@@ -406,6 +450,17 @@
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9db864b190eb952d4ac9615fc3a47fc0",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "summary": "",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -794,6 +849,28 @@
       "body_preview": ""
     },
     {
+      "id": "242acfa696fca64ac843268f88a38fe1",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "link": "https://openai.com/ads/customers/flipsnack",
+      "summary": "",
+      "published_at": "2026-11-05T00:45:15+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "de2fb0a218d66a5533a6c39e8c613b01",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "link": "https://openai.com/index/franklin-templeton",
+      "summary": "",
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "dc0f955d7bdafbaa6d254cd5a0ed8fe4",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "link": "https://huggingface.co/blog/phonon-tts",
@@ -812,17 +889,6 @@
       "published_at": "2026-11-04T22:45:09+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a71c79a410e8c7d8db07842a4baae3a1",
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier [&#8230;]",
-      "published_at": "2026-11-04T22:42:15+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1019,17 +1085,6 @@
       "link": "https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/",
       "summary": "NVIDIA shows how 3 stacked optimizations speed up MoE inference on a single DGX Spark. On Ant Group inclusionAI's 124B Ling-3.0-flash, GSM8K decode throughput rose 42.5% with no detectable accuracy change. The post NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5% appeared first on MarkTechPost .",
       "published_at": "2026-11-03T20:28:22+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4aa60233b80685990f4b054439f8bf43",
-      "title": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents",
-      "link": "https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/",
-      "summary": "Soniox has released Soniox STT v6, the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent&#8217;s own voice. The release ships as stt-rt-v6 for streaming and stt-async-v6 [&#8230;] The post Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents appeared first on MarkTechPost .",
-      "published_at": "2026-11-03T20:18:22+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1256,9 +1311,9 @@
       "body_preview": ""
     },
     {
-      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "id": "6112058b9266f4c29b3757312fe95652",
+      "title": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1267,9 +1322,9 @@
       "body_preview": ""
     },
     {
-      "id": "6112058b9266f4c29b3757312fe95652",
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
+      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1595,61 +1650,6 @@
       "category": "company",
       "importance": "high",
       "body_preview": ""
-    },
-    {
-      "id": "7557cddeeebcf901a49e960e6ee2dc9c",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "summary": "",
-      "published_at": "2026-10-26T13:45:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0153d02509f89b58179d481467a82b5b",
-      "title": "ChatGPT’s expanding world of work",
-      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "summary": "",
-      "published_at": "2026-10-26T10:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f6578a6ab7dee0ef02382669e2088134",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "summary": "",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "4dfece4c92c01ff1d60351504b5291fa",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "link": "https://openai.com/index/openai-cut-incident-investigation",
-      "summary": "",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "8ed89e752955c135eab5bfced41ed7a6",
-      "title": "Anthropic files S-1 with the",
-      "link": "https://www.anthropic.com/news/s1-sec",
-      "summary": "SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "source": "Anthropic News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Anthropic intends to list its Class A common stock on the Nasdaq Global Select Market under the symbol “ANT.” The number of shares of Class A common stock to be offered and the price range for the proposed offering have not yet been determined. The proposed offering will be made only by means of a prospectus. Copies of the preliminary prospectus, when available, may be obtained from: Goldman Sachs & Co. L"
     }
   ],
   "milestones": []
