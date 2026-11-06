@@ -1,6 +1,193 @@
 {
-  "generated_at": "2026-11-06T10:08:23.374149+00:00",
+  "generated_at": "2026-11-06T17:26:38.837061+00:00",
   "articles": [
+    {
+      "id": "bbb08a092cd5014f0ddb24578dec4100",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "summary": "",
+      "published_at": "2026-11-06T17:23:52+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dddfa8106a2f248788c69c8821973333",
+      "title": "AI is the new dating dealbreaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
+      "published_at": "2026-11-06T17:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f31be515b764dd957c405677ccc6af7b",
+      "title": "Perplexity now has its own always-on AI agent",
+      "link": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+      "summary": "",
+      "published_at": "2026-11-06T16:47:28+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "728c9bcb7032f41a8950c97a28c402ce",
+      "title": "Big Tech lost big in the 2026 election",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David [&#8230;]",
+      "published_at": "2026-11-06T16:38:02+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "57ea06eaf983d38715a89d23dd900274",
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can [&#8230;]",
+      "published_at": "2026-11-06T16:34:39+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ebfada2e7690863f6d728facfc94548e",
+      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+      "link": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+      "summary": "",
+      "published_at": "2026-11-06T15:55:23+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "eeb0a9b3b7fb8c12de3e8e4706959052",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "summary": "",
+      "published_at": "2026-11-06T15:54:47+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "663dffe0925d1dd9ee3c2b07e478b4e0",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "summary": "",
+      "published_at": "2026-11-06T14:10:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f77d91a3d6aebf78a27342d0f5083957",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "summary": "",
+      "published_at": "2026-11-06T14:00:48+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8f2145f605b5afa905f0794bc7d002c4",
+      "title": "Amazon will let you text Alexa your shopping list",
+      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and [&#8230;]",
+      "published_at": "2026-11-06T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bd8f347d5c56ec7e30fa16d704e8db27",
+      "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+      "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+      "summary": "",
+      "published_at": "2026-11-06T13:40:07+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2b1f0982913497d55be2d6d7f0241d1d",
+      "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "summary": "",
+      "published_at": "2026-11-06T13:25:09+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a89ecdb56162dbdfa01e843dce1cba62",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "summary": "",
+      "published_at": "2026-11-06T13:02:16+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "463fe4bcf208fe252b434a4622ba6fb0",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "summary": "",
+      "published_at": "2026-11-06T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "179866488b8db9caf3813b02a4a3fb73",
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some [&#8230;]",
+      "published_at": "2026-11-06T11:55:19+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1a1e53a8a7e147f0f39d3e6913865193",
+      "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
+      "link": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
+      "summary": "",
+      "published_at": "2026-11-06T11:38:17+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "50ba1786f1961edc58604cecca8f6518",
+      "title": "Anthropic adds bank account access to Claude so users can track their spending",
+      "link": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+      "summary": "",
+      "published_at": "2026-11-06T11:33:13+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "b96735bc077155fdc1069656cc68aeb4",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -574,17 +761,6 @@
       "body_preview": ""
     },
     {
-      "id": "682cd9327d13dcae9c0ad3e07e6c72f6",
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to [&#8230;]",
-      "published_at": "2026-11-05T17:51:52+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0e410b64edbb1c8fcadeca8a1b1869d1",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
@@ -618,28 +794,6 @@
       "body_preview": ""
     },
     {
-      "id": "443c5f89820c1f4884ee56ef20811cba",
-      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on [&#8230;]",
-      "published_at": "2026-11-05T17:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4181ac95baa9149c3a95f5e5d68862b0",
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around [&#8230;]",
-      "published_at": "2026-11-05T17:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "44f364650e24735566aeeaaadc0cb265",
       "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
       "link": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
@@ -662,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "28537bbc4d358a65751ad560504bb1d2",
-      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
-      "link": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
-      "summary": "",
-      "published_at": "2026-11-05T16:06:31+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2ac6a2a873ddc109727411542d5d9e1f",
       "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
       "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
@@ -684,89 +827,12 @@
       "body_preview": ""
     },
     {
-      "id": "f87240ae6817dd0910e7d6e4dc28c44a",
-      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
-      "link": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
-      "summary": "",
-      "published_at": "2026-11-05T15:01:09+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "93eecd397d92b67f47f135435349c105",
-      "title": "The hidden supply chain costs of the AI boom",
-      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through [&#8230;]",
-      "published_at": "2026-11-05T15:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "78aca66780ae732842df144d80c29f7d",
-      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-      "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months [&#8230;]",
-      "published_at": "2026-11-05T15:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0afe4639db663424a95321c3584a9ad3",
       "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
       "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
       "summary": "",
       "published_at": "2026-11-05T14:42:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a6d4e4f2a4742a43ad00915d9730561a",
-      "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
-      "link": "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/",
-      "summary": "",
-      "published_at": "2026-11-05T14:37:46+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ecda104de9fba21580f8e098fa129a65",
-      "title": "Anthropic reverses course and pays for news content for the first time",
-      "link": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
-      "summary": "",
-      "published_at": "2026-11-05T14:09:05+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "426874d64dd8f9b76e9210ebbd31a08d",
-      "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
-      "summary": "",
-      "published_at": "2026-11-05T14:08:22+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "dfc7c6a0a046b6a0d16c3a4e728c13df",
-      "title": "Apple slashes internal AI budgets, with deeper cuts still planned",
-      "link": "https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/",
-      "summary": "",
-      "published_at": "2026-11-05T14:03:14+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -926,17 +992,6 @@
       "body_preview": ""
     },
     {
-      "id": "8b2ec42fb246f2becab645ce2686b2d7",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "summary": "",
-      "published_at": "2026-11-04T22:45:09+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "196e2fda0e4e29da16e494fc97e71daf",
       "title": "webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500",
       "link": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/",
@@ -944,50 +999,6 @@
       "published_at": "2026-11-04T22:25:05+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "54e2cbf5f90c51e5d93e0b668f17afc8",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "summary": "",
-      "published_at": "2026-11-04T22:13:16+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "bd266cccd8ed3d5d7736a196fa482225",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "summary": "",
-      "published_at": "2026-11-04T21:56:01+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "70871aac8a594eee25b0e5bf1ee10403",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "summary": "",
-      "published_at": "2026-11-04T21:25:44+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "37feed5898dfce63cdd6642a98b989f4",
-      "title": "Meta acquires AI coding startup Conductor",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "summary": "",
-      "published_at": "2026-11-04T21:10:56+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1109,17 +1120,6 @@
       "published_at": "2026-11-03T22:08:22+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0a0bbfc63f6b392c539c50bb02f20dc5",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "link": "https://huggingface.co/blog/allenai/statebench",
-      "summary": "",
-      "published_at": "2026-11-03T17:15:21+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
       "importance": "medium",
       "body_preview": ""
     },
