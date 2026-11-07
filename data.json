@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-11-07T14:44:33.548712+00:00",
+  "generated_at": "2026-11-07T19:04:21.999320+00:00",
   "articles": [
+    {
+      "id": "722b7e9f696520ba29f049d9dc43927c",
+      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+      "link": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "summary": "",
+      "published_at": "2026-11-07T17:37:25+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "98dd10ca89a974e4853722262f9179f1",
+      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+      "link": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "summary": "",
+      "published_at": "2026-11-07T16:56:38+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "07b8de94e62e1a72ac5acf977be2d4c6",
+      "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+      "summary": "",
+      "published_at": "2026-11-07T16:31:00+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5e10d378c9ee512b041299e05b802df6",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best [&#8230;]",
+      "published_at": "2026-11-07T15:50:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "83d7876273d7ee4de7f92413bfcd6ac0",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell [&#8230;]",
+      "published_at": "2026-11-07T15:43:45+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "46b76f45749c89b6be28b572d30b1f4d",
+      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+      "link": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+      "summary": "",
+      "published_at": "2026-11-07T15:35:50+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1bfba11bac2f1d55470e9bdcaedfd4c9",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say [&#8230;]",
+      "published_at": "2026-11-07T15:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "13ce99dbd0ecb417ca1f516daf23ac8e",
       "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
@@ -233,28 +310,6 @@
       "body_preview": ""
     },
     {
-      "id": "57ea06eaf983d38715a89d23dd900274",
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can [&#8230;]",
-      "published_at": "2026-11-06T16:34:39+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "ebfada2e7690863f6d728facfc94548e",
-      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
-      "link": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
-      "summary": "",
-      "published_at": "2026-11-06T15:55:23+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "eeb0a9b3b7fb8c12de3e8e4706959052",
       "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
       "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
@@ -288,39 +343,6 @@
       "body_preview": ""
     },
     {
-      "id": "8f2145f605b5afa905f0794bc7d002c4",
-      "title": "Amazon will let you text Alexa your shopping list",
-      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and [&#8230;]",
-      "published_at": "2026-11-06T14:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "bd8f347d5c56ec7e30fa16d704e8db27",
-      "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
-      "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
-      "summary": "",
-      "published_at": "2026-11-06T13:40:07+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2b1f0982913497d55be2d6d7f0241d1d",
-      "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
-      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
-      "summary": "",
-      "published_at": "2026-11-06T13:25:09+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "a89ecdb56162dbdfa01e843dce1cba62",
       "title": "Underdog shows off a 32MB speech model in new demo",
       "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
@@ -338,28 +360,6 @@
       "summary": "",
       "published_at": "2026-11-06T13:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "179866488b8db9caf3813b02a4a3fb73",
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some [&#8230;]",
-      "published_at": "2026-11-06T11:55:19+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1a1e53a8a7e147f0f39d3e6913865193",
-      "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
-      "link": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
-      "summary": "",
-      "published_at": "2026-11-06T11:38:17+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
