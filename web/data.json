@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-11-07T08:01:13.209513+00:00",
+  "generated_at": "2026-11-07T14:44:33.548712+00:00",
   "articles": [
+    {
+      "id": "13ce99dbd0ecb417ca1f516daf23ac8e",
+      "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+      "link": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "summary": "",
+      "published_at": "2026-11-07T12:32:45+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a9fe86962bf2ec489e3bd4131871b619",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation [&#8230;]",
+      "published_at": "2026-11-07T12:30:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d36abc567b1349d1b5d55505efc3daf1",
+      "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+      "link": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+      "summary": "",
+      "published_at": "2026-11-07T11:13:42+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4906874a0416f0cfbce0267faa20c7df",
+      "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+      "link": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+      "summary": "",
+      "published_at": "2026-11-07T09:54:09+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "df7d2ab01fe17ca57c973e5df1d6a97f",
+      "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+      "link": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+      "summary": "",
+      "published_at": "2026-11-07T09:45:23+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cbadc6167bfd6221e7377a1e61622042",
+      "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+      "link": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
+      "summary": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. The post Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM appeared first on MarkTechPost .",
+      "published_at": "2026-11-07T08:16:33+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "de4291987376446c17dce41f648f66b4",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -299,17 +365,6 @@
       "body_preview": ""
     },
     {
-      "id": "50ba1786f1961edc58604cecca8f6518",
-      "title": "Anthropic adds bank account access to Claude so users can track their spending",
-      "link": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
-      "summary": "",
-      "published_at": "2026-11-06T11:33:13+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b96735bc077155fdc1069656cc68aeb4",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -350,17 +405,6 @@
       "published_at": "2026-11-06T04:25:07+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8838df6dd8cf4c0ce008337bc146299a",
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [&#8230;]",
-      "published_at": "2026-11-06T00:37:56+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -420,17 +464,6 @@
       "body_preview": ""
     },
     {
-      "id": "5bb34e3210c90383fbb3cf4c49439f30",
-      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
-      "link": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-      "summary": "",
-      "published_at": "2026-11-05T20:36:25+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "502429bada677ce0275ad963ad3e02c7",
       "title": "Cult.fit builds operational muscle with Codex",
       "link": "https://openai.com/index/cultfit-builds-with-codex",
@@ -486,17 +519,6 @@
       "body_preview": ""
     },
     {
-      "id": "5938a54582637cc03c6f931f44118d20",
-      "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-      "link": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
-      "summary": "",
-      "published_at": "2026-11-05T19:05:31+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "7d1a84623d8a37bc57cf5b3c1b3d8e91",
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
       "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
@@ -514,17 +536,6 @@
       "summary": "",
       "published_at": "2026-11-05T18:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7fdf1e8d562c29364f755e0c3abe5174",
-      "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
-      "link": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
-      "summary": "",
-      "published_at": "2026-11-05T17:56:41+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -780,17 +791,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "8ea274077488eb3e4dcde26c6c102b12",
-      "title": "Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting",
-      "link": "https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/",
-      "summary": "Tencent’s WeChat Vision team released WeVisOne-VL, an Apache 2.0 vision language model in 2B and 4B sizes. It handles detection, OCR, counting, segmentation and alpha matting in one model, with a 9.6M-parameter pixel decoder. The post Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting appeared first on MarkTechPost .",
-      "published_at": "2026-11-04T04:39:27+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
