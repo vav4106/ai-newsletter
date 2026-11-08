@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-08T01:48:36.201940+00:00",
+  "generated_at": "2026-11-08T08:01:03.152868+00:00",
   "articles": [
+    {
+      "id": "9e6471d3d1479ea9599861876a38bc89",
+      "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
+      "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
+      "summary": "MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one. The post MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide) appeared first on MarkTechPost .",
+      "published_at": "2026-11-08T06:18:33+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e624f4c4da1562498548fabd8bf80b26",
+      "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
+      "link": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
+      "summary": "Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while Hermes Bench stayed flat at 65.60%. The post Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9% appeared first on MarkTechPost .",
+      "published_at": "2026-11-08T04:45:59+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "8acc8e295f236177202a8540596e697b",
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -662,17 +684,6 @@
       "body_preview": ""
     },
     {
-      "id": "dc8e155666e37b3be83e9d39f3b278b5",
-      "title": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers",
-      "link": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
-      "summary": "Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot. The post Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers appeared first on MarkTechPost .",
-      "published_at": "2026-11-05T05:42:18+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "089b62adf300ac5a4aba05a7b1581e60",
       "title": "Setting a new standard for responsible AI infrastructure",
       "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
@@ -713,17 +724,6 @@
       "published_at": "2026-11-05T00:00:00+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "196e2fda0e4e29da16e494fc97e71daf",
-      "title": "webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500",
-      "link": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/",
-      "summary": "webAI released TwIL-8B, an 8.8B reasoning model post-trained from IBM Granite 4.2 8B. It posts 98.2 on MATH-500 and 81.6 on LiveCodeBench, but trails similar-size models on knowledge benchmarks. The post webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500 appeared first on MarkTechPost .",
-      "published_at": "2026-11-04T22:25:05+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
