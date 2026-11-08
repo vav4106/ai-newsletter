@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-11-08T08:01:03.152868+00:00",
+  "generated_at": "2026-11-08T14:49:29.778654+00:00",
   "articles": [
+    {
+      "id": "ec27c2ef939efc730fb7d6e50d147b4d",
+      "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+      "link": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+      "summary": "",
+      "published_at": "2026-11-08T14:23:00+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5275f0d590199f05e0db0cafc6276fac",
+      "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+      "link": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
+      "summary": "",
+      "published_at": "2026-11-08T13:49:21+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3305118424ab931d9741914c4a0b591a",
+      "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+      "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+      "summary": "",
+      "published_at": "2026-11-08T11:44:41+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0d47f3cdf6b17e7413f101ca9910c9fc",
+      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+      "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+      "summary": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost .",
+      "published_at": "2026-11-08T10:46:18+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d71e69c4fd90a27925483067726a17a7",
+      "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+      "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+      "summary": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods. The post Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared appeared first on MarkTechPost .",
+      "published_at": "2026-11-08T10:27:27+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "edc2de9eb41d41b7a4d82f842df6cbfc",
+      "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+      "link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+      "summary": "",
+      "published_at": "2026-11-08T09:50:59+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "9e6471d3d1479ea9599861876a38bc89",
       "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
@@ -167,28 +233,6 @@
       "body_preview": ""
     },
     {
-      "id": "4906874a0416f0cfbce0267faa20c7df",
-      "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
-      "link": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
-      "summary": "",
-      "published_at": "2026-11-07T09:54:09+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "df7d2ab01fe17ca57c973e5df1d6a97f",
-      "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
-      "link": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
-      "summary": "",
-      "published_at": "2026-11-07T09:45:23+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "cbadc6167bfd6221e7377a1e61622042",
       "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
       "link": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
@@ -251,17 +295,6 @@
       "published_at": "2026-11-06T20:02:22+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a5790cae4ed92464ccb9077bde2e6c8a",
-      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
-      "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
-      "summary": "",
-      "published_at": "2026-11-06T19:47:04+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -339,17 +372,6 @@
       "published_at": "2026-11-06T17:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f31be515b764dd957c405677ccc6af7b",
-      "title": "Perplexity now has its own always-on AI agent",
-      "link": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
-      "summary": "",
-      "published_at": "2026-11-06T16:47:28+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -651,17 +673,6 @@
       "body_preview": ""
     },
     {
-      "id": "68846a8bdbe46a7cea800701acd0f6b1",
-      "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
-      "link": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
-      "summary": "Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model. The post Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster appeared first on MarkTechPost .",
-      "published_at": "2026-11-05T08:02:58+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "9db864b190eb952d4ac9615fc3a47fc0",
       "title": "Merge builds product and business tools with OpenAI technology",
       "link": "https://openai.com/index/merge-builds-with-openai",
@@ -670,17 +681,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "ec82567eaae30479b12fd6009d1342af",
-      "title": "OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation",
-      "link": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
-      "summary": "OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits and a complexity parameter. The post OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation appeared first on MarkTechPost .",
-      "published_at": "2026-11-05T07:03:17+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
