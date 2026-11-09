@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-11-08T22:54:18.850964+00:00",
+  "generated_at": "2026-11-09T02:10:35.567674+00:00",
   "articles": [
+    {
+      "id": "14702b9a484ad3fd92caed5207c86667",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
+      "published_at": "2026-11-08T22:54:50+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "35b01ebf07196b5e2c1d3b6ec9cd09b7",
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
@@ -328,17 +339,6 @@
       "published_at": "2026-11-06T22:53:46+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a58480a5716a4638c5f61408e730168d",
-      "title": "All the latest updates on AI data centers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
-      "published_at": "2026-11-06T20:02:22+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
