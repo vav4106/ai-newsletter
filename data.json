@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-10T23:10:33.566142+00:00",
+  "generated_at": "2026-11-11T02:44:59.568301+00:00",
   "articles": [
+    {
+      "id": "2fc7433f6c907b458e550b094b87f421",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "a2cc89f308585e03da5996291d74aa62",
+      "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+      "link": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+      "summary": "Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra hyperparameters. The post Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs appeared first on MarkTechPost .",
+      "published_at": "2026-11-10T23:20:19+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "4f4caf8318f3fb1ae1981bf8fee46aef",
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -1102,17 +1124,6 @@
       "body_preview": ""
     },
     {
-      "id": "9e6471d3d1479ea9599861876a38bc89",
-      "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
-      "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
-      "summary": "MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one. The post MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide) appeared first on MarkTechPost .",
-      "published_at": "2026-11-08T06:18:33+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f77d91a3d6aebf78a27342d0f5083957",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "link": "https://huggingface.co/blog/allenai/toyblocks",
@@ -1476,9 +1487,9 @@
       "body_preview": ""
     },
     {
-      "id": "d80d42b3532652bb62fc5179994d7101",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "id": "82db1028dfd337585e6dafda3aa2379d",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "summary": "",
       "published_at": "2026-11-02T18:00:00+00:00",
       "source": "OpenAI News",
@@ -1487,9 +1498,9 @@
       "body_preview": ""
     },
     {
-      "id": "82db1028dfd337585e6dafda3aa2379d",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "id": "d80d42b3532652bb62fc5179994d7101",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "summary": "",
       "published_at": "2026-11-02T18:00:00+00:00",
       "source": "OpenAI News",
@@ -1564,9 +1575,9 @@
       "body_preview": ""
     },
     {
-      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "id": "6112058b9266f4c29b3757312fe95652",
+      "title": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1575,9 +1586,9 @@
       "body_preview": ""
     },
     {
-      "id": "6112058b9266f4c29b3757312fe95652",
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
+      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1638,17 +1649,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0fe85c85854fd1ec1cfd0b4d1e9471e7",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "summary": "",
-      "published_at": "2026-10-29T13:37:07+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     }
   ],
