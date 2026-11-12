@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-11-11T23:40:52.603838+00:00",
+  "generated_at": "2026-11-12T04:12:35.202320+00:00",
   "articles": [
+    {
+      "id": "1e5349904b76daecf9264e85bde04b59",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "summary": "",
+      "published_at": "2026-11-12T03:13:10+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "2fc7433f6c907b458e550b094b87f421",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -10,6 +21,17 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "f85fa73bdd22b7f7ded8ddc30ed520da",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "",
+      "published_at": "2026-11-11T23:50:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -882,17 +904,6 @@
       "body_preview": ""
     },
     {
-      "id": "cad1078e961b8f09e9aef837cb3feb1c",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "summary": "",
-      "published_at": "2026-11-10T18:49:52+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "113feef5a68581192a57c5becec2dd2c",
       "title": "ChatGPT is getting verified AI ‘Business Agents’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
@@ -911,17 +922,6 @@
       "published_at": "2026-11-10T17:32:47+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "334dc45d7e85a9eb4ba9305f0f378b57",
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "summary": "",
-      "published_at": "2026-11-10T17:30:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
