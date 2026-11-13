@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-12T20:29:10.090874+00:00",
+  "generated_at": "2026-11-13T01:20:09.470419+00:00",
   "articles": [
+    {
+      "id": "e8ad610e82fe02767328405e51753928",
+      "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+      "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+      "summary": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. The post Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec appeared first on MarkTechPost .",
+      "published_at": "2026-11-12T22:43:26+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2cbfacf1e58fd43d43fa284f2aa4382a",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "summary": "",
+      "published_at": "2026-11-12T22:42:51+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1e4b3aa966e7b4a26e9137b10846f47b",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "summary": "",
+      "published_at": "2026-11-12T22:22:28+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "32b83dcf4d58f2f0749a46df1808e89f",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google [&#8230;]",
+      "published_at": "2026-11-12T21:55:32+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "555691b440f46726d95366d9392303e2",
+      "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+      "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+      "summary": "CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail. The post CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance appeared first on MarkTechPost .",
+      "published_at": "2026-11-12T21:45:36+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dcd70eddaa40a08d676df86948143946",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "",
+      "published_at": "2026-11-12T21:35:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bef3be7bd202c259afe728a7f1fa576d",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "summary": "",
+      "published_at": "2026-11-12T21:27:10+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "75f6a4f8c8eea01838ae30db00a21b60",
+      "title": "Claude Meetings lets Anthropic's AI join your video calls",
+      "link": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+      "summary": "",
+      "published_at": "2026-11-12T20:26:50+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "7841981d71eb4c1532f60619e6dc78cf",
       "title": "Jensen Huang was having a third affair, Reuters reports",
@@ -13,9 +101,20 @@
       "body_preview": ""
     },
     {
-      "id": "b58c2531a149bcff88c83d8cd4b7323a",
+      "id": "911aef8d102f1fe0167e00c680799ed4",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on&#8230;",
+      "published_at": "2026-11-12T20:16:24+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "3231b618bf2e1d353a648eb78a517a5c",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/index/amplitude",
+      "link": "https://openai.com/business/customer-stories/amplitude",
       "summary": "",
       "published_at": "2026-11-12T20:00:00+00:00",
       "source": "OpenAI News",
@@ -321,17 +420,6 @@
       "body_preview": ""
     },
     {
-      "id": "dcd70eddaa40a08d676df86948143946",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "",
-      "published_at": "2026-11-12T14:30:01+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "91d43f3727fb8938e66f4a8e328b6384",
       "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
       "link": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/",
@@ -348,17 +436,6 @@
       "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
       "summary": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on [&#8230;]",
       "published_at": "2026-11-12T14:10:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7ef682e772134363e1ad11699d5bf2eb",
-      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-      "summary": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang's letter of resignation as CEO, president, and [&#8230;]",
-      "published_at": "2026-11-12T13:53:16+00:00",
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
@@ -395,6 +472,17 @@
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0e7ecdb760a580a0d5849993d45834a8",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "summary": "",
+      "published_at": "2026-11-12T12:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -475,28 +563,6 @@
       "body_preview": ""
     },
     {
-      "id": "3036571b0f0453f2442a03c7b291b597",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "summary": "",
-      "published_at": "2026-11-11T23:28:45+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8a1e1491d0ded86afd231d1a4663b9a1",
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "summary": "",
-      "published_at": "2026-11-11T23:17:05+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "1e036d58e3a4dd6e168383137d5a2794",
       "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
       "link": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
@@ -515,17 +581,6 @@
       "published_at": "2026-11-11T20:51:56+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9a33488d11094105820635c1c14a43dd",
-      "title": "Why the data center you dread might never even be built",
-      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "summary": "",
-      "published_at": "2026-11-11T20:15:15+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -592,17 +647,6 @@
       "published_at": "2026-11-11T15:51:14+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "711595b130e98623a1b66b170b98f916",
-      "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
-      "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
-      "summary": "",
-      "published_at": "2026-11-11T15:12:53+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -725,28 +769,6 @@
       "source": "Google DeepMind",
       "category": "research",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "9131deafa43cbe149b9f9150937457c3",
-      "title": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters",
-      "link": "https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/",
-      "summary": "Zyphra released ZONOS3-Mini, an Apache 2.0 text-to-speech model with 800M total and 100M active parameters. It clones voices, steers delivery word by word and runs in real time in the browser The post Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters appeared first on MarkTechPost .",
-      "published_at": "2026-11-10T15:42:55+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f104bf081a28e45bb8f9598c02745f75",
-      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
-      "link": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
-      "summary": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window. The post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards appeared first on MarkTechPost .",
-      "published_at": "2026-11-10T14:59:09+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1344,9 +1366,9 @@
       "body_preview": ""
     },
     {
-      "id": "d80d42b3532652bb62fc5179994d7101",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "id": "82db1028dfd337585e6dafda3aa2379d",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "summary": "",
       "published_at": "2026-11-02T18:00:00+00:00",
       "source": "OpenAI News",
@@ -1355,9 +1377,9 @@
       "body_preview": ""
     },
     {
-      "id": "82db1028dfd337585e6dafda3aa2379d",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "id": "d80d42b3532652bb62fc5179994d7101",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "summary": "",
       "published_at": "2026-11-02T18:00:00+00:00",
       "source": "OpenAI News",
@@ -1410,17 +1432,6 @@
       "body_preview": ""
     },
     {
-      "id": "cdd777ec3e28ab3acc3c73cde1ff5710",
-      "title": "Stop counting tokens, start counting what ships",
-      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
-      "published_at": "2026-11-02T13:10:32+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "5bb7bdcc6cc1ea2035390c59756e8a00",
       "title": "LifeVal",
       "link": "https://openai.com/index/lifeval",
@@ -1432,9 +1443,9 @@
       "body_preview": ""
     },
     {
-      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "id": "6112058b9266f4c29b3757312fe95652",
+      "title": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1443,9 +1454,9 @@
       "body_preview": ""
     },
     {
-      "id": "6112058b9266f4c29b3757312fe95652",
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
+      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
       "summary": "",
       "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1481,17 +1492,6 @@
       "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "summary": "",
       "published_at": "2026-10-30T09:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1428fdfa2d3942f1ae2b42ad0d83d907",
-      "title": "Fair use benefits everyone",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "summary": "",
-      "published_at": "2026-10-30T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
