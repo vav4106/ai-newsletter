@@ -1,6 +1,204 @@
 {
-  "generated_at": "2026-11-13T08:08:17.911457+00:00",
+  "generated_at": "2026-11-13T16:12:58.284223+00:00",
   "articles": [
+    {
+      "id": "1817a2d79665ff5693405587d6a92aca",
+      "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+      "link": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+      "summary": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks. The post Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate appeared first on MarkTechPost .",
+      "published_at": "2026-11-13T16:10:02+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c09f0b786bc7c038bef7fd6af3985d8b",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "summary": "",
+      "published_at": "2026-11-13T16:00:12+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d4efd02e6d3d11e4793dbb2054dc3293",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "",
+      "published_at": "2026-11-13T15:58:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a94fbc21695b0c0f0d3e8665ede69d38",
+      "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+      "link": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
+      "summary": "",
+      "published_at": "2026-11-13T15:53:49+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "966ae785806c6088e3c7e77888ff9a62",
+      "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+      "link": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+      "summary": "",
+      "published_at": "2026-11-13T15:21:04+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4214ec25731d79a2d8ded55e44c32233",
+      "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+      "link": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+      "summary": "",
+      "published_at": "2026-11-13T15:15:08+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "36673811e6968e544e6aa9a19a984005",
+      "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+      "link": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+      "summary": "",
+      "published_at": "2026-11-13T15:12:44+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "78b6a27de5983b6629a703e90c4ccf9e",
+      "title": "OpenAI enters the cybersecurity market with two Daybreak products",
+      "link": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+      "summary": "",
+      "published_at": "2026-11-13T15:08:57+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "58533fbf10114a6c43f425228f91f816",
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "",
+      "published_at": "2026-11-13T15:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "84711944823c1676caa51bcb98f99ad9",
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness [&#8230;]",
+      "published_at": "2026-11-13T14:47:16+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fed403e0ff6da7daa8ee88a4736ef5f6",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "summary": "",
+      "published_at": "2026-11-13T14:44:48+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dd3b693b07358fb22222825b80a61155",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "summary": "",
+      "published_at": "2026-11-13T14:05:22+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e5f97d6db6c045b2f706c9ec4cd8e6be",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [&#8230;]",
+      "published_at": "2026-11-13T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0cade06585e3e9f86d921e6513ecf3b0",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "summary": "",
+      "published_at": "2026-11-13T12:52:19+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c666bc05196200e4caa00811e16fc2e4",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "summary": "",
+      "published_at": "2026-11-13T12:28:23+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "30fd596950346e68678e7ac852886c11",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If [&#8230;]",
+      "published_at": "2026-11-13T12:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "08ef2a25d5d5e94a9a9d43d812367ca6",
+      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
+      "link": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+      "summary": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs appeared first on MarkTechPost .",
+      "published_at": "2026-11-13T10:32:26+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "48028fd95c57570f5c753c6cffa79a38",
+      "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+      "link": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+      "summary": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on MarkTechPost .",
+      "published_at": "2026-11-13T09:45:48+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "d536fb69ba35ba127ee2c791bbdfa601",
       "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
@@ -387,17 +585,6 @@
       "body_preview": ""
     },
     {
-      "id": "dcd70eddaa40a08d676df86948143946",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "",
-      "published_at": "2026-11-12T21:35:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "bef3be7bd202c259afe728a7f1fa576d",
       "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
       "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
@@ -695,17 +882,6 @@
       "body_preview": ""
     },
     {
-      "id": "1280a8d37813efdedc40b9907aca8a80",
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation [&#8230;]",
-      "published_at": "2026-11-12T15:48:12+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e5a038ffc0ffa390985578584c603ed4",
       "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
       "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
@@ -713,39 +889,6 @@
       "published_at": "2026-11-12T15:37:29+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c003e4571a4111c94ec7f596875d8d0e",
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "summary": "",
-      "published_at": "2026-11-12T15:18:14+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3824855cc7d882b53b18da7d50a5213e",
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-      "summary": "",
-      "published_at": "2026-11-12T15:02:28+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a9cb8b8dbdfa91c5a00b99d49378ecc7",
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that [&#8230;]",
-      "published_at": "2026-11-12T15:01:31+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -761,44 +904,11 @@
       "body_preview": ""
     },
     {
-      "id": "fa9d5365c8242e5913d7b8c2d62e38d8",
-      "title": "I reviewed the Apple HomeView, ask me anything",
-      "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-      "summary": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on [&#8230;]",
-      "published_at": "2026-11-12T14:10:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "7e205ed17b6a64adc32b3d2cba2c0100",
       "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
       "link": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
       "summary": "",
       "published_at": "2026-11-12T13:48:19+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e46e9012c12166bd9354aa429d88ade0",
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "summary": "",
-      "published_at": "2026-11-12T13:26:25+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "bd74dc2a841636a6c6f2e3cb86720d66",
-      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
-      "link": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
-      "summary": "",
-      "published_at": "2026-11-12T12:09:43+00:00",
       "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
@@ -813,17 +923,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "ebecae7f43309a3964c26ad041a8aef1",
-      "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
-      "link": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
-      "summary": "",
-      "published_at": "2026-11-12T10:09:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -845,17 +944,6 @@
       "published_at": "2026-11-12T08:42:21+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1e5349904b76daecf9264e85bde04b59",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "summary": "",
-      "published_at": "2026-11-12T03:13:10+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -911,39 +999,6 @@
       "published_at": "2026-11-11T20:51:56+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "953ba2c6a6d34984cf2d119dc51ac5ac",
-      "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
-      "link": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
-      "summary": "",
-      "published_at": "2026-11-11T20:12:46+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0774045f73bea938b93c234fd175282f",
-      "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
-      "link": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
-      "summary": "",
-      "published_at": "2026-11-11T19:35:11+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "90c7b94741a1d576f8cd175b29dd773d",
-      "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
-      "link": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
-      "summary": "",
-      "published_at": "2026-11-11T18:18:25+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1014,17 +1069,6 @@
       "body_preview": ""
     },
     {
-      "id": "3ce5258aaca94cc59d7b8aa519ec2d36",
-      "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
-      "link": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
-      "summary": "The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video. The post MBZUAI&#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI appeared first on MarkTechPost .",
-      "published_at": "2026-11-11T07:38:57+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e37f77ebde62107299428becfb8ece84",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "link": "https://huggingface.co/blog/qvac/botpsy",
@@ -1032,17 +1076,6 @@
       "published_at": "2026-11-11T05:01:16+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "268ca1e22086bef195144cb6d41df5db",
-      "title": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms",
-      "link": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
-      "summary": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch The post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared first on MarkTechPost .",
-      "published_at": "2026-11-11T04:43:53+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1065,17 +1098,6 @@
       "published_at": "2026-11-11T00:00:00+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a2cc89f308585e03da5996291d74aa62",
-      "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
-      "link": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
-      "summary": "Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra hyperparameters. The post Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs appeared first on MarkTechPost .",
-      "published_at": "2026-11-10T23:20:19+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1142,6 +1164,17 @@
       "published_at": "2026-11-10T12:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "378ea612d4ea9afc0bfe6a1973095d29",
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "",
+      "published_at": "2026-11-10T11:13:04+00:00",
+      "source": "Google DeepMind",
+      "category": "research",
       "importance": "high",
       "body_preview": ""
     },
@@ -1613,39 +1646,6 @@
       "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "summary": "",
       "published_at": "2026-11-03T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f6d363b25ec1e4bafc0892bbb5e8ec25",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;",
-      "published_at": "2026-11-03T10:43:41+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "016948f29c89b51ff6661b52a3bdbd06",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "link": "https://openai.com/index/cisco-cyber",
-      "summary": "",
-      "published_at": "2026-11-03T08:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "726854c54e7ae9ec5793e402f54f0974",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "link": "https://openai.com/index/heimstaden",
-      "summary": "",
-      "published_at": "2026-11-03T08:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
