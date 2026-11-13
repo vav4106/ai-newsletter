@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-11-13T16:12:58.284223+00:00",
+  "generated_at": "2026-11-13T21:59:42.844593+00:00",
   "articles": [
+    {
+      "id": "9ad91a922ffa4573ba2990bb7055c4d1",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
+      "published_at": "2026-11-13T20:45:10+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "402248908529a7c5224f273ffd3ad5d6",
+      "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+      "link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
+      "summary": "",
+      "published_at": "2026-11-13T20:07:34+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2d4dd6d8691545e6cda55b9e6a34a81a",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "",
+      "published_at": "2026-11-13T19:37:57+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "516abe6a9a3de61841a3403b8d032174",
+      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+      "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+      "summary": "",
+      "published_at": "2026-11-13T18:55:21+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "da55d4325ca58a940c882101c4aa4b90",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "summary": "",
+      "published_at": "2026-11-13T18:40:30+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "feee557463cafa0c5801d42d7f249e32",
+      "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+      "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+      "summary": "",
+      "published_at": "2026-11-13T18:01:53+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "92ade21c7c8e4a7994006967f6dab955",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "summary": "",
+      "published_at": "2026-11-13T18:00:39+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4dbb564e89872cfc17814d426072dbc5",
+      "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
+      "link": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
+      "summary": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API [&#8230;] The post Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights appeared first on MarkTechPost .",
+      "published_at": "2026-11-13T17:23:51+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5019107cb90fb54044418665d747510c",
+      "title": "XYBench: Helping with the problem behind the question",
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "summary": "",
+      "published_at": "2026-11-13T17:02:35+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0bd6e9f76ba6de962f8c582179042939",
+      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+      "link": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+      "summary": "",
+      "published_at": "2026-11-13T16:37:01+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "1817a2d79665ff5693405587d6a92aca",
       "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
@@ -640,17 +750,6 @@
       "body_preview": ""
     },
     {
-      "id": "930588c22b6aa8db6a861428995414ae",
-      "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
-      "link": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
-      "summary": "",
-      "published_at": "2026-11-12T19:58:43+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "a37b11819b42201a724a4ad1e9fe99d2",
       "title": "No, AI agents did not discover a previously unknown Maya site",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
@@ -827,17 +926,6 @@
       "body_preview": ""
     },
     {
-      "id": "2bc0dbbe48c7d1b7ba20bf8d94881445",
-      "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
-      "link": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
-      "summary": "",
-      "published_at": "2026-11-12T16:58:11+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2625fa4a2507968a2e50a26fc0931ee8",
       "title": "Jensen Huang agrees to testify before Congress",
       "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
@@ -855,61 +943,6 @@
       "summary": "",
       "published_at": "2026-11-12T16:32:33+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "30081327e3d8d954dd3411a3a7a0bec0",
-      "title": "Jensen Huang is out. What did China want from him?",
-      "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf [&#8230;]",
-      "published_at": "2026-11-12T16:30:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "477ee606906f6f2cd63f304bbdc66fbb",
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "summary": "",
-      "published_at": "2026-11-12T16:12:44+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e5a038ffc0ffa390985578584c603ed4",
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "summary": "",
-      "published_at": "2026-11-12T15:37:29+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "91d43f3727fb8938e66f4a8e328b6384",
-      "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
-      "link": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/",
-      "summary": "",
-      "published_at": "2026-11-12T14:11:40+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7e205ed17b6a64adc32b3d2cba2c0100",
-      "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-      "link": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-      "summary": "",
-      "published_at": "2026-11-12T13:48:19+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -1022,17 +1055,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "872415391937b9a365db657b5d7b6cff",
-      "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
-      "link": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
-      "summary": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost .",
-      "published_at": "2026-11-11T15:51:14+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1300,17 +1322,6 @@
       "body_preview": ""
     },
     {
-      "id": "8e0146f48ba3561ce557d82bb44dfea4",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "summary": "",
-      "published_at": "2026-11-09T15:05:57+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e0c4bc59cc901932f53e94a0a9c85fa2",
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
       "link": "https://openai.com/index/control-room",
@@ -1363,17 +1374,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "f77d91a3d6aebf78a27342d0f5083957",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "link": "https://huggingface.co/blog/allenai/toyblocks",
-      "summary": "",
-      "published_at": "2026-11-06T14:00:48+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
       "body_preview": ""
     },
     {
