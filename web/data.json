@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-11-14T19:57:10.451992+00:00",
+  "generated_at": "2026-11-14T23:31:45.893904+00:00",
   "articles": [
+    {
+      "id": "49267a6f370e5f338d39f90eb5fe472b",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary": "",
+      "published_at": "2026-11-14T21:41:22+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "30af14f7441ac2ee4c04aaa443fbe9e2",
       "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
@@ -645,17 +656,6 @@
       "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
       "summary": "",
       "published_at": "2026-11-12T17:17:58+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "fb587eae7c1344e66a078c26074cf307",
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "summary": "",
-      "published_at": "2026-11-12T17:00:52+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
