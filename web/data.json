@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-13T21:59:42.844593+00:00",
+  "generated_at": "2026-11-14T01:58:38.521771+00:00",
   "articles": [
+    {
+      "id": "07ca59884148c19d655439d6c391beee",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+      "published_at": "2026-11-13T23:49:11+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "429f75dbc860aeecae776bac3974515f",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "",
+      "published_at": "2026-11-13T22:43:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "9ad91a922ffa4573ba2990bb7055c4d1",
       "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
@@ -46,8 +68,8 @@
       "body_preview": ""
     },
     {
-      "id": "da55d4325ca58a940c882101c4aa4b90",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "id": "0e115d97e2c28128a0d50a8a252ab127",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "summary": "",
       "published_at": "2026-11-13T18:40:30+00:00",
@@ -307,6 +329,17 @@
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5c4ac09ef8adcdddd7175d7d4d365abf",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "summary": "",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -915,33 +948,11 @@
       "body_preview": ""
     },
     {
-      "id": "9250e97ab5f253542a382c8382ab823d",
-      "title": "More game developers are starting to use generative AI",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that [&#8230;]",
-      "published_at": "2026-11-12T17:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2625fa4a2507968a2e50a26fc0931ee8",
       "title": "Jensen Huang agrees to testify before Congress",
       "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
       "summary": "",
       "published_at": "2026-11-12T16:36:37+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "879314bde25a6fd3259b05a10b38b352",
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "summary": "",
-      "published_at": "2026-11-12T16:32:33+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1638,17 +1649,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5a274aa547fa2bf7ab65a80b8f02c25d",
-      "title": "Accelerating engineering for the physical world",
-      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "summary": "",
-      "published_at": "2026-11-03T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     }
   ],
