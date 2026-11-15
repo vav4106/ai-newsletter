@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-11-15T10:28:57.810676+00:00",
+  "generated_at": "2026-11-15T17:20:18.302588+00:00",
   "articles": [
+    {
+      "id": "310597bb021aff9e393219570140a233",
+      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "summary": "",
+      "published_at": "2026-11-15T15:42:03+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e9596149716a7ef0ef90bd30c26a45e6",
+      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+      "summary": "",
+      "published_at": "2026-11-15T14:45:12+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e841cb1f518402142fec9be740d78a6b",
+      "title": "An overview of Jensen Huang’s messy days",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
+      "published_at": "2026-11-15T13:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3b4bceef2b24ffe8a69649303d77f889",
+      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "link": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+      "summary": "",
+      "published_at": "2026-11-15T10:45:58+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e0d19c6e75f856cd0983632839fb0edf",
+      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "summary": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost .",
+      "published_at": "2026-11-15T10:06:21+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "aef043ef92e5bf8856c0ddb0ca99088b",
       "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
@@ -211,17 +266,6 @@
       "body_preview": ""
     },
     {
-      "id": "402248908529a7c5224f273ffd3ad5d6",
-      "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
-      "link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
-      "summary": "",
-      "published_at": "2026-11-13T20:07:34+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2d4dd6d8691545e6cda55b9e6a34a81a",
       "title": "AI agent startup LangChain hits $3B valuation",
       "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -233,34 +277,12 @@
       "body_preview": ""
     },
     {
-      "id": "516abe6a9a3de61841a3403b8d032174",
-      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
-      "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
-      "summary": "",
-      "published_at": "2026-11-13T18:55:21+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0e115d97e2c28128a0d50a8a252ab127",
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "summary": "",
       "published_at": "2026-11-13T18:40:30+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "feee557463cafa0c5801d42d7f249e32",
-      "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
-      "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
-      "summary": "",
-      "published_at": "2026-11-13T18:01:53+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -607,17 +629,6 @@
       "body_preview": ""
     },
     {
-      "id": "1d29d09763949ec9d9968ff6c4886736",
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" [&#8230;]",
-      "published_at": "2026-11-12T18:06:54+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b0486331864b8932fef4b02de9469006",
       "title": "Introducing Gemini 4 Hydrogen",
       "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
@@ -647,17 +658,6 @@
       "published_at": "2026-11-12T17:36:40+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f877d460f3f1d6ae5d77fe277fc7e252",
-      "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
-      "link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
-      "summary": "AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch. The post AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents appeared first on MarkTechPost .",
-      "published_at": "2026-11-12T17:26:08+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
