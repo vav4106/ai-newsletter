@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-11-14T23:31:45.893904+00:00",
+  "generated_at": "2026-11-15T03:01:10.237823+00:00",
   "articles": [
+    {
+      "id": "3bd4e59b570671d8b9aeae0e1f4fe03b",
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "",
+      "published_at": "2026-11-15T00:08:07+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "49267a6f370e5f338d39f90eb5fe472b",
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -647,17 +658,6 @@
       "published_at": "2026-11-12T17:26:08+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "afb74b19378e4d9d2baa3a1b1d3f76a9",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "summary": "",
-      "published_at": "2026-11-12T17:17:58+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
