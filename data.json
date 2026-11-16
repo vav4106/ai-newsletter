@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-11-15T21:53:31.304476+00:00",
+  "generated_at": "2026-11-16T01:28:02.719349+00:00",
   "articles": [
+    {
+      "id": "66293810cc44044da6fd798110ce729e",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
+      "published_at": "2026-11-16T01:26:56+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c2544e58ebd29462131feed81d239241",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "",
+      "published_at": "2026-11-15T23:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "58865116f46362aa1550e7415aee2d17",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "summary": "",
+      "published_at": "2026-11-15T22:00:01+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "7ab9976530034fcb2735565b022d889a",
+      "title": "Our new blog for science",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "summary": "",
+      "published_at": "2026-11-15T22:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "5f3e45c694b40d54122b7643b53c9594",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "summary": "",
+      "published_at": "2026-11-15T21:56:35+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "144bc193a8b164c9edbcfa9b5a2e722e",
       "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
@@ -464,17 +519,6 @@
       "body_preview": ""
     },
     {
-      "id": "30fd596950346e68678e7ac852886c11",
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If [&#8230;]",
-      "published_at": "2026-11-13T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "08ef2a25d5d5e94a9a9d43d812367ca6",
       "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
       "link": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
@@ -607,17 +651,6 @@
       "body_preview": ""
     },
     {
-      "id": "84b9ac5652b22423c0fe3d3b78b47b8a",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "summary": "",
-      "published_at": "2026-11-12T19:11:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "590581ad82b812ae6651d53ef5c07c06",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -625,17 +658,6 @@
       "published_at": "2026-11-12T19:07:35+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "26324d52f203254c16ee0b191859e2cc",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "summary": "",
-      "published_at": "2026-11-12T18:39:23+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1481,28 +1503,6 @@
       "link": "https://openai.com/index/lifeval",
       "summary": "",
       "published_at": "2026-11-02T09:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "6112058b9266f4c29b3757312fe95652",
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
-      "summary": "",
-      "published_at": "2026-11-02T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "07aa9e3c6aae34d4de51f40deb6e0de0",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
-      "summary": "",
-      "published_at": "2026-11-02T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
