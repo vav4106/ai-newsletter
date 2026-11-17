@@ -1,9 +1,185 @@
 {
-  "generated_at": "2026-11-16T18:33:56.259936+00:00",
+  "generated_at": "2026-11-17T02:02:20.099685+00:00",
   "articles": [
     {
+      "id": "13cbd7ceb5f9137861711177678fb283",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "summary": "",
+      "published_at": "2026-11-16T23:32:32+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5ed9980c96f85f44357ad46f9a6d8207",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
+      "published_at": "2026-11-16T23:17:34+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "62eed8c7cee87e9345f66bc9cc345798",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "summary": "",
+      "published_at": "2026-11-16T22:03:02+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b9e8e8c4270460afa86762a0dea6daf9",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [&#8230;]",
+      "published_at": "2026-11-16T20:46:01+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f38472834a3b7ab24b694b31e3acf36a",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" [&#8230;]",
+      "published_at": "2026-11-16T20:41:28+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8b0d41e612edbe3dd516340b17eac5b7",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've [&#8230;]",
+      "published_at": "2026-11-16T20:29:37+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9c738d209a07fdd8929e06aa3784a9ef",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the [&#8230;]",
+      "published_at": "2026-11-16T20:27:58+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7d71f1e1327c024a443221e5d3e1660d",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "summary": "",
+      "published_at": "2026-11-16T20:07:13+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4e0a1d63df7125cf63d3530340b1db25",
+      "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+      "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+      "summary": "",
+      "published_at": "2026-11-16T19:42:13+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9dbd3e639098a49e9d54acc480d50f2e",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [&#8230;]",
+      "published_at": "2026-11-16T19:24:40+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "efccd1dc5213fe5b7760aada3f5c3c4b",
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering [&#8230;]",
+      "published_at": "2026-11-16T19:23:45+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "227f5feda718c943531aee9983a86ed7",
+      "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+      "link": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+      "summary": "",
+      "published_at": "2026-11-16T19:19:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f43ade150a4a64689b8ac980fad34f58",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "summary": "",
+      "published_at": "2026-11-16T19:12:02+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5f2cc205ecd6b7d2f22d6e10b9ee93fb",
+      "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+      "link": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+      "summary": "",
+      "published_at": "2026-11-16T18:52:55+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "44c80fbddd1acd4998750237faf7f260",
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, [&#8230;]",
+      "published_at": "2026-11-16T18:43:35+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1478312462308c97cbfc65e04894e976",
+      "title": "The open-source movement wants Jensen Huang back",
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
+      "published_at": "2026-11-16T18:38:47+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "a491207f9adfda23e14f3c94bebf8309",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
       "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
       "summary": "",
       "published_at": "2026-11-16T18:11:10+00:00",
@@ -13,8 +189,8 @@
       "body_preview": ""
     },
     {
-      "id": "6ccdbca4464f5e0778b887227a4c7b1f",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "id": "be53adb350f372fc25777c3786b8b394",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
       "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "summary": "",
       "published_at": "2026-11-16T17:36:43+00:00",
@@ -197,17 +373,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "63671ee667ebf63a8afb46aeae480f98",
-      "title": "The Nvidia scandal isn’t slowing down",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at [&#8230;]",
-      "published_at": "2026-11-16T13:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -651,20 +816,20 @@
       "body_preview": ""
     },
     {
-      "id": "66293810cc44044da6fd798110ce729e",
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
-      "published_at": "2026-11-16T01:26:56+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c50baa244ab6e198ef7b3f1ddc28946e",
       "title": "The King’s Trust and OpenAI launch £1m partnership",
       "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "summary": "",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "bb8bb604f88d270ed27e677105877a23",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
       "summary": "",
       "published_at": "2026-11-16T00:00:00+00:00",
       "source": "OpenAI News",
@@ -728,35 +893,13 @@
       "body_preview": ""
     },
     {
-      "id": "144bc193a8b164c9edbcfa9b5a2e722e",
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, [&#8230;]",
-      "published_at": "2026-11-15T20:43:49+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3572027d39b54b28a311c9b0b2814ec3",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "id": "5a2bdb8c50bd98ed7c7d915289873bf0",
+      "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
       "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
       "summary": "",
       "published_at": "2026-11-15T20:20:57+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "19c565c6d1809d90e1723f585262577b",
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
-      "published_at": "2026-11-15T19:15:43+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -779,17 +922,6 @@
       "published_at": "2026-11-15T14:45:12+00:00",
       "source": "The Decoder",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e841cb1f518402142fec9be740d78a6b",
-      "title": "An overview of Jensen Huang’s messy days",
-      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
-      "published_at": "2026-11-15T13:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -849,34 +981,12 @@
       "body_preview": ""
     },
     {
-      "id": "30af14f7441ac2ee4c04aaa443fbe9e2",
-      "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
-      "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-      "summary": "",
-      "published_at": "2026-11-14T19:05:17+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "fe6a730e05eb2bddd7524892e04194b2",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "summary": "",
       "published_at": "2026-11-14T17:30:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "aac7c310c41a9a68da2e5d78d5f094db",
-      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
-      "link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-      "summary": "",
-      "published_at": "2026-11-14T16:48:01+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -889,50 +999,6 @@
       "published_at": "2026-11-14T16:45:48+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c539aa968b1be625891e3527f0dbf352",
-      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
-      "link": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
-      "summary": "",
-      "published_at": "2026-11-14T16:42:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "111a9f95e4c50d774afb433198d59da6",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "summary": "",
-      "published_at": "2026-11-14T16:34:15+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "85c3ccbc1323e58e9f290cf19b99a549",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [&#8230;]",
-      "published_at": "2026-11-14T15:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e28280777944cc3a349b7c5e26d185fd",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that [&#8230;]",
-      "published_at": "2026-11-14T12:00:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -955,50 +1021,6 @@
       "published_at": "2026-11-14T06:38:14+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "07ca59884148c19d655439d6c391beee",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
-      "published_at": "2026-11-13T23:49:11+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "429f75dbc860aeecae776bac3974515f",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "",
-      "published_at": "2026-11-13T22:43:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "2d4dd6d8691545e6cda55b9e6a34a81a",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "summary": "",
-      "published_at": "2026-11-13T19:37:57+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0e115d97e2c28128a0d50a8a252ab127",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "summary": "",
-      "published_at": "2026-11-13T18:40:30+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1625,28 +1647,6 @@
       "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
       "published_at": "2026-11-05T17:00:00+00:00",
       "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "ffb76c69df56e50678e6905dc3e37ad7",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber",
-      "summary": "",
-      "published_at": "2026-11-05T09:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "9db864b190eb952d4ac9615fc3a47fc0",
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "link": "https://openai.com/index/merge-builds-with-openai",
-      "summary": "",
-      "published_at": "2026-11-05T08:00:00+00:00",
-      "source": "OpenAI News",
       "category": "company",
       "importance": "high",
       "body_preview": ""
