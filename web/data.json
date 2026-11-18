@@ -1,6 +1,270 @@
 {
-  "generated_at": "2026-11-18T09:05:24.325233+00:00",
+  "generated_at": "2026-11-18T17:57:45.472578+00:00",
   "articles": [
+    {
+      "id": "1a0200743289e745e13332a05648f6b9",
+      "title": "More banks says customers using AI agents are on their own — even if they get hacked",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "summary": "",
+      "published_at": "2026-11-18T17:32:10+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d3e4f4919b388d03b18ec337c0904ccd",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "source": "Google AI Blog",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "691e2746d9932d122fc053f7c671ec17",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "summary": "",
+      "published_at": "2026-11-18T16:59:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "34e420c4735561b1aad01aac9f649484",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "summary": "",
+      "published_at": "2026-11-18T16:14:09+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "51f1b4401a6210fd4adc2ed574e3b877",
+      "title": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
+      "link": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/",
+      "summary": "",
+      "published_at": "2026-11-18T16:09:08+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "adc497b9635b72e2df1c36a5ac19d78e",
+      "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
+      "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
+      "summary": "Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent. It lifts SWE-bench Pro hard-51 pass@1 from 39.2% to 64.7% and Terminal-Bench 2.1 from 39.5% to 55.8%. The post New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65% appeared first on MarkTechPost .",
+      "published_at": "2026-11-18T16:07:50+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e004362a8db58e0ca2934389e35d575a",
+      "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
+      "link": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/",
+      "summary": "",
+      "published_at": "2026-11-18T15:47:49+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "172f4b6c4734e20d5fdec68d1faf417e",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used [&#8230;]",
+      "published_at": "2026-11-18T15:44:02+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "bb11a621622f2c7565f3d04754e97b79",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "summary": "",
+      "published_at": "2026-11-18T15:00:23+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "38d497aa27fdc93f2ffae47931b8413c",
+      "title": "The AI Hype Index: AI is everywhere",
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
+      "published_at": "2026-11-18T14:42:44+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "1866d1d1fef705ac9a44334880475784",
+      "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
+      "link": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/",
+      "summary": "",
+      "published_at": "2026-11-18T14:40:52+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "749a14af7b38da134b65ca9f9bc4c4b4",
+      "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+      "link": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+      "summary": "",
+      "published_at": "2026-11-18T14:36:42+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "da541e714883a47535442fd241f5305e",
+      "title": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
+      "link": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/",
+      "summary": "",
+      "published_at": "2026-11-18T14:33:44+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "70c8a6f1f13bb02e13c5c4a3bc403c8c",
+      "title": "More than half the electricity feeding America's largest data centers comes from gas and coal",
+      "link": "https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/",
+      "summary": "",
+      "published_at": "2026-11-18T14:25:04+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dcc0f4c1ef2af4b4b8c1238a0137bc57",
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. [&#8230;]",
+      "published_at": "2026-11-18T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "82ac7ae7f5deb15a3cb2b1005f8ecb88",
+      "title": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
+      "link": "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/",
+      "summary": "",
+      "published_at": "2026-11-18T13:55:49+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0976bd55371ab1a54ab9930d60b205a4",
+      "title": "SEC probes Nvidia over undisclosed chip sales tied to China",
+      "link": "https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/",
+      "summary": "",
+      "published_at": "2026-11-18T13:28:49+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "b9946497f0aedb2f7f590610be8c8d79",
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
+      "published_at": "2026-11-18T13:01:05+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5b4cec0797515b42523cef881983e3f5",
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "summary": "",
+      "published_at": "2026-11-18T13:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "57ee222cf7253827dddb0403b9237e17",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "summary": "",
+      "published_at": "2026-11-18T12:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f78af3dc08da2ed2c0d879e595f223f3",
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "summary": "",
+      "published_at": "2026-11-18T11:30:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "d2a92490f313a204d8bc12bbe2b5c107",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals [&#8230;]",
+      "published_at": "2026-11-18T11:16:53+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0c8d15f0785cca154f5613105931e79d",
+      "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+      "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
+      "summary": "",
+      "published_at": "2026-11-18T10:22:45+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "900bce8bf930c8b718fde91c6c370c94",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;",
+      "published_at": "2026-11-18T10:20:30+00:00",
+      "source": "MIT Technology Review AI",
+      "category": "analysis",
+      "importance": "high",
+      "body_preview": ""
+    },
     {
       "id": "a7e0d24c25129bb5414b941a4fa04af1",
       "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
@@ -376,6 +640,50 @@
       "body_preview": ""
     },
     {
+      "id": "d36f017b2f7b277eae3565f01083aa03",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "109306e4d1b2f58f803eb3922c800cbb",
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "summary": "",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "4930c115b9dbdcf76a8c5075db5a1089",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "link": "https://huggingface.co/blog/moe-expert-streaming",
+      "summary": "",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "563763c7adf565f4fad2eaa651767759",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "link": "https://huggingface.co/blog/rumble-2-flash",
+      "summary": "",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "ac476ae2bbddb8bca0c0008f68fa3be4",
       "title": "Satya Nadella says he’s AGI-pilled now",
       "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
@@ -607,17 +915,6 @@
       "body_preview": ""
     },
     {
-      "id": "314a36bfebd7f1452e072da2088872d0",
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "summary": "",
-      "published_at": "2026-11-17T17:20:41+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "46fb140677e2ac261de8519a5f8ebd18",
       "title": "Put Gemini to work for you",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
@@ -626,50 +923,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "7147f000cb4d00291a0b8b4385af4b66",
-      "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
-      "link": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
-      "summary": "",
-      "published_at": "2026-11-17T16:55:47+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "1c91aaadf27944a7785b041e378b3be9",
-      "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
-      "link": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
-      "summary": "",
-      "published_at": "2026-11-17T16:47:21+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "cf6faadafea693435411e4b74d3cb0b6",
-      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-      "summary": "",
-      "published_at": "2026-11-17T16:44:15+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4cd6f4c34bf904a13e6ed21e8e831365",
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "summary": "",
-      "published_at": "2026-11-17T16:32:55+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -695,72 +948,6 @@
       "body_preview": ""
     },
     {
-      "id": "5711cac52eb29172994544f1efb82361",
-      "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
-      "link": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
-      "summary": "",
-      "published_at": "2026-11-17T15:02:03+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3d593a0e9a1537c047369ac75579b3b5",
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "summary": "",
-      "published_at": "2026-11-17T15:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "626cecd960b8e35cc38c98d981fdd2d2",
-      "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
-      "link": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
-      "summary": "",
-      "published_at": "2026-11-17T14:59:50+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7afd9435d31d7b5c074c077ff364f81d",
-      "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
-      "link": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
-      "summary": "",
-      "published_at": "2026-11-17T14:57:02+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f1ea7e1e2d54094c6cd9eeb5b1623ea0",
-      "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
-      "link": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
-      "summary": "",
-      "published_at": "2026-11-17T14:54:10+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e8359dd04a80fb6d80d11cf0afab7e10",
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "summary": "",
-      "published_at": "2026-11-17T14:50:58+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b94e01c4cf7a2f9af44e452a9e800997",
       "title": "Research Reports",
       "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
@@ -769,17 +956,6 @@
       "source": "MIT Technology Review AI",
       "category": "analysis",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "cb0073dda99a5f4252f734ccde3c1791",
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "summary": "",
-      "published_at": "2026-11-17T14:26:46+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -838,17 +1014,6 @@
       "body_preview": ""
     },
     {
-      "id": "f87027ffb5d343092d1908682548129e",
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
-      "summary": "",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "3426070a7d6e11a159a06693be5053b2",
       "title": "Introducing OpenAI for Chile",
       "link": "https://openai.com/index/introducing-openai-for-chile",
@@ -860,80 +1025,14 @@
       "body_preview": ""
     },
     {
-      "id": "5ed9980c96f85f44357ad46f9a6d8207",
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
-      "published_at": "2026-11-16T23:17:34+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "b9e8e8c4270460afa86762a0dea6daf9",
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [&#8230;]",
-      "published_at": "2026-11-16T20:46:01+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f38472834a3b7ab24b694b31e3acf36a",
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" [&#8230;]",
-      "published_at": "2026-11-16T20:41:28+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8b0d41e612edbe3dd516340b17eac5b7",
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've [&#8230;]",
-      "published_at": "2026-11-16T20:29:37+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4e0a1d63df7125cf63d3530340b1db25",
-      "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
-      "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+      "id": "f87027ffb5d343092d1908682548129e",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
       "summary": "",
-      "published_at": "2026-11-16T19:42:13+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "227f5feda718c943531aee9983a86ed7",
-      "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
-      "summary": "",
-      "published_at": "2026-11-16T19:19:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5f2cc205ecd6b7d2f22d6e10b9ee93fb",
-      "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
-      "link": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
-      "summary": "",
-      "published_at": "2026-11-16T18:52:55+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -1025,17 +1124,6 @@
       "body_preview": ""
     },
     {
-      "id": "80502b903e06a52c7c0cf0ecaf38192a",
-      "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
-      "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
-      "summary": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPost .",
-      "published_at": "2026-11-16T09:44:17+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "2e09dd18ddbc57760be95fed105d72a3",
       "title": "How Revolut raises ambition without lowering the bar",
       "link": "https://openai.com/business/customer-stories/revolut",
@@ -1069,9 +1157,9 @@
       "body_preview": ""
     },
     {
-      "id": "dd67a5a4b771e95d3daa8ecf329e0aaf",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "id": "7d7f507850be903ce80927ca8cbbb7ca",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "summary": "",
       "published_at": "2026-11-16T06:00:00+00:00",
       "source": "OpenAI News",
@@ -1080,9 +1168,9 @@
       "body_preview": ""
     },
     {
-      "id": "7d7f507850be903ce80927ca8cbbb7ca",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "id": "dd67a5a4b771e95d3daa8ecf329e0aaf",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "summary": "",
       "published_at": "2026-11-16T06:00:00+00:00",
       "source": "OpenAI News",
@@ -1561,94 +1649,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "9dc71a58e352ff5465cc3050c97c8ec5",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "summary": "",
-      "published_at": "2026-11-09T19:51:47+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "2c79cab0b4e8e7c42c5af2efdc339a9f",
-      "title": "The backlash about data centers might really just be about electricity",
-      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
-      "published_at": "2026-11-09T19:35:33+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "9f90abf962a7b7333e005c63ec662f90",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "summary": "",
-      "published_at": "2026-11-09T19:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "9d70ec740d33231dcf8a1af7d9ef53a8",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;",
-      "published_at": "2026-11-09T17:05:43+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "e0c4bc59cc901932f53e94a0a9c85fa2",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "link": "https://openai.com/index/control-room",
-      "summary": "",
-      "published_at": "2026-11-09T13:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "abc8ddd30c7d50949fc74b2e64a589b2",
-      "title": "Innovating with AI in the specialty chemicals industry",
-      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
-      "published_at": "2026-11-09T13:00:00+00:00",
-      "source": "MIT Technology Review AI",
-      "category": "analysis",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "77fda1ddd5c5bd0a70b41759443e9846",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "summary": "",
-      "published_at": "2026-11-09T12:34:29+00:00",
-      "source": "Hugging Face Blog",
-      "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "545e586d20a598c1c73e173601dcdd9c",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "link": "https://openai.com/index/coderabbit-codex-daybreak",
-      "summary": "",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     }
   ],
