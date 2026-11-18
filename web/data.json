@@ -1,6 +1,171 @@
 {
-  "generated_at": "2026-11-17T19:19:42.059833+00:00",
+  "generated_at": "2026-11-18T01:40:20.695957+00:00",
   "articles": [
+    {
+      "id": "5987c3cbe7fa50b8bd209f77274c4c37",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "summary": "",
+      "published_at": "2026-11-18T00:16:50+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ac476ae2bbddb8bca0c0008f68fa3be4",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked [&#8230;]",
+      "published_at": "2026-11-17T23:41:18+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "e57473132e4439d033fafcb75ae189da",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "summary": "",
+      "published_at": "2026-11-17T23:37:48+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c6da08c606d2e45854dfb55592c842ad",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "summary": "",
+      "published_at": "2026-11-17T23:04:35+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a4bda5a3256bc86bc50d6899f5444160",
+      "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+      "link": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
+      "summary": "Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work. The post Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work appeared first on MarkTechPost .",
+      "published_at": "2026-11-17T22:52:04+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4ab9084497b7306270e1cb5a3c64e3a8",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "summary": "",
+      "published_at": "2026-11-17T22:42:27+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5bd9f04e9bd6f97010a55db33e4302d2",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "summary": "",
+      "published_at": "2026-11-17T22:29:05+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "87bd8df42212d3ca86d7ec65dfe8cb47",
+      "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
+      "link": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
+      "summary": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index. The post OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API appeared first on MarkTechPost .",
+      "published_at": "2026-11-17T22:07:30+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "c1d0fec4a1c8e1feec54ec2b8ee092fd",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "summary": "",
+      "published_at": "2026-11-17T21:48:07+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "dfbdc658d448008f88f35250943d7da0",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [&#8230;]",
+      "published_at": "2026-11-17T21:40:59+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "893eefe119f973566552cda9a9074df9",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "summary": "",
+      "published_at": "2026-11-17T21:34:50+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "fe3367cf4b656f6d54e2410f7fc288d6",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
+      "published_at": "2026-11-17T21:00:55+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4f10564207bfea60586937d938177224",
+      "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
+      "link": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
+      "summary": "Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers. The post Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained appeared first on MarkTechPost .",
+      "published_at": "2026-11-17T20:49:45+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a51bc35bacaa658c3428475d833fa599",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+      "link": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+      "summary": "",
+      "published_at": "2026-11-17T20:30:50+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "866db88d7dcabed66b5aba500aa42f9a",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "summary": "",
+      "published_at": "2026-11-17T19:32:11+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "90e4b6fcb842e4ffd51021c7c5468410",
       "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
@@ -266,17 +431,6 @@
       "body_preview": ""
     },
     {
-      "id": "2ff72601da5c63dd69393214cc18011c",
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "summary": "",
-      "published_at": "2026-11-17T14:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "b737258c6f7eb22b8e1f27a23eea8d13",
       "title": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
       "link": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
@@ -307,6 +461,17 @@
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1e9872c48554bb518f5345c5fc6d6fa0",
+      "title": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "",
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -651,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "3426070a7d6e11a159a06693be5053b2",
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "summary": "",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
       "id": "f87027ffb5d343092d1908682548129e",
       "title": "Astra for Law leads in legal intelligence",
       "link": "https://openai.com/index/astra-law-6-2",
@@ -673,14 +827,14 @@
       "body_preview": ""
     },
     {
-      "id": "13cbd7ceb5f9137861711177678fb283",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "id": "3426070a7d6e11a159a06693be5053b2",
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
       "summary": "",
-      "published_at": "2026-11-16T23:32:32+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -691,17 +845,6 @@
       "published_at": "2026-11-16T23:17:34+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "62eed8c7cee87e9345f66bc9cc345798",
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "summary": "",
-      "published_at": "2026-11-16T22:03:02+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -739,28 +882,6 @@
       "body_preview": ""
     },
     {
-      "id": "9c738d209a07fdd8929e06aa3784a9ef",
-      "title": "US data centers now burn more electricity than a midsized country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the [&#8230;]",
-      "published_at": "2026-11-16T20:27:58+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "7d71f1e1327c024a443221e5d3e1660d",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "summary": "",
-      "published_at": "2026-11-16T20:07:13+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "4e0a1d63df7125cf63d3530340b1db25",
       "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
       "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
@@ -772,45 +893,12 @@
       "body_preview": ""
     },
     {
-      "id": "9dbd3e639098a49e9d54acc480d50f2e",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [&#8230;]",
-      "published_at": "2026-11-16T19:24:40+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "efccd1dc5213fe5b7760aada3f5c3c4b",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering [&#8230;]",
-      "published_at": "2026-11-16T19:23:45+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "227f5feda718c943531aee9983a86ed7",
       "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
       "link": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
       "summary": "",
       "published_at": "2026-11-16T19:19:56+00:00",
       "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f43ade150a4a64689b8ac980fad34f58",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "summary": "",
-      "published_at": "2026-11-16T19:12:02+00:00",
-      "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -838,39 +926,6 @@
       "body_preview": ""
     },
     {
-      "id": "a491207f9adfda23e14f3c94bebf8309",
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "summary": "",
-      "published_at": "2026-11-16T18:11:10+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "be53adb350f372fc25777c3786b8b394",
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "summary": "",
-      "published_at": "2026-11-16T17:36:43+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "29f79855bbe5d91d5a32acd315e7b4f4",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "summary": "",
-      "published_at": "2026-11-16T17:10:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "d938521c07db7e24fb62e8f92ef36ad0",
       "title": "Broadening access to AI for scientists",
       "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
@@ -890,17 +945,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "d90e615399c046bd1a37b49d4f4950fa",
-      "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
-      "link": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
-      "summary": "",
-      "published_at": "2026-11-16T16:56:04+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1014,9 +1058,9 @@
       "body_preview": ""
     },
     {
-      "id": "7d7f507850be903ce80927ca8cbbb7ca",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "id": "dd67a5a4b771e95d3daa8ecf329e0aaf",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "summary": "",
       "published_at": "2026-11-16T06:00:00+00:00",
       "source": "OpenAI News",
@@ -1025,9 +1069,9 @@
       "body_preview": ""
     },
     {
-      "id": "dd67a5a4b771e95d3daa8ecf329e0aaf",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "id": "7d7f507850be903ce80927ca8cbbb7ca",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "summary": "",
       "published_at": "2026-11-16T06:00:00+00:00",
       "source": "OpenAI News",
@@ -1096,39 +1140,6 @@
       "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
       "summary": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost .",
       "published_at": "2026-11-15T10:06:21+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "bf35938e9284740c5661e056c0e0a257",
-      "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
-      "link": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
-      "summary": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost .",
-      "published_at": "2026-11-14T16:45:48+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "4ef07bfb891571efdfcab784bed97216",
-      "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
-      "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
-      "summary": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs appeared first on MarkTechPost .",
-      "published_at": "2026-11-14T10:21:21+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "41ca83e96d9f1580f457dabf309ab36b",
-      "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
-      "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
-      "summary": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appeared first on MarkTechPost .",
-      "published_at": "2026-11-14T06:38:14+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
@@ -1633,17 +1644,6 @@
       "id": "545e586d20a598c1c73e173601dcdd9c",
       "title": "CodeRabbit scales agentic software development and ships 20x more",
       "link": "https://openai.com/index/coderabbit-codex-daybreak",
-      "summary": "",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0464c95a496eecf20c56b7f3221064fa",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "link": "https://openai.com/index/kuken",
       "summary": "",
       "published_at": "2026-11-09T08:00:00+00:00",
       "source": "OpenAI News",
