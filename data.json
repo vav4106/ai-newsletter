@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-11-18T23:45:32.161134+00:00",
+  "generated_at": "2026-11-19T04:32:15.556929+00:00",
   "articles": [
+    {
+      "id": "246190291139d934cc3751a000aa8dc5",
+      "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
+      "link": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
+      "summary": "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code. The post Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence appeared first on MarkTechPost .",
+      "published_at": "2026-11-19T03:23:50+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "772e56bd0f4311209c393dde49d36b97",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "summary": "",
+      "published_at": "2026-11-19T00:42:56+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "7d20296868f4eff6c9578c9f71aab9f4",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "summary": "",
+      "published_at": "2026-11-18T23:45:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "d0633bdf57c65a2299df1dc55fc9d6b9",
       "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
@@ -46,8 +79,8 @@
       "body_preview": ""
     },
     {
-      "id": "5af748e51624fe609b5125dfb78a7bcd",
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "id": "b120c80579110a9d7b27561cbc475651",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "summary": "",
       "published_at": "2026-11-18T22:11:15+00:00",
@@ -519,6 +552,17 @@
       "body_preview": ""
     },
     {
+      "id": "f296694cbd90fa5dedfbc9fc7d9d0a54",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
       "id": "948b0d3976f00fdcd27bb9f72f5a4cf7",
       "title": "Inside the Codex sandbox",
       "link": "https://openai.com/index/inside-the-codex-sandbox",
@@ -915,9 +959,9 @@
       "body_preview": ""
     },
     {
-      "id": "109306e4d1b2f58f803eb3922c800cbb",
-      "title": "Advancing chip design with OpenAI models",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "id": "d36f017b2f7b277eae3565f01083aa03",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "summary": "",
       "published_at": "2026-11-18T00:00:00+00:00",
       "source": "OpenAI News",
@@ -926,9 +970,9 @@
       "body_preview": ""
     },
     {
-      "id": "d36f017b2f7b277eae3565f01083aa03",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "id": "109306e4d1b2f58f803eb3922c800cbb",
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
       "summary": "",
       "published_at": "2026-11-18T00:00:00+00:00",
       "source": "OpenAI News",
@@ -955,28 +999,6 @@
       "published_at": "2026-11-18T00:00:00+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e57473132e4439d033fafcb75ae189da",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "summary": "",
-      "published_at": "2026-11-17T23:37:48+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c6da08c606d2e45854dfb55592c842ad",
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "summary": "",
-      "published_at": "2026-11-17T23:04:35+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1102,9 +1124,9 @@
       "body_preview": ""
     },
     {
-      "id": "3426070a7d6e11a159a06693be5053b2",
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "id": "f87027ffb5d343092d1908682548129e",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
       "summary": "",
       "published_at": "2026-11-17T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1113,9 +1135,9 @@
       "body_preview": ""
     },
     {
-      "id": "f87027ffb5d343092d1908682548129e",
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
+      "id": "3426070a7d6e11a159a06693be5053b2",
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
       "summary": "",
       "published_at": "2026-11-17T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1198,17 +1220,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "71e1490efba27c66f200cd5ae89f9fb1",
-      "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
-      "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
-      "summary": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta&#8217;s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands appeared first on MarkTechPost .",
-      "published_at": "2026-11-16T10:39:41+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
       "body_preview": ""
     },
     {
@@ -1637,17 +1648,6 @@
       "published_at": "2026-11-10T12:02:28+00:00",
       "source": "Google DeepMind",
       "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "77cd26d201e79d26bd747439f9100251",
-      "title": "Helping caregivers use AI in everyday life",
-      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "summary": "",
-      "published_at": "2026-11-10T12:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
       "importance": "high",
       "body_preview": ""
     }
