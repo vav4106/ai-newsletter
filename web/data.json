@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-11-21T15:24:46.840931+00:00",
+  "generated_at": "2026-11-21T20:57:59.867662+00:00",
   "articles": [
+    {
+      "id": "a37907471f7456ca8e72e3d7d1bbe0a4",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [&#8230;]",
+      "published_at": "2026-11-21T20:03:37+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9cef4fdaea4e532cac28e35cc88c6d4e",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "",
+      "published_at": "2026-11-21T17:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5b1ff8d476b59375b4954780443bfde4",
+      "title": "Nvidia researchers argue huge AI context windows are a dead end",
+      "link": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+      "summary": "",
+      "published_at": "2026-11-21T16:23:45+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "40784dbeb6fc58680bd29956b98ad15b",
+      "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+      "link": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+      "summary": "",
+      "published_at": "2026-11-21T16:04:29+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9057578120a25fb3fa8946ec624ec0c5",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "summary": "",
+      "published_at": "2026-11-21T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ff48caa8013915b947098d958db68e4c",
+      "title": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
+      "published_at": "2026-11-21T15:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "c750f12e982417a94cf7a3b559ee5adb",
       "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
@@ -207,28 +273,6 @@
       "published_at": "2026-11-20T16:34:13+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "f97ca5b176650f1508c30d564698159d",
-      "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
-      "link": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
-      "summary": "",
-      "published_at": "2026-11-20T15:56:03+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6d5768a7baba55873747f098b394de96",
-      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
-      "link": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
-      "summary": "",
-      "published_at": "2026-11-20T15:03:25+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -442,17 +486,6 @@
       "body_preview": ""
     },
     {
-      "id": "8cf5977f6a19f7e6c1c2c52d89df8e4d",
-      "title": "Google is putting AI chats right on the homepage",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
-      "published_at": "2026-11-19T20:05:06+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "94f5de701839d88d4a809da06af870f3",
       "title": "Anthropic’s IPO could deliver $156B to charity",
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
@@ -460,17 +493,6 @@
       "published_at": "2026-11-19T19:10:45+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3ba0d9af975e47942ad3e25eb5256708",
-      "title": "Gemini on Mac can now use your computer",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
-      "published_at": "2026-11-19T18:21:13+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -629,17 +651,6 @@
       "body_preview": ""
     },
     {
-      "id": "772e56bd0f4311209c393dde49d36b97",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "summary": "",
-      "published_at": "2026-11-19T00:42:56+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "d5aa0fc3ff88b7ac9848907de60e3118",
       "title": "Explore the Codex Security Plugin",
       "link": "https://openai.com/business/learn/codex-security-plugin-demo",
@@ -681,17 +692,6 @@
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "7d20296868f4eff6c9578c9f71aab9f4",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "summary": "",
-      "published_at": "2026-11-18T23:45:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
