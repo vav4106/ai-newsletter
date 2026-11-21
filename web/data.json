@@ -1,11 +1,77 @@
 {
-  "generated_at": "2026-11-20T18:46:59.432800+00:00",
+  "generated_at": "2026-11-21T00:18:22.716112+00:00",
   "articles": [
+    {
+      "id": "522d28488bd0e8cc8e234a35c49eaf9f",
+      "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+      "link": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+      "summary": "",
+      "published_at": "2026-11-20T20:31:50+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5c5fb2503a2464ff16ee93f1301c9a07",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "summary": "",
+      "published_at": "2026-11-20T19:53:41+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8fca314c0292f3308b3bb7632e0d19ba",
+      "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+      "link": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+      "summary": "",
+      "published_at": "2026-11-20T19:50:27+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "950db5ed18f00d706bf58ce3ca1f43ca",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary": "",
+      "published_at": "2026-11-20T19:32:08+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "76c26cc4778bd69d70dc37c60cf0c94d",
+      "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+      "link": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+      "summary": "",
+      "published_at": "2026-11-20T18:50:31+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "8875f869b85d8f10e81232079d17b53b",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [&#8230;]",
+      "published_at": "2026-11-20T18:50:19+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "f3b7e4511759027dc4b5fc2b33f6a43d",
       "title": "The most misunderstood graph in AI just got a major update",
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.&#160; The report is an update to the organization’s time horizon plot, which was widely&#8230;",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely&#8230;",
       "published_at": "2026-11-20T18:15:15+00:00",
       "source": "MIT Technology Review AI",
       "category": "analysis",
@@ -24,8 +90,8 @@
       "body_preview": ""
     },
     {
-      "id": "57344937c95b1c25f95e125fb7b97674",
-      "title": "Chips can survive the space environment. Can their financing?",
+      "id": "12840e749a18778a976bf9561c99a483",
+      "title": "Chips can survive the space environment — can their financing?",
       "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "summary": "",
       "published_at": "2026-11-20T17:40:01+00:00",
@@ -142,6 +208,17 @@
       "source": "The Verge AI",
       "category": "consumer",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "236a9bf1510700735b899f2dc32d5013",
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "summary": "",
+      "published_at": "2026-11-20T10:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -508,6 +585,39 @@
       "body_preview": ""
     },
     {
+      "id": "31f7bd68fc7f8db679a5bfee26d42deb",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "summary": "",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "31eb2974a1187445d61c19b5bcc5e8cb",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "summary": "",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
+      "body_preview": ""
+    },
+    {
+      "id": "b7bba39a0d8fc218a196b507cde5b23d",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "link": "https://huggingface.co/blog/inkling2mini",
+      "summary": "",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "53c0cb5e3c1d6aa68c60d568ed03691e",
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
       "link": "https://huggingface.co/blog/harness-adapters-at-scale",
@@ -706,17 +816,6 @@
       "body_preview": ""
     },
     {
-      "id": "8a68b37d5ba96a762e6e5eb3b6467bc9",
-      "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
-      "link": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
-      "summary": "",
-      "published_at": "2026-11-19T17:02:41+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "f76adf1c72fb0b906e988d62507a49ec",
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
@@ -772,17 +871,6 @@
       "body_preview": ""
     },
     {
-      "id": "a271134a9d28a431b8eb6f32b98c82e5",
-      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or [&#8230;]",
-      "published_at": "2026-11-19T15:16:45+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c65cf3e6decfb05c2a5b20df6177e8b3",
       "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
@@ -794,34 +882,12 @@
       "body_preview": ""
     },
     {
-      "id": "8c67068f0b65f4363d78cefbd85ee102",
-      "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
-      "link": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
-      "summary": "",
-      "published_at": "2026-11-19T14:02:22+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "6d7f825eb4793f3ad77f235c890925c1",
       "title": "Superhuman pushes its Go assistant everywhere",
       "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
       "summary": "",
       "published_at": "2026-11-19T14:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "bc141129b083c42c2c4d09ea08bfd597",
-      "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
-      "link": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
-      "summary": "",
-      "published_at": "2026-11-19T13:08:35+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -882,9 +948,9 @@
       "body_preview": ""
     },
     {
-      "id": "31b3a1490e7c32add5cab4295f121f03",
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "id": "d5aa0fc3ff88b7ac9848907de60e3118",
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
       "summary": "",
       "published_at": "2026-11-19T00:00:00+00:00",
       "source": "OpenAI News",
@@ -904,9 +970,9 @@
       "body_preview": ""
     },
     {
-      "id": "d5aa0fc3ff88b7ac9848907de60e3118",
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "id": "140ea2224047289a82bbabfe50866fdb",
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "summary": "",
       "published_at": "2026-11-19T00:00:00+00:00",
       "source": "OpenAI News",
@@ -915,9 +981,9 @@
       "body_preview": ""
     },
     {
-      "id": "140ea2224047289a82bbabfe50866fdb",
-      "title": "Get started with Daybreak Blue",
-      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "id": "31b3a1490e7c32add5cab4295f121f03",
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
       "summary": "",
       "published_at": "2026-11-19T00:00:00+00:00",
       "source": "OpenAI News",
@@ -931,28 +997,6 @@
       "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
       "summary": "",
       "published_at": "2026-11-18T23:45:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d0633bdf57c65a2299df1dc55fc9d6b9",
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "summary": "",
-      "published_at": "2026-11-18T23:25:17+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "839b7d816b82ad8b5f34b06cb9d7d6c0",
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "summary": "",
-      "published_at": "2026-11-18T23:17:28+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
@@ -1069,9 +1113,9 @@
       "body_preview": ""
     },
     {
-      "id": "12f8134f450381e05e7417e6a0a72271",
-      "title": "Research acceleration: The jagged frontier",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "id": "f296694cbd90fa5dedfbc9fc7d9d0a54",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
       "summary": "",
       "published_at": "2026-11-18T08:00:00+00:00",
       "source": "OpenAI News",
@@ -1080,9 +1124,9 @@
       "body_preview": ""
     },
     {
-      "id": "f296694cbd90fa5dedfbc9fc7d9d0a54",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "id": "12f8134f450381e05e7417e6a0a72271",
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
       "summary": "",
       "published_at": "2026-11-18T08:00:00+00:00",
       "source": "OpenAI News",
@@ -1223,9 +1267,9 @@
       "body_preview": ""
     },
     {
-      "id": "3426070a7d6e11a159a06693be5053b2",
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "id": "f87027ffb5d343092d1908682548129e",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
       "summary": "",
       "published_at": "2026-11-17T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1234,9 +1278,9 @@
       "body_preview": ""
     },
     {
-      "id": "f87027ffb5d343092d1908682548129e",
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
+      "id": "3426070a7d6e11a159a06693be5053b2",
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
       "summary": "",
       "published_at": "2026-11-17T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1605,50 +1649,6 @@
       "source": "Hugging Face Blog",
       "category": "tools",
       "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "42fef16b395063a70b80203f059d76f5",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "published_at": "2026-11-11T18:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "e69b990f0917f7d779259ba1a9fb99e7",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "published_at": "2026-11-11T16:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "a8dc525cca38134c62e22ddd7bcadb22",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "summary": "",
-      "published_at": "2026-11-11T15:00:15+00:00",
-      "source": "Google DeepMind",
-      "category": "research",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "e39ad894aecb8c9d26899bbbf9e469b0",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
-      "published_at": "2026-11-11T09:00:00+00:00",
-      "source": "Google AI Blog",
-      "category": "company",
-      "importance": "high",
       "body_preview": ""
     }
   ],
