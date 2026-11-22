@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-11-22T07:36:14.762887+00:00",
+  "generated_at": "2026-11-22T15:37:44.691144+00:00",
   "articles": [
+    {
+      "id": "6332d62627e4c15b48c58bfe4d74a4ca",
+      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "link": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "summary": "",
+      "published_at": "2026-11-22T15:15:48+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "69f21b77778d5bf7c7bd627510b8fd2e",
+      "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "link": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+      "summary": "",
+      "published_at": "2026-11-22T14:20:28+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "023660b2bccba1fd91966287288b2d0f",
+      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "summary": "",
+      "published_at": "2026-11-22T13:00:43+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3a8f55dcc0a6ee2025d284213b401b0c",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not [&#8230;]",
+      "published_at": "2026-11-22T13:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "a8a49a756547bc499d309b628f937b1e",
+      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "summary": "",
+      "published_at": "2026-11-22T12:07:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3e5b4bfda022377b7019508579683139",
+      "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+      "link": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+      "summary": "",
+      "published_at": "2026-11-22T11:08:31+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "6f7d39ebd5db7f31e9bf82c234deabef",
+      "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+      "link": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+      "summary": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPost .",
+      "published_at": "2026-11-22T10:36:17+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "ff5b964b18c6f4d8da3a62bc8ea88e36",
+      "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+      "link": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+      "summary": "Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request. The post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on MarkTechPost .",
+      "published_at": "2026-11-22T10:03:54+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9a8e0ab6f716528bfcfaaee7612e736c",
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "summary": "",
+      "published_at": "2026-11-22T09:41:37+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "9c50aeb97b341c0e3bfd2004e0ce8ddd",
       "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
@@ -156,39 +255,6 @@
       "body_preview": ""
     },
     {
-      "id": "4925f57fe2fe1965b95bfe43577d44b9",
-      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
-      "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
-      "summary": "",
-      "published_at": "2026-11-21T10:33:02+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8736e724330f786be7e11d3a1e2047f7",
-      "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
-      "link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
-      "summary": "",
-      "published_at": "2026-11-21T10:27:44+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "696ab6156413e97377a833d7a7085d24",
-      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-      "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
-      "summary": "",
-      "published_at": "2026-11-21T09:17:24+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "961b53e3a5faf26eadc7b2eaac2d195c",
       "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
       "link": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
@@ -196,17 +262,6 @@
       "published_at": "2026-11-21T04:01:04+00:00",
       "source": "MarkTechPost",
       "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "522d28488bd0e8cc8e234a35c49eaf9f",
-      "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-      "link": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
-      "summary": "",
-      "published_at": "2026-11-20T20:31:50+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -222,34 +277,12 @@
       "body_preview": ""
     },
     {
-      "id": "8fca314c0292f3308b3bb7632e0d19ba",
-      "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-      "link": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
-      "summary": "",
-      "published_at": "2026-11-20T19:50:27+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "950db5ed18f00d706bf58ce3ca1f43ca",
       "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "summary": "",
       "published_at": "2026-11-20T19:32:08+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "76c26cc4778bd69d70dc37c60cf0c94d",
-      "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
-      "link": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
-      "summary": "",
-      "published_at": "2026-11-20T18:50:31+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -497,17 +530,6 @@
       "body_preview": ""
     },
     {
-      "id": "f0416d0ba17e5c43217d218c45450ce9",
-      "title": "Meta’s Muse Charm might cost $300",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
-      "published_at": "2026-11-19T20:22:17+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "e5af272fcb2315e0d9996a16b321d45c",
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
@@ -563,17 +585,6 @@
       "body_preview": ""
     },
     {
-      "id": "130763b95eb8bd3ba5743d982a4015aa",
-      "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
-      "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
-      "summary": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route. The post Perplexity Launches Orchestrator API for Failover and Model Routing appeared first on MarkTechPost .",
-      "published_at": "2026-11-19T17:47:00+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "3ea9e7c0b7930cf3f2360d8b326c265f",
       "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
       "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
@@ -625,17 +636,6 @@
       "published_at": "2026-11-19T16:19:41+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8671867c310074cd90643f8b968c7346",
-      "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
-      "link": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
-      "summary": "AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue. The post Not If, But How: Responding to Security Incidents in the Age of AI Attackers appeared first on MarkTechPost .",
-      "published_at": "2026-11-19T10:45:57+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
