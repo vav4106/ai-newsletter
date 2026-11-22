@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-11-22T15:37:44.691144+00:00",
+  "generated_at": "2026-11-22T21:13:30.985003+00:00",
   "articles": [
+    {
+      "id": "aa41e283cf013c9f2b180f8f86e073f5",
+      "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+      "link": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+      "summary": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTechPost .",
+      "published_at": "2026-11-22T18:37:57+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5eca8a48f08460bb4f2c0f3463e62338",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "",
+      "published_at": "2026-11-22T18:08:43+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "15eb2e59cc69b0aead0a9c6325d934b2",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to [&#8230;]",
+      "published_at": "2026-11-22T17:25:20+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "6332d62627e4c15b48c58bfe4d74a4ca",
       "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
@@ -109,6 +142,17 @@
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "f974b7e0bbc46fcdf5af31d488744458",
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "summary": "",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "source": "OpenAI News",
+      "category": "company",
+      "importance": "high",
       "body_preview": ""
     },
     {
@@ -486,17 +530,6 @@
       "body_preview": ""
     },
     {
-      "id": "c71d653f9c66191c633c082767f7ae2b",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
-      "published_at": "2026-11-19T21:59:35+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "684e411690733155694dc129b85dd5f1",
       "title": "Meta’s new Muse Charm device may cost $300",
       "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
@@ -548,17 +581,6 @@
       "published_at": "2026-11-19T19:10:45+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "271a26dd137dabfe450c524a6eea1fca",
-      "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
-      "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
-      "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out. The post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade appeared first on MarkTechPost .",
-      "published_at": "2026-11-19T18:13:21+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
       "importance": "medium",
       "body_preview": ""
     },
@@ -629,17 +651,6 @@
       "body_preview": ""
     },
     {
-      "id": "438c2fb211d7ae13951d22e32c2d37e1",
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "summary": "",
-      "published_at": "2026-11-19T16:19:41+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "42bc30cf0992068140774627cd6c2c6d",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
@@ -651,9 +662,9 @@
       "body_preview": ""
     },
     {
-      "id": "d5aa0fc3ff88b7ac9848907de60e3118",
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "id": "31b3a1490e7c32add5cab4295f121f03",
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
       "summary": "",
       "published_at": "2026-11-19T00:00:00+00:00",
       "source": "OpenAI News",
@@ -684,9 +695,9 @@
       "body_preview": ""
     },
     {
-      "id": "31b3a1490e7c32add5cab4295f121f03",
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "id": "d5aa0fc3ff88b7ac9848907de60e3118",
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
       "summary": "",
       "published_at": "2026-11-19T00:00:00+00:00",
       "source": "OpenAI News",
@@ -794,9 +805,9 @@
       "body_preview": ""
     },
     {
-      "id": "f296694cbd90fa5dedfbc9fc7d9d0a54",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "id": "12f8134f450381e05e7417e6a0a72271",
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
       "summary": "",
       "published_at": "2026-11-18T08:00:00+00:00",
       "source": "OpenAI News",
@@ -805,9 +816,9 @@
       "body_preview": ""
     },
     {
-      "id": "12f8134f450381e05e7417e6a0a72271",
-      "title": "Research acceleration: The jagged frontier",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "id": "f296694cbd90fa5dedfbc9fc7d9d0a54",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
       "summary": "",
       "published_at": "2026-11-18T08:00:00+00:00",
       "source": "OpenAI News",
@@ -937,9 +948,9 @@
       "body_preview": ""
     },
     {
-      "id": "f87027ffb5d343092d1908682548129e",
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
+      "id": "3426070a7d6e11a159a06693be5053b2",
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
       "summary": "",
       "published_at": "2026-11-17T00:00:00+00:00",
       "source": "OpenAI News",
@@ -948,9 +959,9 @@
       "body_preview": ""
     },
     {
-      "id": "3426070a7d6e11a159a06693be5053b2",
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "id": "f87027ffb5d343092d1908682548129e",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
       "summary": "",
       "published_at": "2026-11-17T00:00:00+00:00",
       "source": "OpenAI News",
@@ -1633,17 +1644,6 @@
       "id": "545e586d20a598c1c73e173601dcdd9c",
       "title": "CodeRabbit scales agentic software development and ships 20x more",
       "link": "https://openai.com/index/coderabbit-codex-daybreak",
-      "summary": "",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "0464c95a496eecf20c56b7f3221064fa",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "link": "https://openai.com/index/kuken",
       "summary": "",
       "published_at": "2026-11-09T08:00:00+00:00",
       "source": "OpenAI News",
