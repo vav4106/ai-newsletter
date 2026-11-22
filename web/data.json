@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-21T20:57:59.867662+00:00",
+  "generated_at": "2026-11-22T00:51:07.910153+00:00",
   "articles": [
+    {
+      "id": "9f5f0048ee1d7fdb8457ac4d28cb1086",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "",
+      "published_at": "2026-11-21T21:37:10+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "4672058fc18156b8bbc3e361ed2af3e0",
+      "title": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "summary": "",
+      "published_at": "2026-11-21T21:07:42+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a37907471f7456ca8e72e3d7d1bbe0a4",
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -590,28 +612,6 @@
       "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
       "summary": "",
       "published_at": "2026-11-19T16:19:41+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c65cf3e6decfb05c2a5b20df6177e8b3",
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "summary": "",
-      "published_at": "2026-11-19T14:54:39+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6d7f825eb4793f3ad77f235c890925c1",
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "summary": "",
-      "published_at": "2026-11-19T14:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
       "importance": "medium",
