@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-11-22T21:13:30.985003+00:00",
+  "generated_at": "2026-11-23T01:45:23.748817+00:00",
   "articles": [
+    {
+      "id": "c773b27dae779482773d5f4b00d63920",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "",
+      "published_at": "2026-11-23T01:25:53+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "5ef595a5e54cd4c72ae720f8ab70a898",
+      "title": "We haven’t seen the last of the major tech outages",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be [&#8230;]",
+      "published_at": "2026-11-22T22:48:02+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "79309d1d2d5bde28c1e635cf2947a4c2",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "",
+      "published_at": "2026-11-22T21:14:07+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "aa41e283cf013c9f2b180f8f86e073f5",
       "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
@@ -519,17 +552,6 @@
       "body_preview": ""
     },
     {
-      "id": "74abf94a84eeb110c942983682b873d1",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI [&#8230;]",
-      "published_at": "2026-11-19T22:31:41+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "684e411690733155694dc129b85dd5f1",
       "title": "Meta’s new Muse Charm device may cost $300",
       "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
@@ -626,28 +648,6 @@
       "source": "Google AI Blog",
       "category": "company",
       "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "1985115b35ad1043520d64cb33cedcd7",
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "summary": "",
-      "published_at": "2026-11-19T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "e3106c7e6c7540d06b7c702995681f70",
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "summary": "",
-      "published_at": "2026-11-19T16:59:23+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
       "body_preview": ""
     },
     {
