@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-26T10:55:18.831338+00:00",
+  "generated_at": "2026-11-26T19:54:55.130243+00:00",
   "articles": [
+    {
+      "id": "a07ede03fb755989f2831015bd880096",
+      "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+      "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+      "summary": "",
+      "published_at": "2026-11-26T19:31:46+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "02e6c59c83a041ea833a070fa4410999",
+      "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+      "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+      "summary": "",
+      "published_at": "2026-11-26T17:28:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "78d9979eedfe307aac72702c5834c3bb",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "",
+      "published_at": "2026-11-26T16:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0352b62329136bc1c0f1147d979e5cc3",
+      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+      "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+      "summary": "",
+      "published_at": "2026-11-26T15:45:08+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "24a93fc74a05bb8cdb4abd95c92de951",
+      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+      "link": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+      "summary": "",
+      "published_at": "2026-11-26T13:41:07+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0714110fae6923880f3f5ba21cf45680",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "summary": "",
+      "published_at": "2026-11-26T11:37:17+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cb430d2756ad097a55ef91428690d742",
+      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+      "link": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+      "summary": "",
+      "published_at": "2026-11-26T11:30:06+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "137c1fad64b948e0697cd3da2a89f12e",
+      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+      "link": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+      "summary": "",
+      "published_at": "2026-11-26T11:21:16+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "947fdcb9bb8256b9176940713e9927ab",
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
@@ -354,6 +442,17 @@
       "body_preview": ""
     },
     {
+      "id": "deb21bb2d8b8fde29d8c81a98150bcd8",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "summary": "",
+      "published_at": "2026-11-26T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "18e53031b1b0c040273196df7b671e2e",
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
@@ -541,39 +640,6 @@
       "body_preview": ""
     },
     {
-      "id": "dde5f17df5dd9824b8a2711ac46bfe69",
-      "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
-      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "summary": "",
-      "published_at": "2026-11-25T13:23:36+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "559bca26b44fa14463b615afb53734d2",
-      "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
-      "link": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
-      "summary": "",
-      "published_at": "2026-11-25T13:14:27+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "3cad329f91235c2182d195848a4a5252",
-      "title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
-      "link": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
-      "summary": "",
-      "published_at": "2026-11-25T13:07:44+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "5db5764f5b93d3cac2a98bb8afdecccf",
       "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
       "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
@@ -592,28 +658,6 @@
       "published_at": "2026-11-25T13:00:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "d85252a48400241fa592a7340471d352",
-      "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
-      "link": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
-      "summary": "",
-      "published_at": "2026-11-25T11:51:49+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "5e1b2b17827a8abff8cb4e4592945726",
-      "title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
-      "link": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
-      "summary": "",
-      "published_at": "2026-11-25T10:47:51+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -739,17 +783,6 @@
       "body_preview": ""
     },
     {
-      "id": "b43b580de152a1e947f92206f8d3490b",
-      "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
-      "link": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
-      "summary": "",
-      "published_at": "2026-11-24T20:42:29+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0ab1a15f7dab441e97e5bb4487d2bff2",
       "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
       "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
@@ -834,17 +867,6 @@
       "published_at": "2026-11-24T16:30:00+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0c4ceb699ade8df28a62e532de85a8d8",
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "summary": "",
-      "published_at": "2026-11-24T16:10:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1624,28 +1646,6 @@
       "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "summary": "",
       "published_at": "2026-11-16T06:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "c50baa244ab6e198ef7b3f1ddc28946e",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "link": "https://openai.com/index/the-kings-trust-and-openai",
-      "summary": "",
-      "published_at": "2026-11-16T00:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "bb8bb604f88d270ed27e677105877a23",
-      "title": "At Holiday Extras, dots get to work before anyone asks",
-      "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
-      "summary": "",
-      "published_at": "2026-11-16T00:00:00+00:00",
       "source": "OpenAI News",
       "category": "company",
       "importance": "high",
