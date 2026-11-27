@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-27T11:20:55.667839+00:00",
+  "generated_at": "2026-11-27T20:02:55.274098+00:00",
   "articles": [
+    {
+      "id": "7912d654973da1c4f3165698ab1acf5c",
+      "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "summary": "",
+      "published_at": "2026-11-27T19:38:37+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "806c41cf311d54e60ea2e0bb6a8236ec",
+      "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+      "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+      "summary": "",
+      "published_at": "2026-11-27T18:27:02+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "516bb7f8a8da1a3ec278d395dc544ad9",
+      "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+      "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+      "summary": "",
+      "published_at": "2026-11-27T16:58:56+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3b3b48d9cf15f9ec478cde8b38bfba0b",
+      "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+      "link": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+      "summary": "",
+      "published_at": "2026-11-27T16:06:43+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "77b617e4dfada9f617508cb60a1fcd35",
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "summary": "",
+      "published_at": "2026-11-27T16:05:23+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "972a16390ec3560af4e139fa8fe3dd4c",
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "link": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "summary": "",
+      "published_at": "2026-11-27T15:37:47+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "9144eafc665d6a4543f1be49a3d3ae8c",
+      "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+      "link": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "summary": "",
+      "published_at": "2026-11-27T14:57:25+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "0422fac8814c65aaa845f094d91f8b08",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and [&#8230;]",
+      "published_at": "2026-11-27T14:00:00+00:00",
+      "source": "The Verge AI",
+      "category": "consumer",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "bf7bf37f80e886306dfad719f67d7e67",
       "title": "Context Scaling: A New Frontier of AI Scaling",
@@ -354,6 +442,17 @@
       "body_preview": ""
     },
     {
+      "id": "67758e55ae854b3164f474343cfb2923",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "summary": "",
+      "published_at": "2026-11-27T00:00:00+00:00",
+      "source": "Hugging Face Blog",
+      "category": "tools",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
       "id": "a371ecf4c8cf5641c04c7ff1b6c7f109",
       "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
       "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
@@ -420,17 +519,6 @@
       "body_preview": ""
     },
     {
-      "id": "24a93fc74a05bb8cdb4abd95c92de951",
-      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
-      "link": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
-      "summary": "",
-      "published_at": "2026-11-26T13:41:07+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0714110fae6923880f3f5ba21cf45680",
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
@@ -438,28 +526,6 @@
       "published_at": "2026-11-26T11:37:17+00:00",
       "source": "Hugging Face Blog",
       "category": "tools",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "cb430d2756ad097a55ef91428690d742",
-      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
-      "link": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
-      "summary": "",
-      "published_at": "2026-11-26T11:30:06+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "137c1fad64b948e0697cd3da2a89f12e",
-      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
-      "link": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
-      "summary": "",
-      "published_at": "2026-11-26T11:21:16+00:00",
-      "source": "The Decoder",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
@@ -519,28 +585,6 @@
       "body_preview": ""
     },
     {
-      "id": "adb58a04b29b8e3e7855250c6ab0b89c",
-      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
-      "link": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
-      "summary": "",
-      "published_at": "2026-11-25T20:51:02+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8b18c3281b571b45d847c425023671be",
-      "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
-      "link": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
-      "summary": "",
-      "published_at": "2026-11-25T20:15:50+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "aa4d99f4cadd888f6378682e24e43129",
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
@@ -585,17 +629,6 @@
       "body_preview": ""
     },
     {
-      "id": "4042a5e449070e94434fe2bd03620530",
-      "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
-      "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
-      "summary": "",
-      "published_at": "2026-11-25T18:22:02+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c90719d80d8e52487d88b3dde13d6e3e",
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
       "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
@@ -624,17 +657,6 @@
       "summary": "",
       "published_at": "2026-11-25T17:35:58+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "a0fe4244fb1015767f6afed511caae1b",
-      "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
-      "link": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
-      "summary": "",
-      "published_at": "2026-11-25T16:44:37+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -889,17 +911,6 @@
       "published_at": "2026-11-24T17:00:00+00:00",
       "source": "TechCrunch AI",
       "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "c99828e28f62b5b993a1910397976924",
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he [&#8230;]",
-      "published_at": "2026-11-24T16:30:00+00:00",
-      "source": "The Verge AI",
-      "category": "consumer",
       "importance": "medium",
       "body_preview": ""
     },
@@ -1633,17 +1644,6 @@
       "id": "7d7f507850be903ce80927ca8cbbb7ca",
       "title": "Advancing computer-use agents for healthcare teams",
       "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "summary": "",
-      "published_at": "2026-11-16T06:00:00+00:00",
-      "source": "OpenAI News",
-      "category": "company",
-      "importance": "high",
-      "body_preview": ""
-    },
-    {
-      "id": "dd67a5a4b771e95d3daa8ecf329e0aaf",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "summary": "",
       "published_at": "2026-11-16T06:00:00+00:00",
       "source": "OpenAI News",
