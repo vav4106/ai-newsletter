@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-26T19:54:55.130243+00:00",
+  "generated_at": "2026-11-27T02:31:18.472267+00:00",
   "articles": [
+    {
+      "id": "a371ecf4c8cf5641c04c7ff1b6c7f109",
+      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+      "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+      "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .",
+      "published_at": "2026-11-26T22:06:40+00:00",
+      "source": "MarkTechPost",
+      "category": "research",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "cc56c08e62a1d63655283313fd7d7db3",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "",
+      "published_at": "2026-11-26T20:03:54+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "a07ede03fb755989f2831015bd880096",
       "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
@@ -849,17 +871,6 @@
       "body_preview": ""
     },
     {
-      "id": "b2423c71066a0d42c4f3b3ddde8624d8",
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "summary": "",
-      "published_at": "2026-11-24T16:46:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c99828e28f62b5b993a1910397976924",
       "title": "Jensen Huang deepfakes are the hot new AI slop",
       "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
@@ -1096,17 +1107,6 @@
       "link": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
       "summary": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTechPost .",
       "published_at": "2026-11-22T18:37:57+00:00",
-      "source": "MarkTechPost",
-      "category": "research",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "6f7d39ebd5db7f31e9bf82c234deabef",
-      "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
-      "link": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
-      "summary": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPost .",
-      "published_at": "2026-11-22T10:36:17+00:00",
       "source": "MarkTechPost",
       "category": "research",
       "importance": "medium",
