@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-11-28T10:49:46.470093+00:00",
+  "generated_at": "2026-11-28T18:31:52.881790+00:00",
   "articles": [
+    {
+      "id": "0540f518fe6334a2dfdc5492844c5bd8",
+      "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+      "link": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+      "summary": "",
+      "published_at": "2026-11-28T17:46:47+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1fd2c0376daaa3ed99555503e3aa4c65",
+      "title": "Terence Tao sees AI ushering in \"Big Math,\" but calls major tech firms' proofs \"toxic waste\"",
+      "link": "https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/",
+      "summary": "",
+      "published_at": "2026-11-28T14:45:01+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "1dc9188381cc9d10c42e1ce860c52167",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "summary": "",
+      "published_at": "2026-11-28T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "2a22ea36e5e98c910ed1e3dd597c70e3",
+      "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
+      "link": "https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/",
+      "summary": "",
+      "published_at": "2026-11-28T13:42:00+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "903d98abe919af6e101b85bbf47f3f6f",
+      "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+      "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+      "summary": "",
+      "published_at": "2026-11-28T11:12:30+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
+    {
+      "id": "3d6049a95e04151ed2e49105880fab35",
+      "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+      "link": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+      "summary": "",
+      "published_at": "2026-11-28T10:48:18+00:00",
+      "source": "The Decoder",
+      "category": "industry",
+      "importance": "medium",
+      "body_preview": ""
+    },
     {
       "id": "009ef1d227ed1942c696a6f949625422",
       "title": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
@@ -79,17 +145,6 @@
       "body_preview": ""
     },
     {
-      "id": "9144eafc665d6a4543f1be49a3d3ae8c",
-      "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
-      "link": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
-      "summary": "",
-      "published_at": "2026-11-27T14:57:25+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "0422fac8814c65aaa845f094d91f8b08",
       "title": "Android’s DIY widgets are a bit of vibe-coding fun",
       "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
@@ -156,45 +211,12 @@
       "body_preview": ""
     },
     {
-      "id": "a07ede03fb755989f2831015bd880096",
-      "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
-      "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
-      "summary": "",
-      "published_at": "2026-11-26T19:31:46+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "02e6c59c83a041ea833a070fa4410999",
-      "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
-      "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
-      "summary": "",
-      "published_at": "2026-11-26T17:28:56+00:00",
-      "source": "The Decoder",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "78d9979eedfe307aac72702c5834c3bb",
       "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "summary": "",
       "published_at": "2026-11-26T16:00:00+00:00",
       "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "0352b62329136bc1c0f1147d979e5cc3",
-      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
-      "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
-      "summary": "",
-      "published_at": "2026-11-26T15:45:08+00:00",
-      "source": "The Decoder",
       "category": "industry",
       "importance": "medium",
       "body_preview": ""
@@ -563,17 +585,6 @@
       "body_preview": ""
     },
     {
-      "id": "8a6e431fa1595e204dd8434b72115199",
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "summary": "",
-      "published_at": "2026-11-24T18:02:59+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
       "id": "c85c39df947817a2619f17fd02bf8f85",
       "title": "Tidal will start banning AI-generated music next month",
       "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
@@ -581,17 +592,6 @@
       "published_at": "2026-11-24T17:17:09+00:00",
       "source": "The Verge AI",
       "category": "consumer",
-      "importance": "medium",
-      "body_preview": ""
-    },
-    {
-      "id": "8e8f79ddccd011aaf37931c0a683fa00",
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "summary": "",
-      "published_at": "2026-11-24T17:00:00+00:00",
-      "source": "TechCrunch AI",
-      "category": "industry",
       "importance": "medium",
       "body_preview": ""
     },
